@@ -4,14 +4,18 @@
 	var map = {
 		leafletMap: null,
 		init: function() {
+			var that = this;
 			this.leafletMap = L.map('map', {
 				center: [49.169494, 9.218607],
 				zoom: 10,
 				minZoom: 5,
-				maxZoom: 12
+				maxZoom: 15,
 			});
 
 			this.addTileLayer();
+			cm.data.forEach(function(crime) {
+				var marker = L.marker([crime.lat, crime.lon]).addTo(that.leafletMap);
+			});
 		},
 		addTileLayer: function() {
 			var attribution = '© 2013 CloudMade – Map data <a href="http://creativecommons.org/licenses/by-sa/2.0/">CCBYSA</a> 2013 <a href="http://www.openstreetmap.org/">OpenStreetMap.org</a> contributors – <a href="http://cloudmade.com/terms_conditions">Terms of Use</a>';
