@@ -13,9 +13,14 @@
 			});
 
 			this.addTileLayer();
-			cm.data.forEach(function(crime) {
-				var marker = L.marker([crime.lat, crime.lon]).addTo(that.leafletMap);
+
+			var markers = new L.MarkerClusterGroup({
+				showCoverageOnHover: false
 			});
+			cm.data.forEach(function(crime) {
+				markers.addLayer(new L.Marker([crime.lat, crime.lon]));
+			});
+			this.leafletMap.addLayer(markers);
 		},
 		addTileLayer: function() {
 			var attribution = '© 2013 CloudMade – Map data <a href="http://creativecommons.org/licenses/by-sa/2.0/">CCBYSA</a> 2013 <a href="http://www.openstreetmap.org/">OpenStreetMap.org</a> contributors – <a href="http://cloudmade.com/terms_conditions">Terms of Use</a>';
