@@ -5,8 +5,8 @@
 		leafletMap: null,
 		init: function() {
 			this.leafletMap = L.map('map', {
-				center: [51.165691, 10.451526],
-				zoom: 7,
+				center: [49.169494, 9.218607],
+				zoom: 10,
 				minZoom: 5,
 				maxZoom: 12
 			});
