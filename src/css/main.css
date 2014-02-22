@@ -1,0 +1,9 @@
+body {
+	min-width: 800px;
+}
+
+#map {
+	left: 0;
+	right: 300px;
+	z-index: 0;
+}
