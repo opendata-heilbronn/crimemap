@@ -18,7 +18,13 @@
 				showCoverageOnHover: false
 			});
 			cm.data.forEach(function(crime) {
-				markers.addLayer(new L.Marker([crime.lat, crime.lon]));
+				if (crime.lat) {
+					var date = new Date(crime.date);
+					var marker = new L.Marker([crime.lat, crime.lon]);
+					marker.bindPopup('<p><strong>Datum:</strong> ' + date.getDate() + '.' + (date.getMonth() + 1) + '.' + date.getFullYear()
+							+ '</p><p><strong>Art:</strong> ' + crime.type + '</p><p><strong>Polizeimeldung:</strong> ' + crime.description + '</p>');
+					markers.addLayer(marker);
+				}
 			});
 			this.leafletMap.addLayer(markers);
 		},

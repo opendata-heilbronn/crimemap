@@ -3233,5 +3233,553 @@ cm.data = [
 		"type": "Wohnungseinbruch",
 		"lat": 49.1050236,
 		"lon": 9.7730189
-	}
-];
+	},
+	{
+		"date": "12/10/2013",
+		"description": "Kupferdraht im Wert von zirka 8000 Euro stahlen Unbekannte aus einem Firmengebäude in der Billigheimer Straße in Neudenau. Die Täter hatten eine Türe aufgehebelt und gelangten so in eine Fertigungshalle. Von dort entwendeten die Täter insgesamt 18 Kupferdrahtspulen von je etwa 40 Kg. Es ist davon auszugehen, dass die Täter für den Abtransport einen Transporter benutzt haben. Der Einbruch hatte sich zwischen Montag 16:00 Uhr und Dienstag 07:00 Uhr ereignet. Personen die rund um den Tatort verdächtige Wahrnehmungen machen konnten, werden gebeten sich mit dem Polizeiposten Bad Friedrichshall unter der Telefonnummer 07136/98030  in Verbindung zu setzen.",
+		"type": "Metalldiebstahl",
+		"lat": 49.2943654,
+		"lon": 9.2739206
+	},
+	{
+		"date": "12/3/2013",
+		"description": "Vom Lagerplatz einer Gerüstbaufirma Im Täle in Eppingen-Mühlbach stahlen Unbekannte in der Nacht zum Dienstag Gerüstteile im Wert von rund 20.000 Euro. Nachdem sie einen Zaun, der das Gelände umgibt, aufgeschnitten hatten, stellten sich die Diebe nicht sonderlich geschickt an. Mit einem Gabelstapler versuchten sie mehrere Gerüstböden und Stellrahmen abzutransportieren. Dabei fuhren sie sich auf dem schlammigen Untergrund fest. So musste der Stapler wieder abgeladen und die Teile separat zu einem LKW getragen werden, der auf einem Feldweg am Rande des Firmengeländes geparkt war. Nachdem sämtliche Teile aufgeladen worden waren, blieb auch der LKW stecken. Um den Laster frei zu fahren legten sie verschiedene Netze und kleinere Gerüstteile unter die Hinterachse. So gelang es ihnen den LKW aus dem Matsch zu fahren. Die Spur verlor sich auf der Kreisstraße 3510 zwischen Sulzfeld und Mühlbach. Da die Verladeaktion zeitaufwändig gewesen sein dürfte, hofft die Eppinger Polizei auf Zeugen. Sachdienliche Hinweise werden unter Telefon 07262/6095-0 erbeten.",
+		"type": "Metalldiebstahl",
+		"lat": 49.1379832,
+		"lon": 8.9092339
+	},
+	{
+		"date": "11/15/2013",
+		"description": " Von einer Baustelle in der Dimbacher Frankenstraße entwendeten Unbekannte in der Nacht zum vergangen Freitag verschiedene Gerüstteile im Wert von cirka 300 Euro. Zeugen, die eine verdächtige Beobachtung gemacht haben, sollten sich unter Tel. 07946/940010 beim Polizeiposten Bretzfeld melden.",
+		"type": "Metalldiebstahl",
+		"lat": 49.17168059999999,
+		"lon": 9.3822155
+	},
+	{
+		"date": "11/8/2013",
+		"description": "  Im Dörzbacher Gewerbegebiet in der Industriestraße machten sich in der Nacht zum vergangenen Freitag unbekannte Diebe ans Werk. Sie verschafften sich in der Zeit zwischen Donnerstag, 18.30 Uhr, und Freitagmorgen, Zugang zu einem Baugelände und brachen dort einen Container auf. Die Täter entwendeten daraus ein Steuerungskabel mit Fernbedienung sowie mehrere Sorten Stromkabel im Wert von fast 2.000 Euro. Eventuell haben Verkehrsteilnehmer im Tatzeitraum etwas Verdächtiges im Bereich des Industriegebietes bemerkt. Der Polizeiposten Krautheim nimmt unter der Telefonnummer 06294-234 sachdienliche Hinweise zu dem Diebstahl entgegen.",
+		"type": "Metalldiebstahl",
+		"lat": 49.3850748,
+		"lon": 9.699724699999999
+	},
+	{
+		"date": "11/17/2013",
+		"description": "In der Zeit vom 14. November 2013 bis 17.November 2013 ließen Unbekannte in der Eppinger Frauenbrunner Straße rund 750 Meter Kupferkabel im Wert von rund 3.000 Euro mitgehen. Die Unbekannten hatten vom Hof einer Baufirma zwei Kabeltrommeln auf die Straße gerollt und  diese in ein Fahrzeug oder auf einen Anhänger verladen. Da auch zur Nachtzeit die Frauenbrunner Straße relativ stark befahren wird, besteht durchaus die Möglichkeit, dass der Vorgang beobachtet wurde. Zeugen werden gebeten, sich unter der Tel.Nr.: 07262/60950 mit der Polizei Eppingen in Verbindung zu setzen.",
+		"type": "Metalldiebstahl",
+		"lat": 49.1341349,
+		"lon": 8.9001016
+	},
+	{
+		"date": "11/6/2013",
+		"description": "Ein bislang noch unbekannter Täter ließ in der Zeit von Dienstag, 17.00 Uhr bis Mittwoch, 07.30 Uhr von einer Baustelle in Eppingen ein etwa 30 Meter langes Starkstromkabel im Wert von mehreren hundert Euro mitgehen. Der Tatort „Im Wiesental“ liegt unmittelbar neben dem Zubringer von Rohrbach zur Bundesstraße 293. Zeugen oder Personen, die sachdienliche Hinweise geben können werden gebeten, sich unter der Tel.Nr.: 07262/6095-0 mit der Polizei Eppingen in Verbindung zu setzen.",
+		"type": "Metalldiebstahl",
+		"lat": 49.1379832,
+		"lon": 8.9092339
+	},
+	{
+		"date": "11/6/2013",
+		"description": "Vermutlich mit einem Bolzenschneider zwickten Unbekannte in der Nacht vom Dienstag auf Mittwoch in Eppingen-Rohrbach das Zuleitungskabel eines Baukrans ab. Der Kran steht auf einer Baustelle im Gewerbegebiet Wiesental, unmittelbar neben dem Zubringer zur B 293. Die Täter stahlen 30 Meter des vieradrigen Starkstromkabels, der Wert wird auf mehrere Hundert Euro geschätzt. Die Polizei hofft, dass jemand eventuell verdächtige Personen oder Fahrzeuge gesehen hat, diese allerdings nicht mit einer Straftat in Verbindung brachte. Hinweise gehen an das Polizeirevier Eppingen, Telefon 07262 60950.",
+		"type": "Metalldiebstahl",
+		"lat": 49.1379832,
+		"lon": 8.9092339
+	},
+	{
+		"date": "12/7/2013",
+		"description": "Wie jetzt erst bekannt wurde stahlen bislang Unbekannte bereits in der der Nacht zum Donnerstag, 07. Dezember insgesamt 25 Stahlplatten und vier Abdeckgitter von einem Recyclinghof an der alten Kläranlage in Jagsthausen. Um auf das Gelände zu gelangen fuhren die Diebe vermutlich mit einem größeren Transporter oder Laster gegen das Eingangstor, wodurch dieses beschädigt wurde und sich öffnen ließ. Der Wert des Diebesgutes wird auf rund 15.000 Euro geschätzt. Zeugen, die verdächtige Wahrnehmungen gemacht haben, werden gebeten, sich mit der Möckmühler Polizei, Telefon 06298/92000 in Verbindung zu setzen.",
+		"type": "Metalldiebstahl",
+		"lat": 49.3100995,
+		"lon": 9.4676399
+	},
+	{
+		"date": "11/13/2013",
+		"description": " In der Zeit von Dienstag (17 Uhr) bis Mittwoch (12 Uhr) entwendeten unbekannte Täter in der Gaildorfer Straße rund 600 Kilo Buntmetallschrott. Darunter befand sich überwiegend Kupferschrott wie Industriekühler, Rohre, Rinnen und Autokühler. Der Gesamtwert des Altmetalls beträgt 2200 Euro.",
+		"type": "Metalldiebstahl",
+		"lat": 49.12817889999999,
+		"lon": 10.0535688
+	},
+	{
+		"date": "12/1/2013",
+		"description": "Bislang unbekannte Täter drangen im Zeitraum zwischen Samstag und Montag auf ein mit losen Absperrgittern umzäuntes Gelände im Wiesenweg ein und ließen etwa 100 Meter Starkstromkabel und 100 Meter dünneres Kabel mitgehen. Die Kabel klemmten sie zwischen den Verteilerkästen und Baumaschinen an den Steckern ab.  Hinweise nimmt der Polizeiposten Möglingen, Telefon 07141/481291, entgegen.",
+		"type": "Metalldiebstahl",
+		"lat": 48.89039409999999,
+		"lon": 9.127394599999999
+	},
+	{
+		"date": "11/25/2013",
+		"description": "Auf Kupfer abgesehen hatten es bislang unbekannte Diebe, die in der Zeit zwischen Freitag 10.00 Uhr und Montag 11.00 Uhr einen Neubau in der Gerhard-Rummler-Straße heimsuchten. Die Täter entwendeten von der frei zugänglichen Baustelle 20 Kabeltrommeln mit Kupferkabel im Wert etwa 3.600 Euro und einem Gesamtgewicht von 1.800 Kilogramm. Zum Abtransport des Diebesguts waren die Täter vermutlich mit einem Lkw ausgestattet. Hinweise nimmt der Polizeiposten Sachsenheim unter Tel. 07147/27406-0 entgegen.  ",
+		"type": "Metalldiebstahl",
+		"lat": 48.95126519999999,
+		"lon": 9.0486715
+	},
+	{
+		"date": "11/24/2013",
+		"description": "Vermutlich von Beginn an mit dem Ziel reiche Beute an Buntmetall zu ergattern, suchten Einbrecher in der Nacht von Mittwoch auf Donnerstag einen Firmenkomplex in der Ringstraße heim. Obwohl sie mehrere Versuche unternehmen mussten, um in das Gebäude zu gelangen, gaben die Täter nicht auf, bis sie schließlich über das Aufhebeln einer Wohnungseingangstür ins Innere vordringen konnten. Aus der Wohnung ließen sie etwa 2.000 Euro Bargeld und einen Flachbildfernseher mitgehen, bevor sie sich der mit der Wohnung verbundenen Montagehalle zuwandten und dort Elektrowerkzeug im Wert von mehreren Hundert Euro entwendeten. Als sie sich in die weiteren darüber liegenden Räumlichkeiten der Firma begaben, fielen ihnen auf ihrer Suche in Büroräumen nochmals 400 Euro Bargeld sowie eine Digitalkamera in die Hände. Zu guter Letzt entwendeten sie schließlich aus der Produktionshalle insgesamt etwa fünf Tonnen Kupfer im Wert von 50.000 Euro. Zum Transport vor Ort nutzten sie befindliche Hubwagen und Holzpaletten. Aufgrund der Gesamtumstände kann davon ausgegangen werden, dass die Einbrecher mit einem geeigneten Fahrzeug zum Abtransport der Beute an den Tatort gekommen waren. Zudem richteten sie einen Sachschaden in Höhe von etwa 4.000 Euro an. Zeugen werden gebeten, sich mit dem Polizeiposten Markgröningen, Tel. 07145/9327-0 oder dem Polizeirevier Vaihingen/Enz unter Tel. 07042/941-0 in Verbindung zu setzen.",
+		"type": "Metalldiebstahl",
+		"lat": 48.933925,
+		"lon": 9.0222868
+	},
+	{
+		"date": "12/17/2013",
+		"description": "Einen wörtlich genommen „schweren Diebstahl“ begingen bislang unbekannte Täter zwischen Montagnachmittag und Dienstagmittag in Leingarten. Über 200 Kilogramm wogen die 84 entwendeten Kupferschienen insgesamt, welche aus einer Umspannanlage in Großgartach von den Einbrechern getragen wurden. In die Anlage waren diese vermutlich über ein Loch im Maschendrahtzaun gelangt und stahlen das wertvolle Altmetall aus einem verschlossenen Container. Aufgrund des Gewichts des Diebesguts wird davon ausgegangen, dass die Täter mit einem Fahrzeug unterwegs waren. Für sachdienliche Hinweise wenden sich Zeugen an die Polizei in Schwaigern unter der Telefonnummer 07138 810630.",
+		"type": "Metalldiebstahl",
+		"lat": 49.1451573,
+		"lon": 9.1171933
+	},
+	{
+		"date": "1/14/2014",
+		"description": "Das Stromversorgungskabel eines Baukrans stach einem unbekannten Dieb in der Nacht von Montag auf Dienstag ins Auge, als er eine Baustelle in der Kornwestheimer Straße heimsuchte. Kurzerhand schnitt er das Kabel am Ende ab und nahm es mit. Der Wert des Kabels wurde mit etwa 500 Euro beziffert.",
+		"type": "Metalldiebstahl",
+		"lat": 48.8647494,
+		"lon": 9.2446593
+	},
+	{
+		"date": "1/14/2014",
+		"description": "Unbekannte verschafften sich im Zeitraum vom 03.01.14 bis 14.01.14 zutritt zum umzäunten Gelände des Bauhofs in der Daimlerstraße. Wie jetzt erst festgestellt wurde, entwendeten die Einbrecher circa 5 Tonnen Kupfererdkabel in einem Wert von 9000 Euro. Hinweise auf die Täter, welche zum Abtransport ein größeres Fahrzeug benutzt haben müssen, liegen nach derzeitigen Erkenntnissen nicht vor. Zeugen, welche im genannten Zeitraum im näheren Umfeld verdächtige Personen oder Fahrzeuge festgestellt haben, können sich bei der Polizei Schwäbisch Hall unter Telefon 0791/400-0 melden.",
+		"type": "Metalldiebstahl",
+		"lat": 49.1031844,
+		"lon": 9.7054114
+	},
+	{
+		"date": "1/22/2014",
+		"description": "In Bad Rappenau waren in den letzten Tagen Diebe aktiv. In der Zeit zwischen Dienstag- und Mittwochmorgen entwendeten sie in der Leharstraße sowie in der Johann-Strauß-Straße zwei jeweils etwa 20 Meter lange Stromkabel im Wert von etwa 800 Euro. Wer im Tatzeitraum in dem Neubaugebiet etwas Verdächtiges bemerkt hat, sollte sich bei der Polizei in Bad Rappenau, Telefon 07264 9590 0, melden.",
+		"type": "Metalldiebstahl",
+		"lat": 49.2463495,
+		"lon": 9.1026207
+	},
+	{
+		"date": "1/27/2014",
+		"description": "Auf Aluminiumplatten hatten es Unbekannte in der Nacht zum Montag in Mosbach abgesehen. Der oder die Täter waren in das umzäunte Gelände einer Recyclingfirma in der Mosbach Industriestraße eingestiegen und legten mehrere Platten, deren Gewicht jeweils etwa 15 Kilogramm beträgt, für den Abtransport beiseite. Letztendlich konnte bisher noch nicht genau nachvollzogen werden, ob und welche Mengen gestohlen wurden. Bereits in der Nacht vom 21. auf 22. Januar wurde die gleiche Firma von Einbrechern heimgesucht. In diesem Fall hatte es die Unbekannten auf mehrere Kabelrollen mit weißen, grauen und orangefarbenen Kupferkabeln abgesehen. Außerdem ließen die Diebe noch einige Messingröhren und gekantete Messingbleche mitgehen. Der Gesamtwert des Diebesgutes beläuft sich auf rund 1.000 Euro. Sachdienliche Hinweise nimmt die Polizei Mosbach unter der Tel.Nr.: 06261 8090 entgegen.",
+		"type": "Metalldiebstahl",
+		"lat": 49.3435111,
+		"lon": 9.1240168
+	},
+	{
+		"date": "1/26/2014",
+		"description": "Von einem aufmerksamen Zeugen wurde am Sonntag gegen 10:40 Uhr ein 73-Jähriger beobachtet, der in einem abgesperrten Baustellengelände in der Bietigheimer Straße zugange war. Da er mehrere Kupferkabel mit Säge und Zange abschnitt und die etwa einen Meter langen Kabelteile in einer mitgebrachten Kunststofftasche verstaute, die er auf sein Fahrrad packte, informierte der Zeuge die Polizei. Als die Beamten ihn ansprachen zeigte er sich völlig überrascht und gab die Tasche gleich wieder heraus. An seiner Wohnanschrift stießen die Polizisten auf weitere Taschen, die Kupfer im Wert von etwa 1.500 Euro enthielten. Die Ermittlungen dauern an.",
+		"type": "Metalldiebstahl",
+		"lat": 48.9009592,
+		"lon": 9.1908613
+	},
+	{
+		"date": "2/1/2014",
+		"description": "Mehrere tausend Euro dürfte der Wert der Metalteile betragen, welche von bislang unbekannten Dieben am Samstag, in der Zeit von 20.30 Uhr bis 22.00 Uhr, von dem Gelände einer Firma in Kupferzell-Neu-Kupfer, in der Straße \"Flurweg\" gestohlen wurden. Die Täter hatten dort etwa 10 Kilogramm Alu-Reststücke, zirka 0,8 Tonnen Edelstahlrestgitter und Edelstahlzuschnitte mit einem Gewicht von rund 1,7 Tonnen entwendet. Vermutlich wurde zum Abtransport ein weißer Kleintransporter, möglicherweise ein Mercedes-Sprinter oder ein Fiat-Ducato verwendet. Sachdienliche Hinweise zu den Täter oder dem Verbleib des tonnenschweren Metalls nimmt die Polizei Künzelsau unter der Tel.Nr.: 07940 940-0 entgegen.",
+		"type": "Metalldiebstahl",
+		"lat": 49.0808636,
+		"lon": 9.0703137
+	},
+	{
+		"date": "12/7/2013",
+		"description": "Drei Lkw, welche auf dem Firmengelände einer Speditionsfirma in der Heilbronner Schönbeinstraße standen, wurden durch Unbekannte aufgebrochen. Die Täter brachen die Schlösser der Türen auf und gelangten so in das Innere der Fahrerkabine, aus der sie Bargeld und Elektronilartikel stahlen. Die Tat hat sich vermutlich bereits in der Nacht von Freitag auf Samstag ereignet. Über die Höhe des entstandenen Sachschadens können bislang keine Angaben gemacht werden. Sachdienliche Hinweise nimmt die Polizei Heilbronn unter Tel.Nr.: 07131/1042500 entgegen.",
+		"type": "Autoaufbruch",
+		"lat": 49.1697916,
+		"lon": 9.221636
+	},
+	{
+		"date": "12/7/2013",
+		"description": "Am Samstag, 07.12.2013, zwischen Mitternacht und 04.00 Uhr, wurden im Stadtbereich Heilbronn 4 Autos aufgebrochen. In der Lichtenbergerstraße schlug der Täter an 2 Pkw Seitenscheiben ein und ließ aus dem Fahrzeuginnern Taschen, ein Handy und eine Geldbörse mitgehen. In der Charlottenstraße wurden in der Nähe einer Disco ebenfalls 2 Autos aufgebrochen. Nach dem Einschlagen einer Seitenscheibe und dem Aufwuchten einer Türe konnte der Täter lediglich eine Schminktasche finden. An allen 4 Autos wurde erheblicher Sachschaden hinterlassen. Hinweise werden an das Polizeirevier Heilbronn, Telefon 07131 1042500, erbeten.",
+		"type": "Autoaufbruch",
+		"lat": 49.1748981,
+		"lon": 9.209971399999999
+	},
+	{
+		"date": "12/3/2013",
+		"description": "  Von zwei Seat-Neuwagen, die auf dem Gelände eines Autohauses in der Schwabbacher Maybachstraße ausgestellt waren, entwendeten Unbekannte in der Nacht zum Dienstag acht 16-Zoll Alu-Räder mit Sommerreifen 205/55R16 im Wert von 2.000 Euro. Zeugen, die etwas Verdächtiges beobachtet haben, sollten sich unter Tel. 07946/940010 beim Polizeiposten Bretzfeld melden.",
+		"type": "Autoaufbruch",
+		"lat": 49.1848637,
+		"lon": 9.4114474
+	},
+	{
+		"date": "11/23/2013",
+		"description": "  Vier Winterkompletträder entwendete ein Unbekannter aus einem Audi, der auf einem Firmengelände in der Gebhardtstraße abgestellt war, in der Nacht zum Samstag. Die Räder der Marke Dunlop 225/50 R18 waren in den unverschlossenen PKW gelagert. Offenbar entdeckte dies ein Dieb und nutzte die Gelegenheit. Sachdienliche Hinweise nimmt das Polizeirevier in Öhringen unter Tel. 07941/9300 entgegen.",
+		"type": "Autoaufbruch",
+		"lat": 49.1982392,
+		"lon": 9.6567477
+	},
+	{
+		"date": "11/23/2013",
+		"description": "  Ein bislang unbekannter Täter entwendete am Samstag gegen 11.40 Uhr von einem Firmengelände in der Straße Steinsfeldle in Öhringen einen weißen Mercedes-Sprinter. Der Unbekannte, der gegenüber dem Firmeninhaber zunächst Interesse an dem zum Verkauf stehenden Transporter bekundete, nutzte dessen kurzzeitige Abwesenheit aus und flüchtete mit dem Fahrzeug im Wert von über 15000 Euro vom Hof des Händlers. An dem Sprinter waren zur Tatzeit die roten Kennzeichen KÜN-06055 angebracht. Die sofort eingeleitete Fahndung der Öhringer Polizei blieb bislang ohne Erfolg.",
+		"type": "Autoaufbruch",
+		"lat": 49.18864869999999,
+		"lon": 9.495760599999999
+	},
+	{
+		"date": "11/19/2013",
+		"description": "  Ein komplettes Zaunelement montierten Einbrecher in der Nacht zum Dienstag ab, um auf das Gelände einer Firma für Agrargeräte in der Schwabbacher Moosbachstraße zu gelangen. Anschließend klauten sie aus einem neuen Traktor die Batterie. Aus zwei Transportern wurden verschiedene Werkzeugmaschinen und Werkzeuge im Gesamtwert von rund 5.000 Euro entwendet. Zeugen, die in der Tatnacht etwas Verdächtiges beobachtet haben, sollten sich unter Tel. 07946/940010 beim Polizeiposten Bretzfeld melden.",
+		"type": "Autoaufbruch",
+		"lat": 49.1834034,
+		"lon": 9.4110608
+	},
+	{
+		"date": "11/13/2013",
+		"description": "  Auf laute Geräusche wurden Anwohner in der Gaisbacher Nelkenstraße am Mittwoch um 4 Uhr aufmerksam. Als sie nach draußen schauten, entdeckten sie zwei Personen, die sich gerade an einem vor dem Wohnhauses abgestellten Mercedes zu schaffen machten. Sie alarmierten sofort die Polizei. Beim Eintreffen der Ordnungshüter hatten die Täter bereits das Weite gesucht. Die Unbekannten hatten die beiden Türen auf der Beifahrerseite des PKW gewaltsam geöffnet und einen  darin abgelegten Geldbeutel, in dem sich etwa 100 Euro, Ausweispapiere und Bankkarten des Geschädigten befanden, entwendet. Damit nicht genug. Dieselben Täter hatten auch noch einen schwarzen Roller im Asternweg geklaut, diesen in Richtung Grundschule geschoben und dort liegen gelassen. Dabei wurde die Frontverkleidung beschädigt. Die Täter durchwühlten das Sitzfach und warfen ein T-Shirt sowie eine Handytasche auf den Boden. Nach derzeitigen Erkenntnissen dürfte sich ein Täter eine blutende Verletzung zugezogen haben. Sachdienliche Hinweise nimmt das Polizeirevier Künzelsau unter Tel. 07940/9400 entgegen.",
+		"type": "Autoaufbruch",
+		"lat": 49.2603662,
+		"lon": 9.688882099999999
+	},
+	{
+		"date": "11/24/2013",
+		"description": "Obwohl die Polizei immer wieder betont keine Wertsachen im Auto zurückzulassen werden immer wieder Fahrzeuge genau aus diesem Grund aufgebrochen.\nSo auch in der Nacht von Samstag, 23.11.2013 auf Sonntag 24.11.2013.\nBisher bekannte Tatorte waren in Heilbronn in der Charlottenstraße und  Viehweide und in Leingarten in der Benzstraße.\nUnbekannte Täter zerbrachen auf bisher nicht bekannte Weise die Seitenscheiben der jeweiligen Pkw.\nZiel waren im Beifahrerbereich abgelegte Handtaschen oder Taschen in denen Wertgegenstände vermutet wurden.\nDie Taschen samt Inhalt nahmen die Täter mit.\nWie hoch der Sachschaden ist oder was genau entwendet wurde ist noch nicht bekannt.",
+		"type": "Autoaufbruch",
+		"lat": 50.9046264,
+		"lon": 7.032867599999999
+	},
+	{
+		"date": "11/21/2013",
+		"description": "Zwei Audis stahlen Unbekannte in der Nacht zum Donnerstag in Erlenbach. In der Trollingerstraße stand der Geschäftswagen eines 46-Jährigen auf einem Autoabstellplatz vor dem Gebäude 36. Als dieser morgens kurz nach 5 Uhr wegfahren wollte, stellte er fest, dass der schwarze Audi A 4 Avant nicht mehr da stand. Das Fahrzeug ist rund 45.000 Euro wert und hat das Kennzeichen NE BU 1966. In der Viertelsteige verschwand ein graue Audi A 5, der vor der Garageneinfahrt des Gebäudes Nummer 47 geparkt war. Dieses Auto eines 27-Jährigen hat das Kennzeichen HN MJ 3112. Der Wert des Wagens wird auf 37.000 Euro geschätzt. Die Polizei geht davon aus, dass ein Zusammenhang zwischen den Taten besteht. Zeugen, die in der Trollingerstraße oder der Viertelsteige verdächtige Beobachtungen gemacht haben oder etwas über den Verbleib der beiden Audis wissen, werden gebeten, sich mit der Kriminalpolizei Heilbronn, Telefon 07131 104-4444, in Verbindung zu setzen. Da sich abzeichnet, dass im laufenden Jahr mit jetzt schon über 40 gestohlenen PKW im Unterland ein Höchstwert angesteuert wird (zum Vergleich: 2012 waren es 26), bittet die Polizei die Bevölkerung um Mitarbeit. Verdächtige Personen und sollten umgehend an die nächste Polizeidienststelle gemeldet werden. Die Kennzeichen von verdächtigen Fahrzeugen sollte man notieren und ebenfalls sofort an die Polizei weitergeben.",
+		"type": "Autoaufbruch",
+		"lat": 49.1770387,
+		"lon": 9.2671934
+	},
+	{
+		"date": "11/17/2013",
+		"description": "16 zum Teil neuwertige und auf Felgen montierte Reifen stahlen Unbekannte in der Nacht zum Sonntag in Bad Friedrichshall-Kochendorf. Die Diebe überstiegen einen Maschendrahtzaun, um auf das Gelände der Kfz.-Service-Firma in der Seelachstraße zu gelangen. Wahrscheinlich hoben sie die Reifen über den Zaun und verluden sie dort in ein Fahrzeug oder auf einen Anhänger. Falls es Zeugen gibt, die diese Aktion gesehen haben, aber sie eventuell nicht mit einer Straftat in Verbindung brachten, mögen sich diese beim Polizeiposten Bad Friedrichshall, Telefon 07136 98030, melden.",
+		"type": "Autoaufbruch",
+		"lat": 49.2360888,
+		"lon": 9.2189563
+	},
+	{
+		"date": "11/16/2013",
+		"description": "Im Laufe der Nacht von Freitag, 15.11.2013 auf Samstag, 16.11.2013,  wurden in Heilbronn bisher 3 aufgebrochene Fahrzeuge bekannt. In der Lichtenberger Straße wurde an einem geparkten Pkw die Scheibe der Beifahrertüre eingeworfen, aus dem Innenraum dann eine Handtasche mit Geldbeutel und diversen Ausweiskarten gestohlen. Bei einem VW UP, der in der Charlottenstraße geparkt war, wurde die hintere rechte Seitenscheibe eingeschlagen und eine Lederjacke daraus entwendet. Ein weiterer aufgebrochener Pkw, VW Polo, wurde durch seinen Besitzer in der Ferdinand-Braun-Straße entdeckt. Auch hier war die hintere Seitenscheibe eingeschlagen und aus dem Fahrzeuginnern eine Handtasche entwendet worden. Der Schaden des Diebesgutes und der angerichtete Sachschaden belaufen sich bei den 3 Fällen auf mehrere hundert Euro.",
+		"type": "Autoaufbruch",
+		"lat": 49.1748981,
+		"lon": 9.209971399999999
+	},
+	{
+		"date": "11/13/2013",
+		"description": "Rund 30 Einzelgaragen befinden sich in einer Tiefgarage in der Heilbronn-Sontheimer Stockportstraße beim Gebäude 44. In einer davon hatte ein 41-Jähriger seinen 24 Jahre alten Porsche abgestellt. Auf diesen hatten es Diebe abgesehen. Die Unbekannten öffneten in der Zeit zwischen Dienstagnachmittag und Donnerstagmorgen gewaltsam das Tor der Einzelgarage und transportierten den Wagen auf eine unbekannte Weise ab. Der Wagen, der aufgrund diverser Zubehörteile als Sammlerstück gilt, hat einen Wert von über 40.000 Euro. Es handelt sich um einen Porsche Carrera 911-Cabrio. Sowohl die Karosserie als auch das Stoffverdeck sind dunkelblau. Das im Jahr 1988 erstmals zugelassene Fahrzeug hat weiße Ledersitze und einen Heckflügel. Das Kennzeichen lautet HN E 6319. Da die Ausfahrt der Tiefgarage nur 2,20 Meter hoch ist, konnten die Diebe sicherlich nicht mit einem größeren Transporter anfahren. Die Ausfahrt ist ansteigend, so dass der Porsche wohl auch nicht hinaus geschoben werdenkonnte. Deshalb hofft die Polizei, dass andere Garagenbenutzer die Verladeaktion beobachtet haben, sie aber nicht mit einer Straftat in Verbindung brachten. Diese und Zeugen, die Hinweise auf den Verbleib des Fahrzeugs geben können, werden gebeten, sich mit der Kriminalpolizei Heilbronn, Telefon 07131 104-4444, in Verbindung zu setzen.",
+		"type": "Autoaufbruch",
+		"lat": 49.1191037,
+		"lon": 9.2082876
+	},
+	{
+		"date": "11/14/2013",
+		"description": "Bislang neun Anzeigen wurden am Morgen bei der Untergruppenbacher Polizei erstattet, bei denen Unbekannte in der Nacht zum Donnerstag an mehreren Cabrios die Verdecke aufgeschnitten und aus diesen teilweise Gegenstände entwendet hatten. Die bislang unbekannten Täter gelangten auf noch nicht bekannte Art in die Tiefgaragen verschiedener Mehrfamilienhäuser in der  Sontheimer Straße und Talheimer Straße, der Schillerstraße sowie  in den Hofwiesen und schnitten dort die Verdecke auf. Aus manchen Fahrzeugen wurden Gegenstände, die teilweise nur minimalen Wert haben, entwendet. Aus anderen Pkw nahmen die Langfinger nichts mit. Der Sachschaden beläuft sich nach Schätzungen der Polizei auf etwa 15.000 Euro. Möglicherweise besteht ein Tatzusammenhang mit ähnlichen Vorfällen, die sich in den vergangenen Nächten in Heilbronn zugetragen haben. Personen, die verdächtige Wahrnehmungen gemacht haben werden gebeten, sich mit der Polizei in Untergruppenbach unter 07131/64463-0, in Verbindung zu setzen.",
+		"type": "Autoaufbruch",
+		"lat": 49.10550540000001,
+		"lon": 9.2055014
+	},
+	{
+		"date": "11/12/2013",
+		"description": "In Eppingen-Kleingartach parkte eine 55-Jährige ihren Toyota am Montagabend in der Entengasse. Als sie am Dienstagmorgen zurückkam war die Scheibe der Fahrertüre eingeschlagen. Aus dem Wagen stahlen die Automarder ein mobiles Navigationsgerät. In derselben Nacht montierten Unbekannte an einem in der Großen Hohle in Schluchtern stehenden BMW die roten Kennzeichen ab.",
+		"type": "Autoaufbruch",
+		"lat": 49.0990668,
+		"lon": 8.9734436
+	},
+	{
+		"date": "",
+		"description": "In Heilbronn waren wie schon am Wochenende auch in den Nächten zum Montag und zum Dienstag die Autoaufbrecher unterwegs, die sich offensichtlich auf Tiefgaragen „spezialisiert“ haben. In der Gartenstraße waren sie am frühen Montagmorgen, kurz nach 3 Uhr, gerade dabei das Rolltor einer Tiefgarage aufzuhebeln, als ein Hausbewohner zufällig vorbei kam. Die Unbekannten flüchteten unerkannt. In der Max-Planck-Straße gelang der Einbruch in eine Tiefgarage in der Nacht zum Dienstag. Dort schlitzten die Langfinger an zwei Cabrios das Verdeck auf. Es gelang ihnen jedoch nur bei einem der Fahrzeuge, ins Innere zu kommen. Dort fanden sie immerhin zwei Euro Bargeld. Der angerichtete Sachschaden liegt weit im vierstelligen Bereich. In einer anderen Tiefgarage in derselben Straße schnitten sie das Faltdach eines VW Golf-Cabrio auf. Entwendet wurde nichts. Auch in der Agnese-Schebest-Straße waren zwei Cabrios das Ziel der Aufschlitzer, nachdem sie das Tor der Tiefgarage aufgebrochen hatten. Am Jörg-Rathgeb-Platz kam ein Renault Twingo-Cabrio unter das Messer der Unbekannten. Auch hier entstand ein hoher Schaden, gestohlen wurde nichts.\n\nDie Kriminalpolizei geht davon aus, dass die Täter weiterhin unterwegs sein werden und bittet die Anwohner von Tiefgaragen, wachsam zu sein und verdächtige Personen oder Fahrzeuge umgehend der nächsten Polizeidienststelle, auch über den Notruf 110, zu melden.",
+		"type": "Autoaufbruch",
+		"lat": 49.1461768,
+		"lon": 9.2253926
+	},
+	{
+		"date": "",
+		"description": "",
+		"type": "Autoaufbruch",
+		"lat": 33.731815,
+		"lon": -84.962676
+	},
+	{
+		"date": "",
+		"description": "",
+		"type": "Autoaufbruch",
+		"lat": 33.731815,
+		"lon": -84.962676
+	},
+	{
+		"date": "11/10/2013",
+		"description": "Zu zahlreichen aufgebrochenen Fahrzeugen wurde die Unterländer Polizei am vergangenen Wochenende gerufen. In Heilbronn stellte eine 54-Jährige ihren PKW um 18 Uhr in der Theresienstraße ab. Als sie um 22:30 Uhr zurückkehrte war die Scheibe der Beifahrertüre eingeschlagen und die im Fahrzeug zurückgelassene Handtasche samt Inhalt fehlte. In der Haller Straße schlitzten Diebe an vier Cabrios das Verdeck auf, um in die Fahrzeug zu gelangen. Der Wert der Beute liegt weit unter dem angerichteten Schaden, der mit mehreren Tausend Euro beziffert wurde. ",
+		"type": "Autoaufbruch",
+		"lat": 49.137423,
+		"lon": 9.2042527
+	},
+	{
+		"date": "11/10/2013",
+		"description": "Zu zahlreichen aufgebrochenen Fahrzeugen wurde die Unterländer Polizei am vergangenen Wochenende gerufen. Auch in einer Tiefgarage in der Heilbronner Rauchstraße hatten es die Langfinger auf Cabrios abgesehen. An einem Mazda schlitzten sie das Verdeck auf, an einem Fiat reichte ihnen ein nicht vollständig geschlossenes Fenster. In das Verdeck eines Porsches wurde eingestochen, eindringen ins Innere des Wagens konnten die Täter jedoch nicht.\n\n",
+		"type": "Autoaufbruch",
+		"lat": 49.153077,
+		"lon": 9.2280265
+	},
+	{
+		"date": "11/10/2013",
+		"description": "In Güglingen brachten Unbekannte an einem in der Tannenstraße stehenden VW-Bus mit einem Werkzeug eine Fensterscheibe zum Bersten. Aus dem Handschuhfach ließen sie ein Navigationsgerät mitgehen.",
+		"type": "Autoaufbruch",
+		"lat": 49.0499942,
+		"lon": 8.9988525
+	},
+	{
+		"date": "11/10/2013",
+		"description": " In Möckmühl brachen Täter einen Mercedes auf, der im Parkhaus in der Unteren Gasse abgestellt war. Auch aus diesem Auto wurde ein Navigationsgerät gestohlen. Außerdem rissen die Diebe den Mercedesstern ab, schlugen den Scheinwerfer ein und traten Dellen in den Kotflügel sowie die Fahrertüre.\n",
+		"type": "Autoaufbruch",
+		"lat": 49.32261399999999,
+		"lon": 9.36024
+	},
+	{
+		"date": "11/10/2013",
+		"description": "In der Bad Rappenauer Kärlegartenstraße schlugen Unbekannte mit einem Stein die Scheibe eines VW Golf ein. Aus einer Geldbörse, die auf dem Beifahrersitz vergessen worden war, nahmen sie das Bargeld heraus und legten den Geldbeutel wieder auf den Sitz.",
+		"type": "Autoaufbruch",
+		"lat": 49.2123705,
+		"lon": 9.0993943
+	},
+	{
+		"date": "11/7/2013",
+		"description": "In mindestens acht PKW drang ein Unbekannter in der Nacht zum Donnerstag in Untereisesheim ein. Wie schon in Bad Friedrichshall und Oedheim fiel auch in diesen Fällen auf, dass der Täter nur wenig Schaden anrichtete. Ob er sich Fahrzeuge aussucht, die nicht verschlossen sind oder ob er eine besondere Art des Öffnens beherrscht, ist bislang unklar. Falls es sich um denselben Unbekannten handelt wie in den anderen Orten, gehen inzwischen fast 40 PKW-Aufbrüche auf sein Konto. Interessant für die Polizei ist die Tatsache, dass der Täter immer wieder teure Gegenstände oder sogar Bargeld in den Fahrzeugen findet. Die Kriminalpolizei Heilbronn schließt nicht aus, dass der Aufbrecher sein „Tätigkeitsgebiet“ ausweitet und auch in weiteren Orten sein Unwesen treiben könnte. Zur Ermittlung des Langfingers ist die Mitarbeit der Bevölkerung ungemein wichtig. Falls irgendwo Personen gesehen werden, die offensichtlich etwas ausspähen oder nachts verdächtige Unbekannte und Fahrzeuge in ihrem Wohnbereich auffallen, wird gebeten, sich Kennzeichen zu notieren und unverzüglich die nächste Polizeidienststelle, auch über den Notruf 110, zu verständigen. Wer konkrete Hinweise zu einem der aktuellen PKW-Aufbrüche geben kann, möge sich mit der Kripo Heilbronn, Telefon 07131 104-4444, in Verbindung zu setzen.",
+		"type": "Autoaufbruch",
+		"lat": 49.2096952,
+		"lon": 9.200001499999999
+	},
+	{
+		"date": "11/7/2013",
+		"description": "Auf PKW der Marke BMW hatten es Unbekannte in der Nacht zum Donnerstag in der Abstatter Schozachstraße abgesehen. Sie stahlen einen 3er BMW im Wert von 25.000 Euro. In der Roßschinderstraße war am Morgen des Donnerstags ein auf einem Privatparkplatz abgestellter 1er verschwunden. Der 3er konnte noch am Donnerstag in Polen geortet werden. Als die dortige Polizei an dem durchgegebenen Ort eintraf, fanden die Beamten jedoch nicht dieses Fahrzeug, sondern den 1er BMW. Der größere Wagen blieb verschwunden.\n\nIm Zusammenhang mit anderen PKW-Diebstählen, die insbesondere die Marken BMW und Audi betrafen, ergaben die Ermittlungen der Kriminalpolizei Heilbronn, dass Zeugen vor dem Entwenden eines Audi RS4 in Neuenstadt einen am späteren Tatort langsam vorbei fahrenden schwarzen Audi Avant mit einem polnischen Kennzeichen gesehen hatte. Die beiden Insassen hatten sich den später gestohlenen Wagen offenbar genau angesehen. An der gleichen Stelle wurde kurze Zeit später ein dunkler Mercedes E-Klasse gesehen. Auch die beiden Insassen dieses Autos schauten sich das Fahrzeug an.\n\nDie Kriminalpolizei schließt nicht aus, dass die Täter stets auf dieselbe Weise vorgehen und bittet deshalb Zeugen, die ein verdächtiges Fahrzeug sehen, das Kennzeichen aufzuschreiben und umgehend die Polizei zu verständigen.",
+		"type": "Autoaufbruch",
+		"lat": 49.0673288,
+		"lon": 9.2959893
+	},
+	{
+		"date": "11/3/2013",
+		"description": "PKW-Aufbrecher waren in der Nacht zum Sonntag in Beilstein unterwegs. An mindestens sechs geparkten PKW schlugen die Unbekannten die Scheiben ein oder wuchteten die Türen auf, um ins Innere zu gelangen. Die Täter erbeuteten verschiedene Gegenstände aus den Fahrzeugen, der entstandene Sachschaden wird von der Polizei auf rund 6.000 Euro geschätzt. Hinweise auf die Automarder haben die Ermittler keine.",
+		"type": "Autoaufbruch"
+	},
+	{
+		"date": "11/3/2013",
+		"description": "Einen lauten Schlag hörte der Besitzer eines PKW am Sonntagnachmittag, kurz nach 15 Uhr, im Bad Friedrichshaller Resedenweg. Als er aus dem Fenster schaute, sah er zwei junge Männer wegrennen. Die beiden Unbekannten hatten offensichtlich mit einem Stein beide Scheiben am Fahrzeug des Kochendorfers eingeschlagen und eine im Innern liegende Handtasche gestohlen. Einer des Duos wird auf 25 Jahre geschätzt, ist etwa 1,90 Meter groß und soll auffallend schlank sein. Sein Komplize ist unter 20 Jahre alt und nur 1,60 bis 1,65 Meter groß. Er hat eine normale Statur, ist eventuell Südländer, hat ein rundes Gesicht und zur Tatzeit einen leichten Bartwuchs. Ob diese Tat im Zusammenhang steht mit inzwischen über 30 PKW-Aufbrüchen in Bad Friedrichshall in den vergangenen Wochen, ist unklar. Zeugen werden gebeten, sich mit der Kriminalpolizei Heilbronn, Telefon 07131 104-4444, in Verbindung zu setzen.",
+		"type": "Autoaufbruch",
+		"lat": 49.2318917,
+		"lon": 9.2188362
+	},
+	{
+		"date": "11/3/2013",
+		"description": "In der Nacht von Samstag, 02.11.2013 auf Sonntag, 03.11.2013, wurden in der Stadt Beilstein mehrere Fahrzeuge Angriffspunkt von Beschädigungen und Diebstählen aus den Pkw. An einem Pkw waren mutwillig zwei Reifen zerstochen worden, an einem weiteren ein Kennzeichen mitgenommen. An bisher mindestens 5 bekannt gewordenen Fahrzeugen im Bereich der Hauptstraße, Schmidhausener Straße und Gartenstraße wurden die Scheiben eingeschlagen. Teilweise wurde ein weniges an Bargeld oder auch ein Navigationsgerät aus dem Pkw entwendet. Die Höhe des Gesamtschadens lässt sich noch nicht genau beziffern. Anwohner oder Passanten, die in der Nacht etwas Verdächtiges wahrgenommen haben, werden gebeten sich Telefonisch mit dem Polizeirevier Weinsberg, 07134/9920, in Verbindung zu setzen.",
+		"type": "Autoaufbruch",
+		"lat": 49.0404215,
+		"lon": 9.3145627
+	},
+	{
+		"date": "12/10/2013",
+		"description": " Diebe suchten in der Nacht zum Dienstag zwei Autohäuser in der Willy-Brandt-Straße und in der Ludwig-Erhard-Straße heim. Sie bockten insgesamt sieben Autos auf und setzten sie dann auf Steinen ab. Jetzt fehlen 28 Kompletträder im Wert von rund 20 000 Euro. Wer in der Nacht zum Dienstag im Bereich der beiden Tatorte verdächtige Personen oder Fahrzeuge beobachtet hat, möchte sich bitte bei der Polizei in Crailsheim (Telefon 07951 / 4800) melden.   ",
+		"type": "Autoaufbruch",
+		"lat": 49.1377661,
+		"lon": 10.0353966
+	},
+	{
+		"date": "12/8/2013",
+		"description": "Im Hallweg in Sulzdorf warf am Donnerstag ein Unbekannter eine Seitenscheibe eines abgestellten Seat ein. Der Autoknacker nahm eine Handtasche mit Bargeld und verschiedenen Papieren mit. Die Tat wurde in der Zeit zwischen 10 Uhr und 11.30 Uhr verübt.",
+		"type": "Autoaufbruch",
+		"lat": 49.10632409999999,
+		"lon": 9.835554900000002
+	},
+	{
+		"date": "11/27/2013",
+		"description": " Auf dem Parkplatz der Großsporthalle in der Gartenstraße schlug am Mittwoch in der Zeit zwischen 16 Uhr und 18 Uhr ein Unbekannter an einem Mercedes eine Seitenscheibe ein. Der Täter griff in das Fahrzeuginnere und entwendete aus der Türablage einen Geldbeutel. Dem Autoknacker fielen Bargeld, Ausweise, eine EC- und eine Kreditkarte in die Hände. Der entstandene Sachschaden beläuft sich auf 550 Euro. Der Polizeiposten Ilshofen, Telefon 07904/940030, suchte Zeugen. Zur Tatzeit fand in der Großsporthalle ein Training statt.",
+		"type": "Autoaufbruch",
+		"lat": 49.1687781,
+		"lon": 9.9173884
+	},
+	{
+		"date": "12/1/2013",
+		"description": "Aus einem auf einer Baustelle in der Zeppelinstraße abgestellten Baustellenbagger zapfte ein bislang unbekannter Täter über das Wochenende 200 Liter Dieseltreibstoff im Wert von etwa 270 Euro ab. Den verschlossenen Tankdeckel hebelte der Dieb kurzerhand auf und bediente sich. Am Bagger enstand ein Sachschaden in Höhe von etwa 50 Euro. Hinweise nimmt der Polizeiposten Asperg, Telefon 07141/62033, entgegen.",
+		"type": "Autoaufbruch",
+		"lat": 48.89958379999999,
+		"lon": 9.156290499999999
+	},
+	{
+		"date": "11/27/2013",
+		"description": "Mutmaßlich Bekleidung stand im Interesse eines unbekannten Diebes, der am Mittwoch in der Zeit zwischen 17.00 Uhr und 18.00 Uhr einen Daimler-Benz aufbrach, der auf dem Wanderparkplatz der Mundelsheimer Straße stand. Um in das Fahrzeuginnere zu gelangen, warf der Täter die hintere rechte Scheibe ein und entwendete Kleidung und Accessoires im Wert von etwa 200 Euro. Der entstandene Sachschaden wurde mit ungefähr 200 Euro angegeben. Zeugen des Vorfalls werden gebeten sich beim Polizeirevier Marbach am Neckar, Tel. 07144/900-0 zu melden.",
+		"type": "Autoaufbruch",
+		"lat": 48.9412555,
+		"lon": 9.2055317
+	},
+	{
+		"date": "12/21/2013",
+		"description": "Nachdem am Sonntagmorgen ein mit Backwaren beladener Pkw in Heilbronn gestohlen worden war, wurde von der Geschäftsleitung eines Brötchen-bring-Dienstes eine Belohnung in Höhe von 500 Euro ausgesetzt, die zur Ermittlung oder Ergreifung der Täter führen. Gegen 5 Uhr war der dunkelblaue Fiat Cinquecento im Hofraum einer Bäckerei in der Salzstraße geparkt. Angestellte der Bäckerei waren gerade dabei, das Fahrzeug zu beladen, als ihnen zwei junge Frauen auffielen, die im Bereich einer nahegelegenen Diskothek standen. Die beiden nutzten offensichtlich einen Moment aus, in dem die Angestellten weitere Waren aus der Bäckerei holten, stiegen in den Fiat ein und fuhren in Richtung Goppeltstraße davon. Der Fahrzeugschlüssel steckte zu diesem Zeitpunkt. Bislang fehlt noch jede Spur von dem Cinquecento mit Kennzeichen HN-CV 247. Zeugen werden gebeten, sich bei der Heilbronner Polizei unter Telefon 07131/104-2500 zu melden.",
+		"type": "Autoaufbruch",
+		"lat": 49.1610418,
+		"lon": 9.2151914
+	},
+	{
+		"date": "12/19/2013",
+		"description": "  Unbekannte Spritdiebe machten sich am Donnerstag zwischen 17 und 23.30 Uhr beim Lidl-Zentrallager in der Max-Eyth-Straße an den Tanks von zwei dort abgestellten Sattelzügen zu schaffen. Die Täter schläuchelten etwa 750 Liter Diesel ab und verschwanden mit ihrer Beute. Sachdienliche Hinweise nimmt das Polizeirevier Öhringen unter Tel. 07941/9300 entgegen.",
+		"type": "Autoaufbruch",
+		"lat": 49.1962504,
+		"lon": 9.6662774
+	},
+	{
+		"date": "12/25/2013",
+		"description": "  Im Zeitraum zwischen Dienstag und Mittwoch wurden in Waldenburg-Tommelhardt einem 23-jährigen Mann vier Lautsprecherboxen aus dem unverschlossenen Auto entwendet. Vorausgegangen war dem Diebstahl die Trennung von seiner Freundin, die tags zuvor mit Freunden aus dem genannten Fahrzeug, in Abwesenheit des Besitzers, persönliche Gegenstände abholte. Bei einem ihrer Begleiter konnte schließlich auch eine der Boxen aufgefunden werden. Der Verbleib der drei anderen Lautsprecher ist nicht bekannt. Die Polizei Öhringen ermittelt.",
+		"type": "Autoaufbruch"
+	},
+	{
+		"date": "12/19/2013",
+		"description": "Auf professionelle Art und Weise gingen bislang unbekannte Täter vor, die in der Nacht von Mittwoch 19:00 Uhr auf Donnerstag 05:30 Uhr mehrere Fahrzeuge heimsuchten, indem sie sich durch Einschlagen des hinteren Dreiecksfensters Zutritt in das jeweilige Wageninnere verschafften. Bei einem in der Esslinger Straße geparkten BMW hebelten sie anschließend gewaltsam das Armaturenbrett auf und entwendeten das eingebaute Navigationsgerät im Wert von ungefähr 4.000 Euro. Zudem ließen sie ein iPhone und eine Geldbörse aus dem Innenraum mitgehen, die mehrere Hundert Euro Bargeld sowie Scheckkarten und Ausweise enthielt. Der Wagen wurde durch die Tat so schwer beschädigt, dass er nicht mehr fahrbereit war und abgeschleppt werden musste. Die Höhe des entstandenen Schadens konnte noch nicht beziffert werden.\nDarüber hinaus brachen sie einen in der gleichen Straße parkenden weiteren BMW auf die gleiche Art und Weise auf, wobei sie aus diesem Fahrzeug vermutlich nichts entwendeten. Über den entstandenen Sachschaden liegen bislang keine Erkenntnisse vor. Weshalb die Täter von ihrem Vorhaben an diesem Wagen abließen, ist nicht bekannt.\nAußerdem gelangten sie in der Zeit zwischen Mittwoch 21:00 Uhr und Donnerstag 07:45 Uhr ebenfalls durch den Aufbruch des Dreiecksfensters in den Fahrzeuginnenraum eines Mercedes-Benz, der auf einem Abstellplatz in der Reutlinger Straße parkte. Sie bauten den vollständigen Bordcomputer im Wert von über 5.000 Euro aus und entwendeten diesen, indem sie das Armaturenbrett in mehrere Teile zerlegten. Zudem bemächtigten sie sich eines Geldbeutels, der in der Mittelkonsole lag und einen geringen Bargeldbetrag enthielt. Der entstandene Sachschaden am Fahrzeug wurde mit etwa 2.000 Euro angegeben.\nDer Polizeiposten Tamm bittet Zeugen sich unter Tel. 07141/601014 zu melden oder das Polizeirevier Kornwestheim unter Tel. 07154/1313-0 zu verständigen.",
+		"type": "Autoaufbruch",
+		"lat": 48.9268411,
+		"lon": 9.1377917
+	},
+	{
+		"date": "12/19/2013",
+		"description": "Indem er eine Dreiecksscheibe auf der Fahrerseite eines Opel Omega einschlug, gelangte ein unbekannter Täter in der Zeit zwischen Dienstag und Donnerstag in das Fahrzeuginnere und entnahm mehrere Jacken und Westen im Wert von etwa 400 Euro. Der Wagen parkte in dieser Zeit in der Lembergstraße. Die Höhe des entstandenen Schadens konnte bislang nicht beziffert werden.",
+		"type": "Autoaufbruch",
+		"lat": 48.8546209,
+		"lon": 9.1902361
+	},
+	{
+		"date": "1/7/2014",
+		"description": "Bislang unbekannte Täter brachen im Zeitraum vom 04.01.-07.01.2014 in einer Tiefgarage einer Wohnanlage in der Heilbronner Wollhausstraße zwei PKW auf und durchsuchten diese nach Beute. Wie die Täter in die Tiefgarage gelangten, und ob etwas entwendet wurde, ist bislang noch unklar. Es entstand ein Sachschaden in Höhe von circa 1500 Euro. Sachdienliche Hinweise nimmt das Polizeirevier Heilbronn unter der Nummer 07131 104 2500 entgegen.",
+		"type": "Autoaufbruch",
+		"lat": 49.1387516,
+		"lon": 9.2295375
+	},
+	{
+		"date": "12/30/2013",
+		"description": "Im Zeitraum vom 23.12.13 - 30.12.13 wurde von bislang unbekannten Tätern der Tankdeckel eines LKW aufgebrochen. Dieser stand auf einem Parkplatz, in der Domenecker Straße, in Möckmühl. Es wurden 160 Liter Dieselkraftstoff im Wert von circa 240 Euro aus dem Tank entwendet. Sachdienliche Hinweise nimmt der Polizeiposten Möckmühl unter der Nummer 06298 92000 entgegen.",
+		"type": "Autoaufbruch",
+		"lat": 49.3138643,
+		"lon": 9.358590399999999
+	},
+	{
+		"date": "1/14/2014",
+		"description": "Audi A 6 gestohlen Auf einen Audi A 6 hatte es ein bislang Unbekannter abgesehen. Das in der Weinsberger Straße in Ellhofen abgestellte Auto wurde in der Zeit von Montag, 21.00 Uhr, bis Dienstag, 06.40 Uhr gestohlen. Der Audi hat einen Zeitwert von rund 10.000 Euro, ist mit einem HN-Kennzeichen versehen und hat eine silbergraue Lackierung. Sachdienliche Hinweise nimmt die Kriminalpolizei Heilbronn unter der Tel.Nr.: 07131/104-4444 entgegen.",
+		"type": "Autoaufbruch",
+		"lat": 49.148865,
+		"lon": 9.3175847
+	},
+	{
+		"date": "1/13/2014",
+		"description": "Wie jetzt erst bemerkt und angezeigt wurde, entwendeten Unbekannte aus einem Baggertank zwischen dem 18.12.2013 und jetzt circa 500 Liter Diesel-Kraftstoff. Der Bagger stand an einer Straßenbaustelle in der Friedrich Heyking-Straße. Hinweise an die Polizei in Crailsheim, Tel.: 07951/480-0.",
+		"type": "Autoaufbruch",
+		"lat": 49.1337354,
+		"lon": 10.0633573
+	},
+	{
+		"date": "1/14/2014",
+		"description": "Zwischen Montag 17:30 Uhr und Dienstag 07:00 Uhr brach ein bislang unbekannter Täter den Tankdeckel eines in der Industriestraße auf dem Waschplatz der BAG geparkten Volvo LKWs auf und zapfte zirka 350 Liter Diesel aus dem Tank ab. Den Tankdeckel nahm der Täter vermutlich mit. Der Diebstahlsschaden wird auf zirka 500 Euro geschätzt. Sachdienliche Hinweise nimmt die Polizei in Weikersheim unter der Telefonnummer: 07934 9947-0 gerne entgegen. ",
+		"type": "Autoaufbruch",
+		"lat": 49.4745014,
+		"lon": 10.0247722
+	},
+	{
+		"date": "1/22/2014",
+		"description": "Einen BMW X5 entwendeten bislang unbekannte Diebe in der Nacht zum Mittwoch in Bad Wimpfen. Der Pkw war zwischen 21.15 Uhr und 7.10 Uhr in der Servianstraße geparkt. Der Pkw ist weiß und hat eine Künzelsauer Zulassung. Der Wert des Pkw kann bislang nicht beziffert werden. Zeugen, die sachdienliche Hinweise geben können werden gebeten, sich mit der Kripo Heilbronn unter Telefon 07131/104-4444, in Verbindung zu setzen.",
+		"type": "Autoaufbruch",
+		"lat": 49.2260153,
+		"lon": 9.1513841
+	},
+	{
+		"date": "1/21/2014",
+		"description": "Am Dienstagvormittag wurde in Bad Rappenau zwischen 6:45 und 13:00 Uhr in der Schwalbenstraße die Beifahrerscheibe eines Peugeot eingeschlagen und eine Handtasche samt Inhalt aus dem Innenraum des Fahrzeugs entwendet. Der Wert des entwendeten Gutes beträgt zirka 250 Euro. Der Schaden an der Seitenscheibe ebenfalls knapp 250 Euro. Sachdienliche Hinweise nimmt die Polizei in Bad-Rappenau unter der Telefonnummer 07264 9590-0 entgegen.",
+		"type": "Autoaufbruch",
+		"lat": 49.24403359999999,
+		"lon": 9.0951275
+	},
+	{
+		"date": "1/22/2014",
+		"description": "Einen Tatzusammenhang zwischen den Diebstählen zweier Pkw vermutet die Polizei in Bad Wimpfen. Wie bereits berichtet wurde in der Nacht zum Mittwoch in der Servianstraße ein neuwertiger BMW X5 mit Künzelsauer Zulassung gestohlen. Nun wurde der Polizei ein weiterer Diebstahl eines BMW des gleichen Typs gemeldet. Dieser war im selben Tatzeitraum, zwischen Dienstag, 20.30 und Mittwoch 07.00 Uhr, in der Schillerstraße auf dem Stellplatz vor Gebäude Nr. 17 abgestellt. An dem X5 waren Heilbronner Kennzeichen angebracht. Beide Fahrzeuge waren weiß lackiert und haben einen Gesamtwert von etwa 150.000 Euro. Sachdienliche Hinweise zu den Straftaten nimmt die Kripo Heilbronn unter der Telefonnummer 07131 104-4444, entgegen.",
+		"type": "Autoaufbruch",
+		"lat": 49.2260153,
+		"lon": 9.1513841
+	},
+	{
+		"date": "1/22/2014",
+		"description": "Auf ein Motorrad im Wert von etwa 12.500 Euro hatten es unbekannte Diebe abgesehen, als sie in der Nacht von Dienstag 18:00 Uhr auf Mittwoch 06:00 Uhr auf bislang nicht geklärte Art und Weise das verschlossene Tor zu einer Tiefgarage in der Gutenbergstraße überwanden und mutmaßlich mit einem Transportfahrzeug in diese einfuhren. Um an das Zweirad zu gelangen, mussten sie an einem dort abgestellten VW zunächst die Seitenscheibe der Fahrertür einschlagen und den Wagen aus seiner Parkbucht schieben. Dadurch gelangten sie an das vor dem Wagen stehende Motorrad, das mit einer Plane abgedeckt war. Anschließend wurde die fast vier Jahre alte Aprilia RSV 4 auf den Transporter verladen und entwendet. Die Ermittlungen dauern an. Zeugen werden gebeten, sich mit dem Polizeiposten Sachsenheim, Tel. 07147/27406-0 in Verbindung zu setzen.",
+		"type": "Autoaufbruch",
+		"lat": 48.96177830000001,
+		"lon": 9.0745395
+	},
+	{
+		"date": "1/22/2014",
+		"description": "Auf professionelle Art und Weise gingen vermutlich ein- und dieselben Diebe vor, die in der Nacht von Dienstag auf Mittwoch in zurzeit vier bekannten Fällen hochwertige Fahrzeuge des Herstellers BMW aufbrachen. Dabei gelangten die Täter auf bisher unbekannte Weise in den Innenraum eines BMW X6, der in Asperg in der Johannisstraße parkte. Ohne einen Schaden am Fahrzeug zu hinterlassen, entwendeten sie das Navigations- und Entertainmentsystem im Wert von etwa 3.000 Euro. An einem in der Karlstraße abgestellten BMW der 5er-Reihe schlugen sie das rechte hintere Fenster ein, um das Navigationssystem im Wert von ungefähr 2.000 Euro auszubauen und zu stehlen. Der entstandene Sachschaden wurde mit etwa 300 Euro angegeben. In Möglingen machten sich die Täter in der Raitestraße an einem BMW X5 und der Königsberger Straße an einem BMW X6 zu schaffen, indem sie an den Fahrzeugen jeweils die Dreiecksscheibe an einer hinteren Tür einschlugen und dabei einen Schaden in Höhe von je 200 Euro verursachten. Anschließend bauten sie die betreffenden Bordcomputer im Wert von etwa 3.500 Euro aus und entwendeten diese. Zudem ließen sie in einem Fall noch eine Geldbörse aus der Mittelkonsole mitgehen, die neben 250 Euro Bargeld auch diverse Mitgliedskarten enthielt. Die Ermittlungen dauern an. Zeugen werden gebeten sich beim Polizeiposten Asperg, Tel. 07141/62033 bzw. beim Polizeiposten Möglingen, Tel. 07141/481191, zu melden.",
+		"type": "Autoaufbruch",
+		"lat": 48.9032759,
+		"lon": 9.1399819
+	},
+	{
+		"date": "1/22/2014",
+		"description": "Unbekannte entwendeten am Mittwoch in der Zeit zwischen 07:00 Uhr und 22:30 Uhr erneut ein Motorrad aus einer Gemeinschaftstiefgarage in der Gutenbergstraße. Bei der gestohlenen Maschine handelte es sich um eine KTM SuperDuke mit einem Wert von über 11.000 Euro. Obwohl die Batterie und die untere Verkleidung ausgebaut waren, nahmen die Diebe das etwa sechs Monate alte Fahrzeug mit und nutzten zum Abtransport mutmaßlich einen Lieferwagen. Ein Tatzusammenhang mit dem Motorraddiebstahl aus einer weiteren Tiefgarage in der gleichen Straße in der Nacht zuvor (wir berichteten) kann nicht ausgeschlossen werden. Das Kriminalkommissariat Ludwigsburg bittet in beiden Fällen unter Tel. 07141/18-9 um Hinweise.",
+		"type": "Autoaufbruch",
+		"lat": 48.9041527,
+		"lon": 9.1400293
+	},
+	{
+		"date": "1/24/2014",
+		"description": "Weil der Besitzer eines Audi am Freitag gegen 02:30 Uhr in der Nähe seines Hauses Krach hörte und nachsah, überraschte er vermutlich auf frischer Tat einen Dieb, der sich in seiner Hofeinfahrt in der Straße \"Entenäcker\" am Wagen zu schaffen machte und sofort die Flucht ergriff. Am frühen Morgen konnte der Fahrzeugbesitzer feststellen, dass der Täter in den Kofferraum eingedrungen war, indem er gewaltsam den Schließzylinder des Kofferraumschlosses entfernt hatte. Anschließend klappte er die Rücksitzbank nach vorne und riss eine hintere Seitenabdeckung heraus, um vermutlich das Steuergerät zu entwenden. Der entstandene Sachschaden wurde auf etwa 1.000 Euro beziffert. Hinweise nimmt der Polizeiposten Asperg unter Tel. 07141/62033 entgegen.",
+		"type": "Autoaufbruch",
+		"lat": 48.9027504,
+		"lon": 9.1283887
+	},
+	{
+		"date": "2/7/2014",
+		"description": "In der Zeit zwischen 01. und 07.02, 18.00/15.00 Uhr, wurde eine Feldscheune, welche sich entlang der Heisenbergstraße, ca. 100 Meter nach dem dortigen Industriegebiet befindet, durch einen Unbekannten aufgebrochen. Aus der Scheune wurde ein Muldenkipper (Bezeichnung Mini-Truck 709) im Wert von ca. 2.500 Euro entwendet. Die selbstfahrende Arbeitsmaschine ist mit einem 7 PS starken Rasenmähermotor ausgestattet und lässt sich mit einem Seilzug starten. Darüber hinaus entwendete der Täter eine ca. 80 kg schwere Rundholzgreifzange aus Stahl, an der sich Hydraulikanschlüsse befinden. Diese hat einen Wert von ca. 1.000 Euro. Aufgrund der Beschaffenheit der Diebesbeute muss der Täter zum Abtransport einen Pkw-Anhänger oder möglicherweise auch einen Kastenwagen benutzt haben.",
+		"type": "Autoaufbruch",
+		"lat": 49.18985259999999,
+		"lon": 9.149724899999999
+	},
+	{
+		"date": "2/11/2014",
+		"description": "Mehrere hundert Euro dürfte der Schaden betragen, welcher ein bislang Unbekannter in der Zeit von Sonntag, 20.00 Uhr, bis Dienstag, 09.00 Uhr, an einem in der Obersulm-Sülzbacher Straße \"Im Gänsbühl\" anrichtete. Der Täter hatte offenbar versucht, einen BMW X6 aufzubrechen und baute dazu das komplette Schloss der Fahrertür aus. Sachdienliche Hinweise nimmt die Polizei Obersulm unter der Tel.Nr.: 07130 7077 entgegen.",
+		"type": "Autoaufbruch",
+		"lat": 49.161411,
+		"lon": 9.3524459
+	},
+	{
+		"date": "2/9/2014",
+		"description": "Aus einem nicht verschlossenen Auto entwendeten Unbekannte in der Nacht zum Sonntag einen Geldbeutel. Über den genauen Inhalt der Geldbörse ist nichts bekannt. Das Auto war in der Gotthilf-Wolf-Straße geparkt.",
+		"type": "Autoaufbruch",
+		"lat": 49.0527981,
+		"lon": 9.734079200000002
+	},
+	{
+		"date": "2/16/2014",
+		"description": "Am Sonntag, zwischen 15 und 18.30 Uhr, drang ein Unbekannter in einen in der Heilbronner Straße in Öhringen abgestellten VW Passat gewaltsam ein. Aus dem Fahrzeug entwendete er einen I-Pod Touch. Der entstandene Sach- und Diebstahlschaden beträgt etwa 100 Euro. Hinweise zu der Tat nimmt die Polizei in Öhringen, Telefon 07941 9300, entgegen.",
+		"type": "Autoaufbruch",
+		"lat": 49.2009408,
+		"lon": 9.4876233
+	},
+	{
+		"date": "2/16/2014",
+		"description": "In der Nacht auf Sonntag wurde zwischen 23:05 und 04:45 Uhr durch unbekannte Täter die Scheibe der Beifahrertüre eines in der Daimlerstraße abgestellten PKWs eingeschlagen und diverse Gegenstände aus dem PKW gestohlen. Über die Höhe des Sachschadens ist bislang nichts bekannt. Sachdienliche Hinweise nimmt die Polizei in Lauffen, Tel: 07133 209-0, entgegen.",
+		"type": "Autoaufbruch",
+		"lat": 49.1500513,
+		"lon": 9.128204799999999
+	},
+	{
+		"date": "2/17/2014",
+		"description": "Zwischen Freitag und Montag entwendeten bislang unbekannte Täter auf einer Großbaustelle in der Eppinger Straße aus dem Dieseltank eines MAN LKWs zirka 100 Liter Diesel. Aus seinem Autokran der Marke Liebherr entwendeten die Täter knapp 200 Liter Diesel. Des Weiteren wurde eine neuwertige Schubkarre entwendet, mit der vermutlich der Dieselkraftstoff von der Baustelle abtransportiert wurde. Der Wert des entwendeten Diesels beläuft sich auf ungefähr 420 Euro. Die Schubkarre hatte einen Wert von zirka 100 Euro. Der entstandene Sachschaden an den beiden Tankdeckeln beläuft sich auf knapp 80 Euro. Die Polizei in Leintal bittet um sachdienliche Zeugenhinweise an die Telefonnummer 07138 81063-0.",
+		"type": "Autoaufbruch",
+		"lat": 49.1479418,
+		"lon": 9.1094336
+	},
+	{
+		"date": "2/17/2014",
+		"description": "Zwischen Samstag und Montag entwendeten bislang unbekannte Täter aus einem in der Rudolf-Diesel-Straße geparkten LKW eines Abfallentsorgungsunternehmens knapp 300 Liter Dieseltreibstoff. Der entstandene Sachschaden am Tankdeckel beläuft sich auf zirka 50 Euro. Die Polizei in Mosbach-Diedesheim bittet um sachdienliche Zeugenhinweise an die Telefonnummer 06261 6757-0.",
+		"type": "Autoaufbruch",
+		"lat": 49.3435846,
+		"lon": 9.1221597
+	},
+	{
+		"date": "2/18/2014",
+		"description": "Zwischen Sonntag und Dienstag schlug ein bislang unbekannter Täter die hintere rechte Seitenscheibe eines in der Staufenbergstraße in Heilbronn geparkten Nissans ein. Offensichtlich entriegelte der Täter im Anschluss den PKW und entwendete aus dessen Innerem ein Auto-CD-Radio im Wert von zirka 50 Euro. Am PKW hinterließ der Täter einen Schaden in Höhe von knapp 100 Euro. Täterhinweise nimmt die Polizei in Heilbronn unter der Telefonnummer: 07131 253093 entgegen.",
+		"type": "Autoaufbruch",
+		"lat": 49.1174465,
+		"lon": 9.2027284
+	},
+	{
+		"date": "2/19/2014",
+		"description": "n der Nacht von Dienstag auf Mittwoch waren im Bereich der Bundesautobahn 6 wieder sogenannte \"Planenschlitzer\" unterwegs. Gegen 0.35 Uhr wurde die Autobahnpolizei in Kirchberg an der Jagst von einem Berufskraftfahrer darüber verständigt, dass sich auf dem Parkplatz Kochertalbrücke in Fahrtrichtung Nürnberg entsprechende Fälle ereignet hätten. Vor Ort musste festgestellt werden, dass unbekannte Diebe insgesamt die Planen von 26 Lkw aufgeschlitzt hatten, um die Ladung auszukundschaften. Lediglich bei einem Lkw kam es auch zum Diebstahl. Dieser hatte Reinigungstabs geladen. Insgesamt wurden 230 Kartons dieser Tabs entwendet. Zurück blieben nur noch fünf leere Paletten. Der Wert des Diebesguts beträgt ersten Schätzungen zufolge 4 bis 5.000 Euro. Der Schaden an den 26 beschädigten Planen dürfte mindestens 5.000 Euro betragen. Im Zusammenhang mit dem Diebstahl könnte ein Klein-Lkw mit polnischer Zulassung stehen. Dieser fuhr gegen 0.30 Uhr auf dem genannten Parkplatz gegen eine Sattelzugmaschine und flüchtete hiernach unerlaubt. Durch einen Kraftfahrer konnte noch beobachtet, dass es sich bei dem Flüchtigen um einen Klein-Lkw der Marke Mercedes (eventuell 7,5-Tonner) handeln könnte, der eine rote Fahrerkabine und einen silbernen Planenaufbau hatte. Das Kennzeichen soll mit den Buchstaben \"KY\" begonnen haben.",
+		"type": "Autoaufbruch",
+		"lat": 49.1731379,
+		"lon": 9.9593619
+	},
+	{
+		"date": "2/14/2014",
+		"description": "Heute wurde bei der Verkehrspolizei in Kirchberg an der Jagst nachträglich ein weiterer Fall von \"Planenschlitzern\" zur Anzeige gebracht, der sich bereits in der Nacht von Donnerstag, 13.02.14 auf Freitag, 14.02.14 ereignet hatte. Hier wurde von der Ladefläche eines Lkw, dessen Fahrer nur wenige Kilometer vom heutigen Fall entfernt auf dem Reußenberg-Parkplatz Rast machte, 27 Rasenmäher entwendet. Auch hier muss ein größeres Fahrzeug zum Abtransport benutzt worden sein. Der Wert der Rasenmäher beträgt ebenfalls mehrere tausend Euro.",
+		"type": "Autoaufbruch",
+		"lat": 47.4477519,
+		"lon": 12.3151773
+	},
+	{
+		"date": "2/14/2014",
+		"description": "Gleich an zwei Autos wurde in der Nacht von Donnerstag auf Freitag eine Scheibe eingeschlagen, um Gegenstände aus dem Innenraum zu stehlen. In der Panoramastraße entwendeten die Diebe aus einem geparkten VW auf diese Weise eine Handtasche, die auf der Rückbank lag und neben einem Mobiltelefon auch verschiedene Kundenkarten beinhaltete. Vermutlich dieselben Täter schlugen in der Johannesstraße ebenfalls an einem VW die Scheibe der Fahrertür ein und entwendeten ein Ledermäppchen, das einen Ausweis enthielt. An beiden Fahrzeugen entstand ein Sachschaden in Höhe von jeweils etwa 300 Euro. Hinweise zu beiden Fällen nimmt der Polizeiposten Freiberg am Neckar unter Tel. 07141/643780 entgegen.",
+		"type": "Autoaufbruch",
+		"lat": 48.9346421,
+		"lon": 9.199111499999999
+	}];

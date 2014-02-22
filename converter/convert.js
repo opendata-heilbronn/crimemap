@@ -1,5 +1,5 @@
 var fs = require('fs'), csv = require('csv'), async = require('async');
-var argv = require('optimist').usage('Convert csv file of crimes\nUsage: $0 [csvfile]').demand(1).argv;
+var argv = require('optimist').usage('Convert csv file of crimes\nUsage: $0 [csvfile] [type]').demand(1).argv;
 var gm = require('googlemaps');
 
 var input = csv().from(argv._[0]).to.array(function(data) {
@@ -11,8 +11,8 @@ var input = csv().from(argv._[0]).to.array(function(data) {
 			var address = line[2] + ', ' + line[4];
 			var entry = {
 				'date': line[0],
-				'description': line[10],
-				'type': 'Wohnungseinbruch'
+				'description': line[9],
+				'type': argv._[1]
 			};
 			result.push(entry);
 			gm.geocode(address,
