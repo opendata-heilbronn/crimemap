@@ -1,0 +1,17 @@
+cm.data = [
+	{
+		"date": "12/10/2013",
+		"description": "Bereits zum zweiten Mal innerhalb weniger Wochen, drangen bislang unbekannte Einbrecher in eine Gaststätte in der Heilbronner Käferflugstraße ein und brachen dort zwei Geldspielautomaten auf. In der Nacht zum Dienstag hebelten die Einbrecher eine Türe auf und gelangten so in das Gebäude. Aus den gewaltsam geöffneten Geldspielautomaten entwendeten sie das Münzgeld. Weiterhin entstand Sachschaden in Höhe von mehreren hundert Euro. Zeugen melden sich bitte bei der Heilbronner Polizei, Telefon 07131/104-2500.",
+		"type": "Wohnungseinbruch"
+	},
+	{
+		"date": "12/7/2013",
+		"description": "Bislang unbekannte Einbrecher suchten am vergangenen Wochenende ein Wohn- und Geschäftshaus in der Talheimer Bahnhofstraße heim. Vermutlich am Samstagnachmittag oder den frühen Abendstunden verschafften sich die Diebe gewaltsam Zutritt in das Gebäude, indem sie ein Fenster aufhebelten und in die Räumlichkeiten gelangten. In der Wohnung durchstöberten sie das Inventar nach möglichem Diebesgut, wobei ihnen Bargeld in noch nicht bekannter Höhe in die Hände fiel. Auch aus dem Verkaufsraum einer Gärtnerei, die sich im Erdgeschoss des Hauses befindet, entwendeten die Langfinger aus einem Portemonnaie Bargeld. Da sich das Gebäude im Talheimer Ortskerne befindet hofft die Polizei auf Zeugen. Diese setzen sich bitte mit der Untergruppenbacher Polizei, Telefon 07131/644630, in Verbindung.",
+		"type": "Wohnungseinbruch"
+	},
+	{
+		"date": "12/9/2013",
+		"description": "Zwei Einbrüche ereigneten sich am Montag im Raum Obersulm. In ein Einfamilienhaus in der Eichstraße in Obersulm-Eichelberg stieg ein Unbekannter über ein Kellerfenster ein, das er zuvor gewaltsam geöffnet hatte. Der Einbruch ereignete sich zwischen 15:50 und 20:00 Uhr. Der Täter durchsuchte mehrere Schränke im Inneren. ",
+		"type": "Wohnungseinbruch"
+	}
+];
