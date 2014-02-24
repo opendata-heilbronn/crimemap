@@ -96,16 +96,20 @@
 					html += '<br />' + crimeType.label + ': ' + crimeType.count;
 				});
 			} else {
-				html += '<h4>Gemeinde</h4>Mit der Maus auswählen';
+				if (!this._div.innerHTML) {
+					html += '<h4>Gemeinde</h4>Mit der Maus auswählen';
+				}
 			}
-			this._div.innerHTML = html;
+			if (html) {
+				this._div.innerHTML = html;
+			}
 		};
 
 		info.addTo(leafletMap);
 	};
 
 	var addAreaLayers = function() {
-		$.getJSON('js/gemeinden.geojson', function(geojson) {
+		$.getJSON('data/gemeinden.geojson', function(geojson) {
 			L.geoJson(geojson.features, {
 				style: {
 					'opacity': 0.5,
