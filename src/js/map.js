@@ -8,6 +8,22 @@
 	var colorScheme = ["#fff5f0", "#fee0d2", "#fcbba1", "#fc9272", "#fb6a4a", "#ef3b2c", "#cb181d", "#a50f15", "#67000d"];
 	var info = [];
 
+	var isInside = function(point, vs) {
+		var x = point[0], y = point[1];
+
+		var inside = false;
+		for ( var i = 0, j = vs.length - 1; i < vs.length; j = i++) {
+			var xi = vs[i][0], yi = vs[i][1];
+			var xj = vs[j][0], yj = vs[j][1];
+
+			var intersect = ((yi > y) != (yj > y)) && (x < (xj - xi) * (y - yi) / (yj - yi) + xi);
+			if (intersect)
+				inside = !inside;
+		}
+
+		return inside;
+	};
+
 	var formatNumber = function(n) {
 		var rx = /(\d+)(\d{3})/;
 		return String(n).replace(/^\d+/, function(w) {
@@ -35,7 +51,7 @@
 
 	var addMarkers = function() {
 		markerCluster = new L.MarkerClusterGroup({
-			maxClusterRadius: 60,
+			maxClusterRadius: 50,
 			animateAddingMarkers: true
 		});
 
@@ -94,7 +110,7 @@
 				html += '<h4>' + feature.properties.GEN + '</h4>';
 				html += '<strong>Einwohner:</strong> ' + formatNumber(feature.properties.citizens);
 				html += '<br /><strong>Diebstähle:</strong> ' + feature.properties.numberOfCrimes;
-				html += '<br /><strong>Diebstähle je 1000 Einwohner:</strong> ' + cValue + '<br /><small>(maßgeblich für die Einfäbrung)</small><br />';
+				html += '<br /><strong>Diebstähle je 1000 Einwohner:</strong> ' + cValue + '<br /><small>(maßgeblich für die Einfärbung)</small><br />';
 				Object.keys(crimeTypes).forEach(function(key) {
 					var crimeType = crimeTypes[key];
 					html += '<br />' + crimeType.label + ': ' + crimeType.count;
@@ -179,12 +195,13 @@
 			return feature.properties.comparisonValue;
 		}
 
-		var bounds = layer.getBounds();
-
 		var citizens = feature.properties['EWZ_M'] + feature.properties['EWZ_W'];
+		if (feature.properties.GEN == 'Lauffen am Neckar') {
+			console.log(layer.getLatLngs());
+		}
 		var crimes = [];
 		markers.forEach(function(marker) {
-			if (bounds.contains(marker.marker.getLatLng())) {
+			if (leafletPip.pointInLayer(marker.marker.getLatLng(), layer)) {
 				crimes.push(marker.crime);
 			}
 		});
