@@ -88,9 +88,13 @@
 					crimeTypes[crime.type].count++;
 				});
 
+				var cValue = '' + (Math.round(feature.properties.comparisonValue * 100000) / 100);
+				cValue = cValue.replace(/\./, ',');
+
 				html += '<h4>' + feature.properties.GEN + '</h4>';
 				html += '<strong>Einwohner:</strong> ' + formatNumber(feature.properties.citizens);
 				html += '<br /><strong>Diebstähle:</strong> ' + feature.properties.numberOfCrimes;
+				html += '<br /><strong>Diebstähle je 1000 Einwohner:</strong> ' + cValue + '<br /><small>(maßgeblich für die Einfäbrung)</small><br />';
 				Object.keys(crimeTypes).forEach(function(key) {
 					var crimeType = crimeTypes[key];
 					html += '<br />' + crimeType.label + ': ' + crimeType.count;
@@ -114,7 +118,8 @@
 				style: {
 					'opacity': 0.5,
 					'weight': 1,
-					'color': '#AAA'
+					'color': '#666',
+					'fillOpacity': 0.6
 				},
 				onEachFeature: function(feature, layer) {
 					areas.push({
@@ -196,7 +201,7 @@
 
 	var addTileLayer = function() {
 		var attribution = '© 2013 CloudMade – Map data <a href="http://creativecommons.org/licenses/by-sa/2.0/">CCBYSA</a> 2013 <a href="http://www.openstreetmap.org/">OpenStreetMap.org</a> contributors – <a href="http://cloudmade.com/terms_conditions">Terms of Use</a>';
-		L.tileLayer('http://{s}.tile.cloudmade.com/036a729cf53d4388a8ec345e1543ef53/44094/256/{z}/{x}/{y}.png', {
+		L.tileLayer('http://{s}.tile.cloudmade.com/036a729cf53d4388a8ec345e1543ef53/123058/256/{z}/{x}/{y}.png', {
 			'maxZoom': 18,
 			'attribution': attribution
 		}).addTo(leafletMap);
