@@ -100,36 +100,11 @@ module.exports = function(grunt) {
 				port: 8091
 			}
 		},
-		testacular: {
-			unit: {
-				options: {
-					configFile: 'test/testacular.conf.js',
-					autoWatch: true,
-					keepalive: true
-				}
-			}
-		},
-		rsync: {
+		'gh-pages': {
 			options: {
-				args: ["--verbose", "--update", "--human-readable"],
-				exclude: [".git*", "node_modules"],
-				recursive: true,
-				ssh: true,
-				src: "dist/",
-				syncDestIgnoreExcl: true,
-				compareMode: 'checksum'
+				base: 'dist'
 			},
-			toPrd: {
-				options: {
-					dest: "odl:/var/www/opendatalab/public/projects/geojson-utilities",
-				}
-			},
-			toPrdDry: {
-				options: {
-					dryRun: true,
-					dest: "odl:/var/www/opendatalab/public/projects/geojson-utilities",
-				}
-			}
+			src: ['**']
 		}
 	});
 
@@ -145,12 +120,10 @@ module.exports = function(grunt) {
 	grunt.loadNpmTasks('grunt-rev');
 	grunt.loadNpmTasks('grunt-usemin');
 	grunt.loadNpmTasks('grunt-devserver');
-	grunt.loadNpmTasks('grunt-testacular');
-	grunt.loadNpmTasks('grunt-rsync');
+	grunt.loadNpmTasks('grunt-gh-pages');
 
-	grunt.registerTask('test', ['testacular']);
 	grunt.registerTask('dataupdate', ['jsonmin:dist']);
 	grunt.registerTask('build', ['clean:dist', 'useminPrepare', 'imagemin', 'concat', 'cssmin', 'uglify', 'copy:dist', 'rev', 'usemin']);
-	grunt.registerTask('deploy', ['build', 'rsync:toPrd']);
+	grunt.registerTask('deploy', ['build', 'gh-pages']);
 	grunt.registerTask('default', ['build']);
 };
