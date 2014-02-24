@@ -4,19 +4,17 @@
 	var map = {
 		leafletMap: null,
 		init: function() {
-			var that = this;
+			L.Icon.Default.imagePath = 'img/';
 			this.leafletMap = L.map('map', {
 				center: [49.169494, 9.218607],
 				zoom: 10,
 				minZoom: 5,
-				maxZoom: 15,
+				maxZoom: 16,
 			});
 
 			this.addTileLayer();
 
-			var markers = new L.MarkerClusterGroup({
-				showCoverageOnHover: false
-			});
+			var markers = new L.MarkerClusterGroup();
 			cm.data.forEach(function(crime) {
 				if (crime.lat) {
 					var date = new Date(crime.date);
