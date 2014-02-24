@@ -14,7 +14,9 @@
 
 			this.addTileLayer();
 
-			var markers = new L.MarkerClusterGroup();
+			var markers = new L.MarkerClusterGroup({
+				maxClusterRadius: 60
+			});
 			cm.data.forEach(function(crime) {
 				if (crime.lat) {
 					var date = new Date(crime.date);
