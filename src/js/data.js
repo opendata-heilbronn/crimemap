@@ -1,3785 +1,4444 @@
 cm.data = [
-	{
-		"date": "12/10/2013",
-		"description": "Bereits zum zweiten Mal innerhalb weniger Wochen, drangen bislang unbekannte Einbrecher in eine Gaststätte in der Heilbronner Käferflugstraße ein und brachen dort zwei Geldspielautomaten auf. In der Nacht zum Dienstag hebelten die Einbrecher eine Türe auf und gelangten so in das Gebäude. Aus den gewaltsam geöffneten Geldspielautomaten entwendeten sie das Münzgeld. Weiterhin entstand Sachschaden in Höhe von mehreren hundert Euro. Zeugen melden sich bitte bei der Heilbronner Polizei, Telefon 07131/104-2500.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1549567,
-		"lon": 9.2266506
-	},
-	{
-		"date": "12/7/2013",
-		"description": "Bislang unbekannte Einbrecher suchten am vergangenen Wochenende ein Wohn- und Geschäftshaus in der Talheimer Bahnhofstraße heim. Vermutlich am Samstagnachmittag oder den frühen Abendstunden verschafften sich die Diebe gewaltsam Zutritt in das Gebäude, indem sie ein Fenster aufhebelten und in die Räumlichkeiten gelangten. In der Wohnung durchstöberten sie das Inventar nach möglichem Diebesgut, wobei ihnen Bargeld in noch nicht bekannter Höhe in die Hände fiel. Auch aus dem Verkaufsraum einer Gärtnerei, die sich im Erdgeschoss des Hauses befindet, entwendeten die Langfinger aus einem Portemonnaie Bargeld. Da sich das Gebäude im Talheimer Ortskerne befindet hofft die Polizei auf Zeugen. Diese setzen sich bitte mit der Untergruppenbacher Polizei, Telefon 07131/644630, in Verbindung.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0847613,
-		"lon": 9.194117199999999
-	},
-	{
-		"date": "12/9/2013",
-		"description": "Zwei Einbrüche ereigneten sich am Montag im Raum Obersulm. In ein Einfamilienhaus in der Eichstraße in Obersulm-Eichelberg stieg ein Unbekannter über ein Kellerfenster ein, das er zuvor gewaltsam geöffnet hatte. Der Einbruch ereignete sich zwischen 15:50 und 20:00 Uhr. Der Täter durchsuchte mehrere Schränke im Inneren. ",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1146129,
-		"lon": 9.4091647
-	},
-	{
-		"date": "12/9/2013",
-		"description": "Ein weiterer Einbruch ereignete sich zwischen 13:30 und 19:00 Uhr in den Breitäckern in Obersulm-Willsbach. Dort drang der Täter über eine Terrassentüre im Untergeschoss in das Gebäude ein. Beide Häuser wurden durch den Täter durchsucht. Welche Gegenstände jeweils entwendet wurden kann zurzeit noch nicht gesagt werden. Der entstandene Sachschaden beläuft sich auf mindestens 1000 Euro. Derzeit wird nicht ausgeschlossen, dass beide Einbrüche von denselben Tätern begangen worden sind. Personen die an den Tatörtlichkeiten verdächtige Wahrnehmungen gemacht haben oder sonstige sachdienliche Hinweise geben können, werden gebeten sich mit der Polizei Weinsberg, unter Tel.-Nr.: 07134/9920, in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.12898329999999,
-		"lon": 9.3579103
-	},
-	{
-		"date": "12/7/2013",
-		"description": "Ein Einfamilienhaus in der Eschenauer Falternstraße war am Samstag zwischen 15:30 -18:00 Uhr das Ziel eines Einbrechers. Der Täter hatte eine Tür aufgehebelt und konnte so in das Innere des Gebäudes gelangen. Anschließend machte sich der Unbekannte an einem Tresor zu schaffen. Nach bisherigem Stand der Ermittlungen wurde jedoch nichts aus dem Haus entwendet. Die Polizei schließt nicht aus, dass der Täter bei der Tatausführung gestört wurde und deshalb ohne Beute die Tatörtlichkeit verließ. Personen, die rund um den Tatort verdächtige Wahrnehmungen machen konnten oder sonstige sachdienliche Hinweise geben können, werden gebeten sich unter der Tel.Nr.: 07134/9920 mit der Polizei Weinsberg in Verbindung zu setzten.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1387747,
-		"lon": 9.4089831
-	},
-	{
-		"date": "12/5/2013",
-		"description": "Den Maschendrahtzaun, der rund um das Areal eines Eppinger Getränkehandels in der Frauenbrunner Straße steht, trennte ein Unbekannter in der Nacht zum Donnerstag durch. Dann schlug er am Firmengebäude ein Fenster ein und kletterte in das Innere. Dort wuchtete er eine Bürotür auf und begab sich ins Obergeschoß, wo sich eine Wohnung befindet. Der Bewohner wachte jedoch auf und rief den Einbrecher an. Dieser nahm daraufhin die Beine in die Hand und flüchtete ohne Beute.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1341349,
-		"lon": 8.9001016
-	},
-	{
-		"date": "12/3/2013",
-		"description": "Bei einem Einbruch in ein Büro und ein Fotostudio in der Leingartener Dieselstraße in der Nacht zum Dienstag ließ der Täter hochwertige Kameras und Zubehör mitgehen. Die Höhe des angerichteten Sachschadens ist derzeit noch nicht bekannt. Der Unbekannte hatte zunächst ein Fenster aufgebrochen und konnte so in das Innere der Räume gelangen. Sachdienliche Hinweise nimmt die Polizei Leintal unter der Tel.Nr.: 07138/810630 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.14686039999999,
-		"lon": 9.1241723
-	},
-	{
-		"date": "12/2/2013",
-		"description": "In der Nacht zum Montag verschafften sich bislang unbekannte Einbrecher Zutritt in eine Gaststätte in der Heilbronner Käferflugstraße. Nachdem sie die Alarmanlage außer Betrieb gesetzt und eine Türe aufgehebelt hatten gelangten die Täter in den Gastraum. Dort brachen sie mehrere Spielautomaten auf und entwendeten aus diesen Münzgeld in unbekannter Höhe. Weiterhin nahmen sie aus verschiedenen Behältnissen mehrere hundert Euro Bargeld sowie eine mit Leergut gefüllten Tüte mit. Am Gebäude entstand zudem ein Sachschaden von rund 500 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1549567,
-		"lon": 9.2266506
-	},
-	{
-		"date": "12/2/2013",
-		"description": "Auch in das Gebäude einer Kirchengemeinde in der Heilbronner Bahnhofstraße verschafften sich unbekannte Einbrecher am vergangenen Wochenende gewaltsamen Zutritt. Zwischen Samstagabend 18 Uhr und Montagmorgen warfen die Unbekannten eine Fensterscheibe ein und gelangten so ins Innere des Gebäudes. Dort scheiterte zunächst der Versuch eine verschlossene Bürotür zu öffnen, worauf die Täter ein weiteres Fenster einschlugen. Dort hebelten sie einen Schlüsselkasten auf und stahlen aus diesem einen Generalschlüssel. So war es den Tätern möglich in sämtliche Büros zu gelangen. Dort wüteten die Einbrecher regelrecht indem sie Schränke, Schubladen und Rollcontainer aufhebelten oder mit Gewalt herausrissen. Aus einer Geldkassette wurde Bargeld in noch nicht bekannter Höhe entwendet. Der angerichtete Schaden am Inventar ist beträchtlich und dürfte im fünfstelligen Eurobereich liegen. Zeugen beider Fälle werden gebeten sich mit der Heilbronner Polizei, unter Telefon 07131/104-2500, in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1427164,
-		"lon": 9.209709
-	},
-	{
-		"date": "12/2/2013",
-		"description": "Vermutlich weil der Täter gestört wurde, misslang am Montag, gegen 03.15 Uhr ein Einbruch in ein Wettbüro in der Sontheimer Straße in Heilbronn. Der Unbekannte hatte versucht, mit einem Werkzeug die Tür des Büros aufzuwuchten. Dies klappte jedoch nicht auf Anhieb, sodass der Einbrecher, welcher bei der weiteren Tatausführung gestört wurde, sein Heil in der Flucht suchte. Hinweise nimmt die Polizei Heilbronn unter der Tel.Nr.: 07131/104-2500 entgegen.  ",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1289989,
-		"lon": 9.2109159
-	},
-	{
-		"date": "12/1/2013",
-		"description": "Eine Firma in der Neckarsulmer Weidachstraße wurde in der Nacht zum Sonntag von einem bislang unbekannten Einbrecher heimgesucht. Der Täter hatte ein Fenster aufgebrochen und konnte so in das Innere der Räume gelangen. Dort wurden weitere Türen aufgehebelt. Gestohlen wurde fast nichts, jedoch beläuft sich der angerichtete Sachschaden auf rund 2.500 Euro. ",
-		"type": "Wohnungseinbruch",
-		"lat": 49.198398,
-		"lon": 9.2193741
-	},
-	{
-		"date": "12/1/2013",
-		"description": "Eine Firma in der Heilbronn Austraße war in der Nacht zum Sonntag das Ziel eines Einbrechers. Der bislang noch Unbekannte war dort in eine Werkstatt eingedrungen und ließ zwei Autoreifen mitgehen. Der angerichtete Sachschaden dürfte bei mehreren hundert Euro liegen. Sachdienliche Hinweise nimmt die Polizei Heilbronn unter der Tel.Nr.: 07131/104-2500 entgegen.  ",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1684772,
-		"lon": 9.2190572
-	},
-	{
-		"date": "12/1/2013",
-		"description": "Zwei bislang Unbekannte versuchten am Sonntag um 03.15 Uhr in ein Wohnhaus in der Salzelmener Straße einzubrechen. Gerade als ein Bewohner nach Hause kam flüchtete ein Täter zu einem in der Nähe abgestellten blau-weißen Mountainbike mit eingeschaltetem LED-Licht und fuhr davon. Der Mann war ca. 19 – 20 Jahre alt, ca. 170 – 175 cm groß, trug eine beige Jacke mit braunen Applikationen sowie eine Kapuze auf dem Kopf. Ein zweiter Täter, der sich am Rolladen eines ebenerdig befindlichen Schlafzimmerfensters zu schaffen machte, flüchtete zu Fuß. Hinweise zu den Tätern oder über verdächtige Wahrnehmungen nimmt der Polizeiposten Bad Rappenau unter Telefon 07264 95900 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2491832,
-		"lon": 9.1262249
-	},
-	{
-		"date": "12/9/2013",
-		"description": "  In einen Verkaufsstand auf dem Vorplatz der Gewerblichen Schulen in Künzelsau brachen Unbekannte in der Nacht zum Montag ein. Zunächst versuchten sie vergeblich die Metalltür des Kiosks aufzuwuchten. Als dies nicht gelang, brachen sie die Klappe zum Verkaufsstand auf und drangen so ins Innere vor. Die Täter erbeuteten daraus vier Kartons mit Energy-Drinks und zwei Kartons mit verschiedenen Schoko- und Müsliriegeln. Der angerichtete Sachschaden in Höhe von 500 Euro übertrifft bei weitem den Wert des Diebesguts. Wer im Tatzeitraum zwischen Sonntag, 19 Uhr, und dem frühen Montagmorgen im Bereich des Schulgeländes Am Gaisberg verdächtige Wahrnehmungen gemacht hat, sollte sich bei der Polizei in Künzelsau, Telefon 07940-9400, melden.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.25981669999999,
-		"lon": 9.6882176
-	},
-	{
-		"date": "12/5/2013",
-		"description": " In einen Baumarkt in der Mangoldsaller Sallstraße drangen zwei unbekannte Täter in der Nacht zum Donnerstag mit Brachialgewalt ein. Anschließend entwendeten sie gezielt cirka 30 hochwertige Motorsägen der Marke Stihl im Gesamtwert von rund 20.000 Euro. Bevor sie verschwanden nahmen sie noch das Wechselgeld aus der Kasse sowie einen kompletten kleinen Tresor, in dem sich weiteres Wechselgeld befand, mit. Die beiden Täter hatten vor dem Eingangstor ihr Fahrzeug geparkt, um ihre Beute zu einzuladen. Zeugen, denen in der Tatnacht etwas Verdächtiges aufgefallen ist, sollten sich unter Tel. 07940/9400 bei der Künzelsauer Polizei melden.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2282435,
-		"lon": 9.641075899999999
-	},
-	{
-		"date": "11/18/2013",
-		"description": "  An der Eingangstüre einer Wohnung im ersten Oberschoss eines Hauses in der Hinteren Straße machte sich ein Unbekannter zwischen dem 18.11. und dem 22.11. zu schaffen. Seine Versuche, die Türe gewaltsam zu öffnen, scheiterten jedoch. Zurück blieb ein Schaden von gut 200 Euro. Mögliche Zeugen sollten sich unter Tel. 07941/9300 bei der Öhringer Polizei melden.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2050879,
-		"lon": 9.5804563
-	},
-	{
-		"date": "11/23/2013",
-		"description": "  In der Nacht zum Samstag drang ein noch unbekannte Täter in ein Gebäude der evangelischen Jugendhilfe Friedenshort in der Tiele-Winckler-Straße in Öhringen gewaltsam ein, indem eine Fensterscheibe eingeschlagen und das Fenster anschließend geöffnet wurde. Zuvor hatte der Täter vergeblich versucht, dieses Fenster sowie eine Hintereingangstüre aufzuhebeln. In einem Büro und einem weiteren Zimmer wurde offensichtlich gezielt nach Bargeld gesucht. Die gesamte Büroeinrichtung blieb vom Einbrecher unbeachtet. Schließlich begab sich der Eindringling in den Keller, wo ein an der Wand befestigter Tresor mit brachialer Gewalt weggewuchtet und komplett entwendet wurde. Der Täter flüchtete anschließend vermutlich wieder durch das zuvor eingeschlagene Fenster. Der angerichtete Sachschaden beläuft sich nach ersten Schätzungen auf ca. 1500 Euro. Hinweise an die Polizei Öhringen, Tel. 07941/9300",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1953167,
-		"lon": 9.5165202
-	},
-	{
-		"date": "11/19/2013",
-		"description": "Schöntal / Krautheim  Die Abwesenheit der Hausbesitzer nutzten Einbrecher am Dienstag in Bieringen und Klepsau. In der Bieringer Goethestraße drangen die Täter zwischen 6.45 und 12.30 Uhr über ein rückwärtiges Fenster in das Gebäude ein und durchsuchten sämtliche Räume, wobei sie recht brachial ans Werk gingen. Auf ihrer Suche fiel ihnen lediglich eine Damenuhr in die Hände, mit der sie sich aus dem Staub machten.\nVermutlich dieselben Täter waren dann auch noch in der Klepsauer Frankenstraße am Werk. Bei ihrer Rückkehr kurz vor 17 Uhr entdeckten die Geschädigten die angerichtete Bescherung. Wiederum waren die Einbrecher über ein rückwärtiges Fenster eingestiegen und recht brachial vorgegangen. Sie entwendeten einen vorgefundenen kleineren Geldbetrag sowie diverse Schmuckstücke. Der hinterlassene Sachschaden übersteigt bei beiden Einbrüchen den Wert der Beute deutlich.\nIn Bieringen war am Morgen ein silberner Kombi mit auswärtigen Kennzeichen und mehreren südländisch aussehenden Personen aufgefallen.\nSachdienliche Hinweise zu den Einbrüchen nimmt der Polizeiposten Krautheim unter Tel. 06294/234 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.3423166,
-		"lon": 9.539864099999999
-	},
-	{
-		"date": "11/19/2013",
-		"description": "Schöntal / Krautheim  Die Abwesenheit der Hausbesitzer nutzten Einbrecher am Dienstag in Bieringen und Klepsau. In der Bieringer Goethestraße drangen die Täter zwischen 6.45 und 12.30 Uhr über ein rückwärtiges Fenster in das Gebäude ein und durchsuchten sämtliche Räume, wobei sie recht brachial ans Werk gingen. Auf ihrer Suche fiel ihnen lediglich eine Damenuhr in die Hände, mit der sie sich aus dem Staub machten.\nVermutlich dieselben Täter waren dann auch noch in der Klepsauer Frankenstraße am Werk. Bei ihrer Rückkehr kurz vor 17 Uhr entdeckten die Geschädigten die angerichtete Bescherung. Wiederum waren die Einbrecher über ein rückwärtiges Fenster eingestiegen und recht brachial vorgegangen. Sie entwendeten einen vorgefundenen kleineren Geldbetrag sowie diverse Schmuckstücke. Der hinterlassene Sachschaden übersteigt bei beiden Einbrüchen den Wert der Beute deutlich.\nIn Bieringen war am Morgen ein silberner Kombi mit auswärtigen Kennzeichen und mehreren südländisch aussehenden Personen aufgefallen.\nSachdienliche Hinweise zu den Einbrüchen nimmt der Polizeiposten Krautheim unter Tel. 06294/234 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.42991869999999,
-		"lon": 9.5625656
-	},
-	{
-		"date": "11/17/2013",
-		"description": "  In ein zurzeit nur sporadisch bewohntes Haus im Kelterweg drang ein Unbekannter in der Nacht zum Sonntag ein. Anschließend durchsuchte er sämtliche Räume und entwendete eine vorgefundene Geldkassette. In dieser befanden sich aber lediglich persönliche Gegenstände des Geschädigten, so dass der Einbrecher die Kassette auf den Kompost des Nachbargrundstücks warf und verschwand. Mögliche Zeugen sollten sich unter Tel. 07941/9300 bei der Polizei melden.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.192338,
-		"lon": 9.5062149
-	},
-	{
-		"date": "11/15/2013",
-		"description": "In der Zeit von Sonntag 10.11.2013 bis Freitag 15.11.2013 versuchte ein unbekannter Täter in der Marktstraße in ein Haushaltsauflösungsgeschäft einzubrechen. Der Täter versuchte die Hintereingangstüre zur Wintergasse hin aufzuhebeln, was jedoch misslang. Bereits eine Woche zuvor wurde erfolglos versucht, die Eingangstüre aufzuhebeln. Zeugen, die sachdienliche Hinweise geben können, werden gebeten sich beim Polizeirevier Öhringen unter der Telefonnummer 07941/9300 zu melden.  ",
-		"type": "Wohnungseinbruch",
-		"lat": 49.200635,
-		"lon": 9.501290299999999
-	},
-	{
-		"date": "11/13/2013",
-		"description": " In eine Massagepraxis in der Poststraße versuchte ein Unbekannter in der Nacht zum Mittwoch einzubrechen. Der Täter machte sich an der Eingangstüre zu schaffen, scheiterte jedoch an der massiven Türe, so dass er wieder das Weite suchte. Zurück blieb ein Schaden von gut 200 Euro. Sachdienliche Hinweise zu dem gescheiterten Einbrecher nimmt das Polizeirevier unter Tel. 07941/9300 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2011522,
-		"lon": 9.5018593
-	},
-	{
-		"date": "11/10/2013",
-		"description": "  An der Eingangstüre eines Antiquitätengeschäfts in der Marktstraße machte sich ein Unbekannter, wie erst jetzt bekannt wurde, in den vergangenen Tagen zu schaffen. Die Versuche, die Türe aufzuwuchten, scheiterten jedoch und der Täter verschwand. Zurück blieb ein nicht unerheblicher Sachschaden. Zeugen, denen zwischen dem 25.10. und dem 8.11. etwas Verdächtiges aufgefallen ist, sollten sich unter Tel. 07941/9300 bei der Öhringer Polizei melden.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.200635,
-		"lon": 9.501290299999999
-	},
-	{
-		"date": "11/9/2013",
-		"description": "  Im Zeitraum vom 02.11. bis 09.11.2013 hebelten bisher unbekannte Täter an einer Garage in der Eichhofer Straße die Zugangstüre auf. Von dort aus verschafften sie sich über eine Verbindungstüre gewaltsam Zugang zum Wohnhaus. Sie durchsuchten sämtliche Wohnräume und entwendeten letztendlich verschiedenes Silberbesteck, zwei Gipsfiguren sowie einen Porzellanaschenbecher. Da das Wohnhaus vorübergehend unbewohnt war, wurde der Einbruch erst am letzten Samstag festgestellt. Der Wert des Diebesgutes steht noch nicht fest. Hinweise bitte an die Polizei Öhringen, 07941/9300.   ",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2041099,
-		"lon": 9.5868906
-	},
-	{
-		"date": "11/7/2013",
-		"description": "  In ein Lokal in der Unteren Torstraße brach ein Unbekannter in der Nacht zum Donnerstag nach 0.30 Uhr ein. Anschließend wuchtete er dort mit Brachialgewalt zwei Geldspielautomaten auf und entwendete daraus das Bargeld in unbekannter Höhe. Zurück blieb ein angerichteter Sachschaden an den Automaten von  gut 10.000 Euro. Vermutlich derselbe Täter wollte dann auch noch in eine benachbarte Metzgerei eindringen. Er schlug ein Fenster zum Büro ein und ließ dann jedoch von der weiteren Tatausführung ab. Möglicherweise wurde er gestört und flüchtete deshalb. Zeugen, die in der Tatnacht etwas Verdächtiges beobachtet haben, sollten sich unter Tel. 07941/9300 beim Polizeirevier melden.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.20115209999999,
-		"lon": 9.4996505
-	},
-	{
-		"date": "11/7/2013",
-		"description": "  In den Kindergarten im Mauerweg drang ein Unbekannter in der Nacht zum Donnerstag ein. Anschließend ging er zum Büro im Obergeschoss, brach die Türen auf und durchsuchte die Räume vermutlich nach Bargeld, wobei er nicht fündig wurde und ohne Beute wieder verschwand. Sachdienliche Hinweise nimmt das Polizeirevier in Öhringen unter Tel. 07941/9300 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2058117,
-		"lon": 9.580770399999999
-	},
-	{
-		"date": "11/3/2013",
-		"description": "  Über die Terrassentüre versuchte ein Unbekannter, wie erst jetzt angezeigt wurde, am vergangenen Sonntag zwischen 16.30 und 22 Uhr in ein Wohnhaus in der Neubergstraße einzubrechen. Er scheiterte aber und verschwand. Zurück blieb jedoch ein angerichteter Schaden von 500 Euro. Vermutlich derselbe Täter machte sich noch einem Nachbarhaus zu schaffen. Der Einbrecher drang über ein Fenster an der Rückseite ein und durchsuchte die Räume. Da das Gebäude zurzeit unbewohnt ist, fand er dort nur leere Möbel vor und musste ohne Beute wieder abziehen. Auch hier blieb ein Schaden von gut 500 Euro zurück. Zeugen, die im Tatortbereich etwas Verdächtiges beobachtet haben, sollten sich unter Tel. 06294/234 beim Polizeiposten in Krautheim melden.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.33880620000001,
-		"lon": 9.8047167
-	},
-	{
-		"date": "11/4/2013",
-		"description": "  Über eine Seitenzugangstüre drang ein Unbekannter am vergangenen Montag zwischen 8.30 und 20.30 Uhr in ein Wohnhaus in der Rappacher Wilhelm-Busch-Straße ein. Anschließend durchsuchte der Täter die Räumlichkeiten, wobei er offenbar nichts entwendete, obwohl diverse Wertgegenstände dort offen herumlagen. Zeugen, die im Tatzeitraum etwas Verdächtiges beobachtet haben, sollten sich unter Tel. 07946/940010 beim Polizeiposten Bretzfeld melden.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1770377,
-		"lon": 9.4304132
-	},
-	{
-		"date": "11/28/2013",
-		"description": "Auf Bargeld hatte es ein bislang Unbekannter abgesehen, als er in der Nacht zum Mittwoch eine Firma in der Nordheimer Landturmstraße heimsuchte. Der Einbrecher hatte zunächst ein Fenster aufgebrochen und konnte so in das Innere des Gebäudes gelangen. Dort wurden mehrere Behältnisse durchsucht. Die genaue Höhe des Bargeldbetrages, welcher dem Täter dabei in die Hände fiel, ist  noch nicht bekannt. Sachdienliche Hinweise nimmt die Polizei Lauffen unter der Tel.Nr.: 07133/2090 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1119402,
-		"lon": 9.1321537
-	},
-	{
-		"date": "11/28/2013",
-		"description": "Bei einem Einbruch in Pfaffenhofen erbeutete ein bislang Unbekannter Zigaretten im Wert von mehreren tausend Euro. Der Einbrecher hatte sich dazu in der Nacht zum Mittwoch eine in der Heilbronner Straße gelegene Tankstelle ausgesucht. Nachdem der Täter ein Fenster aufgedrückt hatte und in das Gebäudeinnere gelangt war, nahm er die Zigaretten an sich und versuchte zudem noch, einen Safe aufzubrechen. Dies misslang jedoch. Der angerichtete Schaden dürfte mehrere tausend Euro betragen. Hinweise nimmt die Polizei Lauffen unter der Tel.Nr.: 07133/2090 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.06495229999999,
-		"lon": 8.9786383
-	},
-	{
-		"date": "11/26/2013",
-		"description": "Ein Haus im Ilsfelder Hölderlinweg war am Dienstag, gegen 18.45 Uhr, das Ziel eines bislang Einbrechers. Der Täter hatte eine Tür aufgehebelt und konnte so in das Innere des Gebäudes gelangen. Bei der anschließenden Durchsuchung fielen dem Unbekannten mehrere Uhren, Schmuckstücke und Briefmarkenalben in die Hände. Der genaue Wert des Diebesgutes ist derzeit noch nicht bekannt. Nach dem bisherigen Stand der Ermittlungen ist davon auszugehen, dass der Täter durch die Rückkehr der Hausbewohnerin in seiner weiteren Tatausführung gestört wurde und unerkannt flüchtete. Personen, die während des Abends rund um den Tatort verdächtige Wahrnehmungen machen konnten oder sonstige sachdienliche Hinweise geben können werden gebeten, sich unter der Tel.Nr.: 07062/915550 mit der Polizei Ilsfeld in Verbindung zu setzen.  ",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0654656,
-		"lon": 9.217806600000001
-	},
-	{
-		"date": "11/26/2013",
-		"description": "In der Nacht zum Dienstag wurde in das Bad Wimpfener Hohenstaufengymnasium in der Schulstraße eingebrochen. Der Unbekannte schlug dazu ein Fenster ein und konnte so in das Innere des Gebäudes gelangen. Außer einigen Videocassetten fiel dem Einbrecher wohl nichts in die Hände. Der Wert des Diebesgutes ist recht gering, allerdings beträgt der angerichtete Sachschaden mehrere hundert Euro. Hinweise nimmt die Polizei Bad Wimpfen unter der Tel.Nr.: 07063/93340 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2289679,
-		"lon": 9.1601941
-	},
-	{
-		"date": "11/22/2013",
-		"description": "Im fünfstelligen Euro-Bereich dürfte der Wert der Gegenstände liegen, welche in der Zeit von Freitag, 22. November bis Montag, 25. November 2013, bei einem Einbruch in Heilbronn gestohlen wurden. Ein Unbekannter hatte an einem Autohaus in der Stuttgarter Straße das Tor des Reifenlagers aufgebrochen und ließ von dort 16 Sätze Reifen samt Felgen, zwölf Reifen verschiedener Marken und Größen, einen Endschalldämpfer und zwei Dachboxen mitgehen. Der Abtransport muss mit einem größeren Fahrzeug vorgenommen worden sein. Sachdienliche Hinweise nimmt die Polizei Heilbronn unter der Tel.Nr.: 07131/104-2500 entgegen.  ",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1239966,
-		"lon": 9.2225668
-	},
-	{
-		"date": "11/25/2013",
-		"description": "Zwei Wohnungen in der Heilbronner Schäfergasse waren am Montag, in der Zeit von 7.30 Uhr bis 17.30 Uhr, das Ziel eines bislang unbekannten Einbrechers. Der Täter hatte zwei Türen aufgewuchtet und konnte so die Räume betreten. Bisher konnte nicht festgestellt werden, dass irgendetwas gestohlen wurde, allerdings sind die Ermittlungen noch nicht abgeschlossen. Sachdienliche Hinweise nimmt die Polizei Heilbronn unter der Tel.Nr.: 07131/104-2500 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1453829,
-		"lon": 9.2194326
-	},
-	{
-		"date": "11/25/2013",
-		"description": "Auf Bargeld hatte es offenbar ein bislang noch unbekannter Einbrecher am Montag, in der Zeit von 00.00 Uhr bis 07.00 Uhr, abgesehen. Der Täter hatte die Tür einer Gaststätte in der Heilbronner Wilhelmstraße aufgebrochen und konnte so in das Innere der Gaststätte gelangen. Dort wurden zwei Spielautomaten aufgewuchtet und das darin befindliche Geld entnommen. Die Höhe des Betrages steht derzeit noch nicht fest. Der angerichtete Sachschaden beläuft sich auf mehrere hundert Euro. Sachdienliche Hinweise nimmt die Polizei Heilbronn unter der Tel.Nr.: 07131/104-2500 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1355325,
-		"lon": 9.2190222
-	},
-	{
-		"date": "11/24/2013",
-		"description": "Mit einem Vorschlaghammer versuchten am Sonntagmorgen, kurz nach 5 Uhr, drei Unbekannte das Schaufenster eines Juweliers in der Heilbronner Lammgasse einzuschlagen. Es gelang dem Trio jedoch nicht, da es sich bei der Scheibe um Sicherheitsglas handelt. Zeugen beobachteten die Täter und sahen, wie sie mit einem silberfarbenen oder weißen VW Passat Kombi wegfuhren. Der PKW hatte ein Kennzeichen, das mit ST begann. Eventuell handelte es sich um ein ausländisches Kennzeichen. Die Unbekannten wurden beschrieben als 19 bis 30 Jahre alte Männer. Einer ist zwischen 1,70 Meter und 1,80 Meter groß und hat eine kräftige Figur. Zur Tatzeit war dieser Mann bekleidet mit einer hellen Kapuzenjacke, die im Bauch- und im Rückenbereich etwas dunkler ist. Außerdem trug er eine hellgraue Jogginghose. Bei dem Vorschlaghammer handelt es sich um ein neueres Werkzeug mit einem schwarz-gelben Kunststoffstiel. Diesen Hammer und eine Steppdecke, die wahrscheinlich zur Lärmdämpfung benutzt wurde, ließen die Einbrecher zurück. Die alarmierte Polizei leitete sofort nach der Alarmierung eine Fahndung ein. Zeugen, die wissen, wo der Vorschlaghammer gekauft wurde oder Hinweise auf die Täter haben, werden gebeten, sich mit dem Polizeirevier Heilbronn, Telefon 07131 104-2500, in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1443642,
-		"lon": 9.2191829
-	},
-	{
-		"date": "11/22/2013",
-		"description": "Ein bislang unbekannter Täter brach am gestrigen Freitag gegen 18.00 Uhr ein Fenster im Erdgeschoß eines Wohnhauses im Pestalozziweg auf und verschaffte sich so Zutritt in die Wohnung. Der Täter durchsuchte diverse Schränke und Schubladen. Soweit bislang bekannt wurde nichts entwendet. Der entstandene Sachschaden beläuft sich auf etwa 200 EURO.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1409881,
-		"lon": 8.912804699999999
-	},
-	{
-		"date": "11/22/2013",
-		"description": "In der Nacht zum vergangenen Freitag brach ein bislang unbekannter Täter an einem Firmengebäude in der Fuchshalde  ein Fenster auf und verschaffte sich so Zugang in das Gebäude. Im Rahmen der Durchsuchung eines Büros fiel dem Täter die Kaffeekasse mit Bargeld in Höhe von mehreren hundert EURO in die Hände.",
-		"type": "Wohnungseinbruch"
-	},
-	{
-		"date": "11/22/2013",
-		"description": "Ein bislang unbekannter Täter warf in der Nacht zum vergangenen Freitag mit einem Stein eine Fensterscheibe zum Sekretariat der Grundschule in der Hohe Straße ein und verschaffte sich so Zutritt ins Schulgebäude.  In mehreren Büros  wurden sämtliche Schränke durchwühlt und darüber hinaus im Lehrerzimmer einige Schrankfächer aufgebrochen. Dem Täter fielen neben einem geringen Geldbetrag eine Digitalkamera  und eine Kaffemaschine  im Gesamtwert von etwa 400 EURO in die Hände. Der angerichtete Sachschaden beläuft sich dagegen auf etwa 1.000 EURO.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2388573,
-		"lon": 9.204055199999999
-	},
-	{
-		"date": "11/22/2013",
-		"description": "In die Erlenbacher Kleintierzuchtanlage, die Am Hafenmarkt liegt, brachen Unbekannte in der Nacht zum Donnerstag ein. Die Täter überstiegen das Eisentor, drückten ein Fenster ein und stiegen durch dieses in das Gebäude. Von dort ließen sie einen blauen, 60X30X30 Zentimeter großen Brutkasten mitgehen. Außerdem stahlen sie einen Bosch-AkkuSchrauber mit Koffer.",
-		"type": "Wohnungseinbruch"
-	},
-	{
-		"date": "11/19/2013",
-		"description": "Bei einem Einbruch in ein Wohnhaus in Löwenstein-Hirrweiler, „Erlenäcker“, erbeutete ein bislang unbekannter Täter am Dienstag in der Zeit von 15.15 Uhr bis 17.00 Uhr mehrere Schmuckstücke von beträchtlichem Wert. Der Unbekannte hatte zuvor die Glasscheibe einer Tür eingeschlagen und konnte so in das Gebäudeinnere gelangen. Der angerichtete Sachschaden dürfte sich auf rund 1.000 Euro belaufen. Sachdienliche Hinweise nimmt die Polizei Weinsberg unter der Tel.Nr.: 07134/9920 entgegen.",
-		"type": "Wohnungseinbruch"
-	},
-	{
-		"date": "11/18/2013",
-		"description": "Ganz offensichtlich nur auf den Spielautomat hatten es Unbekannte abgesehen, die in der Nacht zum Montag in eine Gaststätte in Möckmühl eingebrochen haben. Vermutlich handelte es sich bei den Einbrechern um dieselben Täter, die sich bereits in der Nacht vom 30. auf 31. Oktober gewaltsam Zutritt zu dem Lokal in der Boschstraße verschafften. Auch damals brachen sie den Spielautomat auf und stahlen aus diesem das Bargeld. Sonst interessierte sie im Raum nichts. Die Polizei hofft, dass jemand im Möckmühler Gewerbegebiet Waagener Tal in der Nacht zum 31. Oktober oder zum 18. November verdächtige Personen oder Fahrzeuge beobachtet hat. Zeugen werden gebeten, sich mit dem Polizeiposten Möckmühl, Telefon 06298 92000, in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.31850790000001,
-		"lon": 9.3647785
-	},
-	{
-		"date": "11/17/2013",
-		"description": "Von 15:00 bis 20:30 Uhr waren die Bewohner eines Einfamilienhauses im Meimsheimer Siedlungsweg am vergangenen Sonntag nicht zu Hause. In dieser Zeit hebelten Unbekannte ein Fenster an dem Gebäude auf und gelangten offensichtlich durch dieses ins Innere. Dort durchsuchten sie Schubladen und ließen etwas Bargeld und Schmuck mitgehen. Vermutlich verließen sie das Gebäude durch die Haustüre, denn diese stand bei der Rückkehr der Familie einen Spalt offen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0662224,
-		"lon": 9.0821258
-	},
-	{
-		"date": "11/15/2013",
-		"description": "Am Freitag, 15.11.2013, im Zeitraum von 08.00 bis 17.45 Uhr, wurde in Neckarsulm in der Thüringer Straße in ein Einfamilienhaus eingebrochen. Durch das Aufbrechen einer Zugangstüre im Terrassenbereich gelangte der Einbrecher in das Hausinnere, in dem mehrere Zimmer durchsucht wurden. Einige Wertgegenstände wurden entwendet. Personen, die im Bereich der Thüringer Straße oder dem angrenzenden Wohngebiet Verdächtiges wahrgenommen haben, werden gebeten, sich telefonisch unter der Rufnummer 07132/93710 mit dem Polizeirevier Neckarsulm in Verbindung zu setzten.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2019471,
-		"lon": 9.2452987
-	},
-	{
-		"date": "11/13/2013",
-		"description": "Offensichtlich bei seinem Vorhaben gestört wurde ein Einbrecher am Mittwoch in Beilstein. Indem er zwischen 6.45 Uhr und 21.40 Uhr ein Fenster aufhebelte, versuchte er ins Innere einer Einliegerwohnung in der Wilhelm-Hauff-Straße zu gelangen. Danach flüchtete er ohne Beute und unerkannt. Zeugen die verdächtige Wahrnehmung gemacht haben werden gebeten, diese der Ilsfelder Polizei unter Telefon 07062/915550 zu melden.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.03925419999999,
-		"lon": 9.324490299999999
-	},
-	{
-		"date": "11/13/2013",
-		"description": "Gleich zwei Eppinger Firmen bekamen in der Nacht zum Mittwoch ungebetenen Besuch. In der Zeit zwischen 20.45 Uhr und 8 Uhr brachen die bislang unbekannten Einbrecher eine Türe am Firmengebäude in der Raußmühlstraße auf und gelangten so ins Innere. Nachdem sie eine weitere Türe gewaltsam geöffnet hatten gelangten sie in ein Büro und entwendeten daraus Bargeld in dreistelliger Höhe sowie eine Uhr. Der angerichtete Sachschaden am Gebäude dürfte schätzungsweise mehrere hundert Euro betragen.\n\nAuch in eine Firma in der Brettener Straße verschafften sich bislang Unbekannte durch das gewaltsame Öffnen eines Fensters Zutritt in die Räumlichkeiten. In einem Büro durchstöberten sie mehrere Schränke nach Wertgegenständen. Vermutlich wurden sie dabei von einem Mitarbeiter gestört, der kurz nach Mitternacht von einer Dienstfahrt zurückkam, worauf sie ohne Beute flüchteten. Eine bereits bereitgelegte Digitalkamera ließen sie ebenfalls  zurück. Ein Zusammenhang zwischen den beiden Einbrüchen ist möglich. Personen, die verdächtige Wahrnehmungen gemacht haben werden gebeten, sich mit der Eppinger Polizei unter Telefon, 07262/6095-0.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1309839,
-		"lon": 8.8942228
-	},
-	{
-		"date": "11/13/2013",
-		"description": "Gleich zwei Eppinger Firmen bekamen in der Nacht zum Mittwoch ungebetenen Besuch. In der Zeit zwischen 20.45 Uhr und 8 Uhr brachen die bislang unbekannten Einbrecher eine Türe am Firmengebäude in der Raußmühlstraße auf und gelangten so ins Innere. Nachdem sie eine weitere Türe gewaltsam geöffnet hatten gelangten sie in ein Büro und entwendeten daraus Bargeld in dreistelliger Höhe sowie eine Uhr. Der angerichtete Sachschaden am Gebäude dürfte schätzungsweise mehrere hundert Euro betragen.\n\nAuch in eine Firma in der Brettener Straße verschafften sich bislang Unbekannte durch das gewaltsame Öffnen eines Fensters Zutritt in die Räumlichkeiten. In einem Büro durchstöberten sie mehrere Schränke nach Wertgegenständen. Vermutlich wurden sie dabei von einem Mitarbeiter gestört, der kurz nach Mitternacht von einer Dienstfahrt zurückkam, worauf sie ohne Beute flüchteten. Eine bereits bereitgelegte Digitalkamera ließen sie ebenfalls  zurück. Ein Zusammenhang zwischen den beiden Einbrüchen ist möglich. Personen, die verdächtige Wahrnehmungen gemacht haben werden gebeten, sich mit der Eppinger Polizei unter Telefon, 07262/6095-0.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1309839,
-		"lon": 8.8942228
-	},
-	{
-		"date": "11/12/2013",
-		"description": "Ungebetenen Besuch erhielt der katholische Kindergarten St. Josef in Neudenau-Herbolzheim in der Nacht von Montag auf Dienstag. Die Unbekannten drangen auf eine bislang nicht nachvollziehbare Weise in das Gebäude ein. Da am Montagabend im Kindergarten die Martinsfeier mit vielen Besuchern stattfand schließt die Polizei nicht aus, dass sich die Täter nach der Veranstaltung einschließen ließen. Die Diebe brachen die verschlossene Türe zum Büro des Kindergartens auf und öffneten dort gewaltsam einen Aktenschrank, aus dem sie ein Laptop stahlen. Mit ihrer Beute verließen sie das Gebäude durch die Terrassentüre, die sie von innen öffneten.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2459874,
-		"lon": 9.3078044
-	},
-	{
-		"date": "11/10/2013",
-		"description": "Bislang unbekannte Einbrecher verschafften sich am Sonntag gewaltsam Zutritt in ein Wohnhaus im Zaberfelder Birkenweg. Zwischen 18.30 Uhr und 22.45 Uhr hebelten die Unbekannten ein Fenster auf und gelangten so ins Innere des Gebäudes. Dort durchstöberten sie verschiedene Behältnisse und entwendeten aus diesen einige Wertgegenstände sowie etwas Bargeld. Vermutlich über die Terrassentüre verließen sie das Haus. Der Wert des Diebesguts kann bislang nicht geschätzt werden. Am Gebäude entstand Sachschaden in Höhe von mehreren hundert Euro. Personen, die verdächtige Wahrnehmung gemacht haben, werden gebeten sich mit der Polizei Lauffen, unter Telefon 07133/2090 in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0549064,
-		"lon": 8.9285356
-	},
-	{
-		"date": "11/10/2013",
-		"description": "Mit brachialer Gewalt wuchteten Unbekannte am vergangenen Wochenende die Eingangstüre eines Kindergartens in der Grenchenstraße in Neckarsulm-Amorbach auf. Im Innern des Gebäudes durchsuchten sie alle Schränke und stahlen einen Computer mit Bildschirm sowie die Kaffeekasse der Erzieherinnen. Allein der angerichtete Sachschaden wurde auf über 1.500 Euro geschätzt.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.211559,
-		"lon": 9.2545317
-	},
-	{
-		"date": "11/8/2013",
-		"description": "Am Freitagabend, 08.11.2013, verschafften sich in der Zeit zwischen 18.00 und 20.00 Uhr unbekannte Täter gewaltsam Zutritt zu einem Wohnhaus in der Nordstraße und entwendeten daraus Bargeld und Schmuck. Der Einbruch wurde vom Wohnungseigentümer nach dessen Rückkehr festgestellt. Personen, die Zeugenhinweise zum Sachverhalt machen können, werden gebeten, sich mit der Polizei Heilbronn, Tel. 07131-104-2500, in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.14885229999999,
-		"lon": 9.2288522
-	},
-	{
-		"date": "11/8/2013",
-		"description": "Im Zeitraum zwischen Donnerstag, 07.11. und Freitag, 08.11.2013, 18.00 bis 07.00 Uhr, verschaffte sich im Ortsteil Züttlingen ein unbekannter Täter über eine Notausgangstüre Zutritt zum dortigen Kindergarten. Anschließend brach er einen Rollcontainer im Büroraum des Gebäudes gewaltsam auf und entwendete daraus ein Laptopgerät. Darüber hinaus fand er bei seiner weiteren Suche in einem Schrankfach eine verschlossene graue Geldkassette mit Bargeld, welche er, samt aufgefundenen Schlüsseln ebenfalls an sich nahm und entwendete. Der Gesamtschaden zur Tat beträgt ca. 1.600.- Euro.  \nPersonen, die Beobachtungen zum Sachverhalt mitteilen können, werden gebeten, sich mit dem Polizeirevier Neckarsulm, Tel. 07132-9371-0, in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2937658,
-		"lon": 9.336102600000002
-	},
-	{
-		"date": "11/7/2013",
-		"description": "Ein Laptop Acer erbeuteten Unbekannte in der Nacht zum Donnerstag in Untereisesheim. Die Einbrecher hängten ein gekipptes Fenster des Firmengebäudes am Kelterplatz aus und stiegen in das Büro ein. Für andere Elektronikgeräte interessierten sich die Täter offensichtlich nicht. Hinweise auf die Einbrecher hat die Polizei keine, weshalb eventuelle Zeugen, die im Bereich des Kelterplatzes verdächtige Wahrnehmungen gemacht haben gebeten, sich mit dem Posten Bad Wimpfen, Telefon 07063 93340, in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.20975749999999,
-		"lon": 9.2011103
-	},
-	{
-		"date": "11/7/2013",
-		"description": "Viel zu tun hatte die Polizei am Donnerstag im südlichen Landkreis. In Beilstein versuchten in der Nacht Unbekannte, in eine Gaststätte in der Hauptstraße einzubrechen. Sie wollten ein Fenster aufwuchten, was jedoch misslang. Bereits am 23. Oktober scheiterte am gleichen Haus ein Einbruchsversuch. Es wird nicht ausgeschlossen, dass es sich um dieselben Täter handelte.\n",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0404215,
-		"lon": 9.3145627
-	},
-	{
-		"date": "11/7/2013",
-		"description": "In Abstatt war eine Gaststätte in der Rathausstraße das Ziel von Langfingern. Nachdem diese in das Lokal eingebrochen waren, öffneten sie dort gewaltsam drei Geldautomaten und ließen die Inhalte mitgehen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.068034,
-		"lon": 9.289781
-	},
-	{
-		"date": "11/7/2013",
-		"description": "In Ilsfeld-Auenstein wuchteten Unbekannte ebenfalls in der Nacht von Mittwoch auf Donnerstag in den Dorfwiesen die Terrassentüre eines Wohnhauses auf. Im Gebäude durchsuchten sie alle Schränke. Seltsamerweise wurde offenbar nichts entwendet. Der angerichtete Sachschaden liegt wohl im vierstelligen Bereich.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0301047,
-		"lon": 9.3343203
-	},
-	{
-		"date": "11/7/2013",
-		"description": "\nIn Ilsfeld ertappten Arbeiter am Donnerstagmorgen um 10 Uhr einen 36-Jährigen, der gerade kleine Arbeitsmaschinen aus einem Rohbau trug. Bei einer anschließenden Überprüfung durch die alarmierte Polizei wurde festgestellt, dass der Mann bereits mehrere andere Maschinen mit einem Gesamtwert von rund 600 Euro gestohlen hatte. Er selbst sah seine Tat nicht als Diebstahl an, weil er alle Gegenstände nach seinen Angaben eigentlich in einem Müllcontainer entsorgen wollte. Interessant war der Promillewert, den ein Atemalkoholtest noch am Vormittag ergab: Er hatte über 3,2 Promille.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0540897,
-		"lon": 9.2516696
-	},
-	{
-		"date": "11/6/2013",
-		"description": "Einen ordentlichen Hunger hatte offensichtlich ein 42-Jähriger, der am Dienstag, kurz vor Mitternacht auf unbekannte Weise die Türen zu den Kühlräumen einer Metzgerei in Flein öffnete und diese betrat. Dort packte er Wurst und Brötchen in einen Rucksack und stellte sich außerdem eine Kiste mit Gemüse zum Abtransport bereit. Als er noch am „Arbeiten“ war kam der Besitzer nach Hause und bemerkte den ungebetenen Gast. Nachdem der Mann der Polizei übergeben worden war, stellten die Beamten fest, dass dieser ordentlich dem Alkohol zugesprochen hatte. Ein Atemalkoholtest erbrachte einen Wert von deutlich über zwei Promille.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1063225,
-		"lon": 9.2116708
-	},
-	{
-		"date": "11/5/2013",
-		"description": "Einbrecher waren in der Nacht zum Dienstag in Bad Wimpfen unterwegs. In der Schiedstraße rissen sie die Seiteneingangstüre einer Gaststätte gewaltsam auf. Im Innern wurde jedoch nichts gestohlen. ",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2282319,
-		"lon": 9.1596768
-	},
-	{
-		"date": "11/5/2013",
-		"description": "Auch in der Erich-Sailer-Straße machten sie keine Beute. Dort warfen sie um 02:40 Uhr die Scheibe eines Fensters einer Gaststätte mit einem Pflasterstein kaputt, öffneten es und stiegen ein. Als die Alarmanlage losging, flüchteten sie. Zeugen, die in der Nähe der beiden Lokale verdächtige Personen oder Fahrzeuge beobachtet haben, werden gebeten, sich mit dem Polizeiposten Bad Wimpfen, Telefon 07063 93340, in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.236441,
-		"lon": 9.1562509
-	},
-	{
-		"date": "11/3/2013",
-		"description": "Bargeld war das Ziel eines Einbrechers, der am Sonntag in ein Wohnhaus in der Gellmersbacher Ringstraße einstieg. Der Unbekannte brach in der Zeit zwischen 17 und 21 Uhr die Balkontüre auf und suchte in der Wohnung nach Bargeld. Nachdem er solches in noch nicht bekannter Höhe gefunden und eingesteckt hatte, verließ er das Gebäude wieder. Die Polizei hofft, dass jemand im betreffenden Zeitraum im Bereich der Ringstraße eine oder mehrere verdächtige Personen oder ein Fahrzeug gesehen hat. Zeugen werden gebeten, sich mit dem Polizeirevier Weinsberg, Telefon 07134 9920, in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1804704,
-		"lon": 9.2956583
-	},
-	{
-		"date": "11/2/2013",
-		"description": "Am Samstagabend, 02.11.2013, im Zeitraum von 18.45 bis 21.45 Uhr, wurde in der Jägerhausstraße in Abstatt ein Einfamilienhaus von Einbrechern aufgesucht. Die bisher unbekannten Täter stiegen über ein Küchenfenster, das zuvor aufgehebelt worden war ins Haus ein. Im Gebäudeinnern wurden sämtliche  Zimmer durchsucht und Schränke durchwühlt. Die Einbrecher erbeuteten einige Wertsachen und etwas Bargeld. Personen denen in Abstatt am Samstagabend etwas verdächtig erschienen ist, werden gebeten sich beim Polizeirevier Weinsberg unter der Tel Nr 07134/9920 zu melden.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0698355,
-		"lon": 9.2892426
-	},
-	{
-		"date": "10/31/2013",
-		"description": "Bislang Unbekannte drangen am Donnerstag in der Zeit zwischen 17.00 – 22.15 Uhr im Bereich Breitäcker in ein Einfamilienhaus ein. Die Täter gelangten durch das Einschlagen der Terrassentürfensterscheibe in das Haus und entwendeten aus einem Kinderzimmer einen geringen Bargeldbetrag. Hinweise über verdächtige Wahrnehmungen an das Polizeirevier Weinsberg unter Telefon 07134 9920.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.12898329999999,
-		"lon": 9.3579103
-	},
-	{
-		"date": "10/31/2013",
-		"description": "Unbekannte Täter drangen am Donnerstag in der Zeit zwischen 09.15 und 11.50 Uhr in ein Wohnhaus der Jägerhausstraße ein. Nach mehreren erfolglosen Versuchen an verschiedenen Türen gelangten die Täter durch Aufwuchten eines Wohnzimmerfensters ins Gebäude. Mit mehreren Apple-Geräten und Schmuck im Gesamtwert von mehreren Tausend Euro verschwanden die Einbrecher.\nHinweise über verdächtige Beobachtungen an die Kriminalpolizei Heilbronn unter Telefon 07131 104-4444.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.137134,
-		"lon": 9.2552646
-	},
-	{
-		"date": "10/31/2013",
-		"description": "Bislang Unbekannte drangen in der Zeit von Mittwoch, 22.45 Uhr bis Donnerstag, 09.00 Uhr gewaltsam in eine Gaststätte in der Boschstraße ein. Im Gastraum wurde ein Geldspielautomat aufgebrochen und die kompletten Kassetteneinsätze mit dem Münzgeld in noch unbekannter Höhe  entwendet. Der Sachschaden wird mit ca. 500 Euro angegeben.\nHinweise über verdächtige Beobachtungen an den Polizeiposten Möckmühl unter Telefon 06298 92000.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.31850790000001,
-		"lon": 9.3647785
-	},
-	{
-		"date": "10/31/2013",
-		"description": "Unbekannte drangen in der Zeit von Mittwoch, 22.20 Uhr bis Donnerstag, 07.50 Uhr in einen Imbiss in der Dieselstraße ein. Die Täter wuchteten die Eingangstür auf und machten sich am Geldspielautomat zu schaffen. Die Kassetteneinsätze mit dem Münzgeld wurden komplett entwendet. Zudem rissen die Einbrecher eine Gästesparkasse von der Wand und verschwanden damit. Der Sachschaden beläuft sich auf ca. 800 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.14686039999999,
-		"lon": 9.1241723
-	},
-	{
-		"date": "12/11/2013",
-		"description": "Bereits zum zweiten Mal innerhalb weniger Wochen, drangen bislang unbekannte Einbrecher in eine Gaststätte in der Heilbronner Käferflugstraße ein und brachen dort zwei Geldspielautomaten auf. In der Nacht zum Dienstag hebelten die Einbrecher eine Türe auf und gelangten so in das Gebäude. Aus den gewaltsam geöffneten Geldspielautomaten entwendeten sie das Münzgeld. Weiterhin entstand Sachschaden in Höhe von mehreren hundert Euro. Zeugen melden sich bitte bei der Heilbronner Polizei, Telefon 07131/104-2500.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1549567,
-		"lon": 9.2266506
-	},
-	{
-		"date": "12/14/2013",
-		"description": "Bislang unbekannte Einbrecher suchten am vergangenen Wochenende ein Wohn- und Geschäftshaus in der Talheimer Bahnhofstraße heim. Vermutlich am Samstagnachmittag oder den frühen Abendstunden verschafften sich die Diebe gewaltsam Zutritt in das Gebäude, indem sie ein Fenster aufhebelten und in die Räumlichkeiten gelangten. In der Wohnung durchstöberten sie das Inventar nach möglichem Diebesgut, wobei ihnen Bargeld in noch nicht bekannter Höhe in die Hände fiel. Auch aus dem Verkaufsraum einer Gärtnerei, die sich im Erdgeschoss des Hauses befindet, entwendeten die Langfinger aus einem Portemonnaie Bargeld. Da sich das Gebäude im Talheimer Ortskerne befindet hofft die Polizei auf Zeugen. Diese setzen sich bitte mit der Untergruppenbacher Polizei, Telefon 07131/644630, in Verbindung.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0847613,
-		"lon": 9.194117199999999
-	},
-	{
-		"date": "12/14/2013",
-		"description": "In der Samstagnacht verschafften sich unbekannte Einbrecher Zugang zu einer Metzgerei in Talheim und entwendeten einen Laptop. Sie drangen gewaltsam in das Gebäude ein, indem sie zuerst mehrere Fenster im Obergeschoss aufhebelten und schließlich über den Balkon in die angrenzende Wohnung und von dort in die Büroräume der Metzgerei gelangten. Der Laptop blieb das einzige Diebesgut, dass die Täter mitnahmen. Anschließend verließen sie das Gebäude wieder über ein Fenster der Metzgerei.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0831096,
-		"lon": 9.1938133
-	},
-	{
-		"date": "12/14/2013",
-		"description": "  Zwei Kellerräume eines Mehrfamilienhauses in der Rappacher Steinsfeldstraße brachen Unbekannte in der Nacht zum Samstag auf. Aus einem der Räume entwendeten sie diverse Taucherutensilien im Wert von über 2.400 Euro sowie eine Schlagbohrmaschine der Marke Derwald im Wert von 500 Euro. Aus dem zweiten Raum wurde ein Hilti-Bohrhammer, ein Bosch-Akkuschrauber, eine Handkreissäge, eine Stichsäge sowie eine Werkzeugkiste entwendet. Sachdienliche Hinweise nimmt der Polizeiposten Bretzfeld unter Tel. 07946/940010 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1774929,
-		"lon": 9.4283681
-	},
-	{
-		"date": "12/16/2013",
-		"description": "  An der Haustüre eines Mehrfamilienhauses in der Gerberstraße machte sich ein Unbekannter in der Nacht zum Montag zu schaffen. Seine Versuche, die gut gesicherte Türe aufzubrechen, scheiterten jedoch, weshalb er wieder verschwand. Zurück blieb ein Schaden von einigen Hundert Euro. Zeugen, die etwas Verdächtiges beobachtet haben, sollten sich unter Tel. 07940/8294 beim Polizeiposten melden.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2956648,
-		"lon": 9.6190617
-	},
-	{
-		"date": "12/15/2013",
-		"description": "In einem Neubau eines Firmengebäudes an der Künzelsauer Straße suchten Unbekannte am vergangenen Wochenende nach Stehlenswertem. Dabei hatten es die Täter auf Baumaschinen abgesehen. Aus einem Heizungsraum entwendeten sie drei Boschgeräte, einen Schlagschrauber, einen Bohrhammer und einen Akkuschrauber mit Tigersäge sowie einen Olsen-Rätschenkasten im Gesamtwert von 2.000 Euro. Sachdienliche Hinweise zu dem Diebstahl nimmt der Polizeiposten Niedernhall unter Tel. 07940/8294 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2989931,
-		"lon": 9.6552853
-	},
-	{
-		"date": "12/15/2013",
-		"description": " Vermutlich in der Nacht von Samstag auf Sonntag versuchten  unbekannte Täter ein Fenster des Kindergarten in der Straße Am Hofgarten aufzuhebeln. Nachdem dies nicht gelang, wurde das Fenster mit einem Stein eingeworfen und entriegelt. Danach durchsuchten sie die Räumlichkeiten. Derzeit ist noch nicht bekannt, ob die Täter Gegenstände entwendet haben. Angaben über die Schadenshöhe liegen nicht vor.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2029952,
-		"lon": 9.9800153
-	},
-	{
-		"date": "12/11/2013",
-		"description": " Aus einer Garage in der Riemenschneiderstraße verschwand am Mittwoch zwischen 14.30 und 17.30 Uhr ein kompletter Satz Sommerreifen im Wert von 800 Euro. Die Polizei ermittelt.  ",
-		"type": "Wohnungseinbruch",
-		"lat": 49.3449464,
-		"lon": 9.9887489
-	},
-	{
-		"date": "12/10/2013",
-		"description": "Ein Einbrecher hebelte am Montag oder Dienstag ein Fenster eines Wohnhauses in der Straße ‚Ottennab‘ auf und stieg ein. Erbeutet hat er nichts. Möglicherweise fühlte sich der Eindringling gestört und zog deshalb wieder ab.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0739836,
-		"lon": 9.7690664
-	},
-	{
-		"date": "12/9/2013",
-		"description": "Einbrecher hebelten am Montag zwischen 7 und 18.15 Uhr das Küchenfenster eines Hauses im Saarweg auf. Sie stiegen ein und durchsuchten mehrere Räume. Mit einer geringen Bargeldmenge und einer Brille verschwanden sie. Die Polizei ermittelt.  ",
-		"type": "Wohnungseinbruch",
-		"lat": 49.10184350000001,
-		"lon": 9.774199
-	},
-	{
-		"date": "12/8/2013",
-		"description": " Unbekannte hebelten am Sonntag zwischen 10 und 23.15 Uhr eine Terrassentüre in der Albrecht-Dürer-Straße auf. Dann drangen sie in das Haus ein und durchsuchten sämtliche Räume. Die Einbrecher erbeuteten nach dem derzeitigen Stand der Ermittlungen Schmuck und Bargeld im Wert von einigen hundert Euro. Die genaue Höhe des Sachschadens ist noch unklar.  ",
-		"type": "Wohnungseinbruch",
-		"lat": 49.3453481,
-		"lon": 9.988844199999999
-	},
-	{
-		"date": "12/5/2013",
-		"description": " In der Nacht vom 4. auf 5.12.13 versuchten Unbekannte die Eingangstür eines Hotels in der Hauffstraße aufzubrechen. Es blieb jedoch beim Versuch – Schaden 200 €.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1019146,
-		"lon": 9.7353282
-	},
-	{
-		"date": "12/5/2013",
-		"description": " In der Nacht zum Donnerstag hebelte ein Unbekannter die Türe zu einer Arztpraxis auf. Der Täter durchsuchte sämtliche Behandlungsräume. Er entwendete ein Laptop, verschiedene Rezepte und Medikamente. Außerdem nahm er noch ein Sparschwein und einen Arztkoffer mit. Durch den Einbruch entstand ein Schaden von über 2000 Euro.",
-		"type": "Wohnungseinbruch"
-	},
-	{
-		"date": "12/4/2013",
-		"description": " In der Zeit zwischen Montag und Mittwoch versuchte in der Liststraße ein Unbekannter die Kellertüre eines Wohnhauses aufzuhebeln. Dies gelang ihm jedoch nicht. An der Türe entstand ein Schaden von 500 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9968224,
-		"lon": 9.7649534
-	},
-	{
-		"date": "12/2/2013",
-		"description": " Am Montagnachmittag schlich sich ein Unbekannter in das Treppenhaus eines Bürogebäudes in der Schönebürgstraße. Er entriegelte im Treppenhaus ein Fenster, das nicht bemerkt wurde. In der Nacht zum Dienstag stieg der Täter über das Fenster ein. Im Obergeschoss des Gebäudes brach er die Eingangstüre zu verschiedenen Büroräumen auf. Er durchsuchte Schränke, Schubladen und Container. Dabei fiel dem Einbrecher Bargeld in die Hände. Der entstandene Sachschaden beläuft sich auf über 2000 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.142332,
-		"lon": 10.0894418
-	},
-	{
-		"date": "12/1/2013",
-		"description": " Schmuck, zwei Computer und Bargeld erbeutete am Sonntag ein Einbrecher in der Gartenstraße. Der Unbekannte brach in der Zeit zwischen 16 Uhr und 19.15 Uhr zunächst eine Tür zum Wintergarten des Hauses auf. Nachdem er dahinter die Terrassentür aufgehebelt hatte, gelangte er in das Haus. Er durchsuchte sämtliche Räume, Schränke und Schubladen. Verschlossene Türen wurden aufgehebelt. Bei dem Einbruch entstand ein Schaden von einigen tausend Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9977919,
-		"lon": 9.7684839
-	},
-	{
-		"date": "12/1/2013",
-		"description": "In der Nacht zum Sonntag brach ein Unbekannter in ein Clubheim am Luckenbacher See ein. Der Täter hebelte ein Fenster auf. Er durchsuchte sämtliche Schränke und Schubladen nach Bargeld. Durch den Einbruch entstand ein Schaden von knapp 200 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1167034,
-		"lon": 9.745585799999999
-	},
-	{
-		"date": "11/28/2013",
-		"description": " Am Donnerstag, in der Zeit zwischen 13.30 Uhr und 18.30 Uhr,  drangen unbekannte Täter in eine Wohnhaus in der Aspacher Straße ein, indem sie die Terrassentüre aufhebelten. In Abwesenheit der Bewohner durchsuchten sie nahezu sämtliche Räumlichkeiten und entwendeten mehrere hundert Euro sowie Schmuck mit derzeit noch unbekanntem Wert. Der Sachschaden am Gebäude wird mit 500,-- Euro angegeben.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1633929,
-		"lon": 9.909319
-	},
-	{
-		"date": "11/28/2013",
-		"description": " In ein Mehrfamilienhaus in der Staufenstraße in Onolzheim drang ein Unbekannter am Donnerstag ein. In der Zeit zwischen 9.30 Uhr und 20 Uhr hebelte der Täter ein Fenster auf und stieg zunächst in das Treppenhaus ein. Er gelangte in eine unverschlossene Wohnung. Der Einbrecher nahm Bargeld und Schmuck mit. Es entstand ein Schaden von 700 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1159793,
-		"lon": 10.0380955
-	},
-	{
-		"date": "11/28/2013",
-		"description": " Bargeld suchte am Donnerstag ein Einbrecher in einem Wohnhaus in der Blumenstraße. Der Täter hebelte in der Zeit zwischen 12 Uhr und 19.15 Uhr die Terrassentür des Hauses auf. Er drang in das Schlafzimmer ein und durchsuchte es. Dem Einbrecher fiel eine geringe Menge Bargeld in die Hände. Die Höhe des entstandenen Sachschadens steht noch nicht fest.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0434789,
-		"lon": 9.9029635
-	},
-	{
-		"date": "11/28/2013",
-		"description": " Schmuck und Münzen erbeutete am Donnerstag ein Einbrecher in einem Haus in der Wiesenstraße. Nach den Ermittlungen der Polizei schlug der Unbekannte zunächst an der Rückseite des Gebäudes einen Bewegungsmelder herunter. Anschließend hebelte er ein Fenster auf. Der Unbekannte durchsuchte das Haus. Nach den bisherigen Feststellungen entstand ein Sachschaden von über 1000 Euro. Der Einbruch wurde um 19.45 Uhr entdeckt.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0398224,
-		"lon": 9.861208999999999
-	},
-	{
-		"date": "11/27/2013",
-		"description": " Unbekannte brachen entweder am Dienstag oder am Mittwoch in der Weikstraße in ein Wohnhaus ein. Die Täter brachen die Terrassentür auf. Sie durchsuchten das gesamte Haus. Nach den bisherigen Feststellungen erbeuteten die Einbrecher Bargeld, Schmuck, Uhren und Kreditkarten. Die Höhe des Sachschadens steht noch nicht fest, da sich die Hausbesitzer derzeit im Urlaub befinden.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1282127,
-		"lon": 10.0575128
-	},
-	{
-		"date": "11/25/2013",
-		"description": " Im Zeitraum vom 23.11.2013 bis 25.11.2013, 16:00 Uhr wurde ein Haus in der Elsenbergstraße durch Einbrecher aufgesucht. Die Hauseigentümerin war zu dieser Zeit nicht zu Hause. Die Einbrecher hinterließen einen Sachschaden in Höhe von 700 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2025559,
-		"lon": 9.794987299999999
-	},
-	{
-		"date": "11/26/2013",
-		"description": "In der Nacht von Montag auf Dienstag brach ein unbekannter Täter in eine Vereinsgaststätte in Nestelberg  ein. Hierbei wurde ein Fenster aufgehebelt. Im Gebäude wurde eine weitere Tür aufgehebelt. Der Einbrecher durchsuchte die Räumlichkeiten und verursachte einen Gesamtschaden in Höhe von 1500 Euro. ",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9594754,
-		"lon": 9.8495285
-	},
-	{
-		"date": "11/26/2013",
-		"description": "Gleich zwei Büroräume wurden In der Nacht von Montag auf Dienstag durch Einbrecher aufgesucht. Ein Büro in der Herrengasse und ein weiteres Büro ‚Am Markt‘. Aus den Büroräumen wurde Bargeld entwendet. Die Einbrecher verursachten einen Gesamtschaden in Höhe von 3900 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.114641,
-		"lon": 10.0341421
-	},
-	{
-		"date": "11/26/2013",
-		"description": "Gleich zwei Büroräume wurden In der Nacht von Montag auf Dienstag durch Einbrecher aufgesucht. Ein Büro in der Herrengasse und ein weiteres Büro ‚Am Markt‘. Aus den Büroräumen wurde Bargeld entwendet. Die Einbrecher verursachten einen Gesamtschaden in Höhe von 3900 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.114641,
-		"lon": 10.0341421
-	},
-	{
-		"date": "11/26/2013",
-		"description": " Durch Unbekannte wurde die Realschule am Karlsberg am Dienstag heimgesucht. Gegen 21.10 Uhr wurde ein Fenster geöffnet und die Schule betreten. Die Täter wurden offensichtlich gestört und flüchteten. Neben der Realschule befindet sich eine Großsporthalle. In dieser befanden sich zur gleichen Zeit mehrere Sportler. Das Polizeirevier Crailsheim Telefon. 07951/480-222 bittet um Zeugenhinweise.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1446544,
-		"lon": 10.0735668
-	},
-	{
-		"date": "11/25/2013",
-		"description": " Einbrecher suchten in der Nacht auf Montag einen Verbrauchermarkt ‚Im Seetal‘ auf. Der Versuch, die Haupteingangstür aufzuhebeln, misslang jedoch. Durch die Einbrecher wurde ein Schaden von 300 Euro verursacht.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.07587239999999,
-		"lon": 9.5642189
-	},
-	{
-		"date": "11/25/2013",
-		"description": " Einen hohen Sachschaden hinterließ ein unbekannter Einbrecher an einem Betrieb  in Altenmünster. Der in der Straße ‚Zur Flügelau‘ ansässige Elektrogroßhandel wurde in der Zeit zwischen Sonntag, 14 Uhr auf Montag, 6.20 Uhr durch unbekannte Täter heimgesucht. Der Täter versuchten zunächst eine Eingangstür aufzubrechen. Dies misslang jedoch. Anschließend stieg der Täter über das Tor in den Hofraum und versuchte die Tür eines Rolltores mit brachialer Gewalt aufzuhebeln. Auch dies gelang dem Täter nicht. Der verursachte Sachschaden wird auf 5000 Euro geschätzt.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1306473,
-		"lon": 10.0494214
-	},
-	{
-		"date": "11/23/2013",
-		"description": " Unbekannte Täter brachen am Samstag, zwischen 17.00 Uhr und Mitternacht, in Horschhausen in ein Wohnhaus ein. Sie entwendeten einen Tresor und eine Geldkassette mit einem vierstelligen Bargeldbetrag. Zum Abtransport müssen die Täter ein Fahrzeug benutzt haben. Zeugen werden gebeten, sich beim Polizeirevier Crailsheim zu melden.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1810596,
-		"lon": 10.1551319
-	},
-	{
-		"date": "11/23/2013",
-		"description": "Unbekannte Täter brachen zwischen Freitag, 19.00 Uhr und Samstag, 08.30 Uhr, im Spitalbach in ein Friseurgeschäft ein. Gestohlen wurde ein Laptop im Wert von 300 €. Am Gebäude entstand ein Schaden von 200 €.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1133945,
-		"lon": 9.7351192
-	},
-	{
-		"date": "11/21/2013",
-		"description": "Am Donnerstag zwischen 00.30 und 09.00 Uhr drangen Unbekannte in der Michael-Rauck-Straße über ein Fenster in ein Bistro ein. In einem Nebenraum brachen die Täter einen Zigarettenautomat auf. Schaden ca. 3000 €.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.131336,
-		"lon": 10.0844978
-	},
-	{
-		"date": "11/21/2013",
-		"description": " Unbekannte schlugen am Donnerstag zwischen 00.15 und 09.30 ein Fenster einer Gaststätte  in der Schenkenseestraße ein. Es wurde nur ein geringer Geldbetrag entwendet. Der entstandene Schaden ist noch nicht bekannt. Zeugen des Vorfalls werden gebeten sich mit dem Polizeirevier Schwäbisch Hall  in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1140628,
-		"lon": 9.7529718
-	},
-	{
-		"date": "11/20/2013",
-		"description": " Mit einem Geißfuß wollten Einbrecher in der Nacht zum Mittwoch die Türe einer Gaststätte in der Bahnhofstraße aufhebeln. Sie schafften es jedoch nicht und verschwanden ohne Beute. Zurück blieb Sachschaden in Höhe von rund 100 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.140716,
-		"lon": 10.0663294
-	},
-	{
-		"date": "11/18/2013",
-		"description": " Ein bislang unbekannter Täter brach am Montag zwischen 16 Uhr und 18.30 Uhr in eine Wohnung eines Mehrfamilienhauses in der Paul-Thierfelder-Straße ein. Er hebelte die Wohnungstüre auf und entwendete Bargeld. Der Gesamtschaden beläuft sich auf knapp 1000 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.983707,
-		"lon": 9.7708402
-	},
-	{
-		"date": "11/17/2013",
-		"description": "Am Wochenende brachen unbekannte Täter im Steinbeisweg in einen Möbelmarkt ein. Mit brachialer Gewalt wurden eine Stahltüre und eine Gartentüre aufgebrochen. Im Gebäude wurden die Arbeitsplätze, Kassen und der Aufenthaltsraum durchsucht und verschiedene Gegenstände entwendet. Der Gesamtschaden beläuft sich auf über tausend Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1043899,
-		"lon": 9.7032361
-	},
-	{
-		"date": "11/17/2013",
-		"description": " Am Wochenende drangen unbekannte Täter in eine Werkstatt ‚Am Ripperg‘ ein. Sie brachen ein Rolltor auf und schlugen mehrere Fensterscheiben ein. Die Werkhalle, der Aufenthaltsraum sowie mehrere Büros und Schränke wurden durchsucht. Nach dem derzeitigen Ermittlungsstand wurde nichts gestohlen. Der Sachschaden beläuft sich auf 600 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1252495,
-		"lon": 9.736525799999999
-	},
-	{
-		"date": "11/17/2013",
-		"description": " Ein bislang unbekannter Täter brach in der Zeit von 16 Uhr bis 21.30 Uhr in eine Wohnung in einem Mehrfamilienhaus in der Wolfgangstraße ein. Er durchsuchte das Schlafzimmer und entwendete neben Bargeld noch den Personalausweis und die EC-Karte der Wohnungsinhaberin. Es entstand ein Schaden von einigen hundert Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1435928,
-		"lon": 10.0529945
-	},
-	{
-		"date": "11/17/2013",
-		"description": " In einem Mehrfamilienhaus im Ebbachweg, versuchte am Sonntag in der Zeit zwischen 14 Uhr und 18.30 Uhr ein Unbekannter eine Wohnung aufzubrechen. Die Eingangstüre hielt jedoch dem Aufbruchsversuch stand. An der Türe entstand ein Schaden von 300 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.05732,
-		"lon": 9.8912722
-	},
-	{
-		"date": "11/17/2013",
-		"description": " Ein bislang unbekannter Täter brach in der Nacht zum Sonntag in einen Imbiss ‚Im Seetal‘ ein. Zunächst versuchte er die Terrassentüre aufzuhebeln. Als dies nicht gelang schlug er die Scheibe ein. Er durchsuchte den Thekenbereich und entwendete aus einer Kasse Bargeld. Aus dem Kühlschrank nahm er noch einige Dosen eines Energy-Drinks mit. Durch den Einbruch entstand ein Schaden von 1500 Euro. Ein Nachbar machte am Samstag gegen 23.45 Uhr in unmittelbarer Nähe des Imbiss eine verdächtige Wahrnehmung. Auf dem Gerüst eines Hauses hielt sich eine Person auf. Dieser versuchte offensichtlich in das Gebäude einzusteigen. Der Unbekannte flüchtete.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.07587239999999,
-		"lon": 9.5642189
-	},
-	{
-		"date": "11/16/2013",
-		"description": "In der Zeit vom 9. bis 16.11.13 drangen Unbekannte über eine Balkontür in ein Einfamilienhaus in der Hindenburgstraße\nein. Sie nutzen offensichtlich die Abwesenheit der Eigentümer aus und entwendeten Schmuck und Bargeld. Es entstand Schaden von 1000 €. Zeugen des Einbruchs werden gebeten sich mit dem Polizeirevier Crailsheim in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1278491,
-		"lon": 10.0547277
-	},
-	{
-		"date": "11/16/2013",
-		"description": "In der Nacht von Freitag auf Samstag versuchten Unbekannte in der Sulzdorfer Straße die Eingangstür eines Blumenladens aufzubrechen. Es blieb jedoch beim Versuch. Die Schadenshöhe ist noch nicht bekannt. Zeugen des Vorfalls werden gebeten sich mit dem Polizeirevier Schwäbisch Hall in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.107692,
-		"lon": 9.777355799999999
-	},
-	{
-		"date": "11/16/2013",
-		"description": "Unbekannte öffneten in der Nacht von Freitag auf Samstag mehrere Garagen im Dinkelweg und in der Alten Hessentaler Straße. Die Täter durchsuchten danach mehrere  Fahrzeuge. Ob etwas entwendet wurde ist momentan noch nicht bekannt. Zeugen wenden sich bitte unter Tel. 0791 4000 an das Polizeirevier Schwäbisch Hall.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0991945,
-		"lon": 9.759443
-	},
-	{
-		"date": "11/15/2013",
-		"description": " Auf Hochtouren läuft die Fahndung nach zwei flüchtigen Männern. Nach dem derzeitigen Ermittlungsstand drangen die beiden in der Nacht zum Freitag gegen 22.35 Uhr in ein Wohnhaus in der Rossbürger Straße in Michelbach an der Lücke ein. Als der 75-jährige Bewohner verdächtige Geräusche hörte, rief er über Notruf die Polizei. In diesem Augenblick überwältigten ihn die Unbekannten, fesselten ihn mit Klebeband und schlugen auf ihn ein. Zudem rissen sie das Kabel aus dem Telefon. Dann flüchteten sie mit einigen hundert Euro Bargeld. Wenig später war eine Polizeistreife vor Ort und befreite den 75-jährigen Mann, der mit leichten Verletzungen davonkam. \nTrotz einer sofort eingeleiteten Großfahndung fehlt von den beiden Tatverdächtigen bislang noch jede Spur. Die beiden Männer sind zwischen 20 und 30 Jahren alt und stammen vermutlich aus dem Bereich Rumänien. Einer von ihnen war mit einer dunklen Jeans und einer dunklen Kapuzenjacke bekleidet.\nDie Kripo in Crailsheim bittet die Bevölkerung um Mithilfe.\nWer in der Nacht zum Freitag im Bereich von Michelbach an der Lücke verdächtige Personen oder Fahrzeuge beobachtet hat, möchte sich bitte unter Telefon 07951/4800 melden. Da nicht ausgeschlossen werden kann, dass das Gebäude ‚ausbaldowert‘ worden ist, sind für die Polizei auch verdächtige Beobachtungen wichtig, die vielleicht schon einige Tage zurück liegen können.   ",
-		"type": "Wohnungseinbruch",
-		"lat": 49.23575169999999,
-		"lon": 10.1122127
-	},
-	{
-		"date": "11/14/2013",
-		"description": " In der Zeit zwischen 13.30 Uhr und 18.45 Uhr waren am Donnerstag Langfinger in Mariäkappel im ,Ruhefeld‘ unterwegs. Sie hebelten ein Fenster auf einer Gebäuderückseite auf und gelangten so ins Haus. Im Gebäude wurden sämtliche Zimmer durchsucht und einige Schmuckgegenstände entwendet. Die genaue Schadenshöhe ist noch nicht bekannt. Die Polizei ermittelt.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1589238,
-		"lon": 10.1700698
-	},
-	{
-		"date": "11/14/2013",
-		"description": " Ein aufmerksamer Zeuge reagierte am Donnerstagabend schnell und verständigte über eine verdächtige Wahrnehmung die Polizei. Er stellte um 19.30 Uhr in einem Gebäude der Berufsschule Taschenlampenlicht fest.\nEs wurden sofort mehrere Streifen mit der Überprüfung beauftragt. Sie waren rasch am Einsatzort und umstellten das Gebäude. In diesem Augenblick sprang ein Mann aus einem Fenster und flüchtete. Die Beamten waren jedoch schneller und nahmen den Flüchtenden fest. Es handelte sich um einen 27-Jährigen aus dem Hohenlohekreis. Bei der Überprüfung der Schule stellte sich heraus, dass der 27-Jährige am Abend eine Eingangstüre aufgebrochen hatte. In dem Gebäude wuchtete er einen Kaffeeautomaten auf. Er entnahm das Bargeld. Anschließend brach er zwei Bürotüren auf und durchsuchte die Räume. Dem Täter fiel Münzgeld in die Hände. Das Geld wurde sichergestellt.\nDurch den Einbruch entstand ein Schaden von rund 3000 Euro. Der 27-Jährige ist geständig. Er befindet sich inzwischen wieder auf freiem Fuß.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.101729,
-		"lon": 9.7382827
-	},
-	{
-		"date": "11/12/2013",
-		"description": " Im Gewann ‚Hasenbühl‘ brach in der Nacht zum Dienstag ein Unbekannter eine Waldhütte auf. Der Täter nahm ein Stromaggregat und eine Motorfräse mit. Das Diebesgut hat einen Wert von 1000 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1167034,
-		"lon": 9.745585799999999
-	},
-	{
-		"date": "11/11/2013",
-		"description": " Im ‚Köberle‘ in Gelbingen versuchte am Montagnachmittag ein Unbekannter eine Haustür aufzuhebeln. Dies gelang ihm jedoch nicht. Der Schaden beläuft sich auf 300 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1338598,
-		"lon": 9.7412899
-	},
-	{
-		"date": "11/10/2013",
-		"description": " In der Nacht zum Sonntag drückten Unbekannte in der Färbergasse ein Fenster auf und drang in einen Feinkostladen ein. Durch das Öffnen des Fensters wurde eine neuwertige Espresso-Maschine auf den Boden geworfen und total beschädigt. Die Einbrecher entwendeten aus einer Kasse Bargeld. Nachbarn hörten am Sonntagmorgen um 4.45 Uhr im Bereich der Färbergasse verdächtige Geräusche. Vermutlich waren die Täter zu diesem Zeitpunkt am Werk. Wenig später liefen drei Männer in Richtung Ackeranlagen davon. Durch den Einbruch entstand ein Schaden von mehreren hundert Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1102225,
-		"lon": 9.7339419
-	},
-	{
-		"date": "11/10/2013",
-		"description": " In der Nacht zum Sonntag versuchte ein Unbekannter zunächst die Türe zu einem Lagerraum einer Gaststätte in der Spitalmühlenstraße aufzuhebeln. Als dies nicht gelang, brach er eine Terrassentüre auf. Anschließend durchsuchte er den Gastraum und Thekenbereich. Er entwendete eine geringe Menge Kleingeld. Danach begab sich der Unbekannte in die Lagerräume der Gaststätte und durchsuchte verschiedene Schränke und Schubladen. Bevor er die Gaststätte verließ, bereitete er sich noch mit den vorhandenen Zutaten eine Pizza zu. Aus dem Lagerraum nahm er noch verschiedene Getränke mit. Es entstand ein Schaden von einigen hundert Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1220988,
-		"lon": 9.7348617
-	},
-	{
-		"date": "11/9/2013",
-		"description": " Drei Männer  versuchten gegen 02.00 Uhr die Eingangstüre zu einem Laden aufzuhebeln. Durch den entstandenen Lärm wurden Anwohner aufmerksam und verständigten die Polizei.  Als die Täter zu Fuß die Flucht ergriffen, wurden sie noch kurze Zeit von Zeugen verfolgt, aber aus den Augen verloren. Alle drei waren dunkel und sportlich gekleidet. Über den entstandenen Sachschaden liegen noch keine Erkenntnisse vor. Die Ermittlungen hierzu dauern an.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.12369229999999,
-		"lon": 9.7175324
-	},
-	{
-		"date": "11/7/2013",
-		"description": " Am Donnerstagabend drangen Unbekannte in der Zeit zwischen 18 und 20 Uhr in ein Gebäude ‚Am Berg‘ ein. Wie sie in das Haus gelangten, ist unklar. Die Eindringlinge durchsuchten mehrere Räume. Was im Einzelnen erbeutet wurde, ist noch unklar. Die Polizei ermittelt. ",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1518931,
-		"lon": 9.7310049
-	},
-	{
-		"date": "11/7/2013",
-		"description": " In der Zeit von Mittwochabend bis Donnerstagmorgen wurden ein schwarzes Trekkingrad der Marke KTM und ein weißes Trekkingrad der Marke Bulls aus einer Garage im Tilsiter Weg entwendet. Der Gesamtwert der Fahrräder beträgt 700 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.10263279999999,
-		"lon": 9.7230738
-	},
-	{
-		"date": "11/2/2013",
-		"description": "In der Nacht zum Samstag  drang ein Unbekannter in ein Gebäude in Gröningen, Gröninger Hauptstraße, ein.\nDas Gebäude wurde durchsucht, aber offenbar wurde nichts entwendet. Schaden 300 €.",
-		"type": "Wohnungseinbruch",
-		"lat": 51.9255384,
-		"lon": 11.2637226
-	},
-	{
-		"date": "11/2/2013",
-		"description": "In der gleichen Nacht wurde ein Haus in Gröningen, im Neuweg, von einem Unbekannten heimgesucht. Der Täter entwendete Schmuck und Bargeld in bislang unbekannter Höhe.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1871598,
-		"lon": 10.0661076
-	},
-	{
-		"date": "11/2/2013",
-		"description": " In der Nacht zum Samstag versuchte ein Unbekannter in eine Gaststätte in der Michael-Rauck-Straße einzudringen, scheiterte jedoch am Fenster. Schaden 500 €.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.131336,
-		"lon": 10.0844978
-	},
-	{
-		"date": "11/2/2013",
-		"description": " In der Nacht zum Samstag brach ein Unbekannter in einen Club in der Michael-Rauck-Straße ein. Der Täter brach die Eingangstür auf und anschließend einen Zigarettenautomaten. Es wurden Zigaretten sowie Bargeld entwendet. Die Höhe des Schadens ist derzeit noch nicht bekannt. Auf Grund der Nähe zum ersten Objekt, dürfte es sich um den gleichen Täter gehandelt haben.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.131336,
-		"lon": 10.0844978
-	},
-	{
-		"date": "11/2/2013",
-		"description": "In der Nacht von Freitag auf Samstag hebelten Unbekannte das Fenster einer Metzgerei in der Sanzenbacher Straße auf und entwendeten Bargeld.\nZeugen des Einbruchs werden gebeten sich mit dem Polizeiposten Gaildorf in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.06460269999999,
-		"lon": 9.7039444
-	},
-	{
-		"date": "11/2/2013",
-		"description": "In der Nacht vom Freitag auf Samstag stieg ein Unbekannter über einen Balkon in den ersten Stock eines Hauses in der Straße Am Waaghäusle in Gröningen ein. Aus dem Haus wurden mehrere Schmuckstücke entwendet. Der Schaden steht bisher noch nicht fest. Vermutlich der gleiche Täter hebelte am Freitag zwischen  14.40 und 19.20 Uhr an einem Einfamilienhaus im Neuweg ein Fenster auf. Auch hier wurde Schmuck gestohlen. Weiterhin fehlt Bargeld und ein Notebook.\nZeugen der beiden Einbrüche werden gebeten sich mit dem Polizeirevier Crailsheim Hall in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1871598,
-		"lon": 10.0661076
-	},
-	{
-		"date": "11/16/2013",
-		"description": "Über die aufgehebelte Terrassentür an der Südseite des Kindergartens im Hülbeweg gelangten bislang unbekannte Täter in das Gebäudeinnere, wo sie mit brachialer Gewalt die Tür zum Büro aufhebelten, dort die verschlossenen Schränke aufbrachen und Bargeld in Höhe von mehr als 2.000 Euro entwendeten. Der angerichtete Sachschaden wurde mit etwa 1.500 Euro angegeben. Die polizeilichen Ermittlungen dauern noch an.\n",
-		"type": "Wohnungseinbruch",
-		"lat": 48.8717522,
-		"lon": 9.0800587
-	},
-	{
-		"date": "12/15/2013",
-		"description": "Ein bislang unbekannter Täter gelangte am Sonntag im Zeitraum zwischen 14:00 Uhr und 19:50 Uhr über ein Gartentor auf das Grundstück eines Wohnhauses im Hartweg. Zunächst versuchte der Unbekannte ein Badezimmerfenster aufzuhebeln. Da dies misslang machte er sich an einem daneben liegenden Fenster zu schaffen und verschaffte sich so Zutritt zu den Räumlichkeiten, die er anschließend durchsuchte. Auf der Suche nach Stehlenswertem hebelte er Schränke und Schubladen auf und entwendete schließlich Bargeld um Schmuck im Gesamtwert von etwa 1.100 Euro. Den Rückzug trat der Unbekannte über die Terrrassentür an.  Der angerichtete Sachschaden wurde mit etwa 1.000 Euro angegeben.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9903195,
-		"lon": 9.157055100000001
-	},
-	{
-		"date": "12/13/2013",
-		"description": "Mit leeren Händen musste ein Einbrecher von dannen ziehen, der sich am Freitag in der Zeit zwischen 01.00 Uhr und 06.15 Uhr Zutritt zu einer Gastsstätte in der Kleinbottwarer Straße verschaffte. Nachdem der Täter die Scheiben der Eingangstür eingeschlagen hatte, betrat er die Gasträume und brach einen Spielautomaten auf, um die Geldscheinkassette zu entnehmen. Zu seinem Pech hatte der Besitzer die Kassette vor Verlassen der Gaststätte geleert, so dass der Täter ohne Beute den Rückzug antreten musste. Über die Höhe des entstandenen Schadens ist bislang nichts bekannt. ",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9702571,
-		"lon": 9.2835047
-	},
-	{
-		"date": "12/11/2013",
-		"description": "Erst nach mehreren Versuchen gelang es einem bislang unbekannten Täter am Mittwoch im Zeitraum zwischen 15:20 Uhr und 18:45 Uhr an der Südseite eines Wohnhauses im Dürer-Ring die zweiflügelige Balkontür aufzuhebeln und ins Wohnungsinnere zu gelangen. Dort durchsuchte er mehrere Räume und ließ schließlich verschiedenen Schmuck sowie Bargeld mitgehen. Der Wert des Diebesguts wurde mit etwa 2.500 Euro angegeben. Der Sachschaden an der Terrassentür wurde mit etwa 1.000 Euro beziffert. Die polizeilichen Ermittlungen dauern noch an. Hinweise nimmt das Polizeirevier Vaihingen an der Enz, Telefon 07042/941-0, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.96487740000001,
-		"lon": 9.0152926
-	},
-	{
-		"date": "12/11/2013",
-		"description": "Ein bislang unbekannter Täter verschaffte sich am Mittwoch zwischen 17:00 Uhr und 19:15 Uhr Zutritt zu einem Wohnhaus in der Oberen Schulgartenstraße, indem er die Terrassentür aufhebelte. Im Gebäudeinneren durchsuchte er sämtliche Räumlichkeiten nach Stehlenswertem und entwendete schließlich mehrere Schmuckstücke und Bargeld im Wert von etwa 5.000 Euro. Der Sachschaden an der Terrassentür wurde mit etwa 500 Euro angegeben. Hinweise erbittet das Polizeirevier Vaihingen an der Enz, Telefon 07042/941-0.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9681816,
-		"lon": 9.074446300000002
-	},
-	{
-		"date": "12/7/2013",
-		"description": "Am Samstag in der Zeit zwischen 18:00 Uhr und 19:30 Uhr gelangten bislang unbekannte Täter in ein Wohnhaus im Tabakweg, indem sie die Terrassentür auf der Südseite aufhebelten. Im Gebäudeinneren durchsuchten die Einbrecher mehrere Räumlichkeiten und entwendeten Bargeld und Schmuck. Der Wert des Diebesguts konnte noch nicht näher beziffert werden. Der entstandene Sachschaden an der Terrassentür wurde mit etwa 200 Euro angegeben. Zeugen, die Verdächtiges wahrgenommen haben, werden gebeten sich mit dem Polizeiposten Freiberg am Neckar unter Telefon 07141/643780 in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9586516,
-		"lon": 9.2077574
-	},
-	{
-		"date": "12/6/2013",
-		"description": "Im Verlauf der letzten Woche verschaffte sich ein bislang unbekannter Täter Zutritt zu einem Wohnhaus im Fuchsweg, indem er die hintere Terrassentür aufhebelte. Im Gebäudeinneren durchsuchte der Unbekannte mehrere Räumlichkeiten und ließ eine Spardose mit mehreren Hundert Euro Bargeld und eine externe Festplatte im Wert von etwa 50 Euro mitgehen. Die Flucht trat der Einbrecher wieder über die geöffnete Terrassentür an.  Hinweise nimmt das Polizeirevier Vaihingen an der Enz, Telefon 07042/941-0, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9559191,
-		"lon": 9.06111
-	},
-	{
-		"date": "12/4/2013",
-		"description": "Indem er in der Nacht von Dienstag auf Mittwoch die Schiebetür aufhebelte, verschaffte sich ein bislang unbekannter Täter Zugang zu einem Ladengeschäft in der John-F.-Kennedy-Allee und entwendete zielstrebig etwa 300 Euro Bargeld aus einer geöffneten Kasse. Hinweise nimmt das Polizeirevier Kornwestheim, Telefon 07154/1313-0, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.87086300000001,
-		"lon": 9.2236038
-	},
-	{
-		"date": "12/3/2013",
-		"description": "Am Dienstag zwischen 15:00 Uhr und 19:00 Uhr hebelte ein bislang unbekannter Täter die rückwärtige Terrassentür eines Wohnhauses in der Straße \"Im Vogelsang\" auf und durchsuchte einige Räume nach Stehlenswertem. Er öffnete Schränke und Behältnisse und ließ mehrere Schmuckstücke im Wert von etwa 1.500 Euro mitgehen. Im weiteren Verlauf seiner Diebestour suchte er anschließend auch das Nachbarhaus auf. Dort wuchtete er ebenfalls die Terrassentür auf, gelangte so in das Gebäudeinnere und durchsuchte die Wohnräume. Über Art und Umfang des Diebesguts ist derzeit noch nichts bekannt. Die polizeilichen Ermittlungen dauern an. Hinweise nimmt das Polizeirevier Bieitigheim-Bissingen, Telefon 07142/405-0, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9591336,
-		"lon": 9.113796899999999
-	},
-	{
-		"date": "12/3/2013",
-		"description": "Am Dienstag zwischen 15:00 Uhr und 19:00 Uhr hebelte ein bislang unbekannter Täter die rückwärtige Terrassentür eines Wohnhauses in der Straße \"Im Vogelsang\" auf und durchsuchte einige Räume nach Stehlenswertem. Er öffnete Schränke und Behältnisse und ließ mehrere Schmuckstücke im Wert von etwa 1.500 Euro mitgehen. Im weiteren Verlauf seiner Diebestour suchte er anschließend auch das Nachbarhaus auf. Dort wuchtete er ebenfalls die Terrassentür auf, gelangte so in das Gebäudeinnere und durchsuchte die Wohnräume. Über Art und Umfang des Diebesguts ist derzeit noch nichts bekannt. Die polizeilichen Ermittlungen dauern an. Hinweise nimmt das Polizeirevier Bieitigheim-Bissingen, Telefon 07142/405-0, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9591336,
-		"lon": 9.113796899999999
-	},
-	{
-		"date": "12/3/2013",
-		"description": "Über ein ebenerdiges Toilettenfenster gelangte ein bislang unbekannter Einbrecher in der Zeit zwischen Sonntag und Dienstagmittag in das Innere eines Wohnhauses in der Straße \"Am Leuchselrain\" und durchsuchte mehrere Räumlichkeiten nach Stehlenswertem. Nähere Angaben über mögliches Diebesgut liegen noch nicht vor. Der angerichtete Sachschaden wurde mit etwa 300 Euro beziffert. Hinweise nimmt das Polizeirevier Bietigheim-Bissingen, Telefon 07142/405-0, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9404705,
-		"lon": 9.1106804
-	},
-	{
-		"date": "12/2/2013",
-		"description": "Baumaschinen im Wert von etwa 2.500 Euro haben bislang unbekannte Täter im Zeitraum zwischen Freitag, 13:40 Uhr und Montag, 06:40 Uhr, aus einem verschlossenen Baucontainer in der Bahnhofstraße  entwendet. Sie hebelten die Metalltür auf und schafften einen Grabenstampfer und eine Rüttelplatte ins Freie. Die Maschinen müssen aufgrund ihres Gewichts mit einem Fahrzeug transportiert worden sein. Hinweise nimmt der Polizeiposten Freiberg am Neckar, Telefon 07141/643780 oder das Polizeirevier Marbach am Neckar, Telefon 07144/900-0, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 50.9117703,
-		"lon": 13.3453087
-	},
-	{
-		"date": "12/1/2013",
-		"description": "Während der Urlaubsabwesenheit der Eigentümer verschaffte sich ein bislang unbekannter Täter Zutritt zu einem Wohnhaus in der Uhlandstraße. Er schlug ein Küchenfenster ein, durchsuchte die Räume und ließ Schmuck im Wert von mehr als 1.000 Euro mitgehen. Darüber hinaus richtete er Sachschaden von etwa 600 Euro. Hinweise nimmt das Polizeirevier Marbach am Neckar, Telefon 07144/900-0, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.99499669999999,
-		"lon": 9.296279499999999
-	},
-	{
-		"date": "12/1/2013",
-		"description": "Einen Sachschaden von etwa 1.500 Euro hinterließen bislang unbekannte Einbrecher, als sie in der Nacht von Samstag auf Sonntag über ein Tor in die alte Eishalle im Fischerpfad eindrangen. In der Folge schlugen sie die Glastür zur Cafeteria ein und gelangten so in das Gebäude. Offensichtlich gezielt begaben sie sich zu den Schließfächern der Angestellten und entwendeten daraus einen Bedienungsgeldbeutel und eine Kasse mit den Einnahmen in Höhe von mehreren Hundert Euro.  Sachdienliche Hinweise nimmt das Polizeirevier Bietigheim-Bissingen, Telefon 07142/405-0, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9513837,
-		"lon": 9.124221
-	},
-	{
-		"date": "12/1/2013",
-		"description": "Am frühen Sonntagmorgen versuchte ein bislang unbekannter Täter, die Eingangstür zu eine Gaststätte in der Friedrichstraße aufzuhebeln. Als dies misslang, riss eine Fenstervergitterung aus der Wand, hebelte das dahinterliegende Holzfenster auf und gelangte so in das Innere der Gaststätte. Dort brach er mit einem Brecheisen drei Geldspielautomaten auf und entwendete daraus Bargeld in Höhe von etwa 800 Euro. Im weiteren Verlauf fiel ihm auch noch die Tagesgeldkasse mit mehreren Hundert Euro in die Hände. Der beim Einbruch angerichtete Sachschaden beläuft sich auf etwa 2.500 Euro.  Der Polizeiposten Steinheim, Tel. 07144/82306-0, bittet um Hinweise.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9668097,
-		"lon": 9.2783904
-	},
-	{
-		"date": "11/29/2013",
-		"description": "Im Zeitraum von Montag bis Freitag wurde durch unbekannte Täter in der Wasenstraße ein Toilettenfenster eines dortigen Sportheimes eingeschlagen. Nachdem die Täter eingestiegen waren wurde ein Oberlichtfenster einer verschlossenen Türe eingeschlagen, so dass insgesamt ein Sachschaden von etwa 500 Euro entstand. Nach bisherigen Erkenntnissen wurde nichts entwendet.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9383322,
-		"lon": 9.2000391
-	},
-	{
-		"date": "11/29/2013",
-		"description": "In zwei nebeneinanderliegende Doppelhaushälften im Ortsteil Heutingsheim drangen unbekannte Täter am Freitag, in der Zeit zwischen 18.00 Uhr und 22.00 Uhr, ein und entwendeten Schmuck und Bargeld im Wert von mehreren tausend Euro. Bei einem Haus wurde die Terrassentüre aufgehebelt. Beim Nachbarhaus kletterten die Täter über das Fallrohr auf den Balkon und hebelten dort die Türe auf. Bei den Einbrüchen entstand ein Sachschaden von insgesamt rund 700 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.930107,
-		"lon": 9.197796
-	},
-	{
-		"date": "11/29/2013",
-		"description": "In zwei nebeneinanderliegende Doppelhaushälften im Ortsteil Heutingsheim drangen unbekannte Täter am Freitag, in der Zeit zwischen 18.00 Uhr und 22.00 Uhr, ein und entwendeten Schmuck und Bargeld im Wert von mehreren tausend Euro. Bei einem Haus wurde die Terrassentüre aufgehebelt. Beim Nachbarhaus kletterten die Täter über das Fallrohr auf den Balkon und hebelten dort die Türe auf. Bei den Einbrüchen entstand ein Sachschaden von insgesamt rund 700 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.930107,
-		"lon": 9.197796
-	},
-	{
-		"date": "11/28/2013",
-		"description": "Im 1. Obergeschoss eines Mehrfamilienhauses in der Neuweiler Straße hat ein Unbekannter am Donnerstag, zwischen 09:45 und 10:30 Uhr, eine Wohnungstür aufgebrochen. Nachdem er in der Wohnung offensichtlich nichts Stehlenswertes vorfand, versuchte er sich an der Tür zur Nachbarwohnung, die dem Einsatz eines Einbruchswerkzeugs aber standhielt. Der angerichtete Sachschaden beläuft sich auf etwa 1.000 Euro.   ",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9609635,
-		"lon": 9.1248302
-	},
-	{
-		"date": "11/27/2013",
-		"description": "Sportlich unterwegs war ein Einbrecher am Mittwoch in der Zeit zwischen 15.15 Uhr und 18.30 Uhr, als er vom Hofraum eines Hauses in der Freudentaler Straße auf die Terrasse des Gebäudes in etwa drei Metern Höhe kletterte, um an die Terrassentür zu gelangen. Nachdem er sie aufgehebelt hatte durchsuchte er im Gebäudeinneren die Räumlichkeiten und entwendete eine Kette im Wert von ungefähr 100 Euro. An der Terrassentür entstand kein nennenswerter Schaden. Zeugen, die verdächtige Wahrnehmungen gemacht haben, werden gebeten sich mit dem Polizeiposten Sachsenheim unter Tel. 07147/27406-0 in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9985189,
-		"lon": 9.0247545
-	},
-	{
-		"date": "11/26/2013",
-		"description": "Mehrere Schmuckstücke im Wert von mehreren Hundert Euro hat ein Einbrecher am Dienstagabend in einer Wohnung im Tulpenweg erbeutet. Zwischen 18:30 und 23:50 Uhr hebelt der Ubekannte ein Fenster an der Terasse des Wohnhauses auf, stieg ein und durchsuchte Schränke und Schubladen. Dabei richtete er zudem rund 500 Euro Sachschaden an. ",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9472082,
-		"lon": 9.144371900000001
-	},
-	{
-		"date": "11/25/2013",
-		"description": "Indem er ein schräg gestelltes Toilettenfenster aufhebelte gelang es einem unbekannten Einbrecher in der Zeit zwischen Freitag 18.00 Uhr und Montag 06.30 Uhr in einen Bürocontainer in der Kruppstraße einzusteigen. Auf der Suche nach Diebesgut fielen ihm ungefähr 300 Euro sowie ein USB-Stick in die Hände. Der Schaden am Fenster wurde mit etwa 500 Euro angegeben.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.8893448,
-		"lon": 9.1445007
-	},
-	{
-		"date": "11/22/2013",
-		"description": "Vermutlich weil sie bei der Tatausführung gestört wurden, zogen unbekannte Einbrecher, die in der Zeit zwischen Donnerstag 15.15 Uhr und Freitag 0.15 Uhr auf der Rückseite eines Wohnhauses in der Steinheimer Straße ein Fenster aufgehebelt hatten, unverrichteter Dinge wieder von dannen. Am Fenster entstand ein Schaden in Höhe von etwa 500 Euro. Anwohner hatten am Donnerstag gegen 18.15 Uhr zwei männliche Unbekannte im Alter zwischen 40 und 45 Jahren bemerkt, die sich in der Nähe des Gebäudes aufhielten. Die beiden waren mit schwarzen Jeans, schwarzen Jacken und bordeauxfarbenen Strickmützen bekleidet. Die Kriminalpolizei Ludwigsburg bittet Personen, die ebenfalls verdächtige Wahrnehmungen gemacht haben, sich unter Tel. 07141/18-9 zu melden.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.01848409999999,
-		"lon": 9.207439599999999
-	},
-	{
-		"date": "11/24/2013",
-		"description": "Ein bislang unbekannter Einbrecher suchte am Sonntag in der Zeit zwischen 14.30 Uhr und 19.20 Uhr ein Wohnhaus in der Sophie-Scholl-Straße heim. Indem er derart massiv an einem Fenster auf der Gebäuderückseite hebelte, ging die Scheibe zu Bruch, so dass er schließlich den Fenstergriff betätigte und in die Räumlichkeiten einstieg. Auf der Suche nach Stehlenswertem fielen ihm Bargeld und Schmuck von bislang unbekanntem Wert in die Hände. Über die Höhe des entstandenen Sachschadens ist nichts bekannt. Hinweise nimmt der Polizeiposten Sachsenheim unter Tel. 07147/27406-0 oder das Polizeirevier Vaihingen an der Enz, Tel. 07042/941-0, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9584997,
-		"lon": 9.022011
-	},
-	{
-		"date": "11/23/2013",
-		"description": "Im Schwalbenweg hebelte ein bislang unbekannter Täter am Samstag, in der Zeit zwischen 10:30 Uhr und 21:00 Uhr, eine Türe zum Wintergarten auf und verschaffte sich über eine weitere aufgehebelte Zwischentüre Zutritt in ein Reiheneckhaus. In dem Gebäude wurden von dem Täter mehrere Zimmer durchwühlt und Schränke geöffnet. Ob etwas entwendet wurde, konnte bislang noch nicht geklärt werden. An den beiden Türen entstand Sachschaden in Höhe von etwa 2.000 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0116001,
-		"lon": 9.1499962
-	},
-	{
-		"date": "11/22/2013",
-		"description": "Im Ortsteil Heutingsheim war die Erdgeschoßwohnung eines Mehrfamilienhauses Ziel eines Unbekannten. Er hebelte auch hier die Terrassentüre auf, nachdem er vom Nachbargrundstück aus über einen Zaun und durchs Gebüsch gestiegen war. In Wohn- und Schlafzimmer öffnete der Täter verschiedene Schubladen und entwendete einen Briefumschlag mit mehreren hundert Euro Bargeld.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.930107,
-		"lon": 9.197796
-	},
-	{
-		"date": "11/21/2013",
-		"description": "Auf Bargeld und Schmuck hatte es ein unbekannter Täter abgesehen, der am Donnerstag in der Zeit zwischen 15.10 Uhr und 19.50 Uhr in ein Wohnhaus in der Bissinger Straße einstieg. Indem er eine Gartenbank an die Hauswand schaffte, gelang es ihm ein Fenster aufzuhebeln und sich Zutritt zu den Räumlichkeiten zu verschaffen. Im Wohnungsinneren fiel ihm eine Geldbörse in die Hände, aus der er einen Betrag in bislang unbekannter Höhe entwendete. Zudem leerte er den Inhalt einer Schmuckschatulle auf den Boden, wobei noch nicht bekannt ist, ob er auch Schmuckstücke mitgehen ließ. Der entstandene Schaden wurde mit etwa 250 Euro beziffert.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9250962,
-		"lon": 9.1208674
-	},
-	{
-		"date": "11/21/2013",
-		"description": "Auf frischer Tat ertappt wurden am Donnerstag gegen 18.50 Uhr zwei Einbrecher, die sich gerade am Rolladen eines Wohngebäudes in der Alleestraße zu schaffen machten. Einem aufmerksamen Zeugen fielen die dunkel gekleideten Gestalten, die mit einer Taschenlampe auf der Gebäuderückseite arbeiteten, auf. Als er sie anschrie, ließen sie von ihrem Vorhaben ab und begaben sich völlig unauffällig in Richtung des Wohngebiets Hohenstange. Die hinzugerufenen Polizeibeamten stellten zudem fest, dass die Täter zunächst versucht hatten, die Hauseingangstür aufzuhebeln, was ihnen jedoch nicht gelungen war. Vermutlich begaben sie sich im Anschluss daran auf die Gebäuderückseite, wo sie einen Bewegungsmelder zerstörten, bevor sie sich an der Terrassentür versuchten. Dabei richteten sie einen Sachschaden in Höhe von ungefähr 500 Euro an.\nDer Polizeiposten Tamm, Tel. 07141/601014 oder das Polizeirevier Kornwestheim, Tel. 07154/1313-0, bitten in beiden Fällen Zeugen, die Verdächtiges wahrgenommen haben, sich zu melden.  ",
-		"type": "Wohnungseinbruch",
-		"lat": 48.925052,
-		"lon": 9.1299321
-	},
-	{
-		"date": "11/20/2013",
-		"description": "Reiche Beute im Wert von mehreren Tausend Euro fiel unbekannten Einbrechern in die Hände, die am Mittwoch in der Zeit zwischen 15.00 Uhr und 22.00 Uhr ein Wohnhaus in der Max-Eyth-Straße heimsuchten. Indem sie die Terrassentür aufhebelten gelangten sie in die Räumlichkeiten, die sie anschließend durchsuchten. Die Täter entwendeten einen kleinen Tresor, in dem sich Bargeld, Sparbücher und Ausweise befanden sowie verschiedenen Schmuck. Der an der Terrassentür entstandene Sachschaden beläuft sich auf ungefähr 1.500 Euro. Personen, die verdächtige Wahrnehmungen gemacht haben werden gebeten, sich mit dem Polizeirevier Kornwestheim, Tel. 07154/1313-0 oder dem Polizeiposten Remseck am Neckar unter Tel. 07146/28082-0 in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.8617176,
-		"lon": 9.2571284
-	},
-	{
-		"date": "11/19/2013",
-		"description": "Einen geringen Bargeldbetrag erbeutete ein unbekannter Einbrecher, der am Dienstag in der Zeit zwischen 15.10 Uhr und 18.45 Uhr ein Wohnhaus im Dürer Ring heimsuchte. Nachdem der Täter den über die Hälfte heruntergelassenen Rolladen hochgeschoben hatte, hebelte er ein Fenster auf und stieg in das Innere der Wohnung ein. Er durchsuchte sämtliche Räumlichkeiten und entwendete schließlich Geld aus einem vorgefundenen Portemonnaie. Es entstand ein Sachschaden in Höhe von etwa 300 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.96487740000001,
-		"lon": 9.0152926
-	},
-	{
-		"date": "11/18/2013",
-		"description": "Vermutlich über ein an der Hauswand angebrachtes Alurohr verschafften sich bislang unbekannte Einbrecher am Montag zwischen 10:30 Uhr und 11:00 Uhr Zutritt zum Balkon einer Wohnung in der Schwabstraße. Über die gekippte Balkontür gelangten sie schließlich in das Wohnungsinnere und durchsuchten die Räume. Dabei entwendeten sie Schmuck von bislang unbekanntem Wert. Da ihnen der Versuch über die verschlossene Wohnungstür zu flüchten misslang, traten sie den Rückzug wieder über den Balkon an und beschädigten dabei die Balkonkästen einer darunter liegenden Wohnung. Die polizeilichen Ermittlungen dauern an. Sachdienliche Hinweise nimmt das Polizeirevier Marbach, Telefon 07144/900-0, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.94157209999999,
-		"lon": 9.2698891
-	},
-	{
-		"date": "11/18/2013",
-		"description": "Auf Bargeld abgesehen hatte es ein bislang unbekannter Einbrecher, als er sich in der Nacht von Sonntag auf Montag auf bisher unbekannte Weise Zutritt zum Erdgeschoss eines Hotels in der Straße \"Forsthof\" verschaffte, in einem Nebenraum einen Tresor aufhebelte und daraus mehrere Tausend Euro mitgehen ließ. Die Flucht trat der Täter anschließend über die Eingangstür des Wintergartens an. Die polizeilichen Ermittlungen dauern an. Hinweise nimmt das Polizeirevier Marbach am Neckar, Telefon 07144/900-0, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9792016,
-		"lon": 9.3093155
-	},
-	{
-		"date": "11/16/2013",
-		"description": "In der Nacht von Freitag auf Samstag hebelten unbekannte Täter in der Stadtmitte die Eingangstüre eines Reisebüros auf und durchsuchten anschließend Schränke und Schubladen. Dabei entwendeten sie mehrere hundert Euro Bargeld. Der beim Einbruch entstandene Sachschaden beläuft sich auf rund 1.000 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.94045819999999,
-		"lon": 9.2570239
-	},
-	{
-		"date": "11/16/2013",
-		"description": "Unbekannte Täter drangen in der Nacht von Freitag auf Samstag in einen am südöstlichen Ortsrand gelegenen Kindergarten ein ohne dabei jedoch etwas Stehlbares zu finden. Da die Täter um in das Gebäude zu gelangen zuvor an einem Fenster sowie zwei Terrassentüren gehebelt hatten, entstand ein Sachschaden von etwa 1.000 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9401247,
-		"lon": 9.2735075
-	},
-	{
-		"date": "11/16/2013",
-		"description": "Unbekannte Täter hebelten am Samstag in der Zeit zwischen 16.30 Uhr und 19.00 Uhr die Terrassentüre eines Wohnhauses im Ortsteil Untermberg auf und entwendeten anschließend Schmuck und Bargeld im Wert von über 2.000 Euro. Die Höhe des beim Einbruch entstandenen Sachschadens ist nicht bekannt.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9445933,
-		"lon": 9.0812272
-	},
-	{
-		"date": "11/15/2013",
-		"description": "Unbekannte drangen am Freitag gegen 01.45 Uhr in einen Supermarkt in der Buchstraße ein und versuchten, einen im Büro des Marktes befindlichen Tresor zu öffnen. Da ihnen dies anscheinend nicht gelang, wendeten sie sich der Zigarettenauslage im Verkaufsraum zu und entwendeten sämtliche dort aufbewahrten Zigaretten. Die Höhe des Sachschadens sowie der Wert der entwendeten Zigaretten konnte bislang noch nicht festgestellt werden.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.945909,
-		"lon": 9.1459326
-	},
-	{
-		"date": "11/15/2013",
-		"description": "Am Freitag brachen Unbekannte in ein Einfamilienhaus in der Langen Straße ein. In der Zeit von 08.00 Uhr bis 12.30 Uhr wurde die Scheibe der Balkontüre im 1. Stock eingeworfen und so die Türe entriegelt. Letztlich erbeuteten die Täter einige hundert Euro Bargeld und hinterließen einen Schaden in Höhe von rund 250 Euro. Um die Mittagszeit hatten Anwohner in Tatortnähe einen braunen VW Passat, Schrägheck bzw. Kombi, gesehen, besetzt mit 3 Personen. Als Teilkennzeichen konnten die Zeugen benennen GER-MJ oder GER-JM, Rest unbekannt. Hinweise nimmt das Polizeirevier Marbach unter Telefon 07144/9000 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9569993,
-		"lon": 9.3207537
-	},
-	{
-		"date": "11/15/2013",
-		"description": "Am Freitag waren in der Zeit von 09.00 Uhr bis 11.00 Uhr 2 Häuser Ziel von Einbrechern. In der Strombergstraße gelangten die Täter durch ein aufgehebeltes Toilettenfenster in das Haus, und entwendeten Schmuck im Wert von rund 1.700 Euro, im Besigheimer Weg wurden die Täter durch einen nach Hause kommenden Bewohner beim Aufhebeln der Terrassentüre gestört und flüchteten.  Am Haus in der Strombergstraße beträgt der Schaden am Fenster etwa 250 Euro, an der Terrassentüre am Haus im Besigheimer Weg etwa 2.000 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.01759089999999,
-		"lon": 9.0008312
-	},
-	{
-		"date": "11/15/2013",
-		"description": "Am Freitag waren in der Zeit von 09.00 Uhr bis 11.00 Uhr 2 Häuser Ziel von Einbrechern. In der Strombergstraße gelangten die Täter durch ein aufgehebeltes Toilettenfenster in das Haus, und entwendeten Schmuck im Wert von rund 1.700 Euro, im Besigheimer Weg wurden die Täter durch einen nach Hause kommenden Bewohner beim Aufhebeln der Terrassentüre gestört und flüchteten.\nAm Haus in der Strombergstraße beträgt der Schaden am Fenster etwa 250 Euro, an der Terrassentüre am Haus im Besigheimer Weg etwa 2.000 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.01759089999999,
-		"lon": 9.0008312
-	},
-	{
-		"date": "11/15/2013",
-		"description": "Über eine aufgehebelte Terrassentüre gelangten unbekannte Täter am Freitag zwischen 16.00 Uhr und 19.00 Uhr in ein Zweifamilienhaus in der Alleenstraße, durchsuchten dort sämtliche Räumlichkeiten und flüchteten anschließend unerkannt mit einigen hundert Euro Bargeld und Goldschmuck mit bislang nicht bekanntem Wert.\nDer Schaden an der Türe beträgt etwa 200 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9435296,
-		"lon": 9.113026600000001
-	},
-	{
-		"date": "11/15/2013",
-		"description": "Unbekannte Täter haben in der Nacht zum Freitag, vermutlich zwischen 01:45 und 02:00 Uhr, die Tür des Hintereingangs zu einem Lebensmittelmarkt in der Buchstraße in Bietigheim aufgebrochen. In der Folge hebelten sie eine Bürotür auf und machten sich mit einem Trennschleifer erfolglos an einem Tresor zu schaffen. Im Verkaufsraum öffneten sie anschließend gewaltsam eine Zigarettenvitrine und leerten sie vollständig.  Personen, die zur fraglichen Zeit verdächtige Wahrnehmungen im Bereich der Buchstraße gemacht haben, werden gebeten, sich mit dem Polizeirevier Bietigheim-Bissingen, Tel. 07142/405-0, in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.945909,
-		"lon": 9.1459326
-	},
-	{
-		"date": "11/15/2013",
-		"description": "Mehrere Schmuckstücke von noch unbekanntem Wert hat ein unbekannter Täter am Freitag, zwischen 09:00 und 11:00 Uhr bei einem Einbruch in der Strombergstraße erbeutet. Er hebelte dazu vermutlich mit einem Brecheisen ein Toilettenfenster auf, stieg in das Wohnhaus ein und durchsuchte das Schlafzimmer. Möglicherweise derselbe Täter hat am Freitagvormittag auch versucht in ein Wohnhaus im Besigheimer Weg in Kleinsachsenheim einzubrechen und dabei etwa 2.000 Euro Sachschaden angerichtet. Der Polizeiposten Sachsenheim, Tel. 07147/27406-0, bittet um Hinweise. ",
-		"type": "Wohnungseinbruch",
-		"lat": 49.01759089999999,
-		"lon": 9.0008312
-	},
-	{
-		"date": "11/15/2013",
-		"description": "Mehrere Schmuckstücke von noch unbekanntem Wert hat ein unbekannter Täter am Freitag, zwischen 09:00 und 11:00 Uhr bei einem Einbruch in der Strombergstraße erbeutet. Er hebelte dazu vermutlich mit einem Brecheisen ein Toilettenfenster auf, stieg in das Wohnhaus ein und durchsuchte das Schlafzimmer. Möglicherweise derselbe Täter hat am Freitagvormittag auch versucht in ein Wohnhaus im Besigheimer Weg in Kleinsachsenheim einzubrechen und dabei etwa 2.000 Euro Sachschaden angerichtet. Der Polizeiposten Sachsenheim, Tel. 07147/27406-0, bittet um Hinweise. ",
-		"type": "Wohnungseinbruch",
-		"lat": 49.01759089999999,
-		"lon": 9.0008312
-	},
-	{
-		"date": "11/15/2013",
-		"description": "Nach dem fehlgeschlagenen Versuch, die Tür eines Wohnhauses an der Langen Straße aufzubrechen, ist ein unbekannter Täter am Freitag, vermutlich gegen 11:45 Uhr Uhr an der Regenrinne des Gebäudes auf den Balkon geklettert und hat dort die Verglasung der Balkontür eingeschlagen. Im Haus durchsuchte er in der Folge mehrere Räume und ließ einen kleineren Bargeldbetrag mitgehen. Zeugen beobachteten um die Mittagszeit im dortigen Bereich einen verdächtigen, mit drei Männern besetzten, braunen VW Passat mit GER-Kennzeichen. Sachdienloiche Hinweise nimmt das Polizeirevier Marbach, Tel. 07144/900-0, entgegen. ",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9569993,
-		"lon": 9.3207537
-	},
-	{
-		"date": "11/13/2013",
-		"description": "Unbekannte Täter entwendeten vom Gelände einer Firma im Mühlweg in der Nacht von Dienstag 19.00 Uhr auf Mittwoch 06.00 Uhr unter anderem einen Citroen Berlingo im Wert von etwa 10.000 Euro. Außerdem befanden sich in dem Wagen noch Planen, Bekleidung und Werkzeug im Wert von etwa 1.150 Euro. Die Einbrecher verschafften sich Zutritt zum Firmengebäude, indem sie ein Fenster einschlugen und anschließend entriegelten. Zuvor hatten sie vergeblich versucht über eine Zugangstür in die Räumlichkeiten zu gelangen. Auf der Suche nach Diebesgut fielen ihnen mehrere Fahrzeug- und sonstige Schlüssel in die Hände, die sie allesamt mitgehen ließen und dadurch einen Schaden in Höhe von etwa 1.000 Euro verursachten. Zudem wurden weitere 400 Euro Bargeld aus der Kaffeekasse gestohlen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.6911405,
-		"lon": 10.0826564
-	},
-	{
-		"date": "11/13/2013",
-		"description": "Vermutlich dieselben Täter suchten zur gleichen Zeit auch eine in der Nachbarschaft im Mühlweg gelegene weitere Firma heim. Dabei öffneten sie die Tore zu einem Lagerschuppen, aus dem sie vermutlich nichts entwendeten. Außerdem traten sie eine bereits mit Klebeband reparierte Scheibe am Tor zu einem Fabrikationsgebäude ein, wobei sie das Gebäude mutmaßlich nicht betraten. Es entstand ein Schaden in Höhe von ungefähr 100 Euro.  \nDer Polizeiposten Steinheim an der Murr bittet Zeugen, die verdächtige Wahrnehmungen gemacht haben, sich unter Tel. 07144/82306-0 zu melden.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.6911405,
-		"lon": 10.0826564
-	},
-	{
-		"date": "11/11/2013",
-		"description": "Für einen neuwertigen Rasenmäher im Wert von ungefähr 500 Euro interessierte sich ein Einbrecher, der in der Zeit zwischen Freitag und Montag ein Gartenhaus im Gewann \"Köchersberg\" heimsuchte. Indem er die Eingangstür aufbrach, verschaffte er sich Zugang zu dem Häuschen und entwendete das Gartengerät. Dabei richtete er einen Schaden in Höhe von etwa 300 Euro an.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.01666669999999,
-		"lon": 9.283333299999999
-	},
-	{
-		"date": "11/8/2013",
-		"description": "Am Freitag zwischen 15.00 Uhr und 20.30 Uhr hebelte ein unbekannter Täter die Terrassentür eines Hauses im Ortsteil Untermberg auf und gelangte so in die Räume im Erdgeschoss. Dort durchsuchte er mehrere Schränke und entwendete unter anderem diversen Schmuck und Bargeld. Der entstandene Sachschaden beträgt etwa 5.000 Euro",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9445933,
-		"lon": 9.0812272
-	},
-	{
-		"date": "11/8/2013",
-		"description": "Vermutlich auf Bargeld abgesehen hatte es ein bislang unbekannter Einbrecher, der in der Nacht von Donnerstag auf Freitag eine Firma in der Mühlstraße heimsuchte. Indem er auf der Gebäuderückseite ein Fenster aufhebelte, gelangte er in einen Büroraum, wo er sich durch Aufhebeln der Zugangstür Zutritt in weitere Räumlichkeiten verschaffte. Dort durchsuchte er verschiedene Schreibtische und entwendete daraus insgesamt mehrere Hundert Euro Bargeld. Der entstandene Sachschaden wurde mit etwa 2.000 Euro angegeben.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9340064,
-		"lon": 9.196372799999999
-	},
-	{
-		"date": "11/7/2013",
-		"description": "Obwohl einem Einbrecher am Donnerstag in der Zeit zwischen 11.00 Uhr und 19.45 Uhr zunächst der Versuch über die Terrassentür in ein Wohnhaus in der Breslauer Straße einzudringen misslang, machte er sich anschließend an einem Fenster zu schaffen und stieg in das Gebäude ein. Auf der Suche nach Stehlenswertem durchwühlte er sämtliche Räumlichkeiten und entwendete verschiedene Schmuckstücke, deren Wert bislang noch nicht beziffert werden konnte. Der Schaden an Fenster und Tür beläuft sich auf etwa 1.500 Euro. Hinweise nimmt das Polizeirevier Vaihingen an der Enz, Tel. 07042/941-0, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9553154,
-		"lon": 9.0157975
-	},
-	{
-		"date": "11/7/2013",
-		"description": "Vermutlich mit leeren Händen zog ein unbekannter Täter wieder von dannen, nachdem er am Donnerstag in der Zeit zwischen 13.00 Uhr und 22.30 Uhr in ein Haus in der Rinnenstraße eingebrochen war. Der Einbrecher verschaffte sich durch Aufhebeln des Kellerfensters Zutritt ins Gebäude und brach anschließend die Kellertür auf, um in die Wohnräumlichkeiten zu gelangen. Dort durchsuchte er sämtliche Zimmer, bevor er sich über die Terrassentür wieder aus dem Staub machte. Der entstandene Sachschaden wurde mit etwa 1.000 Euro angegeben. Zeugen werden gebeten, sich mit dem Polizeirevier Vaihingen an der Enz unter Tel. 07042/941-0 in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0005693,
-		"lon": 9.015652099999999
-	},
-	{
-		"date": "11/6/2013",
-		"description": "Indem ein unbekannter Täter am Mittwoch in der Zeit zwischen 09.00 Uhr und 18.45 Uhr an einem Wohnhaus in der Blumenstraße die Terrassentür aufhebelte, gelangte er in die Räumlichkeiten, die er anschließend durchsuchte. Inwiefern der Einbrecher bei seiner Suche auf Stehlenswertes stieß, konnte noch nicht geklärt werden. An der Terrassentür entstand ein Schaden in Höhe von etwa 800 Euro. Die Ermittlungen dauern an. Hinweise nimmt das Polizeirevier Marbach am Neckar unter Tel. 07144/900-0 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9969962,
-		"lon": 9.210577899999999
-	},
-	{
-		"date": "11/6/2013",
-		"description": "Auf frischer Tat wurde am Mittwoch kurz nach 19.30 Uhr ein Einbrecher ertappt, der gerade in einem Wohnhaus in der Weinstraße zugange war. Indem der Täter die Terrassentür aufhebelte, verschaffte er sich Zutritt ins Gebäude und durchsuchte sämtliche Räumlichkeiten, wobei ihm ein Schmuckkästchen in die Hände fiel. Unter Mitnahme seiner Beute ergriff der Einbrecher in dem Augenblick als die Haustür aufgeschlossen wurde über die Terrassentür und den Nachbargarten die Flucht. Angaben über den Wert des Diebesguts und den entstandenen Schaden konnten noch nicht erlangt werden. Zeugen werden gebeten, sich mit dem Polizeirevier Bietigheim-Bissingen, Tel. 07142/405-0, in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0029895,
-		"lon": 9.1082665
-	},
-	{
-		"date": "11/5/2013",
-		"description": "Über den Wintergarten eines Wohnhauses in der Uhlandstraße verschaffte ein unbekannter Einbrecher sich am Dienstag in der Zeit zwischen 18.15 Uhr und kurz vor 20.00 Uhr Zutritt ins Gebäudeinnere. Indem der Täter zunächst die Terrassentür aufhebelte gelangte er in den Wintergarten, wo er schließlich die Tür zu den Wohnräumlichkeiten ebenfalls aufbrach. Im Gebäude durchsuchte er sämtliche Zimmer und ließ ein Notebook im Wert von etwa 350 Euro mitgehen. An den Türen entstand ein Schaden in Höhe von ungefähr 2.000 Euro. Um Hinweise bittet der Polizeiposten Besigheim unter Tel. 07143/40508-0.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.005401,
-		"lon": 9.1097831
-	},
-	{
-		"date": "11/5/2013",
-		"description": "Seinen Bemühungen zum Trotz misslang es einem Einbrecher am Dienstag in der Zeit zwischen 07.30 Uhr und 21.30 Uhr in ein Wohnhaus in der Berntalstraße zu gelangen. Obwohl der Täter mehrfach versuchte ein Fenster aufzuhebeln, so dass sogar die Doppelverglasung zersprang, hielt es Stand und er zog wieder von Dannen. Am Fenster entstand ein Schaden in Höhe von etwa 1.000 Euro.  ",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9656111,
-		"lon": 9.048966799999999
-	},
-	{
-		"date": "11/5/2013",
-		"description": "Indem er kurzerhand die Terrassentür eines Wohnhauses in der Hallweilstraße aufhebelte, gelangte ein unbekannter Einbrecher in der Nacht von Montag auf Dienstag in das Gebäudeinnere und durchsuchte dort sämtliche Räume nach Stehlenswertem. Aus einer Schatulle entwendete er Schmuck und machte sich an einer Geldkassette zu schaffen. Der Wert des Diebesguts konnte noch nicht näher angegeben werden. Die polizeilichen Ermittlungen dauern an. Hinweise nimmt das Polizeirevier Marbach am Neckar unter Telefon 07144/900-0, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9320313,
-		"lon": 9.1960216
-	},
-	{
-		"date": "11/4/2013",
-		"description": "Insgesamt acht Räder im Gesamtwert von etwa 3.000 Euro entwendeten unbekannte Diebe in der Zeit zwischen Samstag und Montag aus einer Tiefgarage in der Bahnhofstraße. Dabei suchten die Täter zwei verschiedene Stellplätze auf, um die jeweils vier dort gelagerten Sommerreifen der Marken Pirelli und Bridgestone auf Felgen mitgehen zu lassen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.8669119,
-		"lon": 9.0275407
-	},
-	{
-		"date": "11/3/2013",
-		"description": "Mehrere Versuche startete ein bislang unbekannter Einbrecher, um im Zeitraum zwischen Samstag 16.00 Uhr und Sonntag 08:50 Uhr in ein Wohnhaus in der Theodor-Heuss-Straße zu gelangen. Zunächst versuchte er ein auf der Rückseite des Gebäudes gelegenes Fenster aufzuhebeln. Als ihm dies misslang, nahm er kurzerhand einen Pflasterstein und warf ihn gegen die verglaste Hintereingangstür. Durch Doppelverglasung geschützt, ging nur eine Scheibe zu Bruch, so dass der Täter sein Vorhaben abbrach. Zudem wurde durch den verursachten Lärm ein Nachbar aufmerksam, der sein Terrassenlicht einschaltete und so den Einbrecher vermutlich endgültig vertrieb. Der angerichtete Sachschaden wurde mit etwa 1.000 Euro angegeben.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.96337159999999,
-		"lon": 9.256481899999999
-	},
-	{
-		"date": "11/3/2013",
-		"description": "Unbekannte Einbrecher verschafften sich am Sonntag zwischen 15:00 Uhr und 19:00 Uhr Zugang zum Inneren eines Wohnhauses in der Neckarstraße, indem sie die Terrassentür auf der Nordseite aufhebelten. Auf der Suche nach Diebesgut durchsuchten sie die Räumlichkeiten, öffneten Schubladen und Schränke und ließen verschiedene Schmuckstücke sowie einen geringen Bargeldbetrag mitgehen. Der Wert des Schmucks konnte noch nicht näher beziffert werden. Der Schaden an der Terrassentür wurde mit etwa 500 Euro angegeben. Hinweise nimmt das Polizeirevier Bietigheim-Bissingen unter Telefon 07142/405-0 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9576369,
-		"lon": 9.1801052
-	},
-	{
-		"date": "11/1/2013",
-		"description": "Am Freitag zwischen 10.00 Uhr und 19.30 Uhr hebelte ein unbekannter Täter die Terrassentür eines Hauses im Wohngebiet Hohenstange auf und gelangte so in die Räume im Erdgeschoss und durchsuchte dort mehrere Schränke. Ob etwas entwendet wurde, ist noch nicht bekannt. Der entstandene Sachschaden beträgt etwa 2.000 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.924854,
-		"lon": 9.1404698
-	},
-	{
-		"date": "10/30/2013",
-		"description": "Am Mittwoch zwischen 16 Uhr und 22.30 Uhr hebelte ein Unbekannter an der Gebäuderückseite eines Einfamilienhauses im Ortsteil Hohenstange ein Fenster auf und konnte so ins Gebäude einsteigen. Er durchsuchte sämtliche Zimmer und entwendete Schmuck in Höhe von mehreren hundert Euro. ",
-		"type": "Wohnungseinbruch",
-		"lat": 48.924854,
-		"lon": 9.1404698
-	},
-	{
-		"date": "12/16/2013",
-		"description": "Recht schlank scheint ein Unbekannter zu sein, der in der Nacht zum Montag in eine Fleiner Bäckerei einbrach. Der Langfinger brach ein Fenster an dem Gebäude in der Erlachstraße auf. Dieses ließ sich allerdings wegen eines Gegenstands im Inneren nur ein kleines bisschen öffnen. Der Einbrecher zwängte sich durch den lediglich 23 Zentimeter breiten Spalt und gelangte so in die Bäckerei. Er entwendete eine noch unbekannte Summe an Bargeld. Über ein anderes Fenster stieg der Dieb anschließend in den angrenzenden Umkleideraum des Personals ein und durchsuchte die dort stehenden Spinde. Die Polizei hat keinerlei Hinweise auf den Täter und bittet Zeugen, die in der Nacht vom Sonntag auf Montag im Bereich der Erlachstraße verdächtige Personen oder Fahrzeuge gesehen haben, sich beim Polizeiposten Untergruppenbach, Telefon 07131 644630, zu melden.\n",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1008369,
-		"lon": 9.2237536
-	},
-	{
-		"date": "12/15/2013",
-		"description": "Am Wochenende stiegen unbekannte Täter über ein eingeschlagenes Fenster in ein Lager in Neuenstadt-Kochertürn ein und gelangten von dort in den Personalshop. Sie verließen den Tatort ohne Beute. Das war jedoch nicht der erste Einbruch dieser Art. Bereits Mitte Oktober wurde in die Firma eingebrochen. Damals konnten die Täter etwas Bargeld stehlen. Ob es dieselben Täter waren, ist unklar. Zeugen, die zwischen Freitag und Montag verdächtige Personen oder Fahrzeuge im Bereich der Theo-Förch-Straße gesehen haben, werden gebeten, sich mit dem Polizeiposten Neuenstadt, Telefon 07139 47100, in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.24087369999999,
-		"lon": 9.3057406
-	},
-	{
-		"date": "12/17/2013",
-		"description": "Ein Laptop und einen Zigarettenautomaten erbeuteten unbekannte Täter, als sie zwischen Montag und Dienstag in eine Gaststätte im Massenbacher Mühlweg einstiegen. Sie schlugen hierfür eine Fensterscheibe ein und gelangten so in die Gasträume. Da der Tatzeitraum noch nicht genauer eingegrenzt werden konnte, müsste sich der Einbruch zwischen Montag 16:00 Uhr und Dienstag 15:15 Uhr stattgefunden haben. Ob etwas gestohlen wurde, ist bislang noch nicht bekannt. Zeugen werden gebeten sich beim Polizeiposten  Leintal unter der Telefonnummer 07138 810630 zu melden.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1599922,
-		"lon": 9.0658186
-	},
-	{
-		"date": "12/17/2013",
-		"description": "Gleich an mehreren Stellen versuchte ein Einbrecher am Dienstag, gegen 23.40 Uhr, in eine Firma in der Grantschener Straße in Ellhofen zu gelangen, bevor er durch einen Zeugen an der Fortsetzung seiner Tat gehindert wurde. Nachdem der Täter sich zunächst erfolglos an der Eingangstür versucht hatte, schlug er die Fensterscheibe daneben ein und gelangte auf diese Weise ins Büro. Er verließ den Raum danach und drückte nun von außen ein weiteres Fenster auf. Kurz danach wurde der Unbekannte wachsamen Zeugen an seiner weiteren Tathandlung gestört. Der Täter floh vermutlich ohne Beute. Sachdienliche Hinweise nimmt die Polizei Weinsberg unter der Tel.Nr.: 07134/9920 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1502123,
-		"lon": 9.3200481
-	},
-	{
-		"date": "12/17/2013",
-		"description": "  In den Tankstellenshop beim Ö-Center wollte ein Unbekannter am Dienstag zwischen 0 und 1 Uhr einbrechen, indem er die gläserne Zugangstüre einzuschlagen versuchte. Dies misslang jedoch, da die Verglasung zwar splitterte, aber standhielt. Zurück blieb ein Schaden von 500 Euro. Bereits in der Nacht zum 5.12. hatte vermutlich derselbe Täter versucht, dort einzudringen und war ebenfalls gescheitert. Zeugen, die etwas Verdächtiges beobachtet haben, sollten sich unter Tel. 07941/9300 beim Polizeirevier melden.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2045141,
-		"lon": 9.4907842
-	},
-	{
-		"date": "12/17/2013",
-		"description": " Einbrecher bohrten am Montag oder Dienstag ein Loch in die Terrassentür eines Hauses im Heilig-Kreuz-Weg. Dann öffneten sie die Tür und drangen ein. Sie durchsuchten im Haus all Räume. Was genau erbeutet worden ist, steht noch nicht fest.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1325909,
-		"lon": 10.0798911
-	},
-	{
-		"date": "12/17/2013",
-		"description": " In der Gartenäckerstraße wuchteten Unbekannte am Dienstag zwischen 8 und 17 Uhr die Terrassentür eines Hauses auf. Nach dem derzeitigen Ermittlungsstand erbeuteten sie Münzen. Die Schadenshöhe ist noch nicht bekannt.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1544035,
-		"lon": 10.0895808
-	},
-	{
-		"date": "12/17/2013",
-		"description": " Ungebetene Gäste drückten am Dienstag zwischen 7.30 und 12.40 Uhr eine Wohnungstür in Schmalfelden auf. Offensichtlich fanden sie nichts Stehlenswertes und zogen ohne Beute wieder ab.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.3464841,
-		"lon": 9.9760299
-	},
-	{
-		"date": "12/18/2013",
-		"description": "Während die Bewohner schliefen verschaffte sich ein bislang unbekannter Täter in der Nacht zum Mittwoch Zutritt zu einer Wohnung im Stadtteil Aldingen, indem er die Terrassentür aufbohrte. Gegen Morgen bemerkte die Ehefrau, dass die Terrassentür nur angelehnt war und sich ein Loch im Bereich des Türgriffs befand. Auf der Suche nach Stehlenswertem entwendete der Unbekannte aus einer Geldbörse Bargeld. Im weiteren Verlauf seiner Diebestour entwendete der Einbrecher aus dem Büro weiteres Bargeld in Höhe von mehreren Tausend Euro sowie Geld in ausländischer Währung. Das Polizeirevier Kornwestheim, Telefon 07154/1313-0, sucht Zeugen die etwas Verdächtiges wahrgenommen haben.  ",
-		"type": "Wohnungseinbruch",
-		"lat": 48.8658984,
-		"lon": 9.254056199999999
-	},
-	{
-		"date": "12/19/2013",
-		"description": "In der Nacht von Mittwoch auf Donnerstag wurde in mehrere Bäckereien eingebrochen. Unbekannte Täter wuchteten in Gemmingen, in der Zeit zwischen 21:00 Uhr und 05:00 Uhr, in einer Bäckereifiliale im Freizeitweg ein Fenster auf und gelangten so in den Verkaufsraum. Im Inneren machten sich die Einbrecher an einem Tresor zu schaffen und entwendeten aus diesem Bargeld in einer noch nicht bekannten Höhe. Der dadurch entstandene Sachschaden am Fenster beläuft sich auf etwa 1.500 Euro. Mit brachialer Gewalt wurde auch die Eingangstüre zu einer Bäckerei in der Daimlerstraße in Kirchardt, zwischen 22:00 Uhr und 04:30 Uhr, aufgewuchtet. Ob etwas entwendet wurde, muss noch festgestellt werden. Für sachdienliche Hinweise wenden sich Zeugen bitte an die Polizei Eppingen unter der Telefonnummer: 07262 60950.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.203663,
-		"lon": 9.000455299999999
-	},
-	{
-		"date": "12/19/2013",
-		"description": "In der Nacht von Mittwoch auf Donnerstag wurde in mehrere Bäckereien eingebrochen. Unbekannte Täter wuchteten in Gemmingen, in der Zeit zwischen 21:00 Uhr und 05:00 Uhr, in einer Bäckereifiliale im Freizeitweg ein Fenster auf und gelangten so in den Verkaufsraum. Im Inneren machten sich die Einbrecher an einem Tresor zu schaffen und entwendeten aus diesem Bargeld in einer noch nicht bekannten Höhe. Der dadurch entstandene Sachschaden am Fenster beläuft sich auf etwa 1.500 Euro. Mit brachialer Gewalt wurde auch die Eingangstüre zu einer Bäckerei in der Daimlerstraße in Kirchardt, zwischen 22:00 Uhr und 04:30 Uhr, aufgewuchtet. Ob etwas entwendet wurde, muss noch festgestellt werden. Für sachdienliche Hinweise wenden sich Zeugen bitte an die Polizei Eppingen unter der Telefonnummer: 07262 60950.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.203663,
-		"lon": 9.000455299999999
-	},
-	{
-		"date": "12/19/2013",
-		"description": "Alle Schubladen und Schränke eines Wohnhauses im Heilbronner Eichelberger Weg durchsuchten bislang unbekannte Täter am Donnerstag. Zwischen 07:45 Uhr und 23:30 Uhr hebelten die Einbrecher ein Fenster auf und gelangten so ins Innere. Offensichtlich wurde jedoch nichts gestohlen. Sachdienliche Hinweise werden durch die Polizei in Heilbronn unter der Telefonnummer 07131 1042500 angenommen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1481323,
-		"lon": 9.2411388
-	},
-	{
-		"date": "12/20/2013",
-		"description": "Bislang Unbekannte gelangten in der Nacht von Donnerstag auf Freitag in ein städtisches Gebäude am Kirchplatz 6. Dort wurden insgesamt sechs Holztüren zu Räumlichkeiten der Musikschule und VHS unter massiver Gewaltanwendung aufgebrochen. Die Täter entwendeten mehrere hundert Euro Bargeld sowie zwei Schlüssel. Hinweise über verdächtige Wahrnehmungen bitte an den Polizeiposten Möckmühl unter Telefon 06298 92000.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.3228422,
-		"lon": 9.360790699999999
-	},
-	{
-		"date": "12/20/2013",
-		"description": "Unbekannte drangen am Freitag in der Zeit zwischen 02.00 bis 03.00 Uhr im Wimpfener Weg gewaltsam in die Verkaufsräume eines Geschäfts ein. Die Täter entwendeten in adidas-Sporttaschen sowie in mitgebrachten großen Kunststofftaschen Schuhe und Handtaschen im Wert von mehreren Tausend Euro. Möglicherweise wurden die Täter bei der Ausführung gestört, da eine zum Abtransport bereit gestellte Kunststofftasche im Eingangsbereich zurück blieb.\nHinweise über verdächtige Wahrnehmungen bitte an das Polizeirevier Heilbronn unter Telefon 07131 104-2500.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.18603599999999,
-		"lon": 9.1084833
-	},
-	{
-		"date": "12/20/2013",
-		"description": "Bislang Unbekannte verschafften sich in der Nacht von Donnerstag auf Freitag Zutritt zu der Verkaufs- und Lagerhalle eines Gastro-Service in der Gottlieb-Daimler-Straße. Mehrere Bürotüren wurden aufgehebelt und Bargeld in Höhe von mehreren hundert Euro entwendet. Hinweise über verdächtige Wahrnehmungen bitte an das Polizeirevier Heilbronn unter Telefon 07131 104-2500.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1545966,
-		"lon": 9.2140022
-	},
-	{
-		"date": "12/21/2013",
-		"description": "In Untereisesheim versuchten am Samstag, 21.12.2013, im Gablonzer Weg unbekannte Täter eine Terrassentüre auf zu wuchten. Dabei nutzten sie die Abwesenheit der Eigentümer gegen 19.20 Uhr. Die Täter gelangten nicht in das Gebäude.\nDie den Sachverhalt aufnehmende Streife überprüfte  auch die Gebäude in der näheren Umgebung und stellte an einem Haus in der Bibershecke fest, dass dort eingebrochen wurde. Hier hatten die Täter ein Fenster aufgehebelt und das Haus komplett nach Wertgegenständen durchsucht. Was genau entwendet wurde kann noch nicht gesagt werden.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2077538,
-		"lon": 9.194675199999999
-	},
-	{
-		"date": "12/21/2013",
-		"description": "Eine Überraschung erlebte auch ein Ehepaar bei ihrer Rückkehr zum Wohnhaus in der Görlitzer Straße am Samstag gegen 19.00 Uhr.\nDie Haustüre stand offen. Die Täter hatten die Terrassentüre aufgebrochen und ließen sich hier nicht mal durch den anwesenden Hund abschrecken. Diesen fanden die Geschädigten eingesperrt in einem Zimmer. Das Verhalten des Tieres lässt darauf schließen dass es vermutlich betäubt wurde.\nAuch in diesem Haus  wurden sämtliche Räume des Hauses durchsucht. Ziel waren hier Schmuckgegenstände.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.20769019999999,
-		"lon": 9.193356699999999
-	},
-	{
-		"date": "12/21/2013",
-		"description": "In Heilbronn in der Bensheimer Straße entwendeten unbekannte Täter ebenfalls Schmuckgegenstände. Hier waren sie durch Aufhebeln eines Fensters in das Haus gelangt. Auch in diesem  Haus  wurden sämtliche Räume durchsucht. Der Tatzeitraum kann zwischen 15.30 Uhr und 22.00 Uhr eingegrenzt werden.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1825065,
-		"lon": 9.1054242
-	},
-	{
-		"date": "12/21/2013",
-		"description": "Ganz anders in Bad Rappenau im Asternweg dort drangen die Täter mit brachialer Gewalt in eine Wohnung im 1. OG ein. Die Wohnungstüre wurde aufgehebelt und nach durchsuchen der Zimmer Schmuckgegenstände und ein kleiner Tresor mitgenommen. Der Tresor diente den Besitzern zur Aufbewahrung ihrer Unterlagen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2365876,
-		"lon": 9.101531099999999
-	},
-	{
-		"date": "12/21/2013",
-		"description": "Auch in Bad Wimpfen in der Eichendorffstraße nutzen unbekannte Täter die Abwesenheit der Eigentümer zwischen 14.30 Uhr und 17.50 Uhr aus um über ein Fenster einzusteigen. Aus der Wohnung wurden mehrere Armbanduhren gestohlen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2282782,
-		"lon": 9.1544356
-	},
-	{
-		"date": "12/22/2013",
-		"description": "Vermutlich gestört wurden die Täter bei einem Einbruch am Sonntagabend in Brackenheim-Meimsheim. Um in das Wohnhaus in der Lauffener Straße zu gelangen brachen die Unbekannte ein Fenster auf und gelangten so ins Innere. Im Gebäude wurde nichts durchwühlt und offensichtlich auch nichts gestohlen, weshalb es wahrscheinlich ist, dass die Langfinger gestört wurden. Verdächtige Wahrnehmungen in diesem Zusammenhang werden erbeten an die Lauffener Polizei, unter Telefon 07133/2090.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0977927,
-		"lon": 9.136834499999999
-	},
-	{
-		"date": "12/22/2013",
-		"description": "In eine Fleiner Bäckerei verschaffte sich ein bislang unbekannter Einbrecher in der Nacht zum Sonntag gewaltsamen Zutritt und durchwühlte sämtliche Schränke und Schubladen. Aus der Küche entwendete er eine Kaffeekasse der Beschäftigten in der sich Bargeld in noch unbekannter Höhe befand. Zeugen, die in der Tatnacht verdächtige Wahrnehmungen gemacht haben, werden gebeten, sich mit der Weinsberger Polizei, Telefon 07134/9920, in Verbindung zu setzen. ",
-		"type": "Wohnungseinbruch",
-		"lat": 49.10214819999999,
-		"lon": 9.211708300000002
-	},
-	{
-		"date": "12/23/2013",
-		"description": "Ein bislang Unbekannter drang in der Zeit von Freitag bis Montag in ein derzeit unbewohntes Wohngebäude in der Andersenstraße ein. Über ein Kellerfenster gelangte der Einbrecher ins Gebäudeinnere, durchsuchte alle Räumlichkeiten und verschwand mit mehreren kleinen Einrichtungsgegenständen im Wert von etwa 100 Euro. Hinweise über verdächtige Wahrnehmungen nimmt das Polizeirevier Böckingen unter Telefon 07131 204060 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.18357700000001,
-		"lon": 9.1198292
-	},
-	{
-		"date": "12/23/2013",
-		"description": "Bislang Unbekannte drangen in der Zeit von Samstag bis Montag in das Gebäude der Realschule in der Gymnasiumstraße ein. Die Täter gelangten nach Einschlagen eines Fensters im Erdgeschoss ins Gebäudeinnere. Um in ein Büro zu gelangen, zerstörten sie eine Panzerglasscheibe. Aus dem Büro wurde ein Notebook entwendet. Der angerichtete Sachschaden ist erbheblich.\nHinweise über verdächtige Wahrnehmungen nimmt der Polizeiposten Neuenstadt unter Telefon 07139 47100 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2343987,
-		"lon": 9.3373467
-	},
-	{
-		"date": "12/23/2013",
-		"description": "Ein bislang Unbekannter drang in der Zeit von Samstag bis Montag in eine Bäckerei in der Heidelberger Straße ein. Nach Aufhebeln eines Fensters gelangte er in die Verkaufsräume, wo er einen kleinen Schranktresor  mit einem geringen Betrag an Wechselgeld entwendete.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.14604139999999,
-		"lon": 9.1846797
-	},
-	{
-		"date": "12/23/2013",
-		"description": "In der Zeit von Sonntag, 13.00 Uhr bis Montag, 05.00 Uhr gelangte ein Unbekannter gewaltsam über die Glaseingangstür in die Räumlichkeiten einer Bäckerei in der Cäcilienbrunnenstraße. Auch hier hatte es der Einbrecher auf Bargeld abgesehen. Mit einem geringen Betrag aus der Kaffeekasse verschwand der Täter.\nHinweise über verdächtige Wahrnehmungen nehmen die Polizeireviere Böckingen unter Telefon 07131 204060 sowie Heilbronn unter Telefon 07131 104-2500 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1285496,
-		"lon": 9.2314978
-	},
-	{
-		"date": "12/24/2013",
-		"description": "Leider ruhten auch am Heilig Abend,  24.12.2013 in der Zeit von 17.15 Uhr und 21.00 Uhr die Langfinger nicht. Unbekannte versuchten zunächst in der Ringstraße an einem Wohngebäude ein Küchenfenster aufzuhebeln. Da dies scheiterte, hebelten sie die Hauseingangstüre an der Westseite des Anwesens auf und gelangten so in das Gebäude.\nSeltsamerweise durchsuchten der oder die Täter das Erdgeschoß nicht, während sie im Obergeschoß sämtliche Räume und Schränke durchsuchten und den Inhalt teilweise auf den Boden warfen. Nach bisherigen Ermittlungen wurde nichts entwendet. Die unverschlossene Türe zur angebauten Gewerbehalle, in der Baumaschinen untergebracht sind,  wurde zwar geöffnet, anscheinend wurde die Halle aber weder betreten noch durchsucht. Der entstandene Sachschaden wird auf ca. 400 Euro geschätzt.\nSachdienliche Hinweise zu dem Fall nimmt das Polizeirevier in Eppingen unter Telefon 07262/60950 entgegen.   ",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1464445,
-		"lon": 8.9703211
-	},
-	{
-		"date": "12/24/2013",
-		"description": "Unbekannte drangen am Heiligabend in ein Wohngebäude in der Wormser Straße ein und entwendeten aus den Küchenräumlichkeiten der dort wohnhaften Familie ein sogenanntes IPad, ein IPhone und ein Laptop sowie Bargeld in Höhe von mehreren hundert Euro.\nSämtliche Gegenstände waren auf der Küchenarbeitsplatte im Erdgeschoß abgelegt gewesen. Lediglich ein Teil des Bargeldes wurde aus einer Damenhandtasche, die im Flur hing,  gestohlen.  Wie die Täter in die Wohnung gelangten ist völlig unklar, sämtliche Türen und Fenster wurden auf Einbruchspuren untersucht, es konnten keinerlei Aufbruchspuren erkannt werden. Auch der Hausschlüssel nebst Ersatzschlüssel sind vorhanden.\nSachdienliche Hinweise nimmt das Polizeirevier Böckingen unter Telefon 07131/204060 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.181552,
-		"lon": 9.109328699999999
-	},
-	{
-		"date": "12/25/2013",
-		"description": "Ein bislang Unbekannter drang in der Zeit von Montag bis Mittwoch gewaltsam in das Gebäude des Kindergartens in der Kleinen Hohle ein. Der Einbrecher gelangte nach dem Einschlagen eines Fensters in die Räumlichkeiten und durchsuchte zahlreiche Schränke. Über entwendete Gegenstände liegen derzeit keine Erkenntnisse vor.\nHinweise über verdächtige Wahrnehmungen nimmt der Polizeiposten Leintal unter 07138 810630 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.14928279999999,
-		"lon": 9.1016285
-	},
-	{
-		"date": "12/26/2013",
-		"description": "Mit einem Metallblock versuchte ein bislang unbekannter Einbrecher in der Nacht zum Donnerstag die Glastür eines Geschäfts in der Heilbronner Allee einzuwerfen. Diese hielt jedoch Stand, sodass der Einbrecher nicht ins Innere des Gebäudes gelangte. Es entstand ein Sachschaden in Höhe von mehreren hundert Euro. Zeugen, die verdächtige Beobachtungen gemacht haben melden diese an die Heilbronner Polizei, Telefon 07131/104-2500.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.140728,
-		"lon": 9.221755
-	},
-	{
-		"date": "12/26/2013",
-		"description": "Gleich zweimal suchten bislang unbekannte Einbrecher während der Feiertage türkische Schnellrestaurants heim. In der Nordheimer Hauptstraße verschafften sich Unbekannte gewaltsam Zutritt in das Gebäude. Im Gastraum hebelten sie drei Geldspielautomaten auf und entwendeten aus diesen das Münzgeld in noch unbekannter Höhe. An den Geräten selbst dürfte ein Schaden in Höhe von etwa 2.500 Euro entstanden sein. Hinweise bitte an die Lauffener Polizei, Telefon 07133/2090.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1080506,
-		"lon": 9.1302948
-	},
-	{
-		"date": "12/26/2013",
-		"description": "Auch in der Weinsberger Hauptstraße versuchten Einbrecher ins Innere eines Imbiss zu gelangen. Über eine unverschlossene Türe gelangten diese zunächst in den Flur eines Wohn- und Geschäftshauses. Dort wurde versucht, die Stahltüre aufzubrechen, was nicht gelang. So mussten die Einbrecher unverrichteter Dinge wieder abziehen. Hinterließen aber einen Sachschaden in Höhe von mehreren hundert Euro. Hinweise bitte an die Weinsberger Polizei, Telefon 07134/9920.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1080506,
-		"lon": 9.1302948
-	},
-	{
-		"date": "12/27/2013",
-		"description": "Ein bislang unbekannter Täter brach am vergangenen Freitag in der Zeit zwischen 15.30 und\n18.00 Uhr eine Terrassentüre der Gruppenbacher Straße auf und verschaffte sich so Zugang in das Wohnhaus. Lediglich in einem Zimmer durchsuchte der Täter diverse Schränke und Schubladen. Nach ersten Feststellungen der  Wohnungsinhaber wurde vermutlich nichts entwendet.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1264866,
-		"lon": 9.226254100000002
-	},
-	{
-		"date": "12/25/2013",
-		"description": "Am Mittwochmorgen gegen 04.15 Uhr erwachten Anwohner in der Galgenbergstraße in Schwabbach durch laute Klopfgeräusche. Das Ehepaar ging nach draußen und erkannte am Nachbargebäude zwei bis drei Personen, die sich an einem Rollladen zu schaffen machten. Einer der vermeintlichen Einbrecher bemerkte das Ehepaar und gab einen lauten Pfiff ab. Daraufhin rannten die Personen in Richtung Forchenweg, stiegen in einen dort abgestellten größeren PKW und fuhren beschleunigt davon. Weitere Hinweise bitte an die Polizei Bretzfeld, Tel. 07946/940010.  ",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1804461,
-		"lon": 9.400342100000001
-	},
-	{
-		"date": "12/24/2013",
-		"description": " Am Heiligen Abend gegen 23.40 Uhr wurde das Polizeirevier Öhringen von einem Wachdienst informiert, dass die Alarmanlage beim Spielcasino im Brenntenstock ausgelöst habe. Nach wenigen Minuten trafen dort mehrere Streifen des Polizeireviers Öhringen ein. Sie stellten fest, dass von bisher unbekannten Tätern die Glaszugangstüre gewaltsam eingedrückt wurde. Im Innenraum waren insgesamt fünf Spielautomaten aufgehebelt worden. Die Bargeldbehälter fehlten. Das gesamte Tatgeschehen spielte sich innerhalb weniger Minuten ab, wobei sich die Täter von der aktivierten Alarmanlage offensichtlich nicht abschrecken ließen. Wie viel Bargeld sich in den Spielautomaten befand, muss erst noch ermittelt werden. Nach bisherigen Erkenntnissen flüchteten die Täter nach Tatausführung in Richtung Heilbronner Straße, Schwöllbronner Weg bzw. Galgenberg. Kurz vor 23.00 Uhr wurde im dortigen Bereich ein silberner Van beobachtet. Möglicherweise handelt es sich hierbei um das von den Tätern benutzte Fahrzeug. Hinweise bitte an die Polizei Öhringen, Tel. 07941/9300.  ",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2009408,
-		"lon": 9.4876233
-	},
-	{
-		"date": "12/23/2013",
-		"description": "  In eine Wohnung im ersten Stock eines Wohnhauses in der Albert-Fernand-Straße in Unterheimbach versuchte ein Unbekannter am vergangenen Montag zwischen 6.30 und 16.45 Uhr einzubrechen. Seine Versuche, die Wohnungstüre aufzuhebeln, scheiterten jedoch und der Täter verschwand wieder. Mögliche Zeugen sollten sich unter Tel. 07946/940010 beim Polizeiposten in Bretzfeld melden.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1402209,
-		"lon": 9.464070399999999
-	},
-	{
-		"date": "12/29/2013",
-		"description": "  Die Abwesenheit der Bewohner nutzte ein Einbrecher zwischen Samstag 9 Uhr und Sonntagmorgen. Er brach im zweiten Stock eines Wohnhauses in der Stuttgarter Straße die Türe auf und drang in die Wohnung ein. Eine Besucherin der Nachbarwohnung entdeckte gegen 8.30 Uhr die aufgebrochene Türe und verständigte die Polizei. Was genau entwendet wurde, steht zurzeit noch nicht fest. Zeugen, die im Tatzeitraum etwas Verdächtiges beobachtet haben, sollten sich unter Tel. 07940/9400 beim Polizeirevier melden.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2751352,
-		"lon": 9.6849647
-	},
-	{
-		"date": "12/18/2013",
-		"description": "Einbrecher wuchteten am Mittwoch zwischen 13.45 und 20.10 Uhr ein Fenster eines Hauses in der Rippergstraße auf und stiegen ein. Sie durchsuchten mehrere Räume und erbeuteten Schmuck. Der Wert der Beute ist noch nicht bekannt. Die Polizei ermittelt.   ",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1201652,
-		"lon": 9.7311328
-	},
-	{
-		"date": "12/18/2013",
-		"description": " In den vergangenen Tagen versuchte ein Unbekannter die Türe eines Gebäudes im Hagenbacher Ring aufzuhebeln. Dies gelang ihm jedoch nicht. Er zog wieder ab. Zurück blieben einige hundert Euro Schaden.   ",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0988376,
-		"lon": 9.7349541
-	},
-	{
-		"date": "12/19/2013",
-		"description": " In der Nacht von Mittwoch auf Donnerstag brachen Unbekannte in ein Firmengebäude in der Eckartshäuser Straße ein. Hierbei entwendeten sie Diebesgut im Wert von ca. 100 Euro; der Schaden am Gebäude beträgt  ca. 50 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.169224,
-		"lon": 9.931887999999999
-	},
-	{
-		"date": "12/25/2013",
-		"description": " Unbekannte Täter brachen im Zeitraum von Sonntag, 22.12.2013, bis Mittwoch, 25.12.2013, in eine Firma in der Mönchstraße ein. Die Täter durchsuchten anschließend das Gebäude. Nach momentanem Sachstand wurde Münzgeld aus einem Getränkeautomat entwendet; ob noch mehr gestohlen wurde ist noch unklar.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.065471,
-		"lon": 9.5547306
-	},
-	{
-		"date": "12/26/2013",
-		"description": "Ungebetenen Besuch erhielt eine Gaststätte beim Starkholzbacher See an Weihnachten. In der Zeit von Mittwoch (9.30 Uhr) bis Donnerstag (10.30 Uhr)  hebelten Unbekannte ein Fenster und Türen des Gebäudes auf. Sie erbeuteten unter anderem eine Eistruhe, Kochtöpfe, Pfannen, Bestecke und Roastbeef. Zudem fehlen ein Gasgrill und ein Werkzeugkoffer. Der Gesamtschaden addiert sich nach ersten Schätzungen auf einige tausend Euro. Die Polizei ermittelt und bittet um Hinweise. Wer zur Tatzeit im Bereich des Starkholzbacher Sees verdächtige Personen oder Fahrzeuge beobachtet hat, möchte sich bitte unter Telefon 0791 / 4000 melden.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0826785,
-		"lon": 9.6645994
-	},
-	{
-		"date": "12/28/2013",
-		"description": "Ein Unbekannter versuchte in der Nacht von Freitag auf Samstag in ein Bürogebäude am Markt einzubrechen. Dabei hebelte er ein Fenster neben dem Eingang auf, scheiterte dann aber bei dem Versuch, ein weiteres, dahinter angebrachtes Fenster zu öffnen. Am Gebäude entstand ein Schaden von 1000 €. Zeugen werden gebeten, sich beim Polizeirevier Schwäbisch Hall zu melden.   ",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1126814,
-		"lon": 9.737382499999999
-	},
-	{
-		"date": "12/19/2013",
-		"description": "Reiche Beute machte ein bislang unbekannter Täter als er am Donnerstag im Zeitraum zwischen 17:00 Uhr und 00:50 Uhr in ein Wohnhaus in der Seestraße einbrach, indem er die Terrassentür aufhebelte. Im Gebäudeinneren durchwühlte er sämtliche Schränke und entwendete hochwertigen Schmuck im Wert von mehreren Tausend Euro. Die Flucht trat der Einbrecher schließlich über die Haustür an. Der entstandene Sachschaden konnte bislang nicht beziffert werden. Hinweise nimmt das Polizeirevier Bietigheim-Bissingen, Telefon 07142/405-0, entgegen.\n \n",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0109929,
-		"lon": 9.0596084
-	},
-	{
-		"date": "12/19/2013",
-		"description": "Vermutlich derselbe Einbrecher versuchte sich einige Häuser weiter im Zeitraum zwischen 08:30 Uhr und 18:00 Uhr an der Haupt- und Nebeneingangstür eines Wohngebäudes. Da es ihm nicht gelang eine der Türen aufzubrechen, gab er sein Vorhaben auf. Es entstand ein Sachschaden in Höhe von etwa 2.000 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.00687970000001,
-		"lon": 9.056053499999999
-	},
-	{
-		"date": "12/19/2013",
-		"description": "Reiche Beute im Wert von mehreren Tausend Euro fiel einem Einbrecher in die Hände, der am Donnerstag in der Zeit zwischen 18:00 Uhr und 19:50 Uhr die Terrassentür eines Wohnhauses im Ahornweg aufhebelte. Auf der Suche nach Stehlenswertem öffnete er in den Räumlichkeiten zahlreiche Schränke und Behältnisse und entwendete Schmuck sowie eine geringe Menge Bargeld. Der Schaden an der Tür beläuft sich auf einige Hundert Euro. Personen, die Verdächtiges beobachtet haben, werden gebeten sich unter Tel. 07141/601014 an den Polizeiposten Tamm oder an das Polizeirevier Kornwestheim, Tel. 07154 1313-0, zu wenden.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.925235,
-		"lon": 9.130538099999999
-	},
-	{
-		"date": "12/20/2013",
-		"description": "Trotz Fenstergitter gelang es einem Einbrecher sich in der Zeit zwischen Donnerstag 23.15 Uhr und Freitag 11.00 Uhr über ein vermutlich geöffnetes Kellerfenster Zutritt zu den Räumlichkeiten einer Gaststätte in der Ludwigstraße zu verschaffen. Im Gebäude durchsuchte der Täter sämtliche Räumlichkeiten und ließ aus dem Gastraum über Hundert Euro Bargeld mitgehen. Anschließend begab er sich in eine Wohnung im Obergeschoss, in der ihm ein Laptop im Wert von etwa 300 Euro in die Hände fiel. Hinweise nimmt der Polizeiposten Gerlingen unter Tel. 07156/9449-0 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.795251,
-		"lon": 9.0625398
-	},
-	{
-		"date": "12/20/2013",
-		"description": "Am Freitag verschaffte sich zwischen 07.25 Uhr bis 19.05 Uhr ein unbekannter Täter durch Aufhebeln des Fensters im Erdgeschoss den Zutritt  in die Räumlichkeiten einer Wohnung in der Brächterstraße. Dort durchsuchte der Täter die Räumlichkeiten und entwendete diverse Schmuckstücke in Wert von etwa 250 Euro. Der entstandene Sachschaden wird auf 500 Euro geschätzt.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9239505,
-		"lon": 9.1344215
-	},
-	{
-		"date": "12/20/2013",
-		"description": "Am Freitag, zwischen 14.30 Uhr und 18.15 Uhr, hebelten unbekannte Täter die Terrassentür eines Einfamilienhauses in der Alleenstraße auf und gelangten so in die Räume im Erdgeschoss und Obergeschoss. Dort durchsuchte er in sämtlichen Räumen mehrere Schränke. Ob bei dem Einbruch Diebesgut entwendet wurde, ist bislang unbekannt. Der entstandene Sachschaden beträgt etwa 2.000 Euro",
-		"type": "Wohnungseinbruch",
-		"lat": 48.95625099999999,
-		"lon": 9.0173692
-	},
-	{
-		"date": "12/20/2013",
-		"description": "Unbekannte Täter hebelten am Freitagabend, im Zeitraum von 17.30 und 21.00 Uhr, ein Fenster im Erdgeschoss eines Einfamilienhauses in der Neuffenstraße auf und gelangten über dies in alle Zimmer des Erdgeschosses, sowie des Obergeschosses. In den dortigen Zimmern wurden mehrere Schränke sowie Schubladen durchwühlt. Hierbei wurde sämtlicher Schmuck entwendet. Der genaue Wert des Diebesguts ist bislang unbekannt. Der entstandene Sachschaden beträgt rund 500 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9060318,
-		"lon": 9.151468099999999
-	},
-	{
-		"date": "12/21/2013",
-		"description": "In der Zeit zwischen Freitagabend und Samstagmorgen hebelten unbekannte Täter die Balkontür eines Mehrfamilienhauses in der Löchgauer Straße auf und verschafften sich so Zutritt in die Wohnung im ersten Obergeschoss. Dort wurden mehrere Schränke durchsucht und diverser Schmuck und Bargeld im Wert von ca. 270 Euro entwendet. Der entstandene Sachschaden beträgt etwa 200 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9624627,
-		"lon": 9.1221561
-	},
-	{
-		"date": "12/21/2013",
-		"description": "In der Nacht von Freitag auf Samstag hebelten unbekannte Täter im Stadtteile Heutingsheim ein Fenster eines Kindergarten auf und stiegen anschließend ein. Im Personalraum des Kindergartens wurde ein Wandschrank aufgehebelt, jedoch nichts entwendet. ",
-		"type": "Wohnungseinbruch",
-		"lat": 48.930107,
-		"lon": 9.197796
-	},
-	{
-		"date": "12/21/2013",
-		"description": "Nach Aufhebeln einer Terrassentür ist ein unbekannter Täter am Sonntag, zwischen 15:30 und 17:30 Uhr in ein Wohnhaus in der Oberen Zeilstraße in Kleinsachsenheim eingedrungen. Zuvor hatte er den Bewegungsmelder am Gebäude unbrauchbar gemacht. Im Haus öffnete er mehrere Schränke und Schubladen und ließ einen kleineren Bargeldbetrag mitgehen.",
-		"type": "Wohnungseinbruch",
-		"lat": 47.9668127,
-		"lon": 10.2099522
-	},
-	{
-		"date": "12/22/2013",
-		"description": "",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9667019,
-		"lon": 9.079623
-	},
-	{
-		"date": "12/23/2013",
-		"description": "Auf bislang nicht geklärte Art und Weise öffneten bislang unbekannte Täter in der Nacht auf Montag die Türe der Warenannahme eines Autohauses in der Alexander-Flemming-Straße und entwendeten insgesamt 56 neue, teilweise noch verpackte BMW-Kompletträder im Gesamtwert von rund 16.000 Euro. Da zum Abtransport vermutlich ein größerer Lieferwagen oder Lkw genutzt wurde, bittet das Polizeirevier Bietigheim-Bissingen, 07142/405-0, um Hinweise.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9551435,
-		"lon": 9.1187658
-	},
-	{
-		"date": "12/23/2013",
-		"description": "Nachdem es einem bislang unbekannten Täter zunächst nicht gelungen war, die Terrassentüre eines Einfamilienhauses in der Friedrich-Siller-Straße aufzuhebeln, wuchtete er in der Zeit zwischen Sonntag, 15:00 Uhr und Montag, 10:00 Uhr, ein Wohnzimmerfenster auf. In dem Gebäude durchsuchte er einige Schränke und Schubladen und entwendete diverse Schmuckstücke, wobei der Wert bislang noch nicht beziffert werden konnte. Der an der Terrassentüre sowie dem Fenster angerichtete Sachschaden beläuft sich auf etwa 1.000 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9603579,
-		"lon": 9.064320799999999
-	},
-	{
-		"date": "12/25/2013",
-		"description": "Am Mittwoch gelangten um 02.50 Uhr vermutlich zwei unbekannte Täter durch Einschlagen eines Fensters in die Filiale einer Bank am Marktplatz. Im Gebäudeinneren durchsuchten die Täter alle Büros im Erdgeschoss. Im weiteren Verlauf gelangten sie durch Aufhebeln einer alarmgesicherten Türe in den Kassenraum wodurch ein Alarm ausgelöst wurde. Eintreffende Polizeistreifen näherten sich der Bank zu Fuß. Die Polizeibeamten wurden durch die Täter bemerkt, die durch ein geöffnetes Fenster drei Meter hinab auf eine Erdböschung sprangen und die Flucht ergriffen. Die weitere Fahndung mit mehreren Polizeistreifen verlief negativ. Die Höhe des Diebesguts und der entstandene Sachschaden können bislang nicht beziffert werden.\nZur Sicherung der umfangreichen Spuren wurde die Kriminalpolizei Ludwigsburg hinzugezogen. Zeugen werden gebeten, sich mit dem Polizeirevier Marbach am Neckar, Telefon 07144/900-0, in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9349352,
-		"lon": 9.1924966
-	},
-	{
-		"date": "12/26/2013",
-		"description": "In der Zeit zwischen Samstag und Donnerstag suchte ein bislang unbekannter Täter gleich mehrere Gartenhäuser entlang der Landesstraße 1117 im Gewann \"Ochsenweide\" heim. Indem er den Zaun überstieg, gelangte er auf das erste Grundstück und brach ein Fenster am dortigen Gartenhäuschen auf. Anschließend stieg er in das Innere ein, durchwühlte das Inventar und ließ augenscheinlich nichts mitgehen. Im weiteren Verlauf begab er sich auf das benachbarte Grundstück und hebelte das Türschloss des Gartenhauses auf. Dabei fiel ihm ein Notstromaggregat im Wert von etwa 400 Euro in die Hände, das er mitgehen ließ. Der Schaden an der Tür wurde mit ungefähr 1.000 Euro beziffert. Durch Übersteigen eines weiteren Zugangstors gelangte der Unbekannte schließlich auf das nächste Grundstück und begab sich wiederrum zum Gartenhäuschen. Da die Tür nicht verschlossen war, gelangte er mühelos und ohne Schaden anzurichten in den Innenraum und entwendete daraus eine Schnapsflasche von geringem Wert. Die Ermittlungen dauern an. Hinweise nimmt der Polizeiposten Großbottwar, Tel. 07148/1625-0 oder das Polizeirevier Marbach/N. unter Tel. 07144/900-0 entgegen.  ",
-		"type": "Wohnungseinbruch"
-	},
-	{
-		"date": "12/28/2013",
-		"description": "In der Zeit von Freitag, 17:00 Uhr bis Samstag, 11:00 Uhr, brach ein unbekannter Täter die Terrassentüre eines Hauses in der Metterstraße auf und gelangte so in die Wohnräume. Dort wurden 400 Euro Bargeld entwendet. Der entstandene Schaden an der Türe kann noch nicht beziffert werden.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.96272,
-		"lon": 9.0529456
-	},
-	{
-		"date": "12/29/2013",
-		"description": "Reiche Beute machte ein bislang unbekannter Einbrecher, als er am Sonntag in der Zeit zwischen 12.00 Uhr und 21.40 Uhr ein Wohnhaus in der Turmstraße heimsuchte. Indem der Täter mehrmals an einem Fenster hebelte, zersprang das Fensterglas, so dass er in die Räumlichkeiten einsteigen konnte. Auf der Suche nach Stehlenswertem fielen ihm Bargeld und eine Armbanduhr im Wert von insgesamt etwa 1.500 Euro in die Hände. Der entstandene Sachschaden wurde mit ungefähr 800 Euro beziffert.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9611735,
-		"lon": 9.1206394
-	},
-	{
-		"date": "12/30/2013",
-		"description": "Vermutlich auf Bargeld waren unbekannte Einbrecher aus, als sie in der Zeit zwischen Sonntag 18.00 Uhr und Montag 09.30 Uhr über ein Fenster in eine Gaststätte am Bahnhof einstiegen. Im Schankraum machten sie sich an Geldspielautomaten zu schaffen und erbeuteten dabei mehrere Tausend Euro. Der entstandene Sachschaden wurde mit etwa 2.500 Euro angegeben. Hinweise nimmt das Polizeirevier Marbach unter Tel. 07144/900-0 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 47.392996,
-		"lon": 9.5794377
-	},
-	{
-		"date": "12/31/2013",
-		"description": "Am frühen Dienstagmorgen, 31.12.2013, gegen 00.35 Uhr, bemerkte der Hauseigentümer beim Heimkommen, dass offensichtlich während seiner Abwesenheit in sein Haus in der Eichenstraße in Oedheim eingebrochen worden war. Der oder die Täter waren durch Aufhebeln eines Fensters ins Gebäudeinnere gelangt. Durch die Wucht beim Öffnen ging die komplette Scheibe zu Bruch. Im Haus wurden sämtliche Schränke durchsucht. Die Höhe des Sachschadens und des Diebesgutes lässt sich derzeit noch nicht genau beziffern. Anwohner oder Passanten, die bereits am Montagabend des 30.12.2013 verdächtige Wahrnehmungen gemacht haben, werden gebeten sich telefonisch unter 07132/93710 beim Polizeirevier Neckarsulm zu melden.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2448595,
-		"lon": 9.248785699999999
-	},
-	{
-		"date": "1/1/2014",
-		"description": "Ein bislang unbekannter Täter verschaffte sich am Mittwoch, im Zeitraum zwischen 17:55 Uhr und 19:45 Uhr, Zutritt zu einem Wohnhaus in der Berntalstraße, indem er ein gekipptes Waschküchenfenster aufhebelte. Im Gebäude durchsuchte er mehrere Zimmer, öffnete Schränke und Schublade und ließ etwa 150 Schweizer Franken und 100 Euro mitgehen. Es entstand ein Sachschaden in Höhe von etwa 300 Euro. Hinweise nimmt das Polizeirevier Vaihingen an der Enz, Telefon 07042/941-0, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9656111,
-		"lon": 9.048966799999999
-	},
-	{
-		"date": "1/1/2014",
-		"description": "Bargeld in bislang unbekannter Höhe erbeutete ein unbekannter Einbrecher, als er am Mittwoch, zwischen 13:00 Uhr und etwa 14:30 Uhr, die rückwärtige Tür einer Gaststätte in der Bahnhofstraße aufhebelte und in den Schankraum einstieg. Dort brach er drei Automaten auf. Der Polizeiposten Asperg, Tel. 07141/62033, bittet um Hinweise.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9065634,
-		"lon": 9.1411275
-	},
-	{
-		"date": "1/1/2014",
-		"description": "Einbruch In der Zeit von Samstag, 29. Dezember 2013, 15.30 Uhr, bis Mittwoch, 01. Januar 2014, 20.00 Uhr, brach ein bislang Unbekannter in ein Wohnhaus in der Züttlinger Rädlestraße ein. Der Einbrecher hatte eine Tür aufgehebelt und konnte so in das Innere des Gebäudes gelangen. Dort wurden sämtliche Zimmer durchsucht. Ob etwas gestohlen wurde, ist momentan noch nicht bekannt. Der angerichtete Sachschaden dürfte sich auf rund 1.000 Euro belaufen. Sachdienliche Hinweise nimmt die Polizei Neckarsulm unter der Tel.Nr.: 07132/93710 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2975334,
-		"lon": 9.336871300000002
-	},
-	{
-		"date": "1/1/2014",
-		"description": "Einbruch In der Silvesternacht brach ein bislang Unbekannter in ein Haus in Langenbeutingen, \"Neudeck\" ein. Der Täter hatte dazu offenbar ein Fenster eingeschlagen und konnte so in das Innere des Objektes eindringen. Dort suchte er zielstrebig nach Wertgegenständen und Geld. Insgesamt fielen dem Einbrecher mehrere Schmuckstücke, eine Uhr und etwas Bargeld in die Hände. Die Tat wurde erst am Neujahrsmorgen, gegen 03.30 Uhr, entdeckt. Sachdienliche Hinweise nimmt die Polizei Neckarsulm unter der Tel.Nr.: 07132/93710 entgegen. ",
-		"type": "Wohnungseinbruch",
-		"lat": 49.206605,
-		"lon": 9.420342
-	},
-	{
-		"date": "1/2/2014",
-		"description": " Einbruchsversuch In der Zeit von Mittwoch, 17.30 Uhr, bis Donnerstag, 12.30 Uhr, versuchte ein bislang Unbekannter in eine Wohnung in der Ittlinger Muldenstraße einzubrechen. Der Versuch, ein Fenster aufzuhebeln scheiterte jedoch, sodass der Einbrecher nicht in das Gebäude gelangte. Der angerichtete Sachschaden dürfte mehrere hundert Euro betragen. Sachdienliche Hinweise nimmt die Polizei Eppingen unter der Tel.Nr.: 07262 6095-0 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1948983,
-		"lon": 8.9300742
-	},
-	{
-		"date": "1/1/2014",
-		"description": "Bereits am Neujahrsmorgen wurde im Künzelsauer Stadtgebiet ein 39 Jahre alter, alkoholisierter Mann durch Angehörige eines Security-Dienstes festgehalten, nachdem er zwei Ausstellungsvitrinen in der Hauptstraße eingeschlagen hatte. Eine Polizeistreife brachte den Tatverdächtigen anschließend zur Dienststelle. Nach den bisherigen Ermittlungen hatte er zuvor die Vitrinenverglasung eines Haushaltswarengeschäfts eingeschlagen. Er ließ hochwertige Töpfe und Pfannen mitgehen, verstaute diese in einem mitgebrachten Plastiksack und machte sich anschließend an einer weiteren Vitrine zu schaffen. Auch diese konnte er öffnen und entnahm daraus Optikzubehör, welches er ebenfalls in seinen Plastiksack legte. Den Zeugen fiel der Mann anschließend auf, weil es aus seinem Sack heraus \"verdächtig klapperte\". Sie wollten den Mann ansprechen, dieser lief jedoch davon uns warf auf der Flucht Teile seiner Beute weg. Den Security-Kräften gelang es, ihn einzuholen und bis zum Eintreffen der Polizei festzuhalten. Nach Abschluss der polizeilichen Maßnahmen musste der bereits einschlägig bekannte Dieb wieder auf freien Fuß gesetzt werden. Der von ihm angerichtete Sachschaden beträgt rund 300 Euro; der Diebstahlsschaden liegt bei etwa 500 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2792043,
-		"lon": 9.6895888
-	},
-	{
-		"date": "1/3/2014",
-		"description": " Ein unbekannter Täter versuchte in der Nacht zum Freitag, 03.01., in der Zeit zw. 01.30 und 05.00 Uhr, das Fenster der Toilette einer Gaststätte in der Gaisbacher Straße aufzuhebeln. Nachdem ihm dies in der Folge nicht vollständig gelang, ließ der Täter von einem Einstiegsversuch ab und entfernte sich unverrichteter Dinge. Personen, die Beobachtungen zum Hergang machen können, werden gebeten, sich mit der Polizei Künzelsau (07940-940-421) in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.27379810000001,
-		"lon": 9.6865506
-	},
-	{
-		"date": "1/2/2014",
-		"description": "In der Zeit zwischen Di., 31.12.2013 und Do, 02.01.2014, 13.00-09.00 Uhr, versuchte ein unbekannter Täter die Eingangstüre zu einem Reisebüro am Marktplatz aufzuhebeln. Nachdem ihm dies nicht gelang, versuchte er, ein Segment der Glasfront im Eingangsbereich einzuschlagen, so dass hierdurch das Glas teilweise zersplitterte. Der Sachschaden beträgt ca. 1000.- Euro. Personen, die Beobachtungen gemacht haben, werden gebeten, sich mit dem Polizeirevier Heilbronn (07131-104-2514) in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.142444,
-		"lon": 9.2190421
-	},
-	{
-		"date": "1/3/2014",
-		"description": "Über den Hintereingang einer Bäckerei in der König-Wilhelm-Str. verschaffte sich in der Zeit zw. 02. und 03.01, 18.00-05.10 Uhr, ein unbekannter Täter zutritt zu den dortigen Räumlichkeiten. In der Folge gelangte er an Bar- bzw. Wechselgeld des Betriebs i.H.v. 535.-Euro. Der Sachschaden wird auf ca. 700 Euro beziffert. Zeugen, die Angaben zum Vorfall machen können, werden gebeten, sich mit der Polizei Weinsberg (07134-992-0) in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0551743,
-		"lon": 9.244081099999999
-	},
-	{
-		"date": "1/2/2014",
-		"description": "Von Mi auf Do, 01./02.01., 18.30-12.30 Uhr versuchte ein unbekannter Täter das Wohnzimmerfenster einer Einliegerwohnung in der Muldenstraße in Ittlingen aufzuhebeln. Dem Täter gelang es jedoch hierbei nicht, sich Zutritt zur Wohnung zur verschaffen. Der entstandene Sachschaden beträgt ca. 500 Euro. Personen, die Angaben zum Vorfall machen können, werden gebeten, sich mit der Polizei Eppingen (07262-6095-0) in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1948983,
-		"lon": 8.9300742
-	},
-	{
-		"date": "1/4/2014",
-		"description": "Am Samstag, dem 04.01.2014, in der Zeit zwischen 02.00 und 03.00 Uhr, wurde ein Gebäudekomplex in der Solbergallee von einem unbekannten Täter heimgesucht. Er versuchte sich an insgesamt neun Türen Zugang zu den Geschäftsräumlichkeiten zu verschaffen. Hierbei gelang es ihm eine Kellertüre aufzuwuchen, welche zu einer Apotheke gehören. Erkenntnisse über eventuell erlangtes Diebesgut liegen bis jetzt nicht vor. Das Polizeirevier Mosbach, Tel. 06261/8090, sucht zu diesem Fall Zeugen, die zum Tatzeitpunkt Beobachtungen im Bereich des Tatortes gemacht haben.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.36684469999999,
-		"lon": 9.1402375
-	},
-	{
-		"date": "1/4/2014",
-		"description": "Ein bislang unbekannter Täter brach in der Nacht vom Freitag, dem 03.01.2014, auf Samstag, dem 04.01.2014, im Gewann Hochbäumel in eine Maschinenhalle ein und entwendete dort ein Stromaggregat, eine Motorsäge, ca. 300 Liter Diesel, mehrere Zapfwellenkupplungen, eine Gelenkstange sowie zwei Kompletträder im Wert von mehreren tausend Euro. Sachdienliche Hinweise nimmt das Polizeirevier Mosbach, Tel.: 06261/8090, entgegen.",
-		"type": "Wohnungseinbruch"
-	},
-	{
-		"date": "1/5/2014",
-		"description": "In den Nachmittagsstunden des Sonntags drangen bisher noch unbekannte Einbrecher in ein Einfamilienhaus in Bad Rappenau-Bonfeld \"Im Schänzle\" ein. Die Einbrecher durchsuchten das Haus und stahlen Bargeld, Schmuck sowie Münzen. Der Wert des Diebesgutes muss noch ermittelt werden. Die Unbekannten richteten erheblichen Sachschaden an. Hinweise nimmt das Polizeirevier Eppingen unter der Tel. Nr. 07262 60950 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.24016899999999,
-		"lon": 9.1020153
-	},
-	{
-		"date": "1/5/2014",
-		"description": "In der Zeit von Samstag bis Sonntag wurde in Bad Rappenau in ein Clubheim in der Weinbrennerstraße sowie in zwei Imbissstuben im Bereich \"Zeitwald\" eingebrochen. Es wurde vermutlich nichts entwendet, aber Sachschaden in noch unbekannter Höhe hinterlassen. Hinweise nimmt das Polizeirevier Eppingen unter der Tel. Nr. 07262 60950 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.23459030000001,
-		"lon": 9.114849
-	},
-	{
-		"date": "1/5/2014",
-		"description": "In der Zeit von Samstag bis Sonntag wurde in Bad Rappenau in ein Clubheim in der Weinbrennerstraße sowie in zwei Imbissstuben im Bereich \"Zeitwald\" eingebrochen. Es wurde vermutlich nichts entwendet, aber Sachschaden in noch unbekannter Höhe hinterlassen. Hinweise nimmt das Polizeirevier Eppingen unter der Tel. Nr. 07262 60950 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.23459030000001,
-		"lon": 9.114849
-	},
-	{
-		"date": "1/5/2014",
-		"description": "In der Zeit vom Freitag, 27.12.13 bis zum Sonntag, 05.01.14, wurde in ein Wohnhaus in Bretzfeld-Waldbach in der Egertenstraße eingebrochen. Während der Abwesenheit der Eigentümer wurde ein Kellerfenster aufgehebelt. Nach ersten Erkenntnissen wurde nichts entwendet. Hinweise an den Polizeiposten Bretzfeld, 07946 940010",
-		"type": "Wohnungseinbruch",
-		"lat": 49.162179,
-		"lon": 9.4032105
-	},
-	{
-		"date": "1/6/2014",
-		"description": "Ein bislang Unbekannter brach am Montag, in der Zeit von 11.30 Uhr bis 20.00 Uhr, in ein Wohnhaus in der Lehrensteinsfelder Willsbacher Straße ein. Der Täter hebelte zunächst eine Tür auf und konnte so in das Innere des Gebäudes gelangen. Dort durchsuchte er mehrere Behältnisse. Insgesamt fielen dem Einbrecher mehrere hundert Euro Bargeld in die Hände. Andere Gegenstände blieben unbehelligt. Sachdienliche Hinweise nimmt die Polizei Weinsberg unter der Tel.Nr.: 07134 992-0 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1313842,
-		"lon": 9.3294142
-	},
-	{
-		"date": "1/5/2014",
-		"description": "In der Zeit von Samstag, 20.00 Uhr bis Sonntag, 08.00 Uhr drang ein bislang Unbekannter in eine Gartenhütte in der Dörzbacher Bachgasse ein. Aus dem Innern der Hütte ließ der Einbrecher zwei Taschenlampen, zwei Bambusfackeln und eine Flasche Lampenöl mitgehen. Der Gesamtwert des Diebesgutes dürfte bei deutlich über 100 Euro liegen. Sachdienliche Hinweise nimmt die Polizei Künzelsau unter der Tel.Nr.: 07940 940-0 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.3841045,
-		"lon": 9.7049719
-	},
-	{
-		"date": "1/6/2014",
-		"description": "Mit einem Einbruch sind derzeit die Beamten des Künzelsauer Polizeireviers beschäftigt. In der Zeit von Samstag, 14.00 Uhr, bis Montag, 11.45 Uhr, waren Unbekannte in den Verkaufsraum eines Geschäftes in der Künzelsauer Hauptstraße eingedrungen. Bei ihrer Einbruchstour ließen die Täter mehrere hundert Euro Bargeld und Zigaretten im Gesamtwert von über 10.000 Euro mitgehen. Möglicherweise wurde für die Ausübung der Tat ein Kleinbus verwendet, mit welchem auch das Diebesgut eventuell abtransportiert wurde. Weitere Ermittlungen sind derzeit noch im Gange. Sachdienliche Hinweise nimmt die Polizei Künzelsau unter der Tel.Nr.: 07940 940-0 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2792043,
-		"lon": 9.6895888
-	},
-	{
-		"date": "1/6/2014",
-		"description": "Ein bislang Unbekannter hatte in der Nacht zum Montag versucht, in eine Wohnung in Öhringen-Verrenberg, Wiesenkelter einzubrechen. Der Täter hatte hierbei versucht, mit einem unbekannten Werkzeug die Wohnungstür aufzuhebeln, was ihm jedoch misslang. Die Wohnung konnte nicht betreten werden. Weitere Ermittlungen dazu sind im Gange. Sachdienliche Hinweise nimmt die Polizei Öhringen unter der Tel.Nr.: 07941 930-0 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.199931,
-		"lon": 9.5029492
-	},
-	{
-		"date": "1/7/2014",
-		"description": "Unbekannte Täter brachen in der Zeit vom 04. - 07.01.2014 in eine Apotheke in Heilbronn-Sontheim ein. Entwendet wurden Bargeld und Medikamente in bisher unbekanntem Wert. Sachdienliche Hinweise nimmt das Polizeirevier Heilbronn unter der Nummer 07131 104 2500 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.136861,
-		"lon": 9.2077812
-	},
-	{
-		"date": "1/6/2014",
-		"description": "Unbekannte Täter brachen im Zeitraum vom 23.12.13 - 06.01.14 in ein Wohnhaus in der Hohe Straße in Gellmersbach ein. Die Täter wuchteten ein Fenster des Hauses auf und gelangten so in die Wohnung. Entwendet wurden verschiedene Schmuckstücke deren Wert noch unbekannt ist. Am Fenster entstand ein Sachschaden von circa 500 Euro. Sachdienliche Hinweise nimmt das Polizeirevier Weinsberg unter der Nummer 07134 992 0 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1813388,
-		"lon": 9.3016769
-	},
-	{
-		"date": "1/8/2014",
-		"description": "Zu einem Einbruch kam es am frühen Mittwochmorgen in eine Metzgerei in der Einkornstraße in Schwäbisch Hall-Hessental. Die Tatzeit lag nach bisherigen Erkenntnissen zwischen 3.00 und 4.45 Uhr. Die Täter verschafften sich über ein Fenster an der Gebäudeseite Zutritt und brachen im Innern eine Türe auf. Im dortigen Büro wurde Bargeld in Höhe von circa 100 Euro entwendet. Die Polizei in Schwäbisch Hall, Tel.: 0791/400-0, bittet um Hinweise.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0975552,
-		"lon": 9.7709283
-	},
-	{
-		"date": "1/1/2014",
-		"description": "Mehrere Hindernisse mussten bislang unbekannte Einbrecher am Mittwoch überwinden um in ein Wohnhaus im Dürer-Ring zu gelangen. Zunächst schlugen sie den Bewegungsmelder an der Garage ab. Anschließend begaben sie sich zum Wintergarten an der Gebäuderückseite und hebelten dort eine Metalltür auf. Von dort gelangten sie zur Terrassentür die sie ebenfalls aufhebelten um schließlich ins Haus zu gelangen. Ob ihnen beim Durchsuchen der Zimmer Diebesgut in die Hände gefallen ist, steht noch nicht fest. Der Sachschaden an den Türen wurde mit etwa 500 Euro beziffert. Ein aufmerksamer Nachbar beobachtete am Tattag, wie sich zwei männliche Personen schnell zu Fuß in Richtung Friedhofparkplatz entfernten und anschließend mit einem Fahrzeug wegfuhren. Die polizeilichen Ermittlungen dauern noch an. Hinweise nimmt der Polizeiposten Sachsenheim, Telefon 07147/27406-0, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.96487740000001,
-		"lon": 9.0152926
-	},
-	{
-		"date": "1/5/2014",
-		"description": "Vermutlich mit zwei großen Wackersteinen schlugen bislang unbekannte Täter am Wochenende ein Fenster eines Vereinsheims in der Talstraße ein und gelangten so in das Gebäude. Aus einem Büroschrank ließen sie eine Geldkassette mit etwa 300 Euro Bargeld mitgehen. Hinweise nimmt das Polizeirevier Marbach am Neckar, Telefon 07144/900-0, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9399392,
-		"lon": 9.200551599999999
-	},
-	{
-		"date": "1/7/2014",
-		"description": "Ein Hochbaulaser samt Stativ und Zubehör fielen einem bislang Unbekannten in der Zeit von Donnerstag, 19. Dezember 2013 bis Dienstag, 07. Januar 2014 in Abstatt in die Hände. Der Täter hatte einen in der Straße \"Seeacker\" abgestellten Baucontainer aufgebrochen und ließ die Geräte mitgehen. Auf dem benachbarten Häckselplatz wurde vermutlich im gleichen Tatzeitraum eine Grabenwalze gestohlen. Der Wert des Diebesgutes ist derzeit noch nicht exakt bezifferbar. Hinweise nimmt die Polizei Untergruppenbach unter der Tel.Nr.: 07131/644630 entgegen. ",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0688071,
-		"lon": 9.2886712
-	},
-	{
-		"date": "1/8/2014",
-		"description": "Die beiden Kindergärten in der Erlenbacher Straße \"In den Hüttenäckern\" wurden in der Nacht zum Mittwoch von einem bislang Unbekannten heimgesucht. In einem Fall fiel dem Einbrecher offenbar nichts Stehlenswertes in die Hände, während bei der anderen Tat eine geringe Summe Bargeld sowie ein Laptop samt Zubehör entwendet wurde. Der angerichtete Sachschaden dürfte bei fast 2.000 Euro liegen. Hinweise nimmt die Polizei Neckarsulm unter der Tel.Nr.: 07132 9371-0 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.8280187,
-		"lon": 9.155965199999999
-	},
-	{
-		"date": "1/9/2014",
-		"description": "Auf eine Gaststätte in der Heilbronn Brückenstraße hatten es in der Nacht zum Donnerstag zwei Unbekannte abgesehen. Gegen 03.00 Uhr brachen die Täter ein Fenster auf, um in das Gebäudeinnere zu gelangen. Vermutlich wurden die Einbrecher jedoch gestört, sodass diese noch vor dem Eintreffen der Polizei flüchten konnten. Sachdienliche Hinweise nimmt die Polizei Heilbronn-Böckingen unter der Tel.Nr.: 07131 204060 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1689665,
-		"lon": 9.2040545
-	},
-	{
-		"date": "1/8/2014",
-		"description": "Durch ein aufgebrochenes Fenster gelangte am Mittwoch, in der Zeit von 17.00 Uhr bis 19.00 Uhr ein bislang unbekannter Einbrecher in ein Wohnhaus in der Schwaigerner Paul-Gerhardt-Straße. Im Haus wurden sämtliche Behältnisse durchwühlt. Dem Täter fielen bei seinem Beutezug einige Schmuckstücke in die Hände. Der angerichtete Sachschaden wird auf rund 1.000 Euro geschätzt. Sachdienliche Hinweise nimmt die Polizei Lauffen unter der Tel.Nr.: 07133 2090 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.146227,
-		"lon": 9.0618628
-	},
-	{
-		"date": "1/10/2014",
-		"description": "Der Raum der katholischen Kirchengemeinde im Öhringer \"Cappelrain\" war am Freitag, kurz nach Mitternacht das Ziel eines bislang unbekannten Einbrechers. Nach dem bisherigen Stand der Ermittlungen hatte der Täter durch ein Fenster den Innenraum des dort untergebrachten Kindergartens betreten. Dort brach der Einbrecher mehrere Türen auf. Der angerichtete Sachschaden dürfte beträchtlich sein. Ob etwas gestohlen wurde, steht noch nicht fest. Trotz einer sofort eingeleiteten Fahndung gelang dem Täter die Flucht. Den ersten Erkenntnissen nach, könnte es sich um eine männliche Person handeln, deren Größe etwa 180 cm beträgt, die eine kräftige Figur hat und zur Tatzeit mit einer hellen Jacke und einer dunklen Hose bekleidet war. Sachdienliche Hinweise nimmt die Polizei Öhringen unter der Tel.Nr.: 07941 930-0 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1971137,
-		"lon": 9.5088239
-	},
-	{
-		"date": "1/11/2014",
-		"description": "Am Samstag, kurz nach Mitternacht, versuchten Unbekannte in ein Autohaus in Eppingen in der Brettener Straße einzubrechen. Nachdem verschiedene Türen und Fenster aufgebrochen bzw. eingeschlagen worden waren, ließen sie offensichtlich von ihrem Vorhaben ab. Sie hinterließen einen Sachschaden von mind. 1000 Euro. Hinweise an das Polizeirevier Eppingen, Tel. 07262/60950.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1344406,
-		"lon": 8.8986921
-	},
-	{
-		"date": "1/10/2014",
-		"description": "Am Freitagmorgen überraschten Nachbarn zwei männliche Personen in einem Wohnhaus in Mudau-Untermudau. Offensichtlich gelangten die zwei Unbekannten mit einem aufgefundenen Schlüssel in das Wohnhaus und ergriffen nach dem Erscheinen der Nachbarn die Flucht. Zuvor entwendeten sie einen Bargeldbetrag. Hinweise an das Polizeirevier Buchen, Tel. 06281/9040.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.5330024,
-		"lon": 9.202173199999999
-	},
-	{
-		"date": "1/10/2014",
-		"description": "In der Nacht von Donnerstag auf Freitag waren zwei Kindergärten in der Röntgenstraße und Hungerfeldstraße in Öhringen das Ziel von Einbrechern. Nach dem Aufhebeln von Fenstern konnten die Einbrecher in die Kindergärten gelangen und jeweils einen geringen Bargeldbe-trag auffinden. Sie hinterließen einen Sachschaden von über 1000 Euro. Hinweise an das Polizeirevier Öhringen, Tel. 07941/9300.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1927809,
-		"lon": 9.509694699999999
-	},
-	{
-		"date": "1/10/2014",
-		"description": "In der Nacht von Donnerstag auf Freitag waren zwei Kindergärten in der Röntgenstraße und Hungerfeldstraße in Öhringen das Ziel von Einbrechern. Nach dem Aufhebeln von Fenstern konnten die Einbrecher in die Kindergärten gelangen und jeweils einen geringen Bargeldbe-trag auffinden. Sie hinterließen einen Sachschaden von über 1000 Euro. Hinweise an das Polizeirevier Öhringen, Tel. 07941/9300.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1927809,
-		"lon": 9.509694699999999
-	},
-	{
-		"date": "1/10/2014",
-		"description": "In der Nacht von Donnerstag auf Freitag brachen unbekannte Täter in eine Schule in der Büttelbronner Straße in Öhringen ein. Nachdem sie in das Schulgebäude gelangt waren, durchsuchten sie dieses. Nach bisherigen Kenntnisstand wurde nichts entwendet. Hinweise an das Polizeirevier Öhringen, tel. 07941/9300.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2025728,
-		"lon": 9.4968304
-	},
-	{
-		"date": "1/11/2014",
-		"description": "Am vergangenen Samstag, in der Zeit zwischen 13.45 Uhr und 17.25 Uhr gelangten bislang unbekannte Täter durch ein Fenster einer Einliegerwohnung in den Wohnbereich eines Objektes in der Schulstraße. In den Räumlichkeiten wurden Schränke und Kommoden durchwühlt. Vermutlich wurden die Täter bei der Tatbegehung gestört, da sie über das Erkerfenster des Esszimmers im Erdgeschoß flüchteten. Dieses Erkerfenster ist der Straßenseite zugewandt, der oder die Täter gingen also das Risiko ein, gesehen zu werden. Im Gebäude selbst waren offen ein Laptop und andere elektronische Geräte abgelegt. Weiterhin wurden zwei hochwertige Armbanduhren nicht mitgenommen, obwohl auch diese offen in den Räumlichkeiten zugänglich waren. Vermutlich hatte der Täter keine Zeit diese Gegenstände mitzunehmen. Durch die Polizei konnte vor Ort Spurensicherung betrieben werden. Sachdienlich Hinweise nimmt das Polizeirevier Weinsberg unter Telefon 07134/9920 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0586876,
-		"lon": 9.2874527
-	},
-	{
-		"date": "1/11/2014",
-		"description": "Einbruch in Bürogebäude In der Nacht zum vergangenen Samstag, in der Zeit zwischen 18.15 Uhr und 10.15 Uhr such-ten Einbrecher in der Schillerstraße die Räumlichkeiten eines dortigen Bürogebäudes heim. Offensichtlich mit brachialer Gewalt drückten sie die hölzerne Eingangstüre des 3-stöckigen Gebäudes auf. Im Anschluss wurden im Gebäude sämtliche Büroräumlichkeiten durchsucht. Aus einem Büro im Erdgeschoß wurden aus einer Geldkassette mehrere hundert Euro entwendet. Ferner wurden im 1. Stock die Kaffeekasse entleert. Weiterer Diebstahlschaden entstand nach den bisherigen Ermittlungen nicht. Der angerichtete Sachschaden an Türen und Mobiliar beträgt ca. 500 Euro. Sachdienliche Hinweise auf den oder die Täter werden an das Polizeirevier Öhringen unter Telefon 07941/930245 erbeten.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.202454,
-		"lon": 9.502982399999999
-	},
-	{
-		"date": "1/11/2014",
-		"description": "Langfinger gehen Einfamilienhaus an Bislang unbekannte Täter gelangten im Laufe der gestrigen Nacht in der Zeit zwischen 15.00 Uhr und 00.30 Uhr über den von der Straßenseite her frei zugänglichen Garten eines Wohnhauses am nördlichen Ortsrand von Offenau und gelangten so auf die Rückseite des dortigen Einfamilienhauses. Dort machten sie sich zunächst an den Rollläden der Terrassentüre und eines danebenliegenden Fensters zu schaffen und schoben diese zur Hälfte auf. Anschließend hebelten sie das hölzerne Fenster des Arbeitszimmers auf. Die geöffnete Terrassentüre sicherten sie mit vor Ort vorgefundenen Möbelstücken gegen Zufallen, wohl um einen schnellen Fluchtweg offenzuhalten. Die Täter gelangten jedenfalls in das Gebäude, durchsuchten und durchwühlten Behältnisse und Zimmer im gesamten Erdgeschoßbereich. Der oder die Täter entwendeten Schmuck im Gesamtwert von mehreren tausend Euro. Andere hochwertige Gegenstände blieben unberührt. Anhand der Spurenlage geht die Polizei von mindestens zwei Tätern aus. Aufgrund der umfangreichen Spurenlage hat auch die Kriminalpolizei die Ermittlungen aufgenommen. Sachdienliche Hinweise zu dem Einbruch nimmt das Polizeirevier Neckarsulm unter Telefon 07132/93710 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2450112,
-		"lon": 9.164699299999999
-	},
-	{
-		"date": "1/12/2014",
-		"description": "Mehrere hundert Euro Bargeld, etwas Schmuck sowie ein Mobiltelefon erbeuteten bislang unbekannte Täter bei einem Einbruch in Offenau. In der Zeit zwischen 19 Uhr und 23 Uhr verschafften sich die Unbekannten gewaltsam Zutritt in eine Erdgeschosswohnung in der Goethestraße und durchstöberten dort das Inventar nach Stehlenswertem. Zeugen, die verdächtige Wahrnehmungen gemacht haben werden gebeten, sich mit der Neckarsulmer Polizei unter Telefon 07132/93710 in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.240727,
-		"lon": 9.1622249
-	},
-	{
-		"date": "1/13/2014",
-		"description": "Auf ein Wohnhaus in der Haßmersheim-Neckarmühlbacher Wilhelm-Hauff-Straße hatte es ein bislang Unbekannter am Montag abgesehen. Der Einbrecher hebelte in der Zeit von 08.30 Uhr bis 14.40 Uhr eine Tür auf und konnte so in das Innere des Gebäudes gelangen. Dort durchsuchte der Täter sämtliche Räume und das Mobiliar. Nach dem bisherigen Ermittlungsstand hatte es der Unbekannte ausschließlich auf Bargeld abgesehen. Selbst die Kindersparbüchse blieb nicht unbehelligt. Sachdienliche Hinweise nimmt die Polizei Diedesheim unter der Tel.Nr.: 06261 6757-0 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.28304860000001,
-		"lon": 9.138965299999999
-	},
-	{
-		"date": "1/8/2014",
-		"description": "Zwischen Ende Dezember und dem 08.01.2014 wurden auf einer Baustelle in der Ringstraße größere Mengen Diesel entwendet. Die unbekannten Täter brachen gewaltsam die Sicherung einer Tankanlage und einer Baummaschine auf. Außerdem wurde aus dem Tank eines Radladers ebenfalls Diesel abgeschläuchelt. Der Sachschaden wurde mit circa 20 Euro beziffert. Hinweise an die Polizei in Schwäbisch Hall, Tel.: 0791/400-0.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.10600230000001,
-		"lon": 9.7341693
-	},
-	{
-		"date": "1/10/2014",
-		"description": "Zwischen Mittwoch, 17 Uhr und Freitag, 9.30 Uhr schlugen unbekannte Täter ein Fenster eines ehemaligen Bahnhofsgebäudes ein und begaben sich ins Gebäudeinnere. Die Räumlichkeiten werden zwischenzeitlich von einem 65-jährigen Künstler genutzt, welcher dort Kunstgegenstände ausstellt. Diese ließen die Täter unberührt und zogen ohne Beute wieder ab. Der Schaden am Fenster beläuft sich auf circa 200 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0931708,
-		"lon": 9.7609497
-	},
-	{
-		"date": "1/11/2014",
-		"description": "Am Samstag, kurz nach 17 Uhr, beobachtete eine Bewohnerin der Michael-Rauck-Straße einen Einbruchsversuch in der ihr gegenüberliegenden Wohnung eines Mehrfamilienhauses. Nachdem sie die Polizei verständigt und eine Personenbeschreibung durchgegeben hatte flüchtete der Täter. Sachschaden entstand nicht. Der Täter konnte im Rahmen der Fahndung gegen 18 Uhr im Stadtgebiet festgenommen werden. Es handelte sich um einen 27-jährigen drogenabhängigen Mann aus Pfedelbach. Dieser wurde nach seiner Vernehmung wieder auf freien Fuß gesetzt.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.131336,
-		"lon": 10.0844978
-	},
-	{
-		"date": "1/8/2014",
-		"description": "Von den heimkehrenden Bewohnern überrascht, ergriffen Einbrecher am Mittwoch gegen 18:00 Uhr die Flucht aus einem Wohnhaus in der Bahnhofstraße. Vermutlich hatten die bislang unbekannten Täter das Grundstück über die frei zugängliche Seite betreten und wuchteten anschließend die Terrassentür auf. Auf diese Art gelangten sie schließlich in die Wohnräume, die sie nach Stehlenswertem durchsuchten. Sie brachen zwei Geldkassetten auf und entwendeten daraus mehrere Hundert Euro Bargeld sowie Schmuck im Wert von etwa 1.000 Euro. Bei den Einbrechern handelte es sich um zwei oder drei Männer mit normaler Statur. Sie sind etwa 175 Zentimeter groß, waren dunkel gekleidet und trugen Strickmützen. Eine sofort eingeleitete polizeiliche Fahndung verließ ohne Ergebnis. Der angerichtete Sachschaden wurde mit ungefähr 500 Euro angegeben. Die polizeilichen Ermittlungen dauern an. Hinweise nimmt der Polizeiposten Sachsenheim, Telefon 07147/27406-0, entgegen oder das Polizeirevier Vaihingen an der Enz unter Telefon 07042/941-0 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9624016,
-		"lon": 9.0693243
-	},
-	{
-		"date": "1/11/2014",
-		"description": "Am Samstag, im Zeitraum von 13.00 Uhr bis 20.30 Uhr, schlug ein unbekannter Täter mittels eines mitgebrachten Gegenstandes ein Loch in die Glasscheibe der Terrasse und gelangte so in ein Einfamilienhaus in der Trollingerstraße. Der Täter entwendete lediglich einen Laptop im Wert von ca. 400 Euro. Weitere technische Geräte sowie hochwertiger Schmuck wurden zurück gelassen. An der Terrassentüre entstand ein Sachschaden in Höhe von 400 Euro. Täterhinweise liegen nicht vor.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9421034,
-		"lon": 9.2328157
-	},
-	{
-		"date": "1/11/2014",
-		"description": "Am Samstag, im Zeitraum von 17.30 Uhr bis 19.30 Uhr, gelangte ein unbekannter Täter durch Aufhebeln der Terrassentüre in das Innere eines Einfamilienhauses im Schorndorfer Weg. Im Inneren des Gebäudes durchsuchte er sämtliche Räume nach Wertgegenständen. Neben Schmuck und Bargeld entwendete er noch einen i-pod Touch. Der Wert des Diebesgutes ist nicht bekannt. An der Terrassentüre entstand ein Schaden in Höhe von 250 Euro. Täterhinweise liegen nicht vor.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9246961,
-		"lon": 9.1460628
-	},
-	{
-		"date": "1/12/2014",
-		"description": "Reiche Beute machten bislang unbekannte Einbrecher, als sie in der Zeit zwischen Donnerstag 10:00 Uhr und Sonntag 14:00 Uhr in ein Wohnhaus in der Lessingstraße eindrangen. Indem sie die Terrassentür auf der Gebäuderückseite aufhebelten, gelangten sie in die Räumlichkeiten und durchsuchten diese. Dabei fiel ihnen Schmuck im Wert von mehreren Tausend Euro in die Hände, den sie mitgehen ließen. An der Terrassentür entstand ein Sachschaden in Höhe von etwa 500 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9264729,
-		"lon": 9.1175529
-	},
-	{
-		"date": "1/15/2014",
-		"description": " Auf das Massenbachhausener Sportheim in der Jahnstraße hatte es ein bislang Unbekannter in der Nacht zum Mittwoch abgesehen. Der Einbrecher hatte ein Fenster aufgebrochen und konnte so in das Gebäudeinnere gelangen. Insgesamt erbeutete der Täter dort wenige Euro Bargeld und einen Flachbildfernsehgerät. Sachdienliche Hinweise nimmt die Polizei Leintal unter der Tel.Nr.: 07138 810630 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1746967,
-		"lon": 9.045052199999999
-	},
-	{
-		"date": "1/15/2014",
-		"description": "Eine geringe Summe Bargeld und einen PC erbeutete ein bislang Unbekannter bei einem Einbruch in eine Firma in der Eppinger Scheuerlesstraße. Der Täter hatte dort in der Nacht zum Mittwoch ein Fenster aufgewuchtet und konnte so in das Innere des Betriebes gelangen. Zusätzlich zu seiner erlangten Beute richtete der Einbrecher auch noch einen Sachschaden von mehreren hundert Euro an. Sachdienliche Hinweise nimmt die Polizei Eppingen unter der Tel.Nr.: 07262 6095-0 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1405732,
-		"lon": 8.9209114
-	},
-	{
-		"date": "1/15/2014",
-		"description": "Das Sportheim in Bad Rappenau-Treschklingen, in der Amtshausstraße, war in der Nacht zum Mittwoch das Ziel eines Einbrechers. Der Täter schlug eine Scheibe ein und konnte so in das Innere des Gebäudes gelangen. Auf Grund der Spurenlage hatte es der Unbekannte vermutlich gezielt auf Bargeld abgesehen, allerdings fiel ihm nur ein sehr geringer Bargeldbetrag in die Hände. Sachdienliche Hinweise nimmt die Polizei Bad Rappenau unter der Tel.Nr.: 07264 95900 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2285029,
-		"lon": 9.059618400000002
-	},
-	{
-		"date": "1/12/2014",
-		"description": "Unbekannte Täter entwendeten zwischen Donnerstag, dem 12. Dezember 2013 und Mittwoch, dem 08. Januar 2014 diverse Sanitärartikel auf einer Baustelle in der Audi AG Straße. Es handelt sich um zwei Automatikbatterien inklusive Stromversorgung, 22 normale Einhebelmischbatterien, drei WC-Drückerplatten, 25 Eckventile, zwei Siphons, drei Kombieckventile und zwei Auslaufventile. Das Diebesgut hat einen Gesamtwert in Höhe von zirka 3400 Euro. Sachdienliche Hinweise nimmt die Polizei in Neckarsulm unter der Telefonnummer: 07132 9371-0 gerne entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1922581,
-		"lon": 9.228708899999999
-	},
-	{
-		"date": "1/14/2014",
-		"description": "Indem bislang unbekannte Täter in der Nacht von Dienstag auf Mittwoch ein Loch in die Scheibe eines Fensters im Erdgeschoss einer Schule in der Schulstraße schlugen, gelang es ihnen das Fenster zu entriegeln und so in das Klassenzimmer einzusteigen. Dort brachen sie einen Schreibtisch auf und ließen eine graue Geldkassette samt 50 Euro Bargeld mitgehen. Der angerichtete Sachschaden wurde mit etwa 1.200 Euro angegeben. Hinweise nimmt das Polizeirevier Marbach, Telefon 07144/900-0, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9364509,
-		"lon": 9.2631008
-	},
-	{
-		"date": "1/17/2014",
-		"description": "Eingebrochen wurde am frühen Freitagmorgen in die Raiffeisentankstelle in der Neulandstraße. Ein Anwohner, durch laute Geräusche kurz nach 3 Uhr geweckt, sah noch drei jugendlich aussehende Männer über das Tankstellengelände in Richtung altes Hallenbad flüchten und verständigte die Polizei. Eine sofort eingeleitete Fahndung blieb ohne Ergebnis. Vor Ort wurde festgestellt, dass mit einem Feuerlöscher, der zuvor an den Zapfsäulen angebracht war, die zwölf Quadratmeter große Schaufensterscheibe eingeschlagen war. Aus dem Tankstelleninneren wurden lediglich mehrere Schachteln Zigaretten entwendet. Der Sachschaden lässt sich bislang noch nicht exakt beziffern. Zeugen setzen sich bitte mit dem Polizeirevier Sinsheim, Tel.: 07261/690-0 in Verbindung.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2446107,
-		"lon": 8.8847252
-	},
-	{
-		"date": "1/16/2014",
-		"description": "Über die Terrassentür auf der Seite der Breslauer Straße gelangten bislang unbekannte Einbrecher am Donnerstag im Zeitraum zwischen 12:00 Uhr und 20:15 Uhr in das Gebäudeinnere eines Wohnhauses in der Königsberger Straße. Nach unzähligen Versuchen gelang es ihnen schließlich diese aufzuhebeln, so dass sie das Erdgeschoss betreten konnten. Dort öffneten sie mehrere Schränke und suchten Stehlenswertes. Dabei ließen die Unbekannten aus einer Geldbörse Bargeld in Höhe von 150 Euro mitgehen. Eine weitere Geldbörse mit unbekanntem Inhalt, die in einem Schreibtisch lag, entwendeten die Täter vollständig. Auf ihrer fortgesetzten Diebestour stießen die Einbrecher schließlich auf Schmuck, den sie kurzerhand einsteckten. Der Wert des Diebesguts wurde mit etwa 1.400 Euro angegeben. Die polizeilichen Ermittlungen dauern an. Hinweise nimmt das Polizeirevier Vaihingen an der Enz, Telefon 07042/941-0, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9553154,
-		"lon": 9.0157975
-	},
-	{
-		"date": "1/18/2014",
-		"description": "In der Nacht von Donnerstag auf Freitag drangen unbekannte Täter in die Sportgaststätte, Breitwiesen , ein. Die unbekannten Täter zersägten auf der Gebäuderückseite Metallverankerungen eines Schutzgitters am Toilettenfensters und konnten so in den Gastraum eindringen. Es wurden dort mehrere Schubladen und Regale durchsucht. Erbeuten konnten die Täter nur etwas Bargeld. Hinweise bitte an das Polizeirevier Lauffen, Tel.Nr. 07133/2090",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1451573,
-		"lon": 9.1171933
-	},
-	{
-		"date": "1/18/2014",
-		"description": "Im Zeitraum zwischen 17./18.01., 18.00 bis 11.00 Uhr, nutzte ein Unbekannter die Gelegenheit, um sich während der Abwesenheit der Bewohner eines Wohnhauses in der Jahnstraße Zutritt zum Gebäude zu verschaffen. Hierzu hebelte er ein zur Jahnstraße gelegenes Fenster auf und gelangte so ins Hausinnere. Inwieweit der Täter zu Diebesgut gelangte, muss durch den Hausbewohner erst noch geklärt werden. Der Sachschaden am beschädigten Fenster beträgt ca. 1.000 Euro. Zeugenhinweise zur Tat erbittet der Polizeiposten Bad Wimpfen, Tel. 07063-9334-12.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2484855,
-		"lon": 9.1649114
-	},
-	{
-		"date": "1/18/2014",
-		"description": "In der Zeit zwischen Fr/Sa, 17/18.01., 19.00-01.00 Uhr, brach ein bislang unbekannter Täter eine verschlossene Stahltüre eines Lagerraums in der \"Karlsvorstadt\" auf. Nach bisherigen Erkenntnissen wurde aus dem Gebäude nichts entwendet. Der Täter verursachte einen Sachschaden i.H.v. ca. 2.000 Euro. Personen, die Beobachtungen zum Hergang machen konnten, werden gebeten, sich mit dem Polizeirevier Öhrigen, 07941-930-0, in Verbindung zu sezten.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2015697,
-		"lon": 9.5070227
-	},
-	{
-		"date": "1/19/2014",
-		"description": "In ein Haus der Gartenanlage Hammelwasen in Heilbronn verschafften sich bislang unbekannte Einbrecher gewaltsam Zutritt. In der Zeit zwischen dem 9. Januar und dem 19. Januar brachen die Unbekannten das Türschloss auf und gelangten so ins Innere der Hütte. Ob etwas gestohlen wurde, ist bislang noch nicht bekannt. Der Sachschaden blieb glücklicherweise gering. Zeugenhinweise werden erbeten an die Heilbronner Polizei, Telefon 07131/104-2500.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1426929,
-		"lon": 9.210879
-	},
-	{
-		"date": "1/19/2014",
-		"description": "Eine Holzhütte im Bad Rappenauer Salinenpark brachen in der Nacht zum Sonntag unbekannte Einbrecher auf. In der Hütte, die im Rahmen des Glühweinmarktes aufgestellt worden war verspeisten sie einen Flammkuchen und entwendeten gelagerte Getränke im Wert von mehreren hundert Euro. An der Holzhütte entstand ein Sachschaden in Höhe von etwa 100 Euro. Zeugen, die verdächtige Beobachtungen gemacht haben werden gebeten, sich mit der Polizei in Bad Rappenau, Telefon 07264/95900 in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2375335,
-		"lon": 9.1167074
-	},
-	{
-		"date": "1/19/2014",
-		"description": "Zwischen Samstag 00:00 Uhr und Sonntag 17:00 Uhr brachen bislang unbekannte Täter in Neuenstein-Kirchensall in einen Gewölbekeller im Höhenweg ein. Dort entwendeten sie zwei hochwertige Mikrophone der Marke Neumann sowie etwas Bargeld. Zeugen werden gebeten sachdienliche Hinweise dem Polizeirevier Öhringen zu melden unter der Telefonnummer: 07941 930-0.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.23772719999999,
-		"lon": 9.600432999999999
-	},
-	{
-		"date": "1/18/2014",
-		"description": "Zwischen Freitag 16:00 Uhr und Samstag 14:00 Uhr kam es zu einem versuchten Einbruch in das Existenzgründerzentrum im Mosbacher Wasemweg. Die Polizei in Mosbach hat die Ermittlungen aufgenommen und bittet um sachdienliche Hinweise an die Telefonnummer: 06261 809-333.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.35964329999999,
-		"lon": 9.147838799999999
-	},
-	{
-		"date": "1/20/2014",
-		"description": "Zwischen Sonntag 21:30 Uhr und Montag 09:30 Uhr brachen bislang unbekannte Täter in ein Hotel in der Beilsteiner Straße in Abstatt ein und entwendeten einen Möbeltresor samt Bargeld in bislang nicht bekannter Höhe. Es entsteht ein Sachschaden in Höhe von knapp 1.000 Euro. Die Polizei in Untergruppenbach bittet um sachdienliche Hinweise an die Telefonnummer: 07131 64463-0.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0649412,
-		"lon": 9.2925212
-	},
-	{
-		"date": "1/20/2014",
-		"description": "Zwischen Sonntag 19:00 Uhr und Montag 06:30 Uhr brachen bislang unbekannte Täter in Großgartach in der Benzstraße in ein Autohaus ein. Höchstwahrscheinlich, da eine Alarmanlage auslöste, verließen die Einbrecher nach kurzer Zeit das Anwesen wieder. Entwendet wurde lediglich etwas Kleingeld. Der entstandene Sachschaden wurde bislang noch nicht beziffert. Sachdienliche Hinweise nimmt die Polizei in Leintal unter der Telefonnummer: 07138 81063-0 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1513769,
-		"lon": 9.130401299999999
-	},
-	{
-		"date": "1/20/2014",
-		"description": "Zwischen Sonntag 19:00 Uhr und Montag 06:15 Uhr brachen bislang unbekannte Täter in eine Bäckerei am Marktplatz in Willsbach ein. Es entstand ein Diebstahlsschaden in Höhe von knapp 1.500 Euro. Sachdienliche Hinweise nimmt die Polizei in Weinsberg unter der Telefonnummer: 07134 992-0 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.13661459999999,
-		"lon": 9.356084599999999
-	},
-	{
-		"date": "1/20/2014",
-		"description": "Zwischen Sonntag 17:00 Uhr und Montag 09:50 Uhr versuchten bislang unbekannte Täter in ein Gartenhaus im Elsa-Sitter-Weg in Heilbronn einzubrechen. Trotz Einschlagen einer Scheibe gelang es den Tätern nicht, ins Gebäudeinnere zu gelangen. Es entstand ein Sachschaden in Höhe von knapp 150 Euro. Die Polizei in Heilbronn-Sontheim bittet um sachdienliche Hinweise an die Telefonnummer: 07131 253093.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.12285670000001,
-		"lon": 9.2155757
-	},
-	{
-		"date": "1/20/2014",
-		"description": "Zwischen Samstag 13:30 Uhr und Montag 07:20 Uhr brachen bislang unbekannte Täter in die Markt-Apotheke am Jörg-Ratgeb-Platz in Heilbronn ein. Die Einbrecher entwendeten Medikamente und Bargeld in einem Gesamtwert von ungefähr 6.000 Euro. Die Polizei in Heilbronn bittet Zeugen des Vorfalls um sachdienliche Hinweise an die Telefonnummer: 07131 104-2514. Stadt- und Landkreis Heilbronn",
-		"type": "Wohnungseinbruch",
-		"lat": 49.11988059999999,
-		"lon": 9.208008099999999
-	},
-	{
-		"date": "1/22/2014",
-		"description": "In das Gebäude einer Neuenstadter Firma verschafften sich bislang unbekannte Einbrecher in der Nacht zum Mittwoch gewaltsam Zutritt. Gegen 0:45 Uhr löste der Alarm des Gebäudes aus, weshalb die Streifen zur Firma in der Daimlerstraße fuhren. Schnell stellten die Beamten fest, dass eine Fensterscheibe eingeschlagen worden war. Ob etwas gestohlen wurde, ist bislang nicht bekannt. Zeugen, die Verdächtiges beobachtet haben werden gebeten, dies der Polizei Neckarsulm, unter Telefon 07132/93710 zu melden.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.238398,
-		"lon": 9.3429342
-	},
-	{
-		"date": "1/21/2014",
-		"description": "Am Dienstag zwischen 09:30 und 14:35 Uhr brachen bislang unbekannte Täter in ein Wohnhaus des Weißdornweges an. An einem Kellerfenster auf der Rückseite des Gebäudes konnten Einbruchspuren festgestellt werden. Die Täter betraten im Anschluss mehrere Zimmer und entwendeten knapp 100 Euro Bargeld. Dem stehen knapp 4.000 Euro Schaden an, den die Täter bei ihrer Tat anrichteten. Sachdienliche Hinweise nimmt die Kriminalpolizei Künzelsau unter der Telefonnummer 07940 940-0 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.3979884,
-		"lon": 9.5023415
-	},
-	{
-		"date": "1/22/2014",
-		"description": "In einem Firmenhof im Erlenbacher Käppelesäcker waren in der Nacht zum Mittwoch Diebe aktiv. Die Täter brachen in der Zeit zwischen Dienstagabend 21 Uhr, und Mittwoch, 13.30 Uhr, einen im Hinterhof eines Betriebes einen dort aufgestellten Container auf. Daraus entwendeten sie Autoreifen. Zudem montierten sie von zwei Fahrzeugen beiden Vorbauten, einer davon mit angebrachten Kennzeichen HN-WO 417, ab und nahmen alles mit. Das Polizeirevier Neckarsulm hat die Ermittlungen aufgenommen. Zeugen sollten sich dort unter der Telefonnummer 07132 9371-0, melden.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1675418,
-		"lon": 9.2630846
-	},
-	{
-		"date": "1/22/2014",
-		"description": "Mittwochnacht hatten es Unbekannte in Ilsfeld auf einen Lkw-Reifen abgesehen. Von einem in der Robert-Kohlhammer-Straße auf einem Firmengelände abgestellten Schwerlastanhänger entwendeten sie das Reserverad in der Größe 445/45 R19.5 mit einem Gewicht von etwa 100 kg. Der Reifen war neuwertig. Diebstahlschaden ca. 1.200 Euro. Hinweise zu der Tat nimmt die Polizei in Ilsfeld, Telefon 07062 91555 0, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0552822,
-		"lon": 9.249075399999999
-	},
-	{
-		"date": "1/17/2014",
-		"description": "Am Freitag, dem 17.01.2014, in der Zeit zwischen 14.45 Uhr und 23.30 Uhr versuchte ein bisher unbekannter Täter in eine Doppelhaushälfte im Bachensteinweg einzudringen. Hierzu hebelte er mit einem Schraubendreher an der Türe auf der Rückseite des Gebäudes und versuchte, die Sicherungseinrichtung am Kellerfenster zu entfernen. Am Gebäude entstand ein Schaden in Höhe von 1000,-- Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1109265,
-		"lon": 9.7124252
-	},
-	{
-		"date": "1/23/2014",
-		"description": "In der Zeit von Mittwoch, 22:00 Uhr bis Donnerstag, 09:00 Uhr, drangen mindestens zwei unbekannte Einbrecher in das Fleiner Stadionrestaurant in der Talheimer Straße ein. Die Täter brachen eine Terrassentüre auf, deren Scheibe dabei zu Bruch ging. Im Gastraum durchstöberten sie den Thekenbereich und entwendeten aus einer Geldkassette und den Bediengeldbeuteln einen vierstelligen Bargeldbetrag. Weiterhin brachen die Unbekannten eine weitere Türe im Inneren der Gaststätte auf. Gleich einen ganzen Zigarettenautomat schleppten die Einbrecher nach draußen und brachen diesen auf einem Grasweg, hinter der Sandberghalle mit brachialer Gewalt auf. Vermutlich um entstandene Spuren zu verwischen, putzten die Diebe den Zigarettenautomaten mit ebenfalls aus der Gaststätte gestohlenen Reinigungsmitteln sowie einem Wischmopp. Sowohl der Wert des Diebesgutes, als auch der angerichtete Schaden können bislang noch nicht beziffert werden. Am Gebäude entstand in Höhe von zirka 1000 Euro. Zeugen, die etwas Verdächtiges beobachtet haben oder andere sachdienliche Hinweise geben können werden gebeten, sich mit der Polizei Untergruppenbach unter der Telefonnummer 07131 644-630 in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1035813,
-		"lon": 9.2027418
-	},
-	{
-		"date": "1/22/2014",
-		"description": "Eine Tankstelle in der Stuttgarter Straße in Heilbronn war das Ziel unbekannter Einbrecher in der Nacht von Mittwochabend 20.00 Uhr bis Donnerstagmorgen 7.00 Uhr. Nach Einschlagen einer Fensterscheibe war es gelungen, ins Gebäude zu gelangen. Entwendet wurden Zigaretten und Bargeld in bislang noch nicht bekannter Höhe. Die Polizei Heilbronn, Telefon 07131/104-2500, sucht Zeugen, die verdächtige Wahrnehmungen gemacht haben.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1239966,
-		"lon": 9.2225668
-	},
-	{
-		"date": "1/22/2014",
-		"description": "Eine Hausmitbewohnerin eines Mehrfamilienhauses in der Heilbronner Wartbergstraße hörte am Mittwoch gegen 17:30 Uhr einen Schlag. Dieser wurde vermutlich durch Einbrecher beim Aufwuchten einer Balkontüre zu einer Erdgeschosswohnung verursacht. Aus der Wohnung einer 75jährigen wurde Schmuck von bislang unbekanntem Wert gestohlen. Täterhinweise liegen bislang keine vor. Zeugen, welche sachdienliche Hinweise geben können, werden gebeten, sich mit dem Polizeirevier Heilbronn unter der Telefonnummer 07131 104-2500 in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1496738,
-		"lon": 9.229882900000002
-	},
-	{
-		"date": "1/24/2014",
-		"description": "Bislang unbekannter Täter drang in der Nacht vom Donnerstag, 23.01.2014, auf Freitag, 24.01.2014, durch das Aufhebeln einer Glastüre in einen Kindergarten in der Spitzwegstraße ein. Aus einem Büroraum entwendete er eine silberfarbene Geldkassette, welche einen geringen Geldbetrag enthielt. Sachdienliche Hinweise nimmt der Polizeiposten Heilbronn-Sontheim, Tel.: 07131/253093, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1206487,
-		"lon": 9.197479
-	},
-	{
-		"date": "1/24/2014",
-		"description": "Am Freitag, dem 24.01.2014, in der Zeit zwischen 15.00 Uhr und 18.15 Uhr, drang ein unbekannter Täter in ein Einfamilienhaus in der Neipperger Höhe ein, durchsuchte die Räumlichkeiten und entwendete Schmuck und Sammlermünzen in bislang noch unbekannter Höhe. Sachdienliche Hinweise nimmt die Kriminalpolizei Heilbronn, Tel.. 07131/104-4444, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1184722,
-		"lon": 9.1508799
-	},
-	{
-		"date": "1/26/2014",
-		"description": "Eine Fahrschule in der Niedernhaller Straße \"Egelsgraben\" war in der Nacht zum Sonntag das Ziel eines bislang unbekannten Einbrechers. Der Täter hatte ein Fenster aufgebrochen und konnte so in das Innere des Gebäudes gelangen. Offenbar hatte es der Unbekannte ausschließlich auf Bargeld abgesehen. Insgesamt fiel dem Einbrecher ein dreistelliger Eurobetrag in die Hände. Der angerichtete Sachschaden dürfte bei fast 4.000 Euro liegen. Sachdienliche Hinweise nimmt die Polizei Künzelsau unter der Tel.Nr.: 07940 940-0 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.3053128,
-		"lon": 9.6319167
-	},
-	{
-		"date": "1/25/2014",
-		"description": "Bereits am Samstag, gegen 19.30 Uhr, wollte ein Unbekannter, in eine Wohnung in der Bad Friedrichshaller Kirchbrunnenstraße einzubrechen. Nach den bisherigen Ermittlungen hatte der Einbrecher versucht, eine Tür aufzuwuchten. Vermutlich gelang es dem Täter nicht, die Wohnung zu betreten. Der angerichtete Sachschaden hält sich in Grenzen. Sachdienliche Hinweise nimmt die Polizei Neckarsulm unter der Tel.Nr.: 07132 9371-0 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2241724,
-		"lon": 9.217794099999999
-	},
-	{
-		"date": "1/27/2014",
-		"description": "Auf eine Gaststätte in der Ludwigsburger Straße in Heilbronn hatte es in der Nacht zum Montag ein bislang unbekannter Einbrecher abgesehen. Der Täter hatte dazu eine Tür aufgebrochen und konnte so in das Innere des Gebäudes gelangen. Durch wuchtete der Unbekannte drei Spielautomaten auf und ließ das darin befindliche Bargeld in noch unbekannter Höhe mitgehen. Der angerichtete Sachschaden ist beträchtlich, lässt sich bisher aber noch nicht genau beziffern. Sachdienliche Hinweise nimmt die Polizei Heilbronn-Böckingen unter der Tel.Nr.: 07131 204060 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.13056049999999,
-		"lon": 9.1890279
-	},
-	{
-		"date": "1/26/2014",
-		"description": "Auf etwa 80 Gitterboxen im Gesamtwert von rund 6.500 Euro hatten es bislang unbekannte Diebe am Sonntag, in der Zeit von 03.00 Uhr bis 04.00 Uhr abgesehen. Die Täter drangen in den Betriebshof einer Firma in der Alten Neckarelzer Straße in Mosbach, Rückseite zur Schlachthofstraße, ein und verluden die Gitterboxen auf einen Lkw. Bisher muss davon ausgegangen werden, dass für den Abtransport mehrere Fahrzeuge eingesetzt wurden. Über die Anzahl der Diebe ist nichts bekannt. Ob die Gitterboxen derzeit irgendwo zwischengelagert werden oder ob diese gleich an die vorgesehene Zieladresse gebracht wurden, ist ebenfalls nicht bekannt. Zeugen des Diebstahls oder Personen, die diesbezüglich sachdienliche Hinweise geben können werden gebeten, sich unter der Tel.Nr.: 06261 8090 mit der Polizei Mosbach in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.34842279999999,
-		"lon": 9.1380775
-	},
-	{
-		"date": "1/26/2014",
-		"description": "Bislang unbekannte Einbrecher verschafften sich am Sonntag gewaltsam Zutritt in ein Löwensteiner Wohnhaus. In der Zeit zwischen 14 Uhr und 19.30 Uhr brachen die Täter ein Fenster des Hauses in der Vorhofer Straße auf und gelangten so in das Gebäude. Im Inneren durchstöberten die Langfinger das Inventar nach möglichem Diebesgut. Eine verschlossene Türe im Obergeschoss brachen sie ebenfalls auf. Gestohlen wurde wahrscheinlich nichts. Am Gebäude entstand Sachschaden von mehreren hundert Euro. Zeugen, die Verdächtiges beobachtet haben werden gebeten, sich mit der Obersulmer Polizei unter Telefon 07130 7077 in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.09205,
-		"lon": 9.379957700000002
-	},
-	{
-		"date": "1/28/2014",
-		"description": "Unbekannte drangen in der Nacht zum Dienstag in drei Geschäfte in der Heilbronner Straße in Leingarten-Großgartach ein. Von der Rückseite einer Reiseagentur aus dran-gen sie in den dort gelegenen Sozialraum ein und durchsuchten die Schränke. Offenbar fanden sie jedoch nichts Stehlenswertes. ",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1432562,
-		"lon": 9.131164799999999
-	},
-	{
-		"date": "1/28/2014",
-		"description": "Schließlich verschafften sie sich auch noch Zugang zu einer nahe gelegenen Buchhandlung. Aus der dortigen Auslage entwendeten sie Zigaretten. Zudem wurden zwei Türen erheblich beschädigt. Der Gesamtschaden bei den drei Einbrüchen beläuft sich auf etwa 8.000 Euro. Zeugen, die im Tatzeitraum zwischen Montag, 20 Uhr, und Dienstag, 4 Uhr, etwas Verdächtiges im Bereich der Heilbronner Straße bemerkt haben, sollten sich beim Polizeiposten Leintal, Telefon 07138 8106 0, melden.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1432562,
-		"lon": 9.131164799999999
-	},
-	{
-		"date": "1/28/2014",
-		"description": "In der Nacht von Montag auf Dienstag gelangte ein bislang Unbekannter in der Poststraße in Heilbronn-Kirchhausen, vermutlich über ein verschlossenes Tor auf das eingezäunte Gelände eines Kindergartens. Dort hebelte er ein Fenster auf und stieg ins Gebäude ein. In den Räumlichkeiten brach der Einbrecher diverse verschlossene Schranktüren auf. Da sich im Kindergarten kein lohnenswertes Stehlgut befand, entwendete der Täter nichts. Es entstand Sachschaden am Kindergarten in bislang unbekannter Höhe. Um sachdienliche Hinweise bittet die Polizei in Heilbronn-Kirchhausen unter der Telefonnummer: 07066 9401-0.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.18368539999999,
-		"lon": 9.1115633
-	},
-	{
-		"date": "1/28/2014",
-		"description": "In der Wilhelm-Blos-Straße in Heilbronn haben Unbekannte vergeblich versucht, bei einem Einbruch Beute zu machen. Gegen 20.20 Uhr wollten sie dort in das Untergeschoß eines Wohngebäudes eindringen, indem sie versuchten ein Fenster aufzuhebeln. Die installierte Warnanlage reagierte und schlug Alarm. Die Täter flüchteten. Sachdienliche Hinweise zu der Tat nimmt die Heilbronner Polizei unter der Telefonnummer 07131 104-2500 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.14239569999999,
-		"lon": 9.2443911
-	},
-	{
-		"date": "1/23/2014",
-		"description": "Die Polizei wurde verständigt, weil an der Eingangstür zu einer Tankstelle an der Hohenloher Straße manipuliert worden war. Die Polizei stellte fest, dass ein Gegenstand in das Türschloss eingeführt worden war, der dann abgebrochen war. Weitere Beschädigungen waren nicht vorhanden. Ob jemand versucht hat, das Schloss aufzubrechen und so in die Tankstelle einzudringen oder ob damit nur die Zerstörung des Schlosses erreicht werden sollte, konnte aus dem Sachverhalt nicht schlüssig ausgelesen werden.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1533849,
-		"lon": 9.7328514
-	},
-	{
-		"date": "1/24/2014",
-		"description": "In der Nacht von Donnerstag auf Freitag wollte ein Unbekannter in ein gewerbliches Gebäude in der Hohenloher Straße einbrechen, was jedoch nicht gelang. Der Sachschaden beträgt ca. 200 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1533849,
-		"lon": 9.7328514
-	},
-	{
-		"date": "1/26/2014",
-		"description": "Unbekannte drangen über ein Fenster gewaltsam in eine Gebäudereinigungsfirma in der Gaildorfer Straße ein. Im Gebäude wurden sämtliche Räumlichkeiten und Behältnisse auf Wertsachen durchsucht. Dem ersten Anschein nach wurde nichts entwendet. Der entstandene Sachschaden beläuft sich auf mehrere hundert Euro. Zum Diebstahlsversuch, der sich in der Nacht von Samstag auf Sonntag ereignete, bittet das Polizeirevier Schwäbisch Hall unter Tel. 0791/4000 um Zeugenhinweise.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1044784,
-		"lon": 9.7161396
-	},
-	{
-		"date": "1/19/2014",
-		"description": "Vermutlich indem es einem bislang unbekannten Einbrecher über das Wochenende gelang die elektrische Schiebetür eines Gebäudekomplexes in der Harteneckstraße aufzudrücken, konnte er sich Zutritt zu den Räumlichkeiten einer Firma verschaffen. Aus einem Lagerraum ließ er schließlich mehrere Werkzeuge mitgehen. Über den Wert des Diebesguts ist bislang nichts bekannt. Die Ermittlungen dauern an.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9271981,
-		"lon": 9.1993111
-	},
-	{
-		"date": "1/20/2014",
-		"description": "Unbekannte Täter hebelten im Laufe des gestrigen Montags auf der Gebäuderückseite eines Einfamilienhauses im Finkenweg die Terassentür auf und durchsuchten die Wohnräume. Dabei fielen ihnen zwei Behältnisse mit Schmuckstücken in die Hände. Über den Wert des Diebesguts ist nichts bekannt. An der Terassentür entstand durch den Einbruch ein erheblicher Sachschaden.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9627828,
-		"lon": 9.1440064
-	},
-	{
-		"date": "1/20/2014",
-		"description": "Ebenfalls durch das Aufhebeln der Terassentür gelangten unbekannte Täter am Montag in der Zeit zwischen 17:30 Uhr und 22:00 Uhr in eine Wohnung in der Georg-Beer-Straße. Aus der Wohnung entwendeten die Täter Bargeld und Schmuck. Die Schadenshöhe ist bislang noch nicht bekannt.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0363912,
-		"lon": 9.091308699999999
-	},
-	{
-		"date": "1/21/2014",
-		"description": "Vermutlich auf Bargeld abgesehen hatten es unbekannte Einbrecher, die in der Nacht von Montag auf Dienstag eine Gaststätte in der Weinstraße heimsuchten. Indem sie die elektrische Glasschiebetür aufschoben, gelang es ihnen die Räumlichkeiten zu betreten, mehrere Geldspielautomaten aufzubrechen und die enthaltenen Geldkassetten zu entwenden. Dadurch fiel den Tätern ein Betrag in Höhe von mehreren Tausend Euro in die Hände.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9978548,
-		"lon": 9.1370119
-	},
-	{
-		"date": "1/22/2014",
-		"description": "Auf bislang ungeklärte Art und Weise gelang es unbekannten Einbrechern sich am Mittwoch in der Zeit zwischen 16:30 Uhr und 18:00 Uhr in ein Wohnhaus in der Straße \"Alter Vaihinger Weg\" Zutritt zu verschaffen. Die Täter durchsuchten die Räumlichkeiten und ließen Bargeld und Schmuck im Wert von mehreren Hundert Euro mitgehen. Zeugen, die Verdächtiges wahrgenommen haben, werden gebeten sich mit dem Polizeirevier Vaihingen an der Enz, Tel. 07042/941-0, in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9280678,
-		"lon": 9.0170422
-	},
-	{
-		"date": "1/23/2014",
-		"description": "Vermutlich auf Schmuck abgesehen hatte es ein unbekannter Einbrecher, der am Donnerstag in der Zeit zwischen 16:00 Uhr und 18:10 Uhr ein Wohngebäude in der Uhlandstraße heimsuchte. Zunächst versuchte der Täter die Terrassentüren aufzuhebeln, was ihm jedoch misslang, so dass er sich anschließend an einem Fenster zu schaffen machte und auf diese Weise in die Räumlichkeiten gelangte. Auf der Suche nach Wertvollem durchsuchte er ein Zimmer und entwendete Schmuckstücke mit einem Wert im niederen vierstelligen Bereich. Der entstandene Sachschaden wurde mit ungefähr 2.000 Euro angegeben. Zeugen werden gebeten sich mit dem Polizeiposten Kirchheim am Neckar, Tel. 07143/891060 in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.015942,
-		"lon": 9.1513739
-	},
-	{
-		"date": "1/24/2014",
-		"description": "Im Zeitraum Dienstag den 07. Januar 2014 bis Freitag den 24. Januar 2014 verschafften sich bislang unbekannte Täter gewaltsam Zutritt zu einer Wohnung im siebten Obergeschoss eines Mehrfamilienhauses in der Makenhofstraße. Die Täter entwendeten technische Geräte im Wert von mehreren hundert Euro. Der an der Wohnung selbst entstandene Sachschaden ist bislang unbekannt.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9289851,
-		"lon": 9.252454
-	},
-	{
-		"date": "1/25/2014",
-		"description": "Unbekannte Täter gelangten in der Nacht von Freitag auf Samstag, nach Aufhebeln eines Fensters, in einen Kindergarten im Ortsteil Kleinsachsenheim und entwendeten aus zwei Geldkassetten Bargeld in noch unbekannter Höhe. Hierzu hebelten die Täter im Gebäude noch zwei Türen auf, so dass ein Sachschaden von rund 1.000 Euro entstand.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9704934,
-		"lon": 9.068692799999999
-	},
-	{
-		"date": "1/26/2014",
-		"description": "Indem er die Haupteingangstür aufhebelte, verschaffte sich ein bislang unbekannter Einbrecher in der Zeit zwischen Freitag 18:30 Uhr und Sonntag 11:10 Uhr Zutritt zu einem Kindergarten in der Goethestraße. In den Räumlichkeiten brach er mehrere Schrankfächer und einen Schreibtisch auf und suchte nach Stehlenswertem. Dabei fielen ihm etwa 150 Euro Bargeld in die Hände. Er hinterließ einen Sachschaden in Höhe von ungefähr 1.000 Euro. Hinweise nimmt das Polizeirevier Vaihingen an der Enz, Telefon 07042/941-0, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9601766,
-		"lon": 9.073476099999999
-	},
-	{
-		"date": "1/26/2014",
-		"description": "Aus einer Tiefgarage in der Straße \"Beim Hasenkreuz\" entwendeten bislang unbekannte Täter am Sonntag in der Zeit zwischen 05:00 Uhr und 14:20 Uhr einen Satz Alu-Kompletträder im Wert von etwa 1.000 Euro. Die Räder waren auf einem Parkplatz vor dem Fahrzeug gelagert. Die polizeilichen Ermittlungen dauern an. Hinweise nimmt das Polizeirevier Kornwestheim, Telefon 07154/1313-0, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.8882957,
-		"lon": 9.1170793
-	},
-	{
-		"date": "1/25/2014",
-		"description": "Eine geringe Menge Bargeld erbeutete ein Einbrecher, der sich in der Zeit zwischen Freitag und Montag Zutritt zu einem Kindergarten im Hudelweg verschaffte. Der Täter hebelte ein Fenster auf und stieg in die Räumlichkeiten ein. Anschließend brach er mehrere Schließfächer und einen Schrank auf. Aus einer vorgefundenen Geldkassette entnahm er das Geld und verließ die Örtlichkeit. Der entstandene Schaden beläuft sich auf etwa 200 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9704934,
-		"lon": 9.068692799999999
-	},
-	{
-		"date": "1/25/2014",
-		"description": "Vermutlich ohne Diebesgut zog ein bislang unbekannter Täter von dannen, nachdem er am vergangenen Wochenende in einen Kindergarten in der Flattichstraße eingestiegen war. Indem er ein Fenster aufhebelte gelangte er in das Gebäudeinnere und durchsuchte einen Büroraum, ohne etwas mitgehen zu lassen. Es entstand ein Sachschaden von etwa 250 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9609834,
-		"lon": 9.1041366
-	},
-	{
-		"date": "1/27/2014",
-		"description": "Ziemlich unverfroren gingen bislang unbekannte Diebe vor, als sie sich in der Nacht von Sonntag auf Montag über die Sammeltiefgarage eines Mehrfamilienhauses im Panoramaweg Zutritt in das Gebäude verschafften. Anschließend begaben sie sich in den Waschmaschinenraum im Untergeschoss und entwendeten eine neuwertige Waschmaschine plus Wärmepumpentrockner der Marke Siemens im Wert von je 600 Euro. Der Abtransport des Diebesguts erfolgte vermutlich ebenfalls über die Tiefgarage. Hinweise nimmt der Polizeiposten Möglingen, Telefon 07141/481291 oder das Polizeirevier Kornwestheim, Telefon 07154/1313-0, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.89102930000001,
-		"lon": 9.129747799999999
-	},
-	{
-		"date": "1/28/2014",
-		"description": "Auf Baumaschinen abgesehen hatte es ein bislang unbekannter Täter im Zeitraum zwischen Samstag 09:00 Uhr und Dienstag 07:30 Uhr als er sich Zutritt zu der Lagerhalle in der Straße \"Zwischen den Wegen\" verschaffte. Nachdem er den Metallbügel des Vorhängeschlosses abgeschnitten hatte, betrat er die Halle und entwendete die Geräte im Wert von mehr als 2.500 Euro. Hinweise nimmt das Polizeirevier Vaihingen/Enz, Telefon 07042/941-0, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.973526,
-		"lon": 9.0705583
-	},
-	{
-		"date": "1/27/2014",
-		"description": "Vermutlich auf der Suche nach Bargeld befanden sich unbekannte Einbrecher, die sich am Montag in der Zeit zwischen 01:00 Uhr und 09:00 Uhr Zutritt zu einer Gaststätte in der Bahnhofstraße verschafften. Mit brachialer Gewalt hebelten sie eine Tür auf, um in die Gasträume zu gelangen. Dort brachen sie Geldspielautomaten auf und entwendeten die Geldboxen sowie das enthaltene Münzgeld. Die leeren Geldboxen konnten in der näheren Umgebung wieder aufgefunden werden. Über die Höhe des entwendeten Bargelds liegen bislang noch keine Erkenntnisse vor. Der entstandene Sachschaden beläuft sich auf etwa 1.000 Euro. Zeugen werden gebeten sich mit dem Polizeiposten Sachsenheim unter Telefon 07147/27406-0 in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9624016,
-		"lon": 9.0693243
-	},
-	{
-		"date": "1/26/2014",
-		"description": "Mutmaßlich ein- und dieselben Täter entwendeten aus einer Gemeinschaftstiefgarage in der Straße \"Beim Hasenkreuz\" am Wochenende Alu-Kompletträder mit Sommerbereifung der Marken Mazda, Lancia und Opel im Gesamtwert von über 3.000 Euro. Die polizeilichen Ermittlungen dauern an. Hinweise nimmt der Polizeiposten Möglingen, Telefon 07141/481291, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.8882957,
-		"lon": 9.1170793
-	},
-	{
-		"date": "1/28/2014",
-		"description": "Indem er den Zaun überstieg gelangte ein bislang unbekannter Täter am Dienstag gegen 03:15 Uhr auf das Gelände des Hundesportvereins am Viadukt und hebelte die Eingangstür des Vereinsheims auf, um in das Gebäudeinnere zu gelangen. Aus einer Kasse ließ er Wechselgeld mitgehen und geriet im weiteren Verlauf seiner Diebestour an einen Karton Süßigkeiten, den er ebenfalls kurzerhand mitnahm. Der Wert des Diebesgutes wurde mit etwa 70 Euro angegeben. Der angerichtete Sachschaden wurde auf etwa 200 Euro geschätzt. Hinweise nimmt das Polizeirevier Marbach am Neckar, Telefon 07144/900-0, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 47.9668127,
-		"lon": 10.2099522
-	},
-	{
-		"date": "1/29/2014",
-		"description": "Zunächst versuchte ein bislang unbekannter Einbrecher am Mittwoch zwischen 17:30 Uhr und 18:20 Uhr vergeblich die Balkontür eines Wohnhauses in der Lehenstraße aufzuhebeln. Als dies misslang wandte er sich der Terrassentür zu und brach diese kurzerhand auf. Im Wohnungsinneren durchsuchte er die Räumlichkeiten und ließ Bargeld und Schmuck mitgehen. Der Wert des Diebesguts konnte noch nicht angegeben werden. Der entstandene Sachschaden wurde mit etwa 1.000 Euro beziffert. Zeugen, die Verdächtiges wahrgenommen haben werden gebeten, sich mit dem Polizeiposten Asperg, Telefon 07141/62033, in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9076186,
-		"lon": 9.1409741
-	},
-	{
-		"date": "2/1/2014",
-		"description": "Zwei Einbrüche registrierte die Sinsheimer Polizei über das zurückliegende Wochenende. Zwischen Samstag, 13 Uhr und Sonntag, 14 Uhr drangen bislang nicht ermittelte Täter durch Aufhebeln der Eingangstüre in ein Geschäft in der Muthstraße ein und erbeuteten eine Registrierkasse mit mehreren hundert Euro Wechselgeld. Bei der näheren Absuche - u.a. auch im Postgarten - wurde von dem Beamten des Sinsheimer Polizeireviers die Kasse in einem Gebüsch aufgefunden; die einzelnen Geldbehälter lagen bei einer Parkbank. Die Ermittlungen dauern noch an. ",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2513298,
-		"lon": 8.874424399999999
-	},
-	{
-		"date": "2/1/2014",
-		"description": "Ein weiterer Einbruch ereignete sich in der Nacht zum Sonntag zwischen 2 Uhr und 8 Uhr in einem Sonnenstudio, ebenfalls in der Muthstraße. Über ein aufgehebeltes Fenster stiegen die Unbekannten ein und ließen Bargeld in Höhe von mehr als 1.000 Euro mitgehen. Möglicherweise handelt es sich bei beiden Einbrüchen um ein- und denselben Täter. Zeugen, die sachdienliche Hinweise geben können, werden gebeten, sich unter Tel.: 07261/6900 zu melden.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2513298,
-		"lon": 8.874424399999999
-	},
-	{
-		"date": "1/28/2014",
-		"description": "Der Kindergarten in der Heilbronner Asperger Straße war in der Nacht zum Dienstag das Ziel eines bislang unbekannten Einbrechers. Der Täter wuchtete zunächst ein Fenster auf und konnte so in das Innere des Gebäudes gelangen. Dort wurden sämtliche Behältnisse durchwühlt. Außer, dass dem Unbekannten etwas Bargeld indie Hände fiel, richtete er auch noch eine Sachschaden in Höhe von mehreren hundert Euro an. Sachdienliche Hinweise nimmt die Polizei Heilbronn-Kirchhausen unter der Tel.Nr.: 07131 94010 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1809095,
-		"lon": 9.1102882
-	},
-	{
-		"date": "1/29/2014",
-		"description": "Mit der Aufklärung mehrerer Einbrüche ist die Polizei Bretzfeld derzeit beschäftigt. In der Nacht zum Mittwoch trieben dort vermutlich zwei bislang Unbekannte ihr Unwesen. So wurden in der Ackermannstraße in die Vereinsräume einer Pfadfindergruppe eingebrochen. Die Täter hatten dazu ein Fenster aufgehebelt und konnten so in das Innere der Räumlichkeiten gelangen. Dort wurden sämtliche Behältnisse durchsucht. Insgesamt fielen den Täter bei diesem Beutezug rund 200 Euro Bargeld in die Hände. Der angerichtete Sachschaden beläuft sich auf knapp 1.000 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.17786359999999,
-		"lon": 9.4428976
-	},
-	{
-		"date": "1/29/2014",
-		"description": " In der gleichen Nacht und der gleichen Straße wurde in den katholischen Kindergarten eingebrochen. Auch hier wurde ein Fenster aufgehebelt und im Gebäudeinnern offenbar gezielt nach Bargeld gesucht. Falls die Täter auf eine reiche Beute gehofft hatten, blieb dieser Wunsch glücklicherweise unerfüllt. Lediglich einen recht geringen Bargeldbetrag konnten die Diebe mitgehen lassen. Der angerichtete Sachschaden beträgt in diesem Fall mindestens 1.000 Euro. Die Kindertagesstätte in der Steinsfeldstraße blieb ebenfalls nicht unbehelligt. Nach der gleichen Vorgehensweise wurde auch dort nach Geld gesucht. Nur wenige Euro fielen den Unbekannten in die Hände. Der Sachschaden beläuft sich hier auf mehrere hundert Euro. Beim Einbruch in den Kindergarten in der Humboldtstraße hatten die Täter wiederum ein Fenster aufgehebelt und im Gebäudeinnern alles durchsucht. Da offenbar kein Bargeld zu finden war, wurde ein Büroraum brachial aufgebrochen und eine alte, antiquarische Nähmaschine der Marke Gritzner, Typ VG, gestohlen. Danach verschwanden die Unbekannten vermutlich durch die Terrassentür. Die Polizei Bretzfeld bittet dringend um Hinweise, die zur Ermittlung der Täter führen. Sachdienliche Angaben werden unter der Tel.Nr.: 07946 940-010 entgegengenommen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.17786359999999,
-		"lon": 9.4428976
-	},
-	{
-		"date": "1/30/2014",
-		"description": "Eine Firma in der Heilbronner Straße in Leingarten war in der Nacht zum Donnerstag das Ziel eines bislang unbekannten Einbrechers. Der Täter hatte dort ein Fenster aufgewuchtet und konnte so in das Innere des Gebäudes gelangen. Sämtliche Räume und Behältnisse wurden durchsucht. Dem Einbrecher fiel ein niedriger vierstelliger Eurobetrag in die Hände. Der angerichtete Sachschaden beläuft sich auf über 1.000 Euro. Sachdienliche Hinweise nimmt die Polizei Leintal unter der Tel.Nr.: 07138 81063-0 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1432562,
-		"lon": 9.131164799999999
-	},
-	{
-		"date": "2/1/2014",
-		"description": "In der Nacht von Freitag auf Samstag brachen unbekannte Täter in die Grundschule in Schwaigern in der Weststraße ein. Zugang verschafften sich die Täter über ein Fenster im Lehrerzimmer. Dort wurden sämtliche Schränke aufgebrochen. Ebenso wurde das Zimmer zum Sekretariat und das Rektorzimmer aufgebrochen, sowie weitere verschlossene Klassenzimmer und darin befindliche Schränke. Der angerichtete Sachschaden ist weitaus höher als das erbeutete Diebesgut, ein Notebook im Wert von einigen hundert Euro. Hinweise bitte an das Polizeirevier Lauffen, Tel.Nr. 07133/2090",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1455589,
-		"lon": 9.0523899
-	},
-	{
-		"date": "2/2/2014",
-		"description": "Ein Clubhaus in der Kirchardter Kettendstraße war in der Nacht zum Sonntag das Ziel eines bislang unbekannten Einbrechers. Der Täter wuchtete zunächst ein Fenster auf und konnte so in das Innere des Gebäudes gelangen. Von dort ließ der Einbrecher ein Fernsehgerät, mehrere Flaschen Whiskey und Münzgeld in noch unbekannter Höhe mitgehen. Sachdienliche Hinweise nimmt die Polizei Eppingen unter der Telefon 07262 6095-0 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2101947,
-		"lon": 9.0023444
-	},
-	{
-		"date": "2/2/2014",
-		"description": "In eine Heilbronner Gaststätte in der Zehentgasse drangen in der Nacht zum Sonntag unbekannte Täter ein. In der Zeit zwischen Sonntag, 2.30 Uhr und 10 Uhr, verschafften sie sich über die Haupteingangstür gewaltsam Zugang zum Gastraum. Anschließend hebelten sie zwei Kellertüren sowie die Metalltür zum Getränkelager auf. Schließlich fanden sie einen Tresor, den sie mit Brachialgewalt von der Wand stemmten und komplett mitnahmen. Zudem entwendeten die Einbrecher eine vorgefundene Geldkassette. Der Sach- und Diebstahlschaden ist fünfstellig. Zeugen, die zur Tatzeit im Bereich der Osteria etwas Verdächtiges beobachtet haben, sollten sich beim Polizeirevier Heilbronn, Telefon 07131 104 2500, melden.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1448711,
-		"lon": 9.219301999999999
-	},
-	{
-		"date": "2/2/2014",
-		"description": "In den Kindergarten \"Obelisk\" in Schwaigern drangen am vergangenen Wochenende Einbrecher ein. Sie hatten zuvor ein über den Garten zugängliches Fenster aufgebrochen und sich anschließend in den Räumlichkeiten umgesehen. Sie brachen dort mehrere Schränke auf und entnahmen schließlich aus einer vorgefundenen Geldkassette einen geringeren Bargeldbetrag. Über die Terrasse verließen die Täter den Kindergarten. Der von ihnen angerichtete Sachschaden übersteigt den Wert ihrer Beute bei weitem. Das Polizeirevier Lauffen nimmt unter der Telefonnummer 07133 2090 Hinweise zu dem Einbruch entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1429964,
-		"lon": 9.0647257
-	},
-	{
-		"date": "2/2/2014",
-		"description": "Eine Gaststätte in der Heilbronner Achtungstraße war am Sonntag, gegen 02.00 Uhr, das Ziel eines bislang unbekannten Einbrechers. Der Täter hatte zunächst versucht, ein Fenster aufzuwuchten, ließ dann aber von seinem Vorhaben ab und machte sich an der Eingangstür zu schaffen. Allerdings scheiterte sein Einbruchsversuch, sodass der Unbekannte unverrichteter Dinge den Tatort verließ. Die Höhe des angerichteten Sachschadens ist derzeit noch nicht bekannt. Sachdienliche Hinweise nimmt die Polizei Heilbronn unter der Tel.Nr.: 07131 104-2500 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1399787,
-		"lon": 9.210985899999999
-	},
-	{
-		"date": "2/3/2014",
-		"description": "Ein Gartenhaus in der Ruchsener Straße in Möckmühl, war in der Nacht zum Montag das Ziel eines Einbrechers. Der Unbekannte hatte das Fenster des Häuschens aufgebrochen und konnte so in das Innere des Raumes gelangen. Von dort ließ der Täter eine Bohrmaschine und zwei Flaschen Schnaps mitgehen. Sachdienliche Hinweise nimmt die Polizei Möckmühl unter der Tel.Nr.: 06298 92000 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.3264067,
-		"lon": 9.3676148
-	},
-	{
-		"date": "2/3/2014",
-		"description": "Eine Großbaustelle in der Happenbacher Straße in Abstatt war in der Zeit von Samstag, 15.15 Uhr bis Montag, 08.00 Uhr, das Ziel eines unbekannter Einbrechers. Der Täter hatte gewaltsam ein Eingangstor geöffnet und hatte es auf die dort gelagerten Sprieße abgesehen. Es handelt sich dabei um die Menge von rund 400 Stück, mit einem Gesamtwert von rund 40.000 Euro. Zum Abtransport muss mit großer Wahrscheinlichkeit ein Lkw verwendet worden sein. Das Gesamtgewicht des Diebesgutes dürfte bei etwa 12 Tonnen liegen. Der angerichtete Sachschaden liegt bei rund 1.000 Euro. Sachdienliche Hinweise nimmt die Polizei Weinsberg unter der Tel.Nr.: 07134 992-0 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0731323,
-		"lon": 9.291246899999999
-	},
-	{
-		"date": "2/2/2014",
-		"description": "Ein bislang Unbekannter suchte, in der Zeit von Freitagnachmittag bis Sonntag, drei Kindergärten in Schwaigern heim. An dem Gebäude in der Schloßstraße hatte der Täter ein Fenster aufgebrochen und konnte so in das Innere des Kindergartens eindringen. Dort wuchten noch weitere Behältnisse und Schränke gewaltsam geöffnet. Vermutlich fand der Einbrecher nichts für ihn Stehlenswertes vor. Der angerichtete Sachschaden beläuft sich allerdings auf rund 1.500 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1436289,
-		"lon": 9.0578747
-	},
-	{
-		"date": "2/2/2014",
-		"description": " Im gleichen Tatzeitraum erhielt auch der Kindergarten in der Gratstraße ungebetenen Besuch. Wiederum drang der Einbrecher durch ein aufgewuchtetes Fenster in das Gebäude ein, wo eine Tür gewaltsam geöffnet wurde. Auch in diesem Fall wurde vermutlich nichts gestohlen. Die Höhe des angerichteten Sachschadens steht noch nicht fest. Sachdienliche Hinweise nimmt die Polizei Lauffen unter der Tel.Nr.: 07133 209-0 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1421131,
-		"lon": 9.061073
-	},
-	{
-		"date": "2/2/2014",
-		"description": "Der Kindergarten in der Neckarelzer Neuburgstraße war in der Zeit von Samstag bis Montagmorgen das Ziel eines Unbekannten. Der Täter hatte in dieser Zeit ein Fenster aufgebrochen und gelangte so in das Innere des Gebäudes. Mehrere Behältnisse wurde dort gewaltsam geöffnet. Dem Einbrecher fiel dabei eine relativ geringe Summe Bargeld in die Hände. Sachdienliche Hinweise nimmt die Polizei Mosbach unter der Tel.Nr.: 06261 809-0 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.3383696,
-		"lon": 9.1226104
-	},
-	{
-		"date": "2/2/2014",
-		"description": "Nach zwei Einbrüchen in einen Kindergarten sowie in die Grundschule in Schwaigern wurde dem Polizeiposten Leintal nun eine weitere, gleichgelagerte Tat gemeldet. Im Zeitraum zwischen Freitagabend, 18 Uhr, und Samstag, 4:50 Uhr, waren Unbekannte in die Sonnenberg-Förderschule in der Weststraße eingedrungen und hatten sich anschließend ebenfalls gewaltsam Zugang zu mehreren Innenräumen verschafft. Dabei erlangten sie Bargeld und nahmen eine Bankkarte mit. Mit dieser gelang es den Tätern mehrfach Geld abzuheben. Der Sach- und Diebstahlschaden liegt im fünfstelligen Euro-Bereich. Sachdienliche Hinweise zu den drei Taten nimmt die Polizei in Leintal, Telefon 07138 810630, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1455589,
-		"lon": 9.0523899
-	},
-	{
-		"date": "2/3/2014",
-		"description": "Ein Einbrecher war am Montag, zwischen 14 und 18 Uhr, in einem Künzelsauer Alterswohnsitz im Frankenweg aktiv. Der Täter betrat in diesem Zeitraum das Zimmer einer Bewohnerin und hatte dabei offenbar gleich geeignetes Werkzeug mitgebracht um den darin befindlichen Schreibtisch aufzuwuchten. Daraus entnahm er eine schwarze Geldtasche mit der Aufschrift \"Volksbank\", in der sich Bargeld befand. Die Polizei sucht nun Zeugen, die im genannten Zeitraum verdächtige Beobachtungen in dem Seniorenheim gemacht haben. Hinweise bitte unter Telefon 07940 9400.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2800951,
-		"lon": 9.6980035
-	},
-	{
-		"date": "2/4/2014",
-		"description": "Auf den Lebensmittelladen beim Eppinger Asylbewerberheim in der Elsenzstraße hatte es in der Zeit von Sonntag bis Dienstag ein bislang Unbekannter abgesehen. Der Täter wuchtete dort ein Fenster auf und konnte so in den Verkaufsraum gelangen. Dort ließ der Einbrecher Lebensmittel und Süßigkeiten im Wert von etwa 150 Euro mitgehen. Sachdienliche Hinweise nimmt die Polizei Eppingen unter der Tel.Nr.: 07262 6095-0 entgegen",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1327972,
-		"lon": 8.900807499999999
-	},
-	{
-		"date": "1/30/2014",
-		"description": "Gleich in drei Fällen schlugen bislang unbekannte Einbrecher im Laufe des Donnerstag im Wohngebiet \"Lug\" sowie einmal im \"Buch\" zu. Dabei erbeuteten sie aus einem Wohnhaus im Bietweg Diebesgut mit einem Wert im niederen vierstelligen Bereich. Indem sie in der Zeit zwischen 16:20 Uhr und 21:45 Uhr ein Fenster aufhebelten, gelang es ihnen in die Räumlichkeiten einzusteigen und nach den Wertsachen zu suchen. Der entstandene Schaden beläuft sich auf etwa 500 Euro. ",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9607756,
-		"lon": 9.1146759
-	},
-	{
-		"date": "1/30/2014",
-		"description": "Bereits am Vormittag, in der Zeit zwischen 07:45 Uhr und 12:20 Uhr, suchten unbekannte Täter ein Wohnhaus in der Hindenburgstraße heim. Dabei verschafften sie sich über eine Tür zwischen Garage und Wohngebäude Zutritt zu den Wohnräumen, die sie auf der Suche nach Wertvollem durchwühlten und unter anderem eine Digitalkamera und Schmuck entwendeten. Der Wert der Gegenstände konnte bislang noch nicht beziffert werden. Der Schaden an der Tür wurde mit etwa 1.000 Euro angegeben. Einen Schaden in Höhe von ungefähr 500 Euro ließen Einbrecher an einem Wohnhaus in der Schmidbleicherstraße zurück, als sie in der Zeit zwischen 17:45 Uhr und 20:30 Uhr durch Aufhebeln eines Fensters in das Gebäudeinnere gelangten. Obwohl die Täter auch hier nach Wertvollem suchten, nahmen sie vermutlich nichts mit.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9603316,
-		"lon": 9.1178181
-	},
-	{
-		"date": "1/30/2014",
-		"description": " Ebenfalls ohne Beute zogen Einbrecher aus einem Haus in der Frimleystraße von dannen, in das sie in der Zeit zwischen 15:00 Uhr und 18:00 Uhr einstiegen. Dabei hebelten sie die Terrassentür auf, um in das Innere zu gelangen und nach Diebesgut Ausschau zu halten. Der an der Tür entstandene Schaden wurde mit etwa 500 Euro angegeben. Das Polizeirevier Bietigheim-Bissingen bittet in allen Fällen Zeugen, die verdächtige Wahrnehmungen gemacht haben, sich unter Telefon 07142/405-0 zu melden.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9401245,
-		"lon": 9.1433205
-	},
-	{
-		"date": "2/2/2014",
-		"description": "Vermutlich auf Bargeld und Zigaretten abgesehen hatten es bislang Unbekannte, als sie im Zeitraum zwischen Sonntag 19:00 Uhr und Montag etwa 08:50 Uhr in einen Getränkemarkt in der Robert-Bosch-Straße eindrangen. Über die frei zugängliche Gebäuderückseite gelangten die Täter auf das Firmengelände und arbeiteten sich bis zu einem Fenster im Obergeschoss vor, das sie kurzerhand aufhebelten, um in die Räumlichkeiten einzusteigen. In einem Büroraum durchwühlten sie sämtliche Schränke und Schubladen und ließen Bargeld in Höhe von mehreren Hundert und verschiedene Scheckkarten mitgehen. Im weiteren Verlauf ihrer Diebestour fielen ihnen im Verkaufsraum 150 Schachteln Zigaretten im Wert von etwa 750 Euro in die Hände, die sie mitgehen ließen. Der angerichtete Sachschaden wurde mit etwa 200 Euro beziffert. Die polizeilichen Ermittlungen dauern an. Hinweise nimmt der Polizeiposten Großbottwar unter Telefon 07148/1625-0 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0176038,
-		"lon": 9.3163123
-	},
-	{
-		"date": "2/3/2014",
-		"description": "Schmuck im Wert von mehreren Hundert Euro fiel einem unbekannten Einbrecher in die Hände, der am Montag in der Zeit zwischen 15:45 Uhr und 19:00 Uhr ein Wohngebäude in der Sachsenheimer Steige heimsuchte. Der Täter hebelte die Terrassentür auf und gelangte auf diese Weise in die Wohnräume, die er anschließend durchsuchte. An der Terrassentür entstand ein Schaden in Höhe von etwa 800 Euro. Zeugen werden gebeten sich mit dem Polizeiposten Besigheim unter Tel. 07143/40508 in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9938694,
-		"lon": 9.1334077
-	},
-	{
-		"date": "2/4/2014",
-		"description": "Einen Kiosk in der Bahnhofstraße suchte ein unbekannter Täter am Dienstag kurz vor 03:30 Uhr heim, indem er zunächst den Rolladen aufhebelte, um anschließend die Fensterscheibe mit einem Stein einzuwerfen. Er stieg in den Verkaufsraum ein und ließ etwa 20 Zigarettenstangen im Wert von mehreren Hundert Euro mitgehen. Personen, die Verdächtiges bemerkt haben, werden gebeten, sich mit dem Polizeirevier Bietigheim-Bissingen, Telefon 07142/405-0, in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.94497759999999,
-		"lon": 9.1184289
-	},
-	{
-		"date": "2/4/2014",
-		"description": "Im Zeitraum zwischen 08:10 Uhr und 16:10 Uhr versuchte ein bislang unbekannter Täter am Dienstag die Tür einer Wohnung in der Türkengasse aufzuhebeln. Da ihm dies nicht gelang trat er sie kurzerhand ein und gelangte auf diese Weise in das Wohnungsinnere. Dort durchsuchte er sämtliche Zimmer und ließ Bargeld in Höhe von mehreren Hundert Euro sowie ein Computerspiel samt Spielen ebenfalls mit einem Wert von mehreren Hundert Euro mitgehen. Der Sachschaden an der Wohnungstür wurde mit etwa 300 Euro angegeben. Hinweise nimmt der Polizeiposten Besigheim, Telefon 07143/40508-0, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0004685,
-		"lon": 9.1417589
-	},
-	{
-		"date": "2/6/2014",
-		"description": "Nach dem Hinweis eines aufmerksamen Passanten hat die Polizei in der Nacht zum Donnerstag drei Georgier im Alter von 24, 25 und 39 Jahren nach einem Einbruch in eine Bäckerei am Marktplatz in Oberjettingen festgenommen. Der Zeuge hatte das Trio gegen 02:00 Uhr beim Aufhebeln der Eingangstür beobachtet und sofort die Polizei alarmiert. Nur drei Minuten nach Eingang der Meldung waren Polizeibeamte vor Ort und konnten die Tatverdächtigen vorläufig festnehmen. Sie hatten bereits etwa 70 Schachteln Zigaretten in einen Plastiksack gepackt und zum Abtransport bereitgelegt. Während der 25-Jährige bislang noch nicht polizeilich in Erscheinung getreten ist, waren die beiden anderen bereits wegen Eigentumsdelikten und der 39-Jährige zudem wegen Verstoßes gegen das Betäubungsmittelgesetz anhängig. Auf Antrag der Staatsanwaltschaft Stuttgart wurden die drei Tatverdächtigen am Donnerstag dem Haftrichter beim Amtsgericht Böblingen vorgeführt, der Haftbefehl gegen sie erlassen und sie in eine Justizvollzugsanstalt eingewiesen hat.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.5758567,
-		"lon": 8.7740935
-	},
-	{
-		"date": "2/6/2014",
-		"description": "Ein vorbeifahrender Verkehrsteilnehmer meldete in der Nacht zum Donnerstag der Haller Polizei, dass an einem Geschäft Am Moosbach der Alarmmelder in Betrieb ist. Die Polizei stellte fest, dass in der Zeit vor 2.30 Uhr eine rote Rundummeldung abgeschlagen und akustische Signalgeber beschädigt worden waren. An einem Nebeneingang wurde erfolglos versucht die Tür aufzubrechen, danach wurde die Haupteingangstür eingedrückt. Ob die Täter aus dem laden etwas entwendet haben, muss zusammen mit dem Betreiber noch geklärt werden. Zeugen, die im Tatortbereich in der Nacht von Mittwoch auf Donnerstag etwas beobachtet haben, was mit der tat in Verbindung zu bringen ist, werden gebeten, sich bei der Polizei in Schwäbisch hall (0791/4000) zu melden.",
-		"type": "Wohnungseinbruch"
-	},
-	{
-		"date": "2/6/2014",
-		"description": "In der Crailsheimer Straße versuchten in der Nacht zum Donnerstag unbekannte Täter in einen Getränkemarkt einzubrechen. Sie probierten mit einem Stein eine Scheibe neben der elektronischen Eingangstüre des Getränkemarktes einzuschlagen. Nachdem dies misslang wurde an der zweiflügeligen Türe gehebelt. Die Türe wurde hierdurch erheblich beschädigt. Der oder die Täter gelangten letztendlich nicht in den Markt. Schaden ca. 1000 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.11999729999999,
-		"lon": 9.7526444
-	},
-	{
-		"date": "2/4/2014",
-		"description": "Auf ein Wohnhaus in der Heilbronner Gartenstraße hatte es ein bislang Unbekannter am Dienstag, in der Zeit von 11.00 Uhr bis 18.30 Uhr abgesehen. Der Täter gelangte auf bisher nicht bekannte Weise in das Mehrfamilienhaus und brach dort eine Wohnungstür auf. Mehrere Räume wurden durchsucht. Ob der Einbrecher etwas gestohlen hat, ist bisher noch nicht bekannt. ",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1461768,
-		"lon": 9.2253926
-	},
-	{
-		"date": "2/4/2014",
-		"description": "Ein weiterer Einbruch wurde am Dienstag, in der Zeit von 01.00 Uhr bis 09.30 Uhr in der Heilbronner Querschulgasse verübt. Der Täter hatte dort das Fenster einer Gaststätte aufgebrochen und konnte so in das Innere des Lokals gelangen. Dort wuchtete der Unbekannte zwei Geldspielautomaten auf und ließ Bargeld in noch unbekannter Höhe mitgehen. Auch in der Lammgasse schlug der Einbrecher zu. ",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1420853,
-		"lon": 9.2216869
-	},
-	{
-		"date": "2/4/2014",
-		"description": "Ebenfalls am Dienstagnachmittag gelang es einem Unbekannten in der Gartenstraße auf die gleiche Art, in eine Wohnung zu gelangen. Dort wurde alles durchsucht. Ob etwas gestohlen wurde, lässt sich bisher noch nicht definitiv sagen. Die Polizei Heilbronn nimmt unter der Tel.Nr.: 07131 104-2500 sachdienliche Hinweise entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1461768,
-		"lon": 9.2253926
-	},
-	{
-		"date": "2/1/2014",
-		"description": "Zu einem Einbruchsversuch, kam es im Zeitraum von Samstag, 25. Januar, 09.00 Uhr bis Samstag, 01. Februar 2014, 09.00 Uhr im Bad Wimpfener Kirschenweg. Ein Unbekannter hatte versucht, die Haustür eines Einfamilienhauses aufzuhebeln, was jedoch glücklicherweise nicht gelang. Der angerichtete Sachschaden hält sich in Grenzen. Hinweise nimmt die Polizei Bad Wimpfen unter der Tel.Nr.: 07063 9334-0 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2323385,
-		"lon": 9.1569225
-	},
-	{
-		"date": "2/4/2014",
-		"description": "Bislang unbekannte Einbrecher gelangten in der Nacht zum Dienstag in ein Dörzbacher Schreibwarengeschäft. In der Zeit zwischen 18.40 Uhr und 7:50 Uhr versuchten die Unbekannten zunächst eine Türe des Geschäfts in der Drehergasse aufzuhebeln. Da dies misslang, brachen sie ein Oberlicht auf dem Dach des Gebäudes auf und gelangten so in die Räumlichkeiten. Im Inneren wuchteten sie mehrere Schränke auf und durchstöberten diese. Gestohlen wurde aus diesen wahrscheinlich nichts. Aus einer Zigarettenauslage sowie weiteren Behältnissen entwendeten die Langfinger eine größere Menge an Zigarettenschachteln sowie -Stangen. Durch ein weiteres Oberlicht transportierten die Einbrecher ihre Beute nach draußen. Am Gebäude entstand Sachschaden in Höhe von etwa 1.000 Euro. Der Wert des Diebesguts kann bislang nicht beziffert werden. Zeugen die verdächtige Beobachtungen gemacht haben, werden gebeten, sich mit der Polizei Künzelsau, unter Telefon 07940 940-0 in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.3841812,
-		"lon": 9.7076031
-	},
-	{
-		"date": "2/4/2014",
-		"description": "Vermutlich nicht mit der Anwesenheit der Bewohnerin eines Hauses in der Heilbronner Schillerstraße hatten Einbrecher am Dienstag, gegen 13.30 Uhr, gerechnet. Sie machten sich an der Haustür eines Anwesens zu schaffen. Die Hausbesitzerin hörte die Geräusche und sah nach. Dies veranlasste die Täter aus nachvollziehbaren Gründen zum Rückzug. Sie hinterließen einen kleineren Sachschaden an der Haustür. Eventuell haben Anwohner oder Passanten im Tatzeitraum etwas Verdächtiges im Bereich der Schillerstraße bemerkt. Sie sollten sich bei der Heilbronner Polizei, Telefon 07131 104 2500, melden.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1437933,
-		"lon": 9.230066599999999
-	},
-	{
-		"date": "2/6/2014",
-		"description": "Auf einen Einkaufsmarkt in der Schöntal-Oberkessacher Kessachstraße hatte es ein bislang Unbekannter am Donnerstag, in der Zeit zwischen 02.00 Uhr bis 06.45 Uhr, abgesehen. Der Einbrecher hatte dort ein Fenster aufgewuchtet und konnte so in das Innere des Marktes gelangen. Von dort ließ er eine komplette Ladenkasse mit etwas Bargeld, ein Laptop und über 600 Schachteln Zigaretten mitgehen. Der Wert des Diebesgutes dürfte bei rund 5.000 Euro liegen. Der angerichtete Sachschaden beläuft sich auf etwa 2.000 Euro. Sachdienliche Hinweise nimmt die Polizei Krautheim unter der Tel.Nr.: 06294 234 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.3648074,
-		"lon": 9.4842093
-	},
-	{
-		"date": "2/6/2014",
-		"description": "Auf ein Gebäude in der Mosbacher Straße \"Am Henschelberg\" hatte es in der Nacht zum Donnerstag ein bislang Unbekannter abgesehen. Der Täter hatte ein Fenster aufgebrochen und konnte so in das Innere des Hauses gelangen. In den Büroräumen suchte er offenbar gezielt nach Bargeld. Insgesamt fielen dem Einbrecher mehrere hundert Euro in die Hände. Sachdienliche Hinweise nimmt die Polizei Mosbach unter der Tel.Nr.: 06261 809-0 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.3407491,
-		"lon": 9.113876399999999
-	},
-	{
-		"date": "2/7/2014",
-		"description": "Zwei unbekannte Täter versuchten am Freitagabend, 07.02., gegen 18.30 Uhr, in ein Wohnhaus in der Schafgrube in Kochendorf einzubrechen. Als sie vom Eigentümer während seiner Heimkehr bemerkt wurden, flüchteten die Personen unverrichteter Dinge durch den Garten ins angrenzende freie Gelände. Die Täter waren ca. 18 bis 20 Jahre alt und ca. 175 bis 180 cm groß, mit schlanker bzw. sportlicher Gestalt. Ein Täter war mit einem grau/schwarzgestreiften (Kapuzen)Pulli bekleidet. Eine Sofortfahndung der Polizei, bei der auch ein Hubschrauber eingesetzt wurde, verlief ergebnislos. Personen, die zum Vorfall Beobachtungen gemacht haben, werden gebeten, sich mit dem Polizeiposten Bad Friedrichshall (07136-9803-0) in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2197894,
-		"lon": 9.220524400000002
-	},
-	{
-		"date": "2/6/2014",
-		"description": "Ein Unbekannter hatte es am Do/Fr., 06./07.02., 20.00/09.00 Uhr darauf abgesehen, in der Dachsbaustraße in Waldstadt in ein Mehrfamilienhaus die Eingangstüre des Anwesens aufzuhebeln. Dies war dem Täter jedoch misslungen. Der hinterlassene Schaden beträgt ca. 300 Euro. Personen, die zum Vorfall Beobachtungen gemacht haben, werden gebeten, sich mit dem Kriminalkommissariat Mosbach (06261-809-0) in Verbindung zu setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.3701587,
-		"lon": 9.1324629
-	},
-	{
-		"date": "2/9/2014",
-		"description": "Unbekannte brachen in der Nacht von Freitag 07.02. auf Samstag 08.02. mit brachialer Gewalt in eine Gaststätte in Zaberfeld ein. Sie durchsuchten mehrere Räume, wobei es ihnen gelang, Bargeld in Höhe von ca. 200 Euro zu entwenden. Der entstandene Schaden dürfte auf 1.000 Euro zu beziffern sein. Sachdienliche Hinweise nimmt das Polizeirevier Lauffen unter Tel. 07133 209-0 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0587109,
-		"lon": 8.9281007
-	},
-	{
-		"date": "2/9/2014",
-		"description": "Unbekannte Täter warfen in der Nacht zum Samstag, 08.02.2014, mit einem Stein die Fensterscheibe eines Sportheims im Ortsteil Mühlbach ein und gelangten so in das Sportheim. Hier wurden Türen aufgetreten. Aus einer Kasse entwendete sie Bargeld im dreistelligen Bereich. Der angerichtete Sachschaden beläuft sich auf 2.000 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0949255,
-		"lon": 8.900787099999999
-	},
-	{
-		"date": "2/8/2014",
-		"description": "Unbekannte Täter brachen im Ortsteil Bitzfeld in der Nacht zum 08.02.2013 in eine Tankstelle ein. Sie entwendeten Tabakwaren und Motorenöl für mehrere tausend Euro. Die weiteren Ermittlungen werden vom Polizeirevier Öhringen geführt, welches unter der Telefonnummer 07941 930-0 Hinweise entgegen nimmt.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1896819,
-		"lon": 9.4424072
-	},
-	{
-		"date": "2/9/2014",
-		"description": "Auf ein Ladengeschäft in der Jagstfelder Poststraße hatte es ein bislang Unbekannter am Sonntag, gegen 05.30 Uhr, abgesehen. Der Täter hatte versucht, die Eingangstür aufzuhebeln, was ihm jedoch nicht gelang. ",
-		"type": "Wohnungseinbruch",
-		"lat": 49.23306849999999,
-		"lon": 9.195582
-	},
-	{
-		"date": "2/9/2014",
-		"description": "Vermutlich die gleiche Person hatte an diesem Morgen, sich auch an der Tür eines wenige Meter entfernten Geschäftes versucht. Wiederum gelang es dem Einbrecher nicht, die Eingangstür zu öffnen. Die Höhe des angerichteten Gesamtsachschadens ist bislang noch nicht bekannt. In diesem Zusammenhang bittet die Polizei dringend darum, dass Personen, welche am Sonntagmorgen im Bereich der Poststraße diesbezüglich verdächtige Wahrnehmungen machen konnten, sich unter der Tel.Nr.: 07131 104-4444 mit der Kriminalpolizei in Verbindung setzen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.23306849999999,
-		"lon": 9.195582
-	},
-	{
-		"date": "2/9/2014",
-		"description": "Am Sonntagnachmittag machten sich in Eppingen gegen 15:25 Uhr im Langenberger Hohlweg drei bislang unbekannte jugendliche Täter am Schloss der Türe eines Garten-hauses zu schaffen, als sie von Zeugen gestört wurden. Auf Ansprechen, was sie denn machten, ergriffen sie die Flucht und rannten den Langenberger Hohlweg in Richtung Otto-Hahn-Strasse davon. Weitere Zeugen werden gebeten, sachdienliche Hinweise unter der Telefonnummer: 07262 6095-0 der Polizei in Eppingen mitzuteilen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1337001,
-		"lon": 8.926250099999999
-	},
-	{
-		"date": "2/10/2014",
-		"description": "In Heilbronn war am Montag ein Einbrecher unterwegs. In der Schulgasse drang er in der Zeit zwischen 7.45 Uhr und 19 Uhr in eine Wohnung im zweiten Obergeschoß des Acht-Parteien-Hauses ein. Er durchsuchte die Räumlichkeiten, fand jedoch offenbar keine Beute. Beim Sachschaden blieb es auch in einem weiteren Fall. Ebenfalls im gleichen Zeitraum verschaffte sich ein Unbekannter auch Zugang zu einem Mehrfamilienhaus in der Karlstraße. Im zweiten Obergeschoß suchte er in einer Wohnung nach Stehlenswertem, nachdem er die Eingangstür zuvor gewaltsam geöffnet hatte. Auch hier fand der Täter offenbar nichts von Interesse. Im Zusammenhang mit dieser Tat steht vermutlich ein etwa 30 bis 35 Jahre alter Mann, der gegen 16 Uhr, bei einem Hausbewohner geklingelt und nach einem \"David\" gefragt hatte. Nachdem der Zeuge weder jemand dieses Namens noch den Besucher kannte, wartete er, bis der Unbekannte zum Ausgang ging und schloss die Tür. Der verdächtige Mann war etwa 185 bis 190 groß und hatte schwarze, unordentliche Haare und einen \"Zweitagebart\". Er hatte eine sportliche Statur und war dunkel gekleidet. Eventuell hatte er zuvor eine schwarze Mütze getragen. Er sprach mit starkem, vermutlich südosteuropäischem Akzent. Weitere Hinweise zu den beiden Einbrüchen nimmt die Polizei in Heilbronn, Telefon 07131 104 2500 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.14269789999999,
-		"lon": 9.2298195
-	},
-	{
-		"date": "2/9/2014",
-		"description": "Auf ein Vereinsgebäude in Eppingen-Adelshofen, in der Unterdorfstraße, hatte es in der Zeit von Sonntag, 20.15 Uhr bis Montag, 10.50 Uhr, ein bislang Unbekannter abgesehen. Der Täter war auf noch nicht geklärte Weise in das Gebäude eingedrungen. Dort wurden sämtliche Räume und Behältnisse durchsucht. Dem Einbrecher fiel dabei etwas Wechselgeld in die Hände. Der angerichtete Sachschaden beträgt mehrere hundert Euro. Sachdienliche Hinweise nimmt die Polizei Eppingen unter der Tel.Nr.: 07262 60950 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1656877,
-		"lon": 8.8928213
-	},
-	{
-		"date": "2/10/2014",
-		"description": "Eine Höhengaststätte in der Eppingen-Kleingartacher Leinbergstraße war in der Nacht zum Montag das Ziel eines bislang unbekannten Einbrechers. Der Täter hatte eine Tür aufgebrochen und konnte so in das Innere des Gasthauses gelangen. Im Innern wurden einige Behältnisse durchsucht. Vermutlich wurde jedoch nichts gestohlen. Sachdienliche Hinweise nimmt die Polizei Eppingen unter der Tel.Nr.: 07262 6095-0 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1023232,
-		"lon": 8.969003899999999
-	},
-	{
-		"date": "2/9/2014",
-		"description": "Ein Ladengeschäft in der Fleiner Falterstraße war in der Zeit von Samstag, 20.15 Uhr, bis Sonntag, 08.00 Uhr, das Ziel eines Einbrechers. Der Unbekannte hatte versucht, ein Fenster aufzuhebeln, um so in das Innere des Gebäudes zu gelangen. Der Täter scheiterte jedoch mit seinem Vorhaben und hinterließ einen Sachschaden von mehreren hundert Euro. Hinweise nimmt die Polizei Untergruppenbach unter der Tel.Nr.: 07131 64463-0 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1018967,
-		"lon": 9.208083199999999
-	},
-	{
-		"date": "2/11/2014",
-		"description": "Ein Wohnhaus in der Duttenberger Würzburger Straße war in der Zeit von Donnerstag, 06. Februar, bis Dienstag, 11. Februar 2014, das Ziel eines Einbrechers. Der Unbekannte hatte während der Abwesenheit der Wohnungsinhaber einer Tür aufgehebelt und die Räume offenbar gezielt nach Bargeld durchsucht. Dem Täter fielen dabei mehrere hundert Euro in die Hände. Sachdienliche Hinweise nimmt die Polizei Bad Friedrichshall unter der Tel.Nr.: 07136 9803-0 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2530085,
-		"lon": 9.1962829
-	},
-	{
-		"date": "2/9/2014",
-		"description": "Übers Wochenende drangen Unbekannte gewaltsam in ein Geschäft in der Straße Blendstatt ein. Nach bisherigen Erkenntnissen wurde nichts entwendet.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1161037,
-		"lon": 9.736832399999999
-	},
-	{
-		"date": "2/11/2014",
-		"description": "Zwischen 03.00 und 06.30 Uhr drangen Einbrecher in der Nacht zum Dienstag in ein Spielcasino in der Karl-Kurz-Straße in Hessental ein. Sie öffneten gewaltsam mehrere Spielautomaten. Ob und wieviel Bargeld aus den Automaten gestohlen wurde ist momentan noch nicht bekannt. Der reine Sachschaden beträgt circa 5.000 Euro. Hinweise an die Polizei in Schwäbisch Hall, Tel.: 0791/400-0.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0968599,
-		"lon": 9.7665772
-	},
-	{
-		"date": "2/7/2014",
-		"description": "Im Zeitraum zwischen Donnerstag 18:00 Uhr und Freitag 08:30 Uhr hebelten bislang unbekannte Täter das Fenster eines Friseursalons in der Winnender Straße auf und stiegen anschließend in das Geschäft ein. Aus einer Geldkassette entwendeten sie einen geringen Bargeldbetrag. Außerdem ließen sie zwei Haarschneidemaschinen im Wert von mehreren Hundert Euro mitgehen. Am Fenster entstand ein Sachschaden von etwa 500 Euro. ",
-		"type": "Wohnungseinbruch",
-		"lat": 48.920302,
-		"lon": 9.3303169
-	},
-	{
-		"date": "2/7/2014",
-		"description": "Möglicherweise die gleichen Einbrecher machten sich auch an der gegenüberliegenden Postfiliale zu schaffen, indem sie vergeblich versuchten die Eingangstür aufzuhebeln. Nachdem dies nicht gelang gaben sie ihr Vorhaben auf und machten sich aus dem Staub. An der Eingangstür entstand ein Sachschaden von 1.000 Euro. Hinweise nimmt das Polizeirevier Marbach am Neckar, Telefon 07144/900-0, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9240398,
-		"lon": 9.3170196
-	},
-	{
-		"date": "2/6/2014",
-		"description": "Ein Unbekannter suchte im Zeitraum zwischen Mittwoch 21:00 Uhr und Donnerstag 10:00 Uhr ein Vereinsheim im Gewann \"Bäumle\" heim, indem er über einen Zaun stieg und auf diese Weise auf das Gelände gelangte. Unter Zuhilfenahme von Bänken gelang es dem Einbrecher zum Obergeschoss vorzudringen, ein Fenster einzuschlagen und sich Zutritt zum Gebäudeinneren zu verschaffen. Dort feuerte er einen Ofen an und bediente sich an Getränken. Die polizeilichen Ermittlungen dauern an. Der entstandene Schaden konnten noch nicht beziffert werden.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9329492,
-		"lon": 9.0529821
-	},
-	{
-		"date": "2/8/2014",
-		"description": "In der Zeit zwischen Samstag 16.15 Uhr und 23.30 Uhr wurde an einem Wohnhaus im Nelkenweg durch unbekannte Täterschaft ein Fenster zum Schlafzimmer aufgehebelt. Aus der Wohnung wurden 2520.- Euro Bargeld entwendet. Unbekannte Täterschaft verschaffte sich in der Folge Zutritt zu einer weiteren sich im ersten Obergeschoss befindlichen Wohnung und durchsuchte diese ebenfalls. Abschließend wurde das Gebäude über die Garage verlassen. Der Sachschaden am Inventar der beiden Wohnungen beläuft sich auf 1.000.- Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9948288,
-		"lon": 9.1865943
-	},
-	{
-		"date": "2/8/2014",
-		"description": "In der Zeit zwischen Sonntag 02.02.2014, 17.00 Uhr und Samstag, 08.02.2014, 10.00 Uhr wurden insgesamt vier aneinander grenzende Gartengrundstücke im Gewann Oberer Berg durch unbekannte Täterschaft aufgesucht. In zwei der Gartenhäuser wurde eingebrochen und daraus ein Notstromaggregat, eine elektrische Heckenschere im Wert von 200.- Euro, ein CD-Player, zwei Radios, eine gusseiserne Laterne im Wert von 150.- Euro sowie weitere Gegenstände entwendet. Bei zwei weiteren Einbrüchen, bei denen unter anderem auch ein abgestellter Wohnwagen betroffen war, blieb es beim Versuch. Erkenntnisse zu weiterem Diebesgut liegen bislang nicht vor. Über die Höhe des jeweiligen Sachschadens an den Einbruchsobjekten können derzeit keine Angaben gemacht werden.",
-		"type": "Wohnungseinbruch",
-		"lat": 47.9668127,
-		"lon": 10.2099522
-	},
-	{
-		"date": "2/10/2014",
-		"description": "Auf Haushaltsgeräte und Nahrungsmittel abgesehen hatten es unbekannte Täter, die im Zeitraum zwischen Sonntag 11:30 Uhr und Montag 14:30 Uhr die Eingangstür eines Vereinsheims in der Straße \"Hagstolz\" aufhebelten und auf diese Weise in die Räumlichkeiten gelangten. Dabei ließen sie die Geräte sowie Getränke und Süßigkeiten mitgehen. Auf ihrer weiteren Diebestour hebelten sie zudem eine Tür zum Lagerraum auf, aus dem sie unter anderem kistenweise alkoholische Getränke entwendeten. Der Wert des Diebesguts wurde mit etwa 1.000 Euro angegeben. Der angerichtete Sachschaden beläuft sich auf 500 Euro. Hinweise nimmt der Polizeiposten Großbottwar, Telefon 07148/1625-0, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0233364,
-		"lon": 9.3363108
-	},
-	{
-		"date": "2/11/2014",
-		"description": "Ein bislang unbekannter Täter verschaffte sich am Dienstag im Zeitraum zwischen 14:30 Uhr und 19:45 Uhr Zutritt zu einem Wohnhaus in der Aystraße, indem er ein Fenster im Untergeschoss aufhebelte. Im Gebäudeinneren durchsuchte er sämtliche Räumlichkeiten und entwendete schließlich diversen Schmuck, dessen Wert noch nicht näher beziffert werden konnte. Am Einstiegsfenster entstand ein Sachschaden in Höhe von etwa 2.000 Euro. Die polizeilichen Ermittlungen dauern an. Hinweise nimmt der Polizeiposten Besigheim, Telefon 07142/40508-0, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9906779,
-		"lon": 9.1629642
-	},
-	{
-		"date": "2/11/2014",
-		"description": "Vermutlich auf Schmuck und Bargeld abgesehen hatten es bislang unbekannte Täter, als sie am Dienstag zwischen 18:00 Uhr und 19:00 Uhr in ein Wohnhaus in der Grabenäckerstraße eindrangen, indem sie das Küchenfenster im Erdgeschoss aufhebelten. Im Gebäudeinneren durchsuchten die Unbekannten mehrere Schränke und Kommoden und ließen schließlich Schmuck im Wert von mehreren Tausend Euro mitgehen. Zudem entwendeten sie einen Tresor, in dem sich Bargeld in Höhe von mehr als 1.000 Euro befand. Der Sachschaden am Fenster wurde mit etwa 1.100 Euro angegeben. Sachdienliche Hinweise nimmt das Polizeirevier Kornwestheim, Telefon 07154/1313-0, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.8935532,
-		"lon": 9.1188007
-	},
-	{
-		"date": "2/11/2014",
-		"description": "Eine böse Überraschung erlebte der Bewohner eines Wohnhauses in der Hommoldstraße als er am Dienstagabend nach Hause kam. In der Zeit zwischen 13:30 Uhr und 23:00 Uhr waren unbekannte Einbrecher über die Terrassentür in das Gebäudeinnere gelangt, indem sie zunächst den heruntergelassenen Rolladen aus der Halterung rissen und sich anschließend an der Tür zu schaffen machten. Die Unbekannten durchsuchten sämtliche Zimmer und ließen schließlich Zigaretten, Mobiltelefone und persönliche Gegenstände mitgehen. Der Wert des Diebesguts konnte noch nicht näher beziffert werden. Die polizeilichen Ermittlungen dauern an. Hinweise nimmt das Polizeirevier Bietigheim-Bissingen, Telefon 07142/405-0, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9575963,
-		"lon": 9.1392691
-	},
-	{
-		"date": "2/13/2014",
-		"description": "In ein Wohnhaus in der Birkenstraße in Offenau drangen am Donnerstag Unbekannte ein. Die Täter verschafften sich über die rückwärtig gelegene Terrassentür gewaltsam Zugang zum Wintergarten und von dort schließlich in die Wohnräume. Im Obergeschoß durchsuchten sie im Schlafzimmer und den Kinderzimmern sämtliche Schränke und fanden schließlich ein neuwertiges iPad4, das sie mitnahmen. Wer im Tatzeitraum zwischen Donnerstag, 08.30 Uhr, und 18:45 Uhr, etwas Verdächtiges im Bereich des Wohngebietes bemerkt hat, sollte sich beim Polizeiposten Bad Friedrichshall, Telefon 07136 980321, melden.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2501686,
-		"lon": 9.1675469
-	},
-	{
-		"date": "2/13/2014",
-		"description": "Ein Einbruchsversuch in eine Wohnung in der Sontheimer Fritz-Haber-Straße verlief für einen Unbekannten am Donnerstag erfolglos. Der Täter wollte das Schloss der Eingangstür mit einem Schließbesteck öffnen. Dieses brach jedoch ab, so dass nur ein Sachschaden in noch nicht bekannter Höhe entstand. Personen, die im Tatzeitraum zwischen 9.00 und 13.30 Uhr, verdächtige Wahrnehmungen im Bereich der Fritz-Haber-Straße gemacht haben, sollten sich beim Polizeirevier Heilbronn, Telefon 07131 104 2500, melden.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1191714,
-		"lon": 9.2104014
-	},
-	{
-		"date": "2/13/2014",
-		"description": "Weil er Hunger hatte wollte ein 15-Jähriger am Donnerstagabend in eine Bäckerei in der Ittlinger Hauptstraße einbrechen. Passanten beobachteten den Jungen bei seinen Versuchen in das Geschäft einzudringen und benachrichtigten die Polizei. Die Polizeibeamten konnten den verhinderten Einbrecher festhalten. Wie sich herausstellte, war der Jugendliche von zuhause weggelaufen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1911589,
-		"lon": 8.933376299999999
-	},
-	{
-		"date": "2/13/2014",
-		"description": "Dreiste Wohnungseinbrecher Am Donnerstagabend drangen bislang noch unbekannte Einbrecher in der Eppinger Eichendorffstraße in ein Wohnhaus ein. Nachdem sie ein Fenster aufgehebelt hatten entwendeten sie Schmuckstücke in noch nicht bekanntem Wert. Dass die Einbrecher ziemlich dreist vorgingen, lässt sich daraus erkennen, dass die Hausbewohner zur Tatzeit im Haus waren, jedoch nichts bemerkten. Hinweise auf verdächtige Wahrnehmungen bitte an die Polizei Eppingen, 07262/6095-0.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1335438,
-		"lon": 8.9224641
-	},
-	{
-		"date": "2/13/2014",
-		"description": " Noch ist unklar, wie hoch der Sachschaden ist, der beim Einbruch in eine Kleintierzuchtanlage in Erlenbach, Hafenmarkt, am Donnerstagabend entstand. Bislang Unbekannte zerschnitten dort am gestrigen Donnerstag zwischen 19 und 21.30 Uhr an verschiedenen Stallungen die Drahtgeflechte und gelangen so in die Außengehege. Nach bisherigen Erkenntnissen entwendeten sie vierzehn Hühner und zwei Hähne. Das Polizeirevier Neckarsulm sucht Zeugen, die verdächtige Wahrnehmungen gemacht haben; Hinweise unter Telefon 07132/9371-0",
-		"type": "Wohnungseinbruch"
-	},
-	{
-		"date": "2/13/2014",
-		"description": "Die Abwesenheit der Hausbesitzer nutzten bislang unbekannte Einbrecher am Donnerstag in der Zeit zwischen 10.30 und 21.00 Uhr in Talheim aus. Im \"Hühnerbrünnele\" hebelten sie ein Fenster eines Einfamilienwohnhauses auf. Im Haus durchsuchten sie nahezu alle Räumlichkeiten. Mit Schmuck in noch unbekanntem Wert machten sie sich von dannen. Die Polizei sucht Zeugen; wer verdächtigte Personen beobachtet hat, möge sich bitte beim Revier Weinsberg, Telefon 07134/992-0, melden. Hohenlohekreis",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0845531,
-		"lon": 9.1995341
-	},
-	{
-		"date": "2/12/2014",
-		"description": "Ein Wohnhaus im Brackenheimer Hirnerweg war in der Zeit von Sonntag bis Mittwoch das Ziel eines noch unbekannten Einbrechers. Der Täter wollte in einer Höhe von etwa 2,5 Meter ein Fenster aufbrechen, was ihm jedoch nicht gelang. Sachdienliche Hinweise nimmt die Polizei Brackenheim unter der Tel.Nr.: 07135 6096 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0779862,
-		"lon": 9.061028799999999
-	},
-	{
-		"date": "2/13/2014",
-		"description": "Glücklicherweise hielt die Stahltür stand - diese Erfahrung durfte ein Einbrecher in der Nacht zum Donnerstag, in der Pfedelbacher Brunnenfeldstraße machen. Der Täter hatte dort versucht, mit einem Werkzeug die Tür zu einem Getränkelager zu öffnen. Der Unbekannte schaffte es jedoch nicht, ins Innere des Lagers zu gelangen. Sachdienliche Hinweise nimmt die Polizei Öhringen unter der Tel.Nr.: 07941 930-0 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1828118,
-		"lon": 9.4987403
-	},
-	{
-		"date": "2/11/2014",
-		"description": "Unbekannte waren in der Zeit von Freitag, 07. Februar bis Dienstag, 11. Februar 2014 in der Künzelsauer Keltergasse zu Gange. Nach dem bisherigen Stand der Ermittlungen hatte offenbar jemand versucht, in das Gebäude Nr. 33 einzudringen. An der Stadtmauer wurden Farbschmierereien verursacht. Ob beides miteinander in einem Zusammenhang steht, kann derzeit nicht näher verifiziert werden. Hinweise nimmt die Polizei Künzelsau unter der Tel.nre.: 07940 940-0 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.2785729,
-		"lon": 9.6886434
-	},
-	{
-		"date": "2/16/2014",
-		"description": "In der Zeit von Samstag 15.02.2014, 16.30 Uhr - Sonntag, 16.02.2014, 02.30 Uhr gingen Einbrecher ein Einfamilienhaus in Billigheim-Allfeld im Oberen Gleißenberg an. Zunächst drangen der oder die Täter wohl von der Rückseite des Objektes in das Hausinnere ein. Hier hebelten sie mit einem unbekannten Werkzeug, wahrscheinlich größerer Schraubendreher oder Stemmeisen, die hölzerne Terassentüre auf. Sie gelangten so in das Wohnzimmer und den Eßbereich. Hier durchsuchten Sie diverse Schubladen und Kommoden und das Büro im Erdgeschoß. Im Obergeschoß durchsuchten sie insbesondere das Schlafzimmer. Dort entnahmen sie diversen Schmuck und Bargeld. Eine schwarze Schmuckschatulle mit Inhalt wurde komplett entwendet. Es entstand Sachschaden in Höhe von 500 Euro. Bei den gestohlenen Gegenständen handelt es sich hauptsächlich um Goldschmuck in Form von Ringen und Ketten. Es scheint Tatzusammenhang mit einem weiteren Einbruch in Allfeld zu geben, da dort ähnliche Spuren gesichert wurden. Sachdienliche Hinweise nimmt das Polizeirevier Mosbach unter Telefon 06261/809-333 entgegen.",
-		"type": "Wohnungseinbruch"
-	},
-	{
-		"date": "2/16/2014",
-		"description": "Wie bereits zuvor berichtet, gingen die Langfinger auch hier ein Wohnanwesen in der Schüt-zenstraße in Billigheim-Allfeld im gleichen Zeitraum an. Auch hier hebelten sie ein Fenster auf und verschafften sich so Zutritt zu dem Objekt. Zunächst stiegen sie durch das aufgehebelte Fenster in das Innere ein. Hier hielten sie sich zunächst im Erdgeschoß und im Obergeschoß auf. Im Schlafzimmer und im ehemaligen Kin-derzimmer im Erdgeschoß durchsuchten sie verschiedene Schränke und Behältnisse, ebenso im Büro der 75-jährigen Geschädigten im Dachgeschoß. Aus dem Schlafzimmer wurde eine Schmuckkassette und ein weiteres Kästchen mit diversen Schmuckstücken entwendet. Der Diebstahlschaden liegt im vierstelligen Bereich. Sachdienliche Hinweise nimmt auch hier das Polizeirevier Mosbach unter Telefon 06261/809-333 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.326809,
-		"lon": 9.246796699999999
-	},
-	{
-		"date": "2/16/2014",
-		"description": "In der Zeit zwischen Samstag, 0.00 Uhr und Sonntag, 15.00 Uhr, stiegen Unbekannte in ein Motorrad-Vereinsheim im Dörzbacher Kapellenweg ein. Die Täter versuchten zunächst erfolglos die Eingangstür aufzuhebeln und schlugen schließlich die Fenster ein. So gelangten sie ins Innere des Gebäudes und entwendeten aus dem Küchenbereich drei Flaschen Hochprozentiges, wie Whiskey, Weinbrand und weißen Rum. Anschließend suchten sie auch in einer benachbarten Wochenendhütte und einem Wohnwagen Stehlenwertes. Auch hier gelangten sie über die Fenster in die Räumlichkeiten. Ob hier etwas gestohlen wurde steht noch nicht fest. Der bisher ermittelte Sach- und Diebstahlschaden beläuft sich auf etwa 250 Euro. Der Polizeiposten Krautheim nimmt unter der Telefonnummer 06294-234 Zeugenhinweise zu der Tat entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.3803486,
-		"lon": 9.7082155
-	},
-	{
-		"date": "2/15/2014",
-		"description": "Unbekannte Täter verschafften sich im Zeitraum zwischen Freitag 16:00 Uhr und Samstag 17:00 Uhr über die Terrassentür Zutritt zu einem Wohnhaus in der Finkenstraße in Untergruppenbach. Hierbei wurde die Terrassentür aufgehebelt und ein Tresor mit persönlichen Dokumenten und einem geringen Bargeldbetrag entwendet. Die Hauseigentümer waren über das Wochenende verreist. Der entstandene Sachschaden muss noch ermittelt werden.Sachdienliche Angaben zum Vorfall nimmt der Polizeiposten Untergruppenbach unter der Telefonnummer 07131 64463-0, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0925417,
-		"lon": 9.269935900000002
-	},
-	{
-		"date": "2/19/2014",
-		"description": "Ein bislang unbekannter Einbrecher suchte in der Nacht zum Mittwoch ein Fitnessstudio in der Nordheimer Straße in Lauffen heim. Vermutlich durch ein Fenster, das der Unbekannte zuvor eingeschlagen hatte, gelangte dieser ins Innere des Gebäudes. Im Thekenbereich durchstöberte er Schränke und Schubladen, als er von zwei Putzfrauen überrascht wurde. Diese betraten gegen 00.50 Uhr das Studio und verließen nach Erkennen des Einbrechers vor Schreck das Gebäude und alarmierten die Polizei. Die Lauffener Polizei rückte schnell mit drei Streifen sowie einer weiteren Streife der Hundestaffel an und durchsuchte die Räumlichkeiten. Der Langfinger hatte mit einem vierstelligen Bargeldbetrag aus einer Kasse des Studios bereits das Weite gesucht. Eine Sofortfahndung blieb ohne Erfolg. Bei dem Einbrecher soll es sich um einen etwa 1,80 Meter großen, schlanken Mann im Alter von 25-30 Jahren handeln. Er soll mit einer schwarzen Wollmütze und einer grauen Kapuzenweste bekleidet gewesen sein. Weitere Ermittlungen dauern an. Zeugenhinweise werden erbeten an die Lauffener Polizei, unter Telefon 07133 209-0.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0852991,
-		"lon": 9.146562699999999
-	},
-	{
-		"date": "2/17/2014",
-		"description": "Zwischen Samstag und Montag versuchte ein bislang unbekannter Täter in das Jugendhaus in der Scheuerlesstraße in Eppingen einzubrechen. Der Einbrecher versuchte zunächst einen Rolladen hochzuschieben und dann das Fenster einzutreten. Offenbar da ihm dies nicht wunschgemäß gelungen war, ließ er von weiteren Tathandlungen ab. Der Sachschaden dürfte bei knapp 1.000 Euro liegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1405732,
-		"lon": 8.9209114
-	},
-	{
-		"date": "2/17/2014",
-		"description": "In der Zeit von Samstag 14:00 bis Montag 10:00 Uhr drangen unbekannte Täter durch ein Fenster in das Feuerwehrgerätehaus in Hohebach ein und entwendeten mehrere Gegenstände und einen geringen Betrag an Bargeld. Der Sachschaden beläuft sich auf zirka 300 Euro. Sachdienliche Angaben nimmt die Polizei in Krautheim, Telefon 06294 234, entgegen.",
-		"type": "Wohnungseinbruch"
-	},
-	{
-		"date": "2/17/2014",
-		"description": "Am Montagabend drang ein bislang Unbekannter in ein Firmengebäude in der Bretzfelder Franz-Schulz-Straße ein. Nachdem er ein Fenster eingeschlagen und hierdurch ins Gebäude eingestiegen war, löste die Alarmanlage aus. Der Täter flüchtete ohne Beute. Der angerichtete Sachschaden wird auf zirka 750 Euro beziffert. Wer zur Tatzeit im dortigen Bereich verdächtige Wahrnehmungen gemacht hat, sollte sich bei der Polizei in Öhringen, Telefon 07941/930-0, melden.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1676733,
-		"lon": 9.4405663
-	},
-	{
-		"date": "2/18/2014",
-		"description": "Ein Mehrfamilienhaus im Öhringer Nussbaumweg war am Dienstag in der Zeit zwischen 8.45 und 15.30 Uhr das Angriffsziel bisher unbekannter Einbrecher. Sie drückten kurzerhand die Wohnungstüre ein. Mit einem geringen Bargeldbetrag und einer Sony Play Station 4 mit zwei Controllern suchten sie das Weite. Der angerichtete Sachschaden liegt bei rund 100 Euro. Die Polizei in Öhringen sucht Zeugen, die verdächtige Wahrnehmungen gemacht haben. Hinweise unter Telefon 07941/9300.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.19583660000001,
-		"lon": 9.509497099999999
-	},
-	{
-		"date": "2/18/2014",
-		"description": "Die Abwesenheit der Wohnungseigentümer nutzten bislang unbekannte Einbrecher am Dienstagabend in der Heilbronner Goethestraße aus. Zwischen 18.45 und 19.30 Uhr kamen sie über das Treppenhaus zur Wohnungstüre der Geschädigten. Diese hebelten sie auf und konnten so die Wohnung betreten. Sie durchwühlten Schränke und Schubladen und verschwanden mit einem kleineren Bargeldbetrag, Schmuck und einer Digitalkamera. Der angerichtete Sachschaden dürfte bei etwa 800 Euro liegen. Die Kriminalpolizei Heilbronn sucht Zeugen, die im Tatzeitraum verdächtige Personen im dortigen Bereich gesehen haben, Hinweise unter Telefon 07131/104-9.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.14368839999999,
-		"lon": 9.2317638
-	},
-	{
-		"date": "2/18/2014",
-		"description": "Die Anwesenheit der Hausbesitzer nutzten bislang unbekannte Diebe am Dienstagnachmittag in Gemmingen, Rainastraße, aus. In der Zeit zwischen 16.15 und 19.30 Uhr hebelten sie ein Fenster eines Wohnhauses auf und kamen so ins Gebäude. Gestohlen wurden zwei Laptops, zwei Fahrräder, zwei Kameras und Schmuck im Gesamtwert von einigen tausend Euro. Möglicherweise wurden die Täter vor der Tat oder danach mit zwei Fahrrädern im dortigen Bereich beobachtet. Hinweise bitte an die Eppinger Polizei unter Telefon 07262/6095-0.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1554376,
-		"lon": 8.976566100000001
-	},
-	{
-		"date": "2/18/2014",
-		"description": "In der Nacht auf Dienstag brachen bislang unbekannte Täter in ein Firmengebäude in der Fleiner Straße in Brackenheim-Dürrenzimmern ein. Offensichtlich gelangte der Täter durch ein eingeschlagenes Fenster ins Gebäudeinnere. Im Zuge seines Umschauens hinterließ er Sach- und Diebstahlsschäden in noch nicht bekannter Höhe. Zeugenhinweise nimmt die Polizei in Brackenheim unter der Telefonnummer: 07135 6096 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0922016,
-		"lon": 9.0838451
-	},
-	{
-		"date": "2/16/2014",
-		"description": "Am Sonntag brach ein bislang unbekannter Täter zwischen 13:00 Uhr und 19:00 Uhr in ein Wohnhaus im Breitäcker in Obersulm-Willsbach ein, während der 16-jährige Sohn des Hauses in seinem Zimmer schlief. Die Polizei in Obersulm bittet um sachdienliche Zeugenhinweise an die Telefonnummer: 07130 7077.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.12898329999999,
-		"lon": 9.3579103
-	},
-	{
-		"date": "2/18/2014",
-		"description": "Vermutlich in der Nacht zum Dienstag versuchte ein bislang unbekannter Einbrecher in ein Spielcasino in Bad Wimpfen einzubrechen. Über ein Vordach gelangte der Unbekannte an ein Fenster und machte sich daran, dieses aufzuhebeln. Ins Gebäude selbst gelangte er nicht. Ob das Fenster standhielt oder der Täter gestört wurde kann nicht gesagt werden. Am Fenster entstand Sachschaden in Höhe von etwa 1.500 Euro. Zeugen die verdächtige Beobachtungen gemacht haben, werden gebeten, diese der Wimpfener Polizei unter Telefon 07063 9334-0 mitzuteilen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.22850409999999,
-		"lon": 9.157138699999999
-	},
-	{
-		"date": "2/18/2014",
-		"description": "In insgesamt drei Brackenheimer Firmen verschaffte sich in der Nacht zum Dienstag ein bislang unbekannter Einbrecher gewaltsam Zutritt in die Räumlichkeiten. Eine Glasscheibe an der Türe einer Automobilfirma schlugen die Unbekannten ein und gelangten so in eine Abstellhalle. Da sie dort offenbar nichts Stehlenswertes fanden, führte ihr Weg weiter in einen nahegelegenen Metallverarbeitungsbetrieb, wo vermutlich außer einem Schlüssel nichts entwendet wurde.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.07333810000001,
-		"lon": 9.0645694
-	},
-	{
-		"date": "2/18/2014",
-		"description": " An einer angrenzenden Autowerkstatt in der Frankenbacher Straße schlugen die Langfinger ein Kunststoffelement ein und kamen so in die Räume. Dort nahmen sie eine Ledermappe mit einem niederen Bargeldbetrag mit. Der angerichtete Sachschaden ist, wie so oft wesentlich höher, als der Wert der gestohlenen Gegenstände und wird auf über 1.000 Euro geschätzt. Die Brackenheimer Polizei bittet Zeugen, die sachdienliche Hinweise geben können, sich unter Telefon 07135 6095-0 zu melden.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0924673,
-		"lon": 9.0822839
-	},
-	{
-		"date": "2/16/2014",
-		"description": "In der Zeit zwischen Samstag, 00:00 bis Sonntag, 16:00 Uhr betraten unbekannte Täter unbefugt ein Wochenendgrundstück im Dörzbacher Kapellenweg. Sie brachen ein Fenster des darauf befindlichen Wochenendhauses mitsamt dem Fensterrahmen aus dem Mauerwerk heraus, stiegen so in das Haus ein und durchwühlten sämtliche Schränke. An einem Wohnwagen auf demselben Grundstück schlugen die Täter eine Scheibe ein und stiegen auch dort ein. Entwendet wurde jedoch nichts. Dennoch entstand dem Eigentümer ein Sachschaden von etwa 800 Euro. Zeugen die verdächtige Beobachtungen gemacht haben, werden gebeten, diese der Krautheimer Polizei unter Telefon 06294 234 mitzuteilen. Für Rückfragen stehen wir Ihnen unter der Telefonnummer 07131 104-1010 gerne zur Verfügung.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.3803486,
-		"lon": 9.7082155
-	},
-	{
-		"date": "2/18/2014",
-		"description": "Ein aufmerksamer Nachbar meldete am Dienstagabend gegen 20.45 Uhr den Einbruch in ein Wohnhaus im Steinbruchweg. Der Mann hatte drei Unbekannte beobachtet, als sie Gegenstände aus der Einliegerwohnung trugen. Anschließend fuhren die Männer in einem dunklen Pkw VW Golf davon. Vor Ort konnten die hinzugerufenen Polizeibeamten feststellen, dass die Täter offenbar durch ein Fenster in das Gebäude gelangt waren und hier diverse Elektronikgeräte entwendeten. Über den gleichen Weg verließen die Eindringlinge die Wohnung wieder. Vor dem Fenster konnten von den Beamten mehrere Videospiele und Filme sichergestellt werden, welche die Täter zurückgelassen hatten. Über den Wert des Diebesgutes liegen derzeit noch keine Angaben vor. Hinweise auf die Unbekannten oder den Verbleib der entwendeten Gegenstände nimmt das Polizeirevier Schwäbisch Hall unter Tel.: 07951/480-244 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1013256,
-		"lon": 9.8447259
-	},
-	{
-		"date": "2/19/2014",
-		"description": "In der Zeit zwischen Dienstagabend 18.40 Uhr und Mittwochmorgen 06.50 Uhr drangen Unbekannte in den Verkaufsraum eines Tabakwarengeschäftes in der Karlstraße ein. Die Täter überwanden ein vergittertes Rolltor und hebelten anschließend die Eingangstüre auf. Aus den Verkaufsräumen entwendeten die Einbrecher sowohl einzelne Zigarettenschachteln, als auch eine Vielzahl Zigarettenstangen. Zum Transportieren wurde das Diebesgut in mitgeführte Plastiksäcke verstaut. Aus einer Holzkiste entwendeten die Täter eine Geldmappe mit einem größeren Bargeldbetrag. Vermutlich wurden die Unbekannten gestört, da sie an der Eingangstüre zur Abholung bereitgestellte Plastiksäcke samt schon eingepacktem Diebesgut zurückließen. Dennoch erbeuteten die Täter Zigaretten im Gesamtwert von rund 20000 Euro. Hinweise nimmt der Polizeiposten Gaildorf unter Telefon 07971/95090 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.993744,
-		"lon": 9.7739486
-	},
-	{
-		"date": "2/16/2014",
-		"description": "Am Sonntag um 04.00 Uhr schlug ein unbekannter Täter mittels eines Ziegelsteins die Drahtglaseingangstüre einer Firma in der Alt-Württemberg-Allee ein. Dies wurde von einem Nachbar bemerkt welcher die Polizei alarmierte. Beim Eintreffen der Polizeistreifen konnten keine Person angetroffen werden. Sofortige Fahndungsmaßnahmen verliefen ohne Erfolg. Ob der Täter die Firma betreten hat ist bislang noch nicht bekannt. Die Höhe des entstandenen Sachschadens ist bislang nicht bekannt.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.8922137,
-		"lon": 9.2014611
-	},
-	{
-		"date": "2/15/2014",
-		"description": "In Zeitraum von Freitag 18.00 Uhr bis Samstag 21.05 Uhr gelangte ein unbekannter Täter durch Aufhebeln der Terrassentüre in ein Einfamilienhaus in der Wilhelm-Keil-Straße. Im Inneren des Hauses durchsuchte er sämtliche Zimmer und entwendete ein MacBook. An der Terrassentüre entstand ein Sachschaden in Höhe von ca. 1000 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9013597,
-		"lon": 9.185467
-	},
-	{
-		"date": "2/15/2014",
-		"description": "Am Samstag, im Zeitraum von 19.15 Uhr bis 22.30 Uhr versuchte ein unbekannter Täter, durch Aufhebeln der Terrassentüre, in ein Einfamilienhaus in der Isopistraße zu gelangen. Ins Gebäude gelangte er jedoch nicht. Der entstandene Sachschaden an der Terrassentüre beträgt ca. 250 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.8951967,
-		"lon": 9.2059096
-	},
-	{
-		"date": "2/15/2014",
-		"description": "Am Samstag, in der Zeit von 17.00 Uhr bis 19.30 Uhr gelangte ein unbekannter Täter durch Aufhebeln der Terrassentüre in die Erdgeschosswohnung eines Mehrfamilienhauses in der Baiselsbergstraße im Ortsteil Ochsenbach. Im Gebäudeinneren wurden sämtliche Räume nach Wertgegenständen durchsucht. Die Höhe des Diebesgutes beträgt ca. 150 Euro. Der entstandene Sachschaden beträgt ca. 500 Euro. In diesem Zusammenhang wird ein weißer Geländewagen mit ausländischer Zulassung gesucht welcher an der Tatörtlichkeit aufgefallen ist. Der Geländewagen war mit drei Männern besetzt. Zeugen werden gebeten sich beim Polizeirevier Vaihingen an der Enz, unter der Telefonnummer 07042/9410 zu melden.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0195875,
-		"lon": 8.9848398
-	},
-	{
-		"date": "2/15/2014",
-		"description": "Nachdem er zunächst erfolglos versucht hatte, die Balkontür eines Wohnhauses im Benedikt-Elsas-Weg aufzuhebeln, schlug ein unbekannter Täter über das vergangene Wochenende kurzerhand die Türverglasung ein. Bei der Durchsuchung der Räume fielen ihm hochwertige Schmuckstücke in die Hände, deren Wert derzeit noch nicht feststeht. Bei dem Einbruch richtete der Unbekannte zudem etwa 6.000 Euro Sachschaden an. Sachdienliche Hinweise nimmt der Polizeiposten Remseck, Telefon 07146/280820, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.8683939,
-		"lon": 9.2522459
-	},
-	{
-		"date": "2/16/2014",
-		"description": "Wenig Beute machte ein Einbrecher, der am Sonntag, zwischen 15:00 Uhr und 19:30 Uhr, die Terrassentür eines Wohnhauses im Tannenweg aufgehebelt hat. Außer einer älteren Kamera fand er im Haus nicht Stehlenswertes vor. An der aufgebrochenen Terrassentür entstand ein Sachschaden in Höhe von 100 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.7992638,
-		"lon": 9.083981
-	},
-	{
-		"date": "2/17/2014",
-		"description": "Über ein Fenster auf der Rückseite einer Gaststätte in der Hauptstraße gelangte ein bislang unbekannter Täter in der Nacht zum Montag, nach 03:00 Uhr, in den Gastraum. Dort hebelte er zwei Geldspieltautomaten auf und entwendete mehrere Hundert Euro Bargeld. Der Sachschaden am beschädigten Fenster und den Automaten wurde auf etwa 100 Euro geschätzt. Hinweise nimmt der Polizeiposten Bönnigheim, Telefon 07143/22414, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0022605,
-		"lon": 9.142089
-	},
-	{
-		"date": "2/18/2014",
-		"description": "In der Nacht von Montag 17.02.2014 auf Dienstag, 18.02.2014 verschafften sich bislang unbekannte Täter gewaltsam Zutritt zu einem Mobilfunkgeschäft in der Stuttgarter Straße, indem sie ein Fenster auf der Gebäuderückseite des Mehrfamilienhauses aufhebelten. Anschließend durchsuchten sie die Räumlichkeiten und entwendeten mehrere elektronische Geräte. Der Wert des Diebesguts ist noch nicht bekannt, der entstandene Sachschaden beträgt etwa 1.000 Euro.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.952752,
-		"lon": 9.135489800000002
-	},
-	{
-		"date": "2/18/2014",
-		"description": "Mehrere Hundert Euro Bargeld hat ein unbekannter Täter vermutlich in der Nacht zum Dienstag beim Einbruch in eine Gaststätte in der Hindenburgstraße erbeutet. Nach Aufhebeln eines Fensters stieg er in das Gebäude ein und brach im Schankraum zwei Geldspielautomaten auf. Der dabei angerichtete Sachschaden beläuft sich auf etwa 1.000 Euro. Der Polizeiposten Steinheim, Tel. 07144/823060, bittet um Hinweise.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9614066,
-		"lon": 9.2576249
-	},
-	{
-		"date": "2/19/2014",
-		"description": "Ein Unbekannter hat in der Nacht zum Mittwoch mehrere Containertüren zu den Büro- und Umkleideräumen einer Firma in den Rainwiesen aufgehebelt und die Räume durchsucht. Aus dem Büro entwendete er Briefmarken im Wert von mehr als 500 Euro sowie Werkzeug und einen Monitor. In den weiteren Räumen wurden mehrere Spinde aufgehebelt und durchwühlt. Ob noch weiteres Diebesgut entwendet wurde steht derzeit noch nicht fest. Sachdienliche Hinweise nimmt das Polizeirevier Kornwestheim, Telefon 07154/1313-0 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.8914502,
-		"lon": 9.263698399999999
-	},
-	{
-		"date": "2/19/2014",
-		"description": "Auf Bargeld aus Geldspielautomaten abgesehen hatte es ein bislang unbekannter Täter, der am Mittwoch, zwischen 02:30 Uhr und 09:45 Uhr, in eine Bar in der Bahnhofstraße einbrach, indem er die Eingangstür aufhebelte. Aus zwei Automaten baute er die Münzgeldeinsätze sowie Gelscheinkassetten aus und ließ mehr als 2.000 Euro mitgehen. Im Thekenbereich fiel ihm zudem ein schwarzer Geldbeutel mit mehreren Hundert Euro Bargeld in die Hände. Aus einem Kühlschrank entwendete er schließlich noch mehrere Dosen eines Energy Drinks und aus einem Abstellraum mehrere Shishas im Wert von knapp 500 Euro. Sachdienliche Hinweise nimmt der Polizeiposten Asperg, Tel. 07141/62033, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9065634,
-		"lon": 9.1411275
-	},
-	{
-		"date": "2/19/2014",
-		"description": "Über ein auf der Rückseite eines Wohnhauses in der Ziegelbergstraße gelegenes Fenster gelangte ein bislang unbekannter Täter am Mittwoch, zwischen 17:45 Uhr und 19:15 Uhr, in das Gebäude. Dort durchsuchte er sämtliche Schränke und Schubladen und ließ schließlich Schmuck und Bargeld im Wert von etwa 300 Euro mitgehen. Sachdienliche Hinweise nimmt das Polizeirevier Bietigheim-Bissingen, Telefon 07142/405-0, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.942823,
-		"lon": 9.1122795
-	},
-	{
-		"date": "2/19/2014",
-		"description": "Auch in Besigheim hat ein Einbrecher im Zeitraum zwischen Sonntag, 17:00 Uhr und Mittwoch, etwa 19:50 Uhr, die Terrassentür eines Wohnhauses im Buchenweg aufgehebelt. Dort durchsuchte er Schränke und Schubladen. Ob etwas entwendet wurde steht derzeit noch nicht fest. Der Sachschaden an der Terrassentür wurde mit etwa 200 Euro angegeben.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9891408,
-		"lon": 9.1570667
-	},
-	{
-		"date": "2/19/2014",
-		"description": "Ein bislang Unbekannter drang am Mittwoch, gegen 19:55 Uhr, über die Terrassentür in ein Wohnhaus in der Gartenstraße. Ein Bewohner des Hauses wurde durch die Geräusche aufmerksam, daraufhin flüchtete der Einbrecher sofort wieder aus dem Haus. Der angerichtete Sachschaden wurde mit etwa 500 Euro angegeben. Eine sofort eingeleitete polizeiliche Fahndung verlief ohne Erfolg",
-		"type": "Wohnungseinbruch",
-		"lat": 49.0037952,
-		"lon": 9.0984935
-	},
-	{
-		"date": "2/19/2014",
-		"description": "Drei Unbekannte haben sich am Mittwoch, gegen 17:15 Uhr, auf derzeit noch ungeklärte Weise Zugang zu einem Mehrfamilienhaus in der Adalbert-Stifter-Straße verschafft und im Obergeschoss eine Wohnungstür eingetreten. Sie betraten gemeinsam die Wohnung und flüchteten kurz darauf zu Fuß ohne etwas entwendet zu haben. Die Männer wurden als muskulös beschrieben. Einer soll etwa 180 Zentimeter groß und die beiden anderen kleiner gewesen sein. Sie waren dunkel gekleidet und hatten kurze dunkle Haare.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.8779337,
-		"lon": 9.2183633
-	},
-	{
-		"date": "2/20/2014",
-		"description": "In der Nacht von Mittwoch auf Donnerstag brach ein bislang unbekannter Täter gewaltsam in ein Vereinsheim in der Fuchshofstraße ein, nachdem er an einem Küchenfenster aus dem heruntergelassenen Rollladen Lamellen herausgebrochen und anschließend die Fensterscheibe einschlagen hatte. Dort durchsuchte er den Gastraum sowie einen Lagerraum. Auch den vor der Gaststätte geparkten Kleinbus des Vereins öffnete er vermutlich mit dem zuvor in den Vereinsräumen gefundenen Fahrzeugschlüssel und durchsuchte diesen ebenfalls. Aus dem Vereinsheim wurden verschiedene elektronische Geräte und Getränke entwendet. Der entstandene Sachschaden wird auf 1000.- Euro geschätzt, die Schadenshöhe des Diebesguts ist noch nicht bekannt. Hinweise werden an den Polizeiposten Ludwigsburg-Oststadt, Tel.-Nr. 07141-281011 erbeten.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.893535,
-		"lon": 9.210334399999999
-	},
-	{
-		"date": "2/20/2014",
-		"description": "Ein unbekannter Täter drang vermutlich in den sehr frühen Morgenstunden des Donnerstags in der Schwieberdinger Straße über einen Wintergartenanbau in ein Wohngebäude ein. Während die Geschädigten im Obergeschoss schliefen, durchsuchte der Täter die im Erdgeschoss liegenden Räume und entwendete dort gezielt Bargeld, Schmuckstücke und ein Mobiltelefon. Der Sachschaden wird auf ca. 300.- Euro beziffert, der Gesamtwert des Diebesguts ist noch nicht bekannt. Hinweise werden an den Polizeiposten Möglingen, Tel.-Nr. 07141/481291 erbeten.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.8861617,
-		"lon": 9.1183012
-	},
-	{
-		"date": "2/19/2014",
-		"description": "Am Mittwochnachmittag brach in Neckargartach ein bislang unbekannter Täter zwischen 17:20 und 19:20 Uhr in ein Wohnhaus im Binderweg ein. Er hatte die Terrassentüre an der Westseite des Gebäudes aufgebrochen und anschließend im Innenbereich diverse Türen, Schränke und Behältnisse durchwühlt. Den Gesamtwert des erlangten Diebesguts sowie den entstandenen Sachschaden konnten die Eigentümer noch nicht einschätzen. Die Polizei in Böckingen bittet um sachdienliche Zeugenhinweise an die Telefonnummer: 07131 20406-0.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.16852249999999,
-		"lon": 9.1926422
-	},
-	{
-		"date": "2/19/2014",
-		"description": "Zu Büroräumlichkeiten in der Pfarrgasse verschafften sich unbekannte Täter in der Zeit von Dienstag, 16:30 bis Mittwoch 07:50 Uhr gewaltsam Zutritt. Sie brachen den Schließzylinder der Bürotür ab und durchwühlten sämtliche Schränke und Schreibtische. Etwas Stehlenswertes gab es jedoch in diesen Räumen für die Einbrecher nicht. Sie mussten erfolglos davonziehen und hinterließen dennoch einen Sachschaden von 500 Euro. Die Polizei in Buchen nimmt sachdienliche Hinweise zum Vorfall unter der Telefonnummer 06281 904-0 entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.5219977,
-		"lon": 9.3257605
-	},
-	{
-		"date": "2/20/2014",
-		"description": "Auf frischer Tat ertappt wurde am Donnerstag ein Einbrecher in Brackenheim. In der Zeit zwischen 10 und 11:45 Uhr hatte er sich zunächst gewaltsam über die Terrassentür eines Anwesens im Alten Brackenheimer Weg Zugang zu den Innenräumen verschafft. Anschließend durchsuchte der die Zimmer bis plötzlich der Hauseigentümer heimkam. Der Täter gab Fersengeld und verschwand zusammen mit einem offensichtlichen Komplizen in einem grau-braunen Kastenwagen. Der Geschädigte las das Teilkennzeichen BAD- ab. Die beiden Männer beschrieb er als etwa 30 Jahre alt mit kurzen, blonden Haaren. Ob etwas gestohlen wurde, muss noch ermittelt werden. Der angerichtete Sachschaden beträgt zirka 500 Euro. Zeugenhinweise nimmt die Polizei in Brackenheim, Telefon 07135 6096, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.06951429999999,
-		"lon": 9.028668699999999
-	},
-	{
-		"date": "2/20/2014",
-		"description": "Bislang unbekannte Täter brachen im Zeitraum zwischen Mittwoch, gegen 19:00 Uhr und Donnerstag, 19:30 Uhr, ein Fenster eines Bürogebäudes in der Brucknerstraße auf und stiegen ein. Aus einem der Büros entwendeten die Täter zwei Tischventilatoren im Wert von etwa 100 Euro. Der beim Einbruch angerichtete Sachschaden beläuft sich auf etwa 2.500 Euro. Hinweise nimmt das Polizeirevier Marbach am Neckar, Telefon 07144/900-0, entgegen.",
-		"type": "Wohnungseinbruch",
-		"lat": 48.9634068,
-		"lon": 9.327970299999999
-	},
-	{
-		"date": "2/20/2014",
-		"description": "In der Nacht zum Donnerstag wurde in ein Vereinsheim in Hessental eingebrochen. Die Täter scheiterten zunächst an einem vergitterten Fenster und konnten durch ein zweites Fenster einsteigen. Die Täter fanden in einer Wechselkasse ein paar Euro, die sie mitnahmen und brachen einen Zigarettenautomaten auf, aus dem sie einige Schachteln Zigaretten stahlen.",
-		"type": "Wohnungseinbruch",
-		"lat": 49.1050236,
-		"lon": 9.7730189
-	},
-	{
-		"date": "12/10/2013",
-		"description": "Kupferdraht im Wert von zirka 8000 Euro stahlen Unbekannte aus einem Firmengebäude in der Billigheimer Straße in Neudenau. Die Täter hatten eine Türe aufgehebelt und gelangten so in eine Fertigungshalle. Von dort entwendeten die Täter insgesamt 18 Kupferdrahtspulen von je etwa 40 Kg. Es ist davon auszugehen, dass die Täter für den Abtransport einen Transporter benutzt haben. Der Einbruch hatte sich zwischen Montag 16:00 Uhr und Dienstag 07:00 Uhr ereignet. Personen die rund um den Tatort verdächtige Wahrnehmungen machen konnten, werden gebeten sich mit dem Polizeiposten Bad Friedrichshall unter der Telefonnummer 07136/98030  in Verbindung zu setzen.",
-		"type": "Metalldiebstahl",
-		"lat": 49.2943654,
-		"lon": 9.2739206
-	},
-	{
-		"date": "12/3/2013",
-		"description": "Vom Lagerplatz einer Gerüstbaufirma Im Täle in Eppingen-Mühlbach stahlen Unbekannte in der Nacht zum Dienstag Gerüstteile im Wert von rund 20.000 Euro. Nachdem sie einen Zaun, der das Gelände umgibt, aufgeschnitten hatten, stellten sich die Diebe nicht sonderlich geschickt an. Mit einem Gabelstapler versuchten sie mehrere Gerüstböden und Stellrahmen abzutransportieren. Dabei fuhren sie sich auf dem schlammigen Untergrund fest. So musste der Stapler wieder abgeladen und die Teile separat zu einem LKW getragen werden, der auf einem Feldweg am Rande des Firmengeländes geparkt war. Nachdem sämtliche Teile aufgeladen worden waren, blieb auch der LKW stecken. Um den Laster frei zu fahren legten sie verschiedene Netze und kleinere Gerüstteile unter die Hinterachse. So gelang es ihnen den LKW aus dem Matsch zu fahren. Die Spur verlor sich auf der Kreisstraße 3510 zwischen Sulzfeld und Mühlbach. Da die Verladeaktion zeitaufwändig gewesen sein dürfte, hofft die Eppinger Polizei auf Zeugen. Sachdienliche Hinweise werden unter Telefon 07262/6095-0 erbeten.",
-		"type": "Metalldiebstahl",
-		"lat": 49.1379832,
-		"lon": 8.9092339
-	},
-	{
-		"date": "11/15/2013",
-		"description": " Von einer Baustelle in der Dimbacher Frankenstraße entwendeten Unbekannte in der Nacht zum vergangen Freitag verschiedene Gerüstteile im Wert von cirka 300 Euro. Zeugen, die eine verdächtige Beobachtung gemacht haben, sollten sich unter Tel. 07946/940010 beim Polizeiposten Bretzfeld melden.",
-		"type": "Metalldiebstahl",
-		"lat": 49.17168059999999,
-		"lon": 9.3822155
-	},
-	{
-		"date": "11/8/2013",
-		"description": "  Im Dörzbacher Gewerbegebiet in der Industriestraße machten sich in der Nacht zum vergangenen Freitag unbekannte Diebe ans Werk. Sie verschafften sich in der Zeit zwischen Donnerstag, 18.30 Uhr, und Freitagmorgen, Zugang zu einem Baugelände und brachen dort einen Container auf. Die Täter entwendeten daraus ein Steuerungskabel mit Fernbedienung sowie mehrere Sorten Stromkabel im Wert von fast 2.000 Euro. Eventuell haben Verkehrsteilnehmer im Tatzeitraum etwas Verdächtiges im Bereich des Industriegebietes bemerkt. Der Polizeiposten Krautheim nimmt unter der Telefonnummer 06294-234 sachdienliche Hinweise zu dem Diebstahl entgegen.",
-		"type": "Metalldiebstahl",
-		"lat": 49.3850748,
-		"lon": 9.699724699999999
-	},
-	{
-		"date": "11/17/2013",
-		"description": "In der Zeit vom 14. November 2013 bis 17.November 2013 ließen Unbekannte in der Eppinger Frauenbrunner Straße rund 750 Meter Kupferkabel im Wert von rund 3.000 Euro mitgehen. Die Unbekannten hatten vom Hof einer Baufirma zwei Kabeltrommeln auf die Straße gerollt und  diese in ein Fahrzeug oder auf einen Anhänger verladen. Da auch zur Nachtzeit die Frauenbrunner Straße relativ stark befahren wird, besteht durchaus die Möglichkeit, dass der Vorgang beobachtet wurde. Zeugen werden gebeten, sich unter der Tel.Nr.: 07262/60950 mit der Polizei Eppingen in Verbindung zu setzen.",
-		"type": "Metalldiebstahl",
-		"lat": 49.1341349,
-		"lon": 8.9001016
-	},
-	{
-		"date": "11/6/2013",
-		"description": "Ein bislang noch unbekannter Täter ließ in der Zeit von Dienstag, 17.00 Uhr bis Mittwoch, 07.30 Uhr von einer Baustelle in Eppingen ein etwa 30 Meter langes Starkstromkabel im Wert von mehreren hundert Euro mitgehen. Der Tatort „Im Wiesental“ liegt unmittelbar neben dem Zubringer von Rohrbach zur Bundesstraße 293. Zeugen oder Personen, die sachdienliche Hinweise geben können werden gebeten, sich unter der Tel.Nr.: 07262/6095-0 mit der Polizei Eppingen in Verbindung zu setzen.",
-		"type": "Metalldiebstahl",
-		"lat": 49.1379832,
-		"lon": 8.9092339
-	},
-	{
-		"date": "11/6/2013",
-		"description": "Vermutlich mit einem Bolzenschneider zwickten Unbekannte in der Nacht vom Dienstag auf Mittwoch in Eppingen-Rohrbach das Zuleitungskabel eines Baukrans ab. Der Kran steht auf einer Baustelle im Gewerbegebiet Wiesental, unmittelbar neben dem Zubringer zur B 293. Die Täter stahlen 30 Meter des vieradrigen Starkstromkabels, der Wert wird auf mehrere Hundert Euro geschätzt. Die Polizei hofft, dass jemand eventuell verdächtige Personen oder Fahrzeuge gesehen hat, diese allerdings nicht mit einer Straftat in Verbindung brachte. Hinweise gehen an das Polizeirevier Eppingen, Telefon 07262 60950.",
-		"type": "Metalldiebstahl",
-		"lat": 49.1379832,
-		"lon": 8.9092339
-	},
-	{
-		"date": "12/7/2013",
-		"description": "Wie jetzt erst bekannt wurde stahlen bislang Unbekannte bereits in der der Nacht zum Donnerstag, 07. Dezember insgesamt 25 Stahlplatten und vier Abdeckgitter von einem Recyclinghof an der alten Kläranlage in Jagsthausen. Um auf das Gelände zu gelangen fuhren die Diebe vermutlich mit einem größeren Transporter oder Laster gegen das Eingangstor, wodurch dieses beschädigt wurde und sich öffnen ließ. Der Wert des Diebesgutes wird auf rund 15.000 Euro geschätzt. Zeugen, die verdächtige Wahrnehmungen gemacht haben, werden gebeten, sich mit der Möckmühler Polizei, Telefon 06298/92000 in Verbindung zu setzen.",
-		"type": "Metalldiebstahl",
-		"lat": 49.3100995,
-		"lon": 9.4676399
-	},
-	{
-		"date": "11/13/2013",
-		"description": " In der Zeit von Dienstag (17 Uhr) bis Mittwoch (12 Uhr) entwendeten unbekannte Täter in der Gaildorfer Straße rund 600 Kilo Buntmetallschrott. Darunter befand sich überwiegend Kupferschrott wie Industriekühler, Rohre, Rinnen und Autokühler. Der Gesamtwert des Altmetalls beträgt 2200 Euro.",
-		"type": "Metalldiebstahl",
-		"lat": 49.12817889999999,
-		"lon": 10.0535688
-	},
-	{
-		"date": "12/1/2013",
-		"description": "Bislang unbekannte Täter drangen im Zeitraum zwischen Samstag und Montag auf ein mit losen Absperrgittern umzäuntes Gelände im Wiesenweg ein und ließen etwa 100 Meter Starkstromkabel und 100 Meter dünneres Kabel mitgehen. Die Kabel klemmten sie zwischen den Verteilerkästen und Baumaschinen an den Steckern ab.  Hinweise nimmt der Polizeiposten Möglingen, Telefon 07141/481291, entgegen.",
-		"type": "Metalldiebstahl",
-		"lat": 48.89039409999999,
-		"lon": 9.127394599999999
-	},
-	{
-		"date": "11/25/2013",
-		"description": "Auf Kupfer abgesehen hatten es bislang unbekannte Diebe, die in der Zeit zwischen Freitag 10.00 Uhr und Montag 11.00 Uhr einen Neubau in der Gerhard-Rummler-Straße heimsuchten. Die Täter entwendeten von der frei zugänglichen Baustelle 20 Kabeltrommeln mit Kupferkabel im Wert etwa 3.600 Euro und einem Gesamtgewicht von 1.800 Kilogramm. Zum Abtransport des Diebesguts waren die Täter vermutlich mit einem Lkw ausgestattet. Hinweise nimmt der Polizeiposten Sachsenheim unter Tel. 07147/27406-0 entgegen.  ",
-		"type": "Metalldiebstahl",
-		"lat": 48.95126519999999,
-		"lon": 9.0486715
-	},
-	{
-		"date": "11/24/2013",
-		"description": "Vermutlich von Beginn an mit dem Ziel reiche Beute an Buntmetall zu ergattern, suchten Einbrecher in der Nacht von Mittwoch auf Donnerstag einen Firmenkomplex in der Ringstraße heim. Obwohl sie mehrere Versuche unternehmen mussten, um in das Gebäude zu gelangen, gaben die Täter nicht auf, bis sie schließlich über das Aufhebeln einer Wohnungseingangstür ins Innere vordringen konnten. Aus der Wohnung ließen sie etwa 2.000 Euro Bargeld und einen Flachbildfernseher mitgehen, bevor sie sich der mit der Wohnung verbundenen Montagehalle zuwandten und dort Elektrowerkzeug im Wert von mehreren Hundert Euro entwendeten. Als sie sich in die weiteren darüber liegenden Räumlichkeiten der Firma begaben, fielen ihnen auf ihrer Suche in Büroräumen nochmals 400 Euro Bargeld sowie eine Digitalkamera in die Hände. Zu guter Letzt entwendeten sie schließlich aus der Produktionshalle insgesamt etwa fünf Tonnen Kupfer im Wert von 50.000 Euro. Zum Transport vor Ort nutzten sie befindliche Hubwagen und Holzpaletten. Aufgrund der Gesamtumstände kann davon ausgegangen werden, dass die Einbrecher mit einem geeigneten Fahrzeug zum Abtransport der Beute an den Tatort gekommen waren. Zudem richteten sie einen Sachschaden in Höhe von etwa 4.000 Euro an. Zeugen werden gebeten, sich mit dem Polizeiposten Markgröningen, Tel. 07145/9327-0 oder dem Polizeirevier Vaihingen/Enz unter Tel. 07042/941-0 in Verbindung zu setzen.",
-		"type": "Metalldiebstahl",
-		"lat": 48.933925,
-		"lon": 9.0222868
-	},
-	{
-		"date": "12/17/2013",
-		"description": "Einen wörtlich genommen „schweren Diebstahl“ begingen bislang unbekannte Täter zwischen Montagnachmittag und Dienstagmittag in Leingarten. Über 200 Kilogramm wogen die 84 entwendeten Kupferschienen insgesamt, welche aus einer Umspannanlage in Großgartach von den Einbrechern getragen wurden. In die Anlage waren diese vermutlich über ein Loch im Maschendrahtzaun gelangt und stahlen das wertvolle Altmetall aus einem verschlossenen Container. Aufgrund des Gewichts des Diebesguts wird davon ausgegangen, dass die Täter mit einem Fahrzeug unterwegs waren. Für sachdienliche Hinweise wenden sich Zeugen an die Polizei in Schwaigern unter der Telefonnummer 07138 810630.",
-		"type": "Metalldiebstahl",
-		"lat": 49.1451573,
-		"lon": 9.1171933
-	},
-	{
-		"date": "1/14/2014",
-		"description": "Das Stromversorgungskabel eines Baukrans stach einem unbekannten Dieb in der Nacht von Montag auf Dienstag ins Auge, als er eine Baustelle in der Kornwestheimer Straße heimsuchte. Kurzerhand schnitt er das Kabel am Ende ab und nahm es mit. Der Wert des Kabels wurde mit etwa 500 Euro beziffert.",
-		"type": "Metalldiebstahl",
-		"lat": 48.8647494,
-		"lon": 9.2446593
-	},
-	{
-		"date": "1/14/2014",
-		"description": "Unbekannte verschafften sich im Zeitraum vom 03.01.14 bis 14.01.14 zutritt zum umzäunten Gelände des Bauhofs in der Daimlerstraße. Wie jetzt erst festgestellt wurde, entwendeten die Einbrecher circa 5 Tonnen Kupfererdkabel in einem Wert von 9000 Euro. Hinweise auf die Täter, welche zum Abtransport ein größeres Fahrzeug benutzt haben müssen, liegen nach derzeitigen Erkenntnissen nicht vor. Zeugen, welche im genannten Zeitraum im näheren Umfeld verdächtige Personen oder Fahrzeuge festgestellt haben, können sich bei der Polizei Schwäbisch Hall unter Telefon 0791/400-0 melden.",
-		"type": "Metalldiebstahl",
-		"lat": 49.1031844,
-		"lon": 9.7054114
-	},
-	{
-		"date": "1/22/2014",
-		"description": "In Bad Rappenau waren in den letzten Tagen Diebe aktiv. In der Zeit zwischen Dienstag- und Mittwochmorgen entwendeten sie in der Leharstraße sowie in der Johann-Strauß-Straße zwei jeweils etwa 20 Meter lange Stromkabel im Wert von etwa 800 Euro. Wer im Tatzeitraum in dem Neubaugebiet etwas Verdächtiges bemerkt hat, sollte sich bei der Polizei in Bad Rappenau, Telefon 07264 9590 0, melden.",
-		"type": "Metalldiebstahl",
-		"lat": 49.2463495,
-		"lon": 9.1026207
-	},
-	{
-		"date": "1/27/2014",
-		"description": "Auf Aluminiumplatten hatten es Unbekannte in der Nacht zum Montag in Mosbach abgesehen. Der oder die Täter waren in das umzäunte Gelände einer Recyclingfirma in der Mosbach Industriestraße eingestiegen und legten mehrere Platten, deren Gewicht jeweils etwa 15 Kilogramm beträgt, für den Abtransport beiseite. Letztendlich konnte bisher noch nicht genau nachvollzogen werden, ob und welche Mengen gestohlen wurden. Bereits in der Nacht vom 21. auf 22. Januar wurde die gleiche Firma von Einbrechern heimgesucht. In diesem Fall hatte es die Unbekannten auf mehrere Kabelrollen mit weißen, grauen und orangefarbenen Kupferkabeln abgesehen. Außerdem ließen die Diebe noch einige Messingröhren und gekantete Messingbleche mitgehen. Der Gesamtwert des Diebesgutes beläuft sich auf rund 1.000 Euro. Sachdienliche Hinweise nimmt die Polizei Mosbach unter der Tel.Nr.: 06261 8090 entgegen.",
-		"type": "Metalldiebstahl",
-		"lat": 49.3435111,
-		"lon": 9.1240168
-	},
-	{
-		"date": "1/26/2014",
-		"description": "Von einem aufmerksamen Zeugen wurde am Sonntag gegen 10:40 Uhr ein 73-Jähriger beobachtet, der in einem abgesperrten Baustellengelände in der Bietigheimer Straße zugange war. Da er mehrere Kupferkabel mit Säge und Zange abschnitt und die etwa einen Meter langen Kabelteile in einer mitgebrachten Kunststofftasche verstaute, die er auf sein Fahrrad packte, informierte der Zeuge die Polizei. Als die Beamten ihn ansprachen zeigte er sich völlig überrascht und gab die Tasche gleich wieder heraus. An seiner Wohnanschrift stießen die Polizisten auf weitere Taschen, die Kupfer im Wert von etwa 1.500 Euro enthielten. Die Ermittlungen dauern an.",
-		"type": "Metalldiebstahl",
-		"lat": 48.9009592,
-		"lon": 9.1908613
-	},
-	{
-		"date": "2/1/2014",
-		"description": "Mehrere tausend Euro dürfte der Wert der Metalteile betragen, welche von bislang unbekannten Dieben am Samstag, in der Zeit von 20.30 Uhr bis 22.00 Uhr, von dem Gelände einer Firma in Kupferzell-Neu-Kupfer, in der Straße \"Flurweg\" gestohlen wurden. Die Täter hatten dort etwa 10 Kilogramm Alu-Reststücke, zirka 0,8 Tonnen Edelstahlrestgitter und Edelstahlzuschnitte mit einem Gewicht von rund 1,7 Tonnen entwendet. Vermutlich wurde zum Abtransport ein weißer Kleintransporter, möglicherweise ein Mercedes-Sprinter oder ein Fiat-Ducato verwendet. Sachdienliche Hinweise zu den Täter oder dem Verbleib des tonnenschweren Metalls nimmt die Polizei Künzelsau unter der Tel.Nr.: 07940 940-0 entgegen.",
-		"type": "Metalldiebstahl",
-		"lat": 49.0808636,
-		"lon": 9.0703137
-	},
-	{
-		"date": "12/7/2013",
-		"description": "Drei Lkw, welche auf dem Firmengelände einer Speditionsfirma in der Heilbronner Schönbeinstraße standen, wurden durch Unbekannte aufgebrochen. Die Täter brachen die Schlösser der Türen auf und gelangten so in das Innere der Fahrerkabine, aus der sie Bargeld und Elektronilartikel stahlen. Die Tat hat sich vermutlich bereits in der Nacht von Freitag auf Samstag ereignet. Über die Höhe des entstandenen Sachschadens können bislang keine Angaben gemacht werden. Sachdienliche Hinweise nimmt die Polizei Heilbronn unter Tel.Nr.: 07131/1042500 entgegen.",
-		"type": "Autoaufbruch",
-		"lat": 49.1697916,
-		"lon": 9.221636
-	},
-	{
-		"date": "12/7/2013",
-		"description": "Am Samstag, 07.12.2013, zwischen Mitternacht und 04.00 Uhr, wurden im Stadtbereich Heilbronn 4 Autos aufgebrochen. In der Lichtenbergerstraße schlug der Täter an 2 Pkw Seitenscheiben ein und ließ aus dem Fahrzeuginnern Taschen, ein Handy und eine Geldbörse mitgehen. In der Charlottenstraße wurden in der Nähe einer Disco ebenfalls 2 Autos aufgebrochen. Nach dem Einschlagen einer Seitenscheibe und dem Aufwuchten einer Türe konnte der Täter lediglich eine Schminktasche finden. An allen 4 Autos wurde erheblicher Sachschaden hinterlassen. Hinweise werden an das Polizeirevier Heilbronn, Telefon 07131 1042500, erbeten.",
-		"type": "Autoaufbruch",
-		"lat": 49.1748981,
-		"lon": 9.209971399999999
-	},
-	{
-		"date": "12/3/2013",
-		"description": "  Von zwei Seat-Neuwagen, die auf dem Gelände eines Autohauses in der Schwabbacher Maybachstraße ausgestellt waren, entwendeten Unbekannte in der Nacht zum Dienstag acht 16-Zoll Alu-Räder mit Sommerreifen 205/55R16 im Wert von 2.000 Euro. Zeugen, die etwas Verdächtiges beobachtet haben, sollten sich unter Tel. 07946/940010 beim Polizeiposten Bretzfeld melden.",
-		"type": "Autoaufbruch",
-		"lat": 49.1848637,
-		"lon": 9.4114474
-	},
-	{
-		"date": "11/23/2013",
-		"description": "  Vier Winterkompletträder entwendete ein Unbekannter aus einem Audi, der auf einem Firmengelände in der Gebhardtstraße abgestellt war, in der Nacht zum Samstag. Die Räder der Marke Dunlop 225/50 R18 waren in den unverschlossenen PKW gelagert. Offenbar entdeckte dies ein Dieb und nutzte die Gelegenheit. Sachdienliche Hinweise nimmt das Polizeirevier in Öhringen unter Tel. 07941/9300 entgegen.",
-		"type": "Autoaufbruch",
-		"lat": 49.1982392,
-		"lon": 9.6567477
-	},
-	{
-		"date": "11/23/2013",
-		"description": "  Ein bislang unbekannter Täter entwendete am Samstag gegen 11.40 Uhr von einem Firmengelände in der Straße Steinsfeldle in Öhringen einen weißen Mercedes-Sprinter. Der Unbekannte, der gegenüber dem Firmeninhaber zunächst Interesse an dem zum Verkauf stehenden Transporter bekundete, nutzte dessen kurzzeitige Abwesenheit aus und flüchtete mit dem Fahrzeug im Wert von über 15000 Euro vom Hof des Händlers. An dem Sprinter waren zur Tatzeit die roten Kennzeichen KÜN-06055 angebracht. Die sofort eingeleitete Fahndung der Öhringer Polizei blieb bislang ohne Erfolg.",
-		"type": "Autoaufbruch",
-		"lat": 49.18864869999999,
-		"lon": 9.495760599999999
-	},
-	{
-		"date": "11/19/2013",
-		"description": "  Ein komplettes Zaunelement montierten Einbrecher in der Nacht zum Dienstag ab, um auf das Gelände einer Firma für Agrargeräte in der Schwabbacher Moosbachstraße zu gelangen. Anschließend klauten sie aus einem neuen Traktor die Batterie. Aus zwei Transportern wurden verschiedene Werkzeugmaschinen und Werkzeuge im Gesamtwert von rund 5.000 Euro entwendet. Zeugen, die in der Tatnacht etwas Verdächtiges beobachtet haben, sollten sich unter Tel. 07946/940010 beim Polizeiposten Bretzfeld melden.",
-		"type": "Autoaufbruch",
-		"lat": 49.1834034,
-		"lon": 9.4110608
-	},
-	{
-		"date": "11/13/2013",
-		"description": "  Auf laute Geräusche wurden Anwohner in der Gaisbacher Nelkenstraße am Mittwoch um 4 Uhr aufmerksam. Als sie nach draußen schauten, entdeckten sie zwei Personen, die sich gerade an einem vor dem Wohnhauses abgestellten Mercedes zu schaffen machten. Sie alarmierten sofort die Polizei. Beim Eintreffen der Ordnungshüter hatten die Täter bereits das Weite gesucht. Die Unbekannten hatten die beiden Türen auf der Beifahrerseite des PKW gewaltsam geöffnet und einen  darin abgelegten Geldbeutel, in dem sich etwa 100 Euro, Ausweispapiere und Bankkarten des Geschädigten befanden, entwendet. Damit nicht genug. Dieselben Täter hatten auch noch einen schwarzen Roller im Asternweg geklaut, diesen in Richtung Grundschule geschoben und dort liegen gelassen. Dabei wurde die Frontverkleidung beschädigt. Die Täter durchwühlten das Sitzfach und warfen ein T-Shirt sowie eine Handytasche auf den Boden. Nach derzeitigen Erkenntnissen dürfte sich ein Täter eine blutende Verletzung zugezogen haben. Sachdienliche Hinweise nimmt das Polizeirevier Künzelsau unter Tel. 07940/9400 entgegen.",
-		"type": "Autoaufbruch",
-		"lat": 49.2603662,
-		"lon": 9.688882099999999
-	},
-	{
-		"date": "11/24/2013",
-		"description": "Obwohl die Polizei immer wieder betont keine Wertsachen im Auto zurückzulassen werden immer wieder Fahrzeuge genau aus diesem Grund aufgebrochen.\nSo auch in der Nacht von Samstag, 23.11.2013 auf Sonntag 24.11.2013.\nBisher bekannte Tatorte waren in Heilbronn in der Charlottenstraße und  Viehweide und in Leingarten in der Benzstraße.\nUnbekannte Täter zerbrachen auf bisher nicht bekannte Weise die Seitenscheiben der jeweiligen Pkw.\nZiel waren im Beifahrerbereich abgelegte Handtaschen oder Taschen in denen Wertgegenstände vermutet wurden.\nDie Taschen samt Inhalt nahmen die Täter mit.\nWie hoch der Sachschaden ist oder was genau entwendet wurde ist noch nicht bekannt.",
-		"type": "Autoaufbruch",
-		"lat": 50.9046264,
-		"lon": 7.032867599999999
-	},
-	{
-		"date": "11/21/2013",
-		"description": "Zwei Audis stahlen Unbekannte in der Nacht zum Donnerstag in Erlenbach. In der Trollingerstraße stand der Geschäftswagen eines 46-Jährigen auf einem Autoabstellplatz vor dem Gebäude 36. Als dieser morgens kurz nach 5 Uhr wegfahren wollte, stellte er fest, dass der schwarze Audi A 4 Avant nicht mehr da stand. Das Fahrzeug ist rund 45.000 Euro wert und hat das Kennzeichen NE BU 1966. In der Viertelsteige verschwand ein graue Audi A 5, der vor der Garageneinfahrt des Gebäudes Nummer 47 geparkt war. Dieses Auto eines 27-Jährigen hat das Kennzeichen HN MJ 3112. Der Wert des Wagens wird auf 37.000 Euro geschätzt. Die Polizei geht davon aus, dass ein Zusammenhang zwischen den Taten besteht. Zeugen, die in der Trollingerstraße oder der Viertelsteige verdächtige Beobachtungen gemacht haben oder etwas über den Verbleib der beiden Audis wissen, werden gebeten, sich mit der Kriminalpolizei Heilbronn, Telefon 07131 104-4444, in Verbindung zu setzen. Da sich abzeichnet, dass im laufenden Jahr mit jetzt schon über 40 gestohlenen PKW im Unterland ein Höchstwert angesteuert wird (zum Vergleich: 2012 waren es 26), bittet die Polizei die Bevölkerung um Mitarbeit. Verdächtige Personen und sollten umgehend an die nächste Polizeidienststelle gemeldet werden. Die Kennzeichen von verdächtigen Fahrzeugen sollte man notieren und ebenfalls sofort an die Polizei weitergeben.",
-		"type": "Autoaufbruch",
-		"lat": 49.1770387,
-		"lon": 9.2671934
-	},
-	{
-		"date": "11/17/2013",
-		"description": "16 zum Teil neuwertige und auf Felgen montierte Reifen stahlen Unbekannte in der Nacht zum Sonntag in Bad Friedrichshall-Kochendorf. Die Diebe überstiegen einen Maschendrahtzaun, um auf das Gelände der Kfz.-Service-Firma in der Seelachstraße zu gelangen. Wahrscheinlich hoben sie die Reifen über den Zaun und verluden sie dort in ein Fahrzeug oder auf einen Anhänger. Falls es Zeugen gibt, die diese Aktion gesehen haben, aber sie eventuell nicht mit einer Straftat in Verbindung brachten, mögen sich diese beim Polizeiposten Bad Friedrichshall, Telefon 07136 98030, melden.",
-		"type": "Autoaufbruch",
-		"lat": 49.2360888,
-		"lon": 9.2189563
-	},
-	{
-		"date": "11/16/2013",
-		"description": "Im Laufe der Nacht von Freitag, 15.11.2013 auf Samstag, 16.11.2013,  wurden in Heilbronn bisher 3 aufgebrochene Fahrzeuge bekannt. In der Lichtenberger Straße wurde an einem geparkten Pkw die Scheibe der Beifahrertüre eingeworfen, aus dem Innenraum dann eine Handtasche mit Geldbeutel und diversen Ausweiskarten gestohlen. Bei einem VW UP, der in der Charlottenstraße geparkt war, wurde die hintere rechte Seitenscheibe eingeschlagen und eine Lederjacke daraus entwendet. Ein weiterer aufgebrochener Pkw, VW Polo, wurde durch seinen Besitzer in der Ferdinand-Braun-Straße entdeckt. Auch hier war die hintere Seitenscheibe eingeschlagen und aus dem Fahrzeuginnern eine Handtasche entwendet worden. Der Schaden des Diebesgutes und der angerichtete Sachschaden belaufen sich bei den 3 Fällen auf mehrere hundert Euro.",
-		"type": "Autoaufbruch",
-		"lat": 49.1748981,
-		"lon": 9.209971399999999
-	},
-	{
-		"date": "11/13/2013",
-		"description": "Rund 30 Einzelgaragen befinden sich in einer Tiefgarage in der Heilbronn-Sontheimer Stockportstraße beim Gebäude 44. In einer davon hatte ein 41-Jähriger seinen 24 Jahre alten Porsche abgestellt. Auf diesen hatten es Diebe abgesehen. Die Unbekannten öffneten in der Zeit zwischen Dienstagnachmittag und Donnerstagmorgen gewaltsam das Tor der Einzelgarage und transportierten den Wagen auf eine unbekannte Weise ab. Der Wagen, der aufgrund diverser Zubehörteile als Sammlerstück gilt, hat einen Wert von über 40.000 Euro. Es handelt sich um einen Porsche Carrera 911-Cabrio. Sowohl die Karosserie als auch das Stoffverdeck sind dunkelblau. Das im Jahr 1988 erstmals zugelassene Fahrzeug hat weiße Ledersitze und einen Heckflügel. Das Kennzeichen lautet HN E 6319. Da die Ausfahrt der Tiefgarage nur 2,20 Meter hoch ist, konnten die Diebe sicherlich nicht mit einem größeren Transporter anfahren. Die Ausfahrt ist ansteigend, so dass der Porsche wohl auch nicht hinaus geschoben werdenkonnte. Deshalb hofft die Polizei, dass andere Garagenbenutzer die Verladeaktion beobachtet haben, sie aber nicht mit einer Straftat in Verbindung brachten. Diese und Zeugen, die Hinweise auf den Verbleib des Fahrzeugs geben können, werden gebeten, sich mit der Kriminalpolizei Heilbronn, Telefon 07131 104-4444, in Verbindung zu setzen.",
-		"type": "Autoaufbruch",
-		"lat": 49.1191037,
-		"lon": 9.2082876
-	},
-	{
-		"date": "11/14/2013",
-		"description": "Bislang neun Anzeigen wurden am Morgen bei der Untergruppenbacher Polizei erstattet, bei denen Unbekannte in der Nacht zum Donnerstag an mehreren Cabrios die Verdecke aufgeschnitten und aus diesen teilweise Gegenstände entwendet hatten. Die bislang unbekannten Täter gelangten auf noch nicht bekannte Art in die Tiefgaragen verschiedener Mehrfamilienhäuser in der  Sontheimer Straße und Talheimer Straße, der Schillerstraße sowie  in den Hofwiesen und schnitten dort die Verdecke auf. Aus manchen Fahrzeugen wurden Gegenstände, die teilweise nur minimalen Wert haben, entwendet. Aus anderen Pkw nahmen die Langfinger nichts mit. Der Sachschaden beläuft sich nach Schätzungen der Polizei auf etwa 15.000 Euro. Möglicherweise besteht ein Tatzusammenhang mit ähnlichen Vorfällen, die sich in den vergangenen Nächten in Heilbronn zugetragen haben. Personen, die verdächtige Wahrnehmungen gemacht haben werden gebeten, sich mit der Polizei in Untergruppenbach unter 07131/64463-0, in Verbindung zu setzen.",
-		"type": "Autoaufbruch",
-		"lat": 49.10550540000001,
-		"lon": 9.2055014
-	},
-	{
-		"date": "11/12/2013",
-		"description": "In Eppingen-Kleingartach parkte eine 55-Jährige ihren Toyota am Montagabend in der Entengasse. Als sie am Dienstagmorgen zurückkam war die Scheibe der Fahrertüre eingeschlagen. Aus dem Wagen stahlen die Automarder ein mobiles Navigationsgerät. In derselben Nacht montierten Unbekannte an einem in der Großen Hohle in Schluchtern stehenden BMW die roten Kennzeichen ab.",
-		"type": "Autoaufbruch",
-		"lat": 49.0990668,
-		"lon": 8.9734436
-	},
-	{
-		"date": "",
-		"description": "In Heilbronn waren wie schon am Wochenende auch in den Nächten zum Montag und zum Dienstag die Autoaufbrecher unterwegs, die sich offensichtlich auf Tiefgaragen „spezialisiert“ haben. In der Gartenstraße waren sie am frühen Montagmorgen, kurz nach 3 Uhr, gerade dabei das Rolltor einer Tiefgarage aufzuhebeln, als ein Hausbewohner zufällig vorbei kam. Die Unbekannten flüchteten unerkannt. In der Max-Planck-Straße gelang der Einbruch in eine Tiefgarage in der Nacht zum Dienstag. Dort schlitzten die Langfinger an zwei Cabrios das Verdeck auf. Es gelang ihnen jedoch nur bei einem der Fahrzeuge, ins Innere zu kommen. Dort fanden sie immerhin zwei Euro Bargeld. Der angerichtete Sachschaden liegt weit im vierstelligen Bereich. In einer anderen Tiefgarage in derselben Straße schnitten sie das Faltdach eines VW Golf-Cabrio auf. Entwendet wurde nichts. Auch in der Agnese-Schebest-Straße waren zwei Cabrios das Ziel der Aufschlitzer, nachdem sie das Tor der Tiefgarage aufgebrochen hatten. Am Jörg-Rathgeb-Platz kam ein Renault Twingo-Cabrio unter das Messer der Unbekannten. Auch hier entstand ein hoher Schaden, gestohlen wurde nichts.\n\nDie Kriminalpolizei geht davon aus, dass die Täter weiterhin unterwegs sein werden und bittet die Anwohner von Tiefgaragen, wachsam zu sein und verdächtige Personen oder Fahrzeuge umgehend der nächsten Polizeidienststelle, auch über den Notruf 110, zu melden.",
-		"type": "Autoaufbruch",
-		"lat": 49.1461768,
-		"lon": 9.2253926
-	},
-	{
-		"date": "",
-		"description": "",
-		"type": "Autoaufbruch",
-		"lat": 33.731815,
-		"lon": -84.962676
-	},
-	{
-		"date": "",
-		"description": "",
-		"type": "Autoaufbruch",
-		"lat": 33.731815,
-		"lon": -84.962676
-	},
-	{
-		"date": "11/10/2013",
-		"description": "Zu zahlreichen aufgebrochenen Fahrzeugen wurde die Unterländer Polizei am vergangenen Wochenende gerufen. In Heilbronn stellte eine 54-Jährige ihren PKW um 18 Uhr in der Theresienstraße ab. Als sie um 22:30 Uhr zurückkehrte war die Scheibe der Beifahrertüre eingeschlagen und die im Fahrzeug zurückgelassene Handtasche samt Inhalt fehlte. In der Haller Straße schlitzten Diebe an vier Cabrios das Verdeck auf, um in die Fahrzeug zu gelangen. Der Wert der Beute liegt weit unter dem angerichteten Schaden, der mit mehreren Tausend Euro beziffert wurde. ",
-		"type": "Autoaufbruch",
-		"lat": 49.137423,
-		"lon": 9.2042527
-	},
-	{
-		"date": "11/10/2013",
-		"description": "Zu zahlreichen aufgebrochenen Fahrzeugen wurde die Unterländer Polizei am vergangenen Wochenende gerufen. Auch in einer Tiefgarage in der Heilbronner Rauchstraße hatten es die Langfinger auf Cabrios abgesehen. An einem Mazda schlitzten sie das Verdeck auf, an einem Fiat reichte ihnen ein nicht vollständig geschlossenes Fenster. In das Verdeck eines Porsches wurde eingestochen, eindringen ins Innere des Wagens konnten die Täter jedoch nicht.\n\n",
-		"type": "Autoaufbruch",
-		"lat": 49.153077,
-		"lon": 9.2280265
-	},
-	{
-		"date": "11/10/2013",
-		"description": "In Güglingen brachten Unbekannte an einem in der Tannenstraße stehenden VW-Bus mit einem Werkzeug eine Fensterscheibe zum Bersten. Aus dem Handschuhfach ließen sie ein Navigationsgerät mitgehen.",
-		"type": "Autoaufbruch",
-		"lat": 49.0499942,
-		"lon": 8.9988525
-	},
-	{
-		"date": "11/10/2013",
-		"description": " In Möckmühl brachen Täter einen Mercedes auf, der im Parkhaus in der Unteren Gasse abgestellt war. Auch aus diesem Auto wurde ein Navigationsgerät gestohlen. Außerdem rissen die Diebe den Mercedesstern ab, schlugen den Scheinwerfer ein und traten Dellen in den Kotflügel sowie die Fahrertüre.\n",
-		"type": "Autoaufbruch",
-		"lat": 49.32261399999999,
-		"lon": 9.36024
-	},
-	{
-		"date": "11/10/2013",
-		"description": "In der Bad Rappenauer Kärlegartenstraße schlugen Unbekannte mit einem Stein die Scheibe eines VW Golf ein. Aus einer Geldbörse, die auf dem Beifahrersitz vergessen worden war, nahmen sie das Bargeld heraus und legten den Geldbeutel wieder auf den Sitz.",
-		"type": "Autoaufbruch",
-		"lat": 49.2123705,
-		"lon": 9.0993943
-	},
-	{
-		"date": "11/7/2013",
-		"description": "In mindestens acht PKW drang ein Unbekannter in der Nacht zum Donnerstag in Untereisesheim ein. Wie schon in Bad Friedrichshall und Oedheim fiel auch in diesen Fällen auf, dass der Täter nur wenig Schaden anrichtete. Ob er sich Fahrzeuge aussucht, die nicht verschlossen sind oder ob er eine besondere Art des Öffnens beherrscht, ist bislang unklar. Falls es sich um denselben Unbekannten handelt wie in den anderen Orten, gehen inzwischen fast 40 PKW-Aufbrüche auf sein Konto. Interessant für die Polizei ist die Tatsache, dass der Täter immer wieder teure Gegenstände oder sogar Bargeld in den Fahrzeugen findet. Die Kriminalpolizei Heilbronn schließt nicht aus, dass der Aufbrecher sein „Tätigkeitsgebiet“ ausweitet und auch in weiteren Orten sein Unwesen treiben könnte. Zur Ermittlung des Langfingers ist die Mitarbeit der Bevölkerung ungemein wichtig. Falls irgendwo Personen gesehen werden, die offensichtlich etwas ausspähen oder nachts verdächtige Unbekannte und Fahrzeuge in ihrem Wohnbereich auffallen, wird gebeten, sich Kennzeichen zu notieren und unverzüglich die nächste Polizeidienststelle, auch über den Notruf 110, zu verständigen. Wer konkrete Hinweise zu einem der aktuellen PKW-Aufbrüche geben kann, möge sich mit der Kripo Heilbronn, Telefon 07131 104-4444, in Verbindung zu setzen.",
-		"type": "Autoaufbruch",
-		"lat": 49.2096952,
-		"lon": 9.200001499999999
-	},
-	{
-		"date": "11/7/2013",
-		"description": "Auf PKW der Marke BMW hatten es Unbekannte in der Nacht zum Donnerstag in der Abstatter Schozachstraße abgesehen. Sie stahlen einen 3er BMW im Wert von 25.000 Euro. In der Roßschinderstraße war am Morgen des Donnerstags ein auf einem Privatparkplatz abgestellter 1er verschwunden. Der 3er konnte noch am Donnerstag in Polen geortet werden. Als die dortige Polizei an dem durchgegebenen Ort eintraf, fanden die Beamten jedoch nicht dieses Fahrzeug, sondern den 1er BMW. Der größere Wagen blieb verschwunden.\n\nIm Zusammenhang mit anderen PKW-Diebstählen, die insbesondere die Marken BMW und Audi betrafen, ergaben die Ermittlungen der Kriminalpolizei Heilbronn, dass Zeugen vor dem Entwenden eines Audi RS4 in Neuenstadt einen am späteren Tatort langsam vorbei fahrenden schwarzen Audi Avant mit einem polnischen Kennzeichen gesehen hatte. Die beiden Insassen hatten sich den später gestohlenen Wagen offenbar genau angesehen. An der gleichen Stelle wurde kurze Zeit später ein dunkler Mercedes E-Klasse gesehen. Auch die beiden Insassen dieses Autos schauten sich das Fahrzeug an.\n\nDie Kriminalpolizei schließt nicht aus, dass die Täter stets auf dieselbe Weise vorgehen und bittet deshalb Zeugen, die ein verdächtiges Fahrzeug sehen, das Kennzeichen aufzuschreiben und umgehend die Polizei zu verständigen.",
-		"type": "Autoaufbruch",
-		"lat": 49.0673288,
-		"lon": 9.2959893
-	},
-	{
-		"date": "11/3/2013",
-		"description": "PKW-Aufbrecher waren in der Nacht zum Sonntag in Beilstein unterwegs. An mindestens sechs geparkten PKW schlugen die Unbekannten die Scheiben ein oder wuchteten die Türen auf, um ins Innere zu gelangen. Die Täter erbeuteten verschiedene Gegenstände aus den Fahrzeugen, der entstandene Sachschaden wird von der Polizei auf rund 6.000 Euro geschätzt. Hinweise auf die Automarder haben die Ermittler keine.",
-		"type": "Autoaufbruch"
-	},
-	{
-		"date": "11/3/2013",
-		"description": "Einen lauten Schlag hörte der Besitzer eines PKW am Sonntagnachmittag, kurz nach 15 Uhr, im Bad Friedrichshaller Resedenweg. Als er aus dem Fenster schaute, sah er zwei junge Männer wegrennen. Die beiden Unbekannten hatten offensichtlich mit einem Stein beide Scheiben am Fahrzeug des Kochendorfers eingeschlagen und eine im Innern liegende Handtasche gestohlen. Einer des Duos wird auf 25 Jahre geschätzt, ist etwa 1,90 Meter groß und soll auffallend schlank sein. Sein Komplize ist unter 20 Jahre alt und nur 1,60 bis 1,65 Meter groß. Er hat eine normale Statur, ist eventuell Südländer, hat ein rundes Gesicht und zur Tatzeit einen leichten Bartwuchs. Ob diese Tat im Zusammenhang steht mit inzwischen über 30 PKW-Aufbrüchen in Bad Friedrichshall in den vergangenen Wochen, ist unklar. Zeugen werden gebeten, sich mit der Kriminalpolizei Heilbronn, Telefon 07131 104-4444, in Verbindung zu setzen.",
-		"type": "Autoaufbruch",
-		"lat": 49.2318917,
-		"lon": 9.2188362
-	},
-	{
-		"date": "11/3/2013",
-		"description": "In der Nacht von Samstag, 02.11.2013 auf Sonntag, 03.11.2013, wurden in der Stadt Beilstein mehrere Fahrzeuge Angriffspunkt von Beschädigungen und Diebstählen aus den Pkw. An einem Pkw waren mutwillig zwei Reifen zerstochen worden, an einem weiteren ein Kennzeichen mitgenommen. An bisher mindestens 5 bekannt gewordenen Fahrzeugen im Bereich der Hauptstraße, Schmidhausener Straße und Gartenstraße wurden die Scheiben eingeschlagen. Teilweise wurde ein weniges an Bargeld oder auch ein Navigationsgerät aus dem Pkw entwendet. Die Höhe des Gesamtschadens lässt sich noch nicht genau beziffern. Anwohner oder Passanten, die in der Nacht etwas Verdächtiges wahrgenommen haben, werden gebeten sich Telefonisch mit dem Polizeirevier Weinsberg, 07134/9920, in Verbindung zu setzen.",
-		"type": "Autoaufbruch",
-		"lat": 49.0404215,
-		"lon": 9.3145627
-	},
-	{
-		"date": "12/10/2013",
-		"description": " Diebe suchten in der Nacht zum Dienstag zwei Autohäuser in der Willy-Brandt-Straße und in der Ludwig-Erhard-Straße heim. Sie bockten insgesamt sieben Autos auf und setzten sie dann auf Steinen ab. Jetzt fehlen 28 Kompletträder im Wert von rund 20 000 Euro. Wer in der Nacht zum Dienstag im Bereich der beiden Tatorte verdächtige Personen oder Fahrzeuge beobachtet hat, möchte sich bitte bei der Polizei in Crailsheim (Telefon 07951 / 4800) melden.   ",
-		"type": "Autoaufbruch",
-		"lat": 49.1377661,
-		"lon": 10.0353966
-	},
-	{
-		"date": "12/8/2013",
-		"description": "Im Hallweg in Sulzdorf warf am Donnerstag ein Unbekannter eine Seitenscheibe eines abgestellten Seat ein. Der Autoknacker nahm eine Handtasche mit Bargeld und verschiedenen Papieren mit. Die Tat wurde in der Zeit zwischen 10 Uhr und 11.30 Uhr verübt.",
-		"type": "Autoaufbruch",
-		"lat": 49.10632409999999,
-		"lon": 9.835554900000002
-	},
-	{
-		"date": "11/27/2013",
-		"description": " Auf dem Parkplatz der Großsporthalle in der Gartenstraße schlug am Mittwoch in der Zeit zwischen 16 Uhr und 18 Uhr ein Unbekannter an einem Mercedes eine Seitenscheibe ein. Der Täter griff in das Fahrzeuginnere und entwendete aus der Türablage einen Geldbeutel. Dem Autoknacker fielen Bargeld, Ausweise, eine EC- und eine Kreditkarte in die Hände. Der entstandene Sachschaden beläuft sich auf 550 Euro. Der Polizeiposten Ilshofen, Telefon 07904/940030, suchte Zeugen. Zur Tatzeit fand in der Großsporthalle ein Training statt.",
-		"type": "Autoaufbruch",
-		"lat": 49.1687781,
-		"lon": 9.9173884
-	},
-	{
-		"date": "12/1/2013",
-		"description": "Aus einem auf einer Baustelle in der Zeppelinstraße abgestellten Baustellenbagger zapfte ein bislang unbekannter Täter über das Wochenende 200 Liter Dieseltreibstoff im Wert von etwa 270 Euro ab. Den verschlossenen Tankdeckel hebelte der Dieb kurzerhand auf und bediente sich. Am Bagger enstand ein Sachschaden in Höhe von etwa 50 Euro. Hinweise nimmt der Polizeiposten Asperg, Telefon 07141/62033, entgegen.",
-		"type": "Autoaufbruch",
-		"lat": 48.89958379999999,
-		"lon": 9.156290499999999
-	},
-	{
-		"date": "11/27/2013",
-		"description": "Mutmaßlich Bekleidung stand im Interesse eines unbekannten Diebes, der am Mittwoch in der Zeit zwischen 17.00 Uhr und 18.00 Uhr einen Daimler-Benz aufbrach, der auf dem Wanderparkplatz der Mundelsheimer Straße stand. Um in das Fahrzeuginnere zu gelangen, warf der Täter die hintere rechte Scheibe ein und entwendete Kleidung und Accessoires im Wert von etwa 200 Euro. Der entstandene Sachschaden wurde mit ungefähr 200 Euro angegeben. Zeugen des Vorfalls werden gebeten sich beim Polizeirevier Marbach am Neckar, Tel. 07144/900-0 zu melden.",
-		"type": "Autoaufbruch",
-		"lat": 48.9412555,
-		"lon": 9.2055317
-	},
-	{
-		"date": "12/21/2013",
-		"description": "Nachdem am Sonntagmorgen ein mit Backwaren beladener Pkw in Heilbronn gestohlen worden war, wurde von der Geschäftsleitung eines Brötchen-bring-Dienstes eine Belohnung in Höhe von 500 Euro ausgesetzt, die zur Ermittlung oder Ergreifung der Täter führen. Gegen 5 Uhr war der dunkelblaue Fiat Cinquecento im Hofraum einer Bäckerei in der Salzstraße geparkt. Angestellte der Bäckerei waren gerade dabei, das Fahrzeug zu beladen, als ihnen zwei junge Frauen auffielen, die im Bereich einer nahegelegenen Diskothek standen. Die beiden nutzten offensichtlich einen Moment aus, in dem die Angestellten weitere Waren aus der Bäckerei holten, stiegen in den Fiat ein und fuhren in Richtung Goppeltstraße davon. Der Fahrzeugschlüssel steckte zu diesem Zeitpunkt. Bislang fehlt noch jede Spur von dem Cinquecento mit Kennzeichen HN-CV 247. Zeugen werden gebeten, sich bei der Heilbronner Polizei unter Telefon 07131/104-2500 zu melden.",
-		"type": "Autoaufbruch",
-		"lat": 49.1610418,
-		"lon": 9.2151914
-	},
-	{
-		"date": "12/19/2013",
-		"description": "  Unbekannte Spritdiebe machten sich am Donnerstag zwischen 17 und 23.30 Uhr beim Lidl-Zentrallager in der Max-Eyth-Straße an den Tanks von zwei dort abgestellten Sattelzügen zu schaffen. Die Täter schläuchelten etwa 750 Liter Diesel ab und verschwanden mit ihrer Beute. Sachdienliche Hinweise nimmt das Polizeirevier Öhringen unter Tel. 07941/9300 entgegen.",
-		"type": "Autoaufbruch",
-		"lat": 49.1962504,
-		"lon": 9.6662774
-	},
-	{
-		"date": "12/25/2013",
-		"description": "  Im Zeitraum zwischen Dienstag und Mittwoch wurden in Waldenburg-Tommelhardt einem 23-jährigen Mann vier Lautsprecherboxen aus dem unverschlossenen Auto entwendet. Vorausgegangen war dem Diebstahl die Trennung von seiner Freundin, die tags zuvor mit Freunden aus dem genannten Fahrzeug, in Abwesenheit des Besitzers, persönliche Gegenstände abholte. Bei einem ihrer Begleiter konnte schließlich auch eine der Boxen aufgefunden werden. Der Verbleib der drei anderen Lautsprecher ist nicht bekannt. Die Polizei Öhringen ermittelt.",
-		"type": "Autoaufbruch"
-	},
-	{
-		"date": "12/19/2013",
-		"description": "Auf professionelle Art und Weise gingen bislang unbekannte Täter vor, die in der Nacht von Mittwoch 19:00 Uhr auf Donnerstag 05:30 Uhr mehrere Fahrzeuge heimsuchten, indem sie sich durch Einschlagen des hinteren Dreiecksfensters Zutritt in das jeweilige Wageninnere verschafften. Bei einem in der Esslinger Straße geparkten BMW hebelten sie anschließend gewaltsam das Armaturenbrett auf und entwendeten das eingebaute Navigationsgerät im Wert von ungefähr 4.000 Euro. Zudem ließen sie ein iPhone und eine Geldbörse aus dem Innenraum mitgehen, die mehrere Hundert Euro Bargeld sowie Scheckkarten und Ausweise enthielt. Der Wagen wurde durch die Tat so schwer beschädigt, dass er nicht mehr fahrbereit war und abgeschleppt werden musste. Die Höhe des entstandenen Schadens konnte noch nicht beziffert werden.\nDarüber hinaus brachen sie einen in der gleichen Straße parkenden weiteren BMW auf die gleiche Art und Weise auf, wobei sie aus diesem Fahrzeug vermutlich nichts entwendeten. Über den entstandenen Sachschaden liegen bislang keine Erkenntnisse vor. Weshalb die Täter von ihrem Vorhaben an diesem Wagen abließen, ist nicht bekannt.\nAußerdem gelangten sie in der Zeit zwischen Mittwoch 21:00 Uhr und Donnerstag 07:45 Uhr ebenfalls durch den Aufbruch des Dreiecksfensters in den Fahrzeuginnenraum eines Mercedes-Benz, der auf einem Abstellplatz in der Reutlinger Straße parkte. Sie bauten den vollständigen Bordcomputer im Wert von über 5.000 Euro aus und entwendeten diesen, indem sie das Armaturenbrett in mehrere Teile zerlegten. Zudem bemächtigten sie sich eines Geldbeutels, der in der Mittelkonsole lag und einen geringen Bargeldbetrag enthielt. Der entstandene Sachschaden am Fahrzeug wurde mit etwa 2.000 Euro angegeben.\nDer Polizeiposten Tamm bittet Zeugen sich unter Tel. 07141/601014 zu melden oder das Polizeirevier Kornwestheim unter Tel. 07154/1313-0 zu verständigen.",
-		"type": "Autoaufbruch",
-		"lat": 48.9268411,
-		"lon": 9.1377917
-	},
-	{
-		"date": "12/19/2013",
-		"description": "Indem er eine Dreiecksscheibe auf der Fahrerseite eines Opel Omega einschlug, gelangte ein unbekannter Täter in der Zeit zwischen Dienstag und Donnerstag in das Fahrzeuginnere und entnahm mehrere Jacken und Westen im Wert von etwa 400 Euro. Der Wagen parkte in dieser Zeit in der Lembergstraße. Die Höhe des entstandenen Schadens konnte bislang nicht beziffert werden.",
-		"type": "Autoaufbruch",
-		"lat": 48.8546209,
-		"lon": 9.1902361
-	},
-	{
-		"date": "1/7/2014",
-		"description": "Bislang unbekannte Täter brachen im Zeitraum vom 04.01.-07.01.2014 in einer Tiefgarage einer Wohnanlage in der Heilbronner Wollhausstraße zwei PKW auf und durchsuchten diese nach Beute. Wie die Täter in die Tiefgarage gelangten, und ob etwas entwendet wurde, ist bislang noch unklar. Es entstand ein Sachschaden in Höhe von circa 1500 Euro. Sachdienliche Hinweise nimmt das Polizeirevier Heilbronn unter der Nummer 07131 104 2500 entgegen.",
-		"type": "Autoaufbruch",
-		"lat": 49.1387516,
-		"lon": 9.2295375
-	},
-	{
-		"date": "12/30/2013",
-		"description": "Im Zeitraum vom 23.12.13 - 30.12.13 wurde von bislang unbekannten Tätern der Tankdeckel eines LKW aufgebrochen. Dieser stand auf einem Parkplatz, in der Domenecker Straße, in Möckmühl. Es wurden 160 Liter Dieselkraftstoff im Wert von circa 240 Euro aus dem Tank entwendet. Sachdienliche Hinweise nimmt der Polizeiposten Möckmühl unter der Nummer 06298 92000 entgegen.",
-		"type": "Autoaufbruch",
-		"lat": 49.3138643,
-		"lon": 9.358590399999999
-	},
-	{
-		"date": "1/14/2014",
-		"description": "Audi A 6 gestohlen Auf einen Audi A 6 hatte es ein bislang Unbekannter abgesehen. Das in der Weinsberger Straße in Ellhofen abgestellte Auto wurde in der Zeit von Montag, 21.00 Uhr, bis Dienstag, 06.40 Uhr gestohlen. Der Audi hat einen Zeitwert von rund 10.000 Euro, ist mit einem HN-Kennzeichen versehen und hat eine silbergraue Lackierung. Sachdienliche Hinweise nimmt die Kriminalpolizei Heilbronn unter der Tel.Nr.: 07131/104-4444 entgegen.",
-		"type": "Autoaufbruch",
-		"lat": 49.148865,
-		"lon": 9.3175847
-	},
-	{
-		"date": "1/13/2014",
-		"description": "Wie jetzt erst bemerkt und angezeigt wurde, entwendeten Unbekannte aus einem Baggertank zwischen dem 18.12.2013 und jetzt circa 500 Liter Diesel-Kraftstoff. Der Bagger stand an einer Straßenbaustelle in der Friedrich Heyking-Straße. Hinweise an die Polizei in Crailsheim, Tel.: 07951/480-0.",
-		"type": "Autoaufbruch",
-		"lat": 49.1337354,
-		"lon": 10.0633573
-	},
-	{
-		"date": "1/14/2014",
-		"description": "Zwischen Montag 17:30 Uhr und Dienstag 07:00 Uhr brach ein bislang unbekannter Täter den Tankdeckel eines in der Industriestraße auf dem Waschplatz der BAG geparkten Volvo LKWs auf und zapfte zirka 350 Liter Diesel aus dem Tank ab. Den Tankdeckel nahm der Täter vermutlich mit. Der Diebstahlsschaden wird auf zirka 500 Euro geschätzt. Sachdienliche Hinweise nimmt die Polizei in Weikersheim unter der Telefonnummer: 07934 9947-0 gerne entgegen. ",
-		"type": "Autoaufbruch",
-		"lat": 49.4745014,
-		"lon": 10.0247722
-	},
-	{
-		"date": "1/22/2014",
-		"description": "Einen BMW X5 entwendeten bislang unbekannte Diebe in der Nacht zum Mittwoch in Bad Wimpfen. Der Pkw war zwischen 21.15 Uhr und 7.10 Uhr in der Servianstraße geparkt. Der Pkw ist weiß und hat eine Künzelsauer Zulassung. Der Wert des Pkw kann bislang nicht beziffert werden. Zeugen, die sachdienliche Hinweise geben können werden gebeten, sich mit der Kripo Heilbronn unter Telefon 07131/104-4444, in Verbindung zu setzen.",
-		"type": "Autoaufbruch",
-		"lat": 49.2260153,
-		"lon": 9.1513841
-	},
-	{
-		"date": "1/21/2014",
-		"description": "Am Dienstagvormittag wurde in Bad Rappenau zwischen 6:45 und 13:00 Uhr in der Schwalbenstraße die Beifahrerscheibe eines Peugeot eingeschlagen und eine Handtasche samt Inhalt aus dem Innenraum des Fahrzeugs entwendet. Der Wert des entwendeten Gutes beträgt zirka 250 Euro. Der Schaden an der Seitenscheibe ebenfalls knapp 250 Euro. Sachdienliche Hinweise nimmt die Polizei in Bad-Rappenau unter der Telefonnummer 07264 9590-0 entgegen.",
-		"type": "Autoaufbruch",
-		"lat": 49.24403359999999,
-		"lon": 9.0951275
-	},
-	{
-		"date": "1/22/2014",
-		"description": "Einen Tatzusammenhang zwischen den Diebstählen zweier Pkw vermutet die Polizei in Bad Wimpfen. Wie bereits berichtet wurde in der Nacht zum Mittwoch in der Servianstraße ein neuwertiger BMW X5 mit Künzelsauer Zulassung gestohlen. Nun wurde der Polizei ein weiterer Diebstahl eines BMW des gleichen Typs gemeldet. Dieser war im selben Tatzeitraum, zwischen Dienstag, 20.30 und Mittwoch 07.00 Uhr, in der Schillerstraße auf dem Stellplatz vor Gebäude Nr. 17 abgestellt. An dem X5 waren Heilbronner Kennzeichen angebracht. Beide Fahrzeuge waren weiß lackiert und haben einen Gesamtwert von etwa 150.000 Euro. Sachdienliche Hinweise zu den Straftaten nimmt die Kripo Heilbronn unter der Telefonnummer 07131 104-4444, entgegen.",
-		"type": "Autoaufbruch",
-		"lat": 49.2260153,
-		"lon": 9.1513841
-	},
-	{
-		"date": "1/22/2014",
-		"description": "Auf ein Motorrad im Wert von etwa 12.500 Euro hatten es unbekannte Diebe abgesehen, als sie in der Nacht von Dienstag 18:00 Uhr auf Mittwoch 06:00 Uhr auf bislang nicht geklärte Art und Weise das verschlossene Tor zu einer Tiefgarage in der Gutenbergstraße überwanden und mutmaßlich mit einem Transportfahrzeug in diese einfuhren. Um an das Zweirad zu gelangen, mussten sie an einem dort abgestellten VW zunächst die Seitenscheibe der Fahrertür einschlagen und den Wagen aus seiner Parkbucht schieben. Dadurch gelangten sie an das vor dem Wagen stehende Motorrad, das mit einer Plane abgedeckt war. Anschließend wurde die fast vier Jahre alte Aprilia RSV 4 auf den Transporter verladen und entwendet. Die Ermittlungen dauern an. Zeugen werden gebeten, sich mit dem Polizeiposten Sachsenheim, Tel. 07147/27406-0 in Verbindung zu setzen.",
-		"type": "Autoaufbruch",
-		"lat": 48.96177830000001,
-		"lon": 9.0745395
-	},
-	{
-		"date": "1/22/2014",
-		"description": "Auf professionelle Art und Weise gingen vermutlich ein- und dieselben Diebe vor, die in der Nacht von Dienstag auf Mittwoch in zurzeit vier bekannten Fällen hochwertige Fahrzeuge des Herstellers BMW aufbrachen. Dabei gelangten die Täter auf bisher unbekannte Weise in den Innenraum eines BMW X6, der in Asperg in der Johannisstraße parkte. Ohne einen Schaden am Fahrzeug zu hinterlassen, entwendeten sie das Navigations- und Entertainmentsystem im Wert von etwa 3.000 Euro. An einem in der Karlstraße abgestellten BMW der 5er-Reihe schlugen sie das rechte hintere Fenster ein, um das Navigationssystem im Wert von ungefähr 2.000 Euro auszubauen und zu stehlen. Der entstandene Sachschaden wurde mit etwa 300 Euro angegeben. In Möglingen machten sich die Täter in der Raitestraße an einem BMW X5 und der Königsberger Straße an einem BMW X6 zu schaffen, indem sie an den Fahrzeugen jeweils die Dreiecksscheibe an einer hinteren Tür einschlugen und dabei einen Schaden in Höhe von je 200 Euro verursachten. Anschließend bauten sie die betreffenden Bordcomputer im Wert von etwa 3.500 Euro aus und entwendeten diese. Zudem ließen sie in einem Fall noch eine Geldbörse aus der Mittelkonsole mitgehen, die neben 250 Euro Bargeld auch diverse Mitgliedskarten enthielt. Die Ermittlungen dauern an. Zeugen werden gebeten sich beim Polizeiposten Asperg, Tel. 07141/62033 bzw. beim Polizeiposten Möglingen, Tel. 07141/481191, zu melden.",
-		"type": "Autoaufbruch",
-		"lat": 48.9032759,
-		"lon": 9.1399819
-	},
-	{
-		"date": "1/22/2014",
-		"description": "Unbekannte entwendeten am Mittwoch in der Zeit zwischen 07:00 Uhr und 22:30 Uhr erneut ein Motorrad aus einer Gemeinschaftstiefgarage in der Gutenbergstraße. Bei der gestohlenen Maschine handelte es sich um eine KTM SuperDuke mit einem Wert von über 11.000 Euro. Obwohl die Batterie und die untere Verkleidung ausgebaut waren, nahmen die Diebe das etwa sechs Monate alte Fahrzeug mit und nutzten zum Abtransport mutmaßlich einen Lieferwagen. Ein Tatzusammenhang mit dem Motorraddiebstahl aus einer weiteren Tiefgarage in der gleichen Straße in der Nacht zuvor (wir berichteten) kann nicht ausgeschlossen werden. Das Kriminalkommissariat Ludwigsburg bittet in beiden Fällen unter Tel. 07141/18-9 um Hinweise.",
-		"type": "Autoaufbruch",
-		"lat": 48.9041527,
-		"lon": 9.1400293
-	},
-	{
-		"date": "1/24/2014",
-		"description": "Weil der Besitzer eines Audi am Freitag gegen 02:30 Uhr in der Nähe seines Hauses Krach hörte und nachsah, überraschte er vermutlich auf frischer Tat einen Dieb, der sich in seiner Hofeinfahrt in der Straße \"Entenäcker\" am Wagen zu schaffen machte und sofort die Flucht ergriff. Am frühen Morgen konnte der Fahrzeugbesitzer feststellen, dass der Täter in den Kofferraum eingedrungen war, indem er gewaltsam den Schließzylinder des Kofferraumschlosses entfernt hatte. Anschließend klappte er die Rücksitzbank nach vorne und riss eine hintere Seitenabdeckung heraus, um vermutlich das Steuergerät zu entwenden. Der entstandene Sachschaden wurde auf etwa 1.000 Euro beziffert. Hinweise nimmt der Polizeiposten Asperg unter Tel. 07141/62033 entgegen.",
-		"type": "Autoaufbruch",
-		"lat": 48.9027504,
-		"lon": 9.1283887
-	},
-	{
-		"date": "2/7/2014",
-		"description": "In der Zeit zwischen 01. und 07.02, 18.00/15.00 Uhr, wurde eine Feldscheune, welche sich entlang der Heisenbergstraße, ca. 100 Meter nach dem dortigen Industriegebiet befindet, durch einen Unbekannten aufgebrochen. Aus der Scheune wurde ein Muldenkipper (Bezeichnung Mini-Truck 709) im Wert von ca. 2.500 Euro entwendet. Die selbstfahrende Arbeitsmaschine ist mit einem 7 PS starken Rasenmähermotor ausgestattet und lässt sich mit einem Seilzug starten. Darüber hinaus entwendete der Täter eine ca. 80 kg schwere Rundholzgreifzange aus Stahl, an der sich Hydraulikanschlüsse befinden. Diese hat einen Wert von ca. 1.000 Euro. Aufgrund der Beschaffenheit der Diebesbeute muss der Täter zum Abtransport einen Pkw-Anhänger oder möglicherweise auch einen Kastenwagen benutzt haben.",
-		"type": "Autoaufbruch",
-		"lat": 49.18985259999999,
-		"lon": 9.149724899999999
-	},
-	{
-		"date": "2/11/2014",
-		"description": "Mehrere hundert Euro dürfte der Schaden betragen, welcher ein bislang Unbekannter in der Zeit von Sonntag, 20.00 Uhr, bis Dienstag, 09.00 Uhr, an einem in der Obersulm-Sülzbacher Straße \"Im Gänsbühl\" anrichtete. Der Täter hatte offenbar versucht, einen BMW X6 aufzubrechen und baute dazu das komplette Schloss der Fahrertür aus. Sachdienliche Hinweise nimmt die Polizei Obersulm unter der Tel.Nr.: 07130 7077 entgegen.",
-		"type": "Autoaufbruch",
-		"lat": 49.161411,
-		"lon": 9.3524459
-	},
-	{
-		"date": "2/9/2014",
-		"description": "Aus einem nicht verschlossenen Auto entwendeten Unbekannte in der Nacht zum Sonntag einen Geldbeutel. Über den genauen Inhalt der Geldbörse ist nichts bekannt. Das Auto war in der Gotthilf-Wolf-Straße geparkt.",
-		"type": "Autoaufbruch",
-		"lat": 49.0527981,
-		"lon": 9.734079200000002
-	},
-	{
-		"date": "2/16/2014",
-		"description": "Am Sonntag, zwischen 15 und 18.30 Uhr, drang ein Unbekannter in einen in der Heilbronner Straße in Öhringen abgestellten VW Passat gewaltsam ein. Aus dem Fahrzeug entwendete er einen I-Pod Touch. Der entstandene Sach- und Diebstahlschaden beträgt etwa 100 Euro. Hinweise zu der Tat nimmt die Polizei in Öhringen, Telefon 07941 9300, entgegen.",
-		"type": "Autoaufbruch",
-		"lat": 49.2009408,
-		"lon": 9.4876233
-	},
-	{
-		"date": "2/16/2014",
-		"description": "In der Nacht auf Sonntag wurde zwischen 23:05 und 04:45 Uhr durch unbekannte Täter die Scheibe der Beifahrertüre eines in der Daimlerstraße abgestellten PKWs eingeschlagen und diverse Gegenstände aus dem PKW gestohlen. Über die Höhe des Sachschadens ist bislang nichts bekannt. Sachdienliche Hinweise nimmt die Polizei in Lauffen, Tel: 07133 209-0, entgegen.",
-		"type": "Autoaufbruch",
-		"lat": 49.1500513,
-		"lon": 9.128204799999999
-	},
-	{
-		"date": "2/17/2014",
-		"description": "Zwischen Freitag und Montag entwendeten bislang unbekannte Täter auf einer Großbaustelle in der Eppinger Straße aus dem Dieseltank eines MAN LKWs zirka 100 Liter Diesel. Aus seinem Autokran der Marke Liebherr entwendeten die Täter knapp 200 Liter Diesel. Des Weiteren wurde eine neuwertige Schubkarre entwendet, mit der vermutlich der Dieselkraftstoff von der Baustelle abtransportiert wurde. Der Wert des entwendeten Diesels beläuft sich auf ungefähr 420 Euro. Die Schubkarre hatte einen Wert von zirka 100 Euro. Der entstandene Sachschaden an den beiden Tankdeckeln beläuft sich auf knapp 80 Euro. Die Polizei in Leintal bittet um sachdienliche Zeugenhinweise an die Telefonnummer 07138 81063-0.",
-		"type": "Autoaufbruch",
-		"lat": 49.1479418,
-		"lon": 9.1094336
-	},
-	{
-		"date": "2/17/2014",
-		"description": "Zwischen Samstag und Montag entwendeten bislang unbekannte Täter aus einem in der Rudolf-Diesel-Straße geparkten LKW eines Abfallentsorgungsunternehmens knapp 300 Liter Dieseltreibstoff. Der entstandene Sachschaden am Tankdeckel beläuft sich auf zirka 50 Euro. Die Polizei in Mosbach-Diedesheim bittet um sachdienliche Zeugenhinweise an die Telefonnummer 06261 6757-0.",
-		"type": "Autoaufbruch",
-		"lat": 49.3435846,
-		"lon": 9.1221597
-	},
-	{
-		"date": "2/18/2014",
-		"description": "Zwischen Sonntag und Dienstag schlug ein bislang unbekannter Täter die hintere rechte Seitenscheibe eines in der Staufenbergstraße in Heilbronn geparkten Nissans ein. Offensichtlich entriegelte der Täter im Anschluss den PKW und entwendete aus dessen Innerem ein Auto-CD-Radio im Wert von zirka 50 Euro. Am PKW hinterließ der Täter einen Schaden in Höhe von knapp 100 Euro. Täterhinweise nimmt die Polizei in Heilbronn unter der Telefonnummer: 07131 253093 entgegen.",
-		"type": "Autoaufbruch",
-		"lat": 49.1174465,
-		"lon": 9.2027284
-	},
-	{
-		"date": "2/19/2014",
-		"description": "n der Nacht von Dienstag auf Mittwoch waren im Bereich der Bundesautobahn 6 wieder sogenannte \"Planenschlitzer\" unterwegs. Gegen 0.35 Uhr wurde die Autobahnpolizei in Kirchberg an der Jagst von einem Berufskraftfahrer darüber verständigt, dass sich auf dem Parkplatz Kochertalbrücke in Fahrtrichtung Nürnberg entsprechende Fälle ereignet hätten. Vor Ort musste festgestellt werden, dass unbekannte Diebe insgesamt die Planen von 26 Lkw aufgeschlitzt hatten, um die Ladung auszukundschaften. Lediglich bei einem Lkw kam es auch zum Diebstahl. Dieser hatte Reinigungstabs geladen. Insgesamt wurden 230 Kartons dieser Tabs entwendet. Zurück blieben nur noch fünf leere Paletten. Der Wert des Diebesguts beträgt ersten Schätzungen zufolge 4 bis 5.000 Euro. Der Schaden an den 26 beschädigten Planen dürfte mindestens 5.000 Euro betragen. Im Zusammenhang mit dem Diebstahl könnte ein Klein-Lkw mit polnischer Zulassung stehen. Dieser fuhr gegen 0.30 Uhr auf dem genannten Parkplatz gegen eine Sattelzugmaschine und flüchtete hiernach unerlaubt. Durch einen Kraftfahrer konnte noch beobachtet, dass es sich bei dem Flüchtigen um einen Klein-Lkw der Marke Mercedes (eventuell 7,5-Tonner) handeln könnte, der eine rote Fahrerkabine und einen silbernen Planenaufbau hatte. Das Kennzeichen soll mit den Buchstaben \"KY\" begonnen haben.",
-		"type": "Autoaufbruch",
-		"lat": 49.1731379,
-		"lon": 9.9593619
-	},
-	{
-		"date": "2/14/2014",
-		"description": "Heute wurde bei der Verkehrspolizei in Kirchberg an der Jagst nachträglich ein weiterer Fall von \"Planenschlitzern\" zur Anzeige gebracht, der sich bereits in der Nacht von Donnerstag, 13.02.14 auf Freitag, 14.02.14 ereignet hatte. Hier wurde von der Ladefläche eines Lkw, dessen Fahrer nur wenige Kilometer vom heutigen Fall entfernt auf dem Reußenberg-Parkplatz Rast machte, 27 Rasenmäher entwendet. Auch hier muss ein größeres Fahrzeug zum Abtransport benutzt worden sein. Der Wert der Rasenmäher beträgt ebenfalls mehrere tausend Euro.",
-		"type": "Autoaufbruch",
-		"lat": 47.4477519,
-		"lon": 12.3151773
-	},
-	{
-		"date": "2/14/2014",
-		"description": "Gleich an zwei Autos wurde in der Nacht von Donnerstag auf Freitag eine Scheibe eingeschlagen, um Gegenstände aus dem Innenraum zu stehlen. In der Panoramastraße entwendeten die Diebe aus einem geparkten VW auf diese Weise eine Handtasche, die auf der Rückbank lag und neben einem Mobiltelefon auch verschiedene Kundenkarten beinhaltete. Vermutlich dieselben Täter schlugen in der Johannesstraße ebenfalls an einem VW die Scheibe der Fahrertür ein und entwendeten ein Ledermäppchen, das einen Ausweis enthielt. An beiden Fahrzeugen entstand ein Sachschaden in Höhe von jeweils etwa 300 Euro. Hinweise zu beiden Fällen nimmt der Polizeiposten Freiberg am Neckar unter Tel. 07141/643780 entgegen.",
-		"type": "Autoaufbruch",
-		"lat": 48.9346421,
-		"lon": 9.199111499999999
-	}];
+    {
+        "date": "31.10.2013",
+        "city": "Heilbronn",
+        "street": "Jägerhausstraße",
+        "description": "Unbekannte Täter drangen am Donnerstag in der Zeit zwischen 09.15 und 11.50 Uhr in ein Wohnhaus der Jägerhausstraße ein. Nach mehreren erfolglosen Versuchen an verschiedenen Türen gelangten die Täter durch Aufwuchten eines Wohnzimmerfensters ins Gebäude. Mit mehreren Apple-Geräten und Schmuck im Gesamtwert von mehreren Tausend Euro verschwanden die Einbrecher. Hinweise über verdächtige Beobachtungen an die Kriminalpolizei Heilbronn unter Telefon 07131 104-4444.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.137134,
+        "lon": 9.2552646
+    },
+    {
+        "date": "31.10.2013",
+        "city": "Leingarten",
+        "street": "Dieselstraße",
+        "description": "Unbekannte drangen in der Zeit von Mittwoch, 22.20 Uhr bis Donnerstag, 07.50 Uhr in einen Imbiss in der Dieselstraße ein. Die Täter wuchteten die Eingangstür auf und machten sich am Geldspielautomat zu schaffen. Die Kassetteneinsätze mit dem Münzgeld wurden komplett entwendet. Zudem rissen die Einbrecher eine Gästesparkasse von der Wand und verschwanden damit. Der Sachschaden beläuft sich auf ca. 800 Euro.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.14686039999999,
+        "lon": 9.1241723
+    },
+    {
+        "date": "31.10.2013",
+        "city": "Möckmühl",
+        "street": "Boschstraße",
+        "description": "Bislang Unbekannte drangen in der Zeit von Mittwoch, 22.45 Uhr bis Donnerstag, 09.00 Uhr gewaltsam in eine Gaststätte in der Boschstraße ein. Im Gastraum wurde ein Geldspielautomat aufgebrochen und die kompletten Kassetteneinsätze mit dem Münzgeld in noch unbekannter Höhe  entwendet. Der Sachschaden wird mit ca. 500 Euro angegeben. Hinweise über verdächtige Beobachtungen an den Polizeiposten Möckmühl unter Telefon 06298 92000.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.31850790000001,
+        "lon": 9.3647785
+    },
+    {
+        "date": "31.10.2013",
+        "city": "Obersulm",
+        "street": "Breitäcker",
+        "description": "Bislang Unbekannte drangen am Donnerstag in der Zeit zwischen 17.00 – 22.15 Uhr im Bereich Breitäcker in ein Einfamilienhaus ein. Die Täter gelangten durch das Einschlagen der Terrassentürfensterscheibe in das Haus und entwendeten aus einem Kinderzimmer einen geringen Bargeldbetrag. Hinweise über verdächtige Wahrnehmungen an das Polizeirevier Weinsberg unter Telefon 07134 9920.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.12898329999999,
+        "lon": 9.3579103
+    },
+    {
+        "date": "02.11.2013",
+        "city": "Abstatt",
+        "street": "Jägerhausstraße",
+        "description": "Am Samstagabend, 02.11.2013, im Zeitraum von 18.45 bis 21.45 Uhr, wurde in der Jägerhausstraße in Abstatt ein Einfamilienhaus von Einbrechern aufgesucht. Die bisher unbekannten Täter stiegen über ein Küchenfenster, das zuvor aufgehebelt worden war ins Haus ein. Im Gebäudeinnern wurden sämtliche  Zimmer durchsucht und Schränke durchwühlt. Die Einbrecher erbeuteten einige Wertsachen und etwas Bargeld. Personen denen in Abstatt am Samstagabend etwas verdächtig erschienen ist, werden gebeten sich beim Polizeirevier Weinsberg unter der Tel Nr 07134/9920 zu melden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0698355,
+        "lon": 9.2892426
+    },
+    {
+        "date": "03.11.2013",
+        "city": "Mulfingen",
+        "street": "Neubergstraße",
+        "description": "Über die Terrassentüre versuchte ein Unbekannter, wie erst jetzt angezeigt wurde, am vergangenen Sonntag zwischen 16.30 und 22 Uhr in ein Wohnhaus in der Neubergstraße einzubrechen. Er scheiterte aber und verschwand. Zurück blieb jedoch ein angerichteter Schaden von 500 Euro. Vermutlich derselbe Täter machte sich noch einem Nachbarhaus zu schaffen. Der Einbrecher drang über ein Fenster an der Rückseite ein und durchsuchte die Räume. Da das Gebäude zurzeit unbewohnt ist, fand er dort nur leere Möbel vor und musste ohne Beute wieder abziehen. Auch hier blieb ein Schaden von gut 500 Euro zurück. Zeugen, die im Tatortbereich etwas Verdächtiges beobachtet haben, sollten sich unter Tel. 06294/234 beim Polizeiposten in Krautheim melden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.33880620000001,
+        "lon": 9.8047167
+    },
+    {
+        "date": "03.11.2013",
+        "city": "Weinsberg",
+        "street": "Ringstraße",
+        "description": "Bargeld war das Ziel eines Einbrechers, der am Sonntag in ein Wohnhaus in der Gellmersbacher Ringstraße einstieg. Der Unbekannte brach in der Zeit zwischen 17 und 21 Uhr die Balkontüre auf und suchte in der Wohnung nach Bargeld. Nachdem er solches in noch nicht bekannter Höhe gefunden und eingesteckt hatte, verließ er das Gebäude wieder. Die Polizei hofft, dass jemand im betreffenden Zeitraum im Bereich der Ringstraße eine oder mehrere verdächtige Personen oder ein Fahrzeug gesehen hat. Zeugen werden gebeten, sich mit dem Polizeirevier Weinsberg, Telefon 07134 9920, in Verbindung zu setzen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1804704,
+        "lon": 9.2956583
+    },
+    {
+        "date": "04.11.2013",
+        "city": "Bretzfeld",
+        "street": "Wilhelm-Busch-Straße",
+        "description": "Über eine Seitenzugangstüre drang ein Unbekannter am vergangenen Montag zwischen 8.30 und 20.30 Uhr in ein Wohnhaus in der Rappacher Wilhelm-Busch-Straße ein. Anschließend durchsuchte der Täter die Räumlichkeiten, wobei er offenbar nichts entwendete, obwohl diverse Wertgegenstände dort offen herumlagen. Zeugen, die im Tatzeitraum etwas Verdächtiges beobachtet haben, sollten sich unter Tel. 07946/940010 beim Polizeiposten Bretzfeld melden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1770377,
+        "lon": 9.4304132
+    },
+    {
+        "date": "05.11.2013",
+        "city": "Bad Wimpfen",
+        "street": "Schiedstraße",
+        "description": "Einbrecher waren in der Nacht zum Dienstag in Bad Wimpfen unterwegs. In der Schiedstraße rissen sie die Seiteneingangstüre einer Gaststätte gewaltsam auf. Im Innern wurde jedoch nichts gestohlen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2282319,
+        "lon": 9.1596768
+    },
+    {
+        "date": "05.11.2013",
+        "city": "Bad Wimpfen",
+        "street": "Erich-Sailer-Straße",
+        "description": "Auch in der Erich-Sailer-Straße machten sie keine Beute. Dort warfen sie um 02:40 Uhr die Scheibe eines Fensters einer Gaststätte mit einem Pflasterstein kaputt, öffneten es und stiegen ein. Als die Alarmanlage losging, flüchteten sie. Zeugen, die in der Nähe der beiden Lokale verdächtige Personen oder Fahrzeuge beobachtet haben, werden gebeten, sich mit dem Polizeiposten Bad Wimpfen, Telefon 07063 93340, in Verbindung zu setzen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.236441,
+        "lon": 9.1562509
+    },
+    {
+        "date": "06.11.2013",
+        "city": "Flein",
+        "street": "Heilbronner Straße",
+        "description": "Einen ordentlichen Hunger hatte offensichtlich ein 42-Jähriger, der am Dienstag, kurz vor Mitternacht auf unbekannte Weise die Türen zu den Kühlräumen einer Metzgerei in Flein öffnete und diese betrat. Dort packte er Wurst und Brötchen in einen Rucksack und stellte sich außerdem eine Kiste mit Gemüse zum Abtransport bereit. Als er noch am „Arbeiten“ war kam der Besitzer nach Hause und bemerkte den ungebetenen Gast. Nachdem der Mann der Polizei übergeben worden war, stellten die Beamten fest, dass dieser ordentlich dem Alkohol zugesprochen hatte. Ein Atemalkoholtest erbrachte einen Wert von deutlich über zwei Promille.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1063225,
+        "lon": 9.2116708
+    },
+    {
+        "date": "06.11.2013",
+        "city": "Löchgau",
+        "street": "Weinstraße",
+        "description": "Auf frischer Tat wurde am Mittwoch kurz nach 19.30 Uhr ein Einbrecher ertappt, der gerade in einem Wohnhaus in der Weinstraße zugange war. Indem der Täter die Terrassentür aufhebelte, verschaffte er sich Zutritt ins Gebäude und durchsuchte sämtliche Räumlichkeiten, wobei ihm ein Schmuckkästchen in die Hände fiel. Unter Mitnahme seiner Beute ergriff der Einbrecher in dem Augenblick als die Haustür aufgeschlossen wurde über die Terrassentür und den Nachbargarten die Flucht. Angaben über den Wert des Diebesguts und den entstandenen Schaden konnten noch nicht erlangt werden. Zeugen werden gebeten, sich mit dem Polizeirevier Bietigheim-Bissingen, Tel. 07142/405-0, in Verbindung zu setzen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0029895,
+        "lon": 9.1082665
+    },
+    {
+        "date": "06.11.2013",
+        "city": "Mundelsheim",
+        "street": "Blumenstraße",
+        "description": "Indem ein unbekannter Täter am Mittwoch in der Zeit zwischen 09.00 Uhr und 18.45 Uhr an einem Wohnhaus in der Blumenstraße die Terrassentür aufhebelte, gelangte er in die Räumlichkeiten, die er anschließend durchsuchte. Inwiefern der Einbrecher bei seiner Suche auf Stehlenswertes stieß, konnte noch nicht geklärt werden. An der Terrassentür entstand ein Schaden in Höhe von etwa 800 Euro. Die Ermittlungen dauern an. Hinweise nimmt das Polizeirevier Marbach am Neckar unter Tel. 07144/900-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 48.9969962,
+        "lon": 9.210577899999999
+    },
+    {
+        "date": "07.11.2013",
+        "city": "Neuenstein",
+        "street": "Mauerweg",
+        "description": "In den Kindergarten im Mauerweg drang ein Unbekannter in der Nacht zum Donnerstag ein. Anschließend ging er zum Büro im Obergeschoss, brach die Türen auf und durchsuchte die Räume vermutlich nach Bargeld, wobei er nicht fündig wurde und ohne Beute wieder verschwand. Sachdienliche Hinweise nimmt das Polizeirevier in Öhringen unter Tel. 07941/9300 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2058117,
+        "lon": 9.580770399999999
+    },
+    {
+        "date": "07.11.2013",
+        "city": "Ilsfeld",
+        "street": "Große Hasengasse",
+        "description": "In Ilsfeld ertappten Arbeiter am Donnerstagmorgen um 10 Uhr einen 36-Jährigen, der gerade kleine Arbeitsmaschinen aus einem Rohbau trug. Bei einer anschließenden Überprüfung durch die alarmierte Polizei wurde festgestellt, dass der Mann bereits mehrere andere Maschinen mit einem Gesamtwert von rund 600 Euro gestohlen hatte. Er selbst sah seine Tat nicht als Diebstahl an, weil er alle Gegenstände nach seinen Angaben eigentlich in einem Müllcontainer entsorgen wollte. Interessant war der Promillewert, den ein Atemalkoholtest noch am Vormittag ergab: Er hatte über 3,2 Promille.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0540897,
+        "lon": 9.2516696
+    },
+    {
+        "date": "07.11.2013",
+        "city": "Abstatt",
+        "street": "Rathausstraße",
+        "description": "In Abstatt war eine Gaststätte in der Rathausstraße das Ziel von Langfingern. Nachdem diese in das Lokal eingebrochen waren, öffneten sie dort gewaltsam drei Geldautomaten und ließen die Inhalte mitgehen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.068034,
+        "lon": 9.289781
+    },
+    {
+        "date": "07.11.2013",
+        "city": "Beilstein",
+        "street": "Hauptstraße",
+        "description": "Viel zu tun hatte die Polizei am Donnerstag im südlichen Landkreis. In Beilstein versuchten in der Nacht Unbekannte, in eine Gaststätte in der Hauptstraße einzubrechen. Sie wollten ein Fenster aufwuchten, was jedoch misslang. Bereits am 23. Oktober scheiterte am gleichen Haus ein Einbruchsversuch. Es wird nicht ausgeschlossen, dass es sich um dieselben Täter handelte.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0404215,
+        "lon": 9.3145627
+    },
+    {
+        "date": "07.11.2013",
+        "city": "Ilsfeld",
+        "street": "In den Dorfwiesen",
+        "description": "In Ilsfeld-Auenstein wuchteten Unbekannte ebenfalls in der Nacht von Mittwoch auf Donnerstag in den Dorfwiesen die Terrassentüre eines Wohnhauses auf. Im Gebäude durchsuchten sie alle Schränke. Seltsamerweise wurde offenbar nichts entwendet. Der angerichtete Sachschaden liegt wohl im vierstelligen Bereich.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0301047,
+        "lon": 9.3343203
+    },
+    {
+        "date": "07.11.2013",
+        "city": "Öhringen",
+        "street": "Torstraße",
+        "description": "In ein Lokal in der Unteren Torstraße brach ein Unbekannter in der Nacht zum Donnerstag nach 0.30 Uhr ein. Anschließend wuchtete er dort mit Brachialgewalt zwei Geldspielautomaten auf und entwendete daraus das Bargeld in unbekannter Höhe. Zurück blieb ein angerichteter Sachschaden an den Automaten von  gut 10.000 Euro. Vermutlich derselbe Täter wollte dann auch noch in eine benachbarte Metzgerei eindringen. Er schlug ein Fenster zum Büro ein und ließ dann jedoch von der weiteren Tatausführung ab. Möglicherweise wurde er gestört und flüchtete deshalb. Zeugen, die in der Tatnacht etwas Verdächtiges beobachtet haben, sollten sich unter Tel. 07941/9300 beim Polizeirevier melden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.20115209999999,
+        "lon": 9.4996505
+    },
+    {
+        "date": "07.11.2013",
+        "city": "Untereisesheim",
+        "street": "Kelterplatz",
+        "description": "Ein Laptop Acer erbeuteten Unbekannte in der Nacht zum Donnerstag in Untereisesheim. Die Einbrecher hängten ein gekipptes Fenster des Firmengebäudes am Kelterplatz aus und stiegen in das Büro ein. Für andere Elektronikgeräte interessierten sich die Täter offensichtlich nicht. Hinweise auf die Einbrecher hat die Polizei keine, weshalb eventuelle Zeugen, die im Bereich des Kelterplatzes verdächtige Wahrnehmungen gemacht haben gebeten, sich mit dem Posten Bad Wimpfen, Telefon 07063 93340, in Verbindung zu setzen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.20975749999999,
+        "lon": 9.2011103
+    },
+    {
+        "date": "08.11.2013",
+        "city": "Möckmühl",
+        "street": "Bergstraße",
+        "description": "Im Zeitraum zwischen Donnerstag, 07.11. und Freitag, 08.11.2013, 18.00 bis 07.00 Uhr, verschaffte sich im Ortsteil Züttlingen ein unbekannter Täter über eine Notausgangstüre Zutritt zum dortigen Kindergarten. Anschließend brach er einen Rollcontainer im Büroraum des Gebäudes gewaltsam auf und entwendete daraus ein Laptopgerät. Darüber hinaus fand er bei seiner weiteren Suche in einem Schrankfach eine verschlossene graue Geldkassette mit Bargeld, welche er, samt aufgefundenen Schlüsseln ebenfalls an sich nahm und entwendete. Der Gesamtschaden zur Tat beträgt ca. 1.600.- Euro.  \nPersonen, die Beobachtungen zum Sachverhalt mitteilen können, werden gebeten, sich mit dem Polizeirevier Neckarsulm, Tel. 07132-9371-0, in Verbindung zu setzen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "Züttlingen",
+        "lat": 49.2937658,
+        "lon": 9.336102600000002
+    },
+    {
+        "date": "08.11.2013",
+        "city": "Heilbronn",
+        "street": "Nordstraße",
+        "description": "Am Freitagabend, 08.11.2013, verschafften sich in der Zeit zwischen 18.00 und 20.00 Uhr unbekannte Täter gewaltsam Zutritt zu einem Wohnhaus in der Nordstraße und entwendeten daraus Bargeld und Schmuck. Der Einbruch wurde vom Wohnungseigentümer nach dessen Rückkehr festgestellt. Personen, die Zeugenhinweise zum Sachverhalt machen können, werden gebeten, sich mit der Polizei Heilbronn, Tel. 07131-104-2500, in Verbindung zu setzen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.14885229999999,
+        "lon": 9.2288522
+    },
+    {
+        "date": "09.11.2013",
+        "city": "Neuenstein",
+        "street": "Eichhofer Straße",
+        "description": "Im Zeitraum vom 02.11. bis 09.11.2013 hebelten bisher unbekannte Täter an einer Garage in der Eichhofer Straße die Zugangstüre auf. Von dort aus verschafften sie sich über eine Verbindungstüre gewaltsam Zugang zum Wohnhaus. Sie durchsuchten sämtliche Wohnräume und entwendeten letztendlich verschiedenes Silberbesteck, zwei Gipsfiguren sowie einen Porzellanaschenbecher. Da das Wohnhaus vorübergehend unbewohnt war, wurde der Einbruch erst am letzten Samstag festgestellt. Der Wert des Diebesgutes steht noch nicht fest. Hinweise bitte an die Polizei Öhringen, 07941/9300.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2041099,
+        "lon": 9.5868906
+    },
+    {
+        "date": "10.11.2013",
+        "city": "Neckarsulm",
+        "street": "Grenchenstraße",
+        "description": "Mit brachialer Gewalt wuchteten Unbekannte am vergangenen Wochenende die Eingangstüre eines Kindergartens in der Grenchenstraße in Neckarsulm-Amorbach auf. Im Innern des Gebäudes durchsuchten sie alle Schränke und stahlen einen Computer mit Bildschirm sowie die Kaffeekasse der Erzieherinnen. Allein der angerichtete Sachschaden wurde auf über 1.500 Euro geschätzt.",
+        "damage": "1.500",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.211559,
+        "lon": 9.2545317
+    },
+    {
+        "date": "10.11.2013",
+        "city": "Öhringen",
+        "street": "Marktstraße",
+        "description": "An der Eingangstüre eines Antiquitätengeschäfts in der Marktstraße machte sich ein Unbekannter, wie erst jetzt bekannt wurde, in den vergangenen Tagen zu schaffen. Die Versuche, die Türe aufzuwuchten, scheiterten jedoch und der Täter verschwand. Zurück blieb ein nicht unerheblicher Sachschaden. Zeugen, denen zwischen dem 25.10. und dem 8.11. etwas Verdächtiges aufgefallen ist, sollten sich unter Tel. 07941/9300 bei der Öhringer Polizei melden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.200635,
+        "lon": 9.501290299999999
+    },
+    {
+        "date": "10.11.2013",
+        "city": "Zaberfeld",
+        "street": "Birkenweg",
+        "description": "Bislang unbekannte Einbrecher verschafften sich am Sonntag gewaltsam Zutritt in ein Wohnhaus im Zaberfelder Birkenweg. Zwischen 18.30 Uhr und 22.45 Uhr hebelten die Unbekannten ein Fenster auf und gelangten so ins Innere des Gebäudes. Dort durchstöberten sie verschiedene Behältnisse und entwendeten aus diesen einige Wertgegenstände sowie etwas Bargeld. Vermutlich über die Terrassentüre verließen sie das Haus. Der Wert des Diebesguts kann bislang nicht geschätzt werden. Am Gebäude entstand Sachschaden in Höhe von mehreren hundert Euro. Personen, die verdächtige Wahrnehmung gemacht haben, werden gebeten sich mit der Polizei Lauffen, unter Telefon 07133/2090 in Verbindung zu setzen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0549064,
+        "lon": 8.9285356
+    },
+    {
+        "date": "12.11.2013",
+        "city": "Neudenau",
+        "street": "Josef",
+        "description": "Ungebetenen Besuch erhielt der katholische Kindergarten St. Josef in Neudenau-Herbolzheim in der Nacht von Montag auf Dienstag. Die Unbekannten drangen auf eine bislang nicht nachvollziehbare Weise in das Gebäude ein. Da am Montagabend im Kindergarten die Martinsfeier mit vielen Besuchern stattfand schließt die Polizei nicht aus, dass sich die Täter nach der Veranstaltung einschließen ließen. Die Diebe brachen die verschlossene Türe zum Büro des Kindergartens auf und öffneten dort gewaltsam einen Aktenschrank, aus dem sie ein Laptop stahlen. Mit ihrer Beute verließen sie das Gebäude durch die Terrassentüre, die sie von innen öffneten.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2459874,
+        "lon": 9.3078044
+    },
+    {
+        "date": "13.11.2013",
+        "city": "Beilstein",
+        "street": "Wilhelm-Hauff-Straße",
+        "description": "Offensichtlich bei seinem Vorhaben gestört wurde ein Einbrecher am Mittwoch in Beilstein. Indem er zwischen 6.45 Uhr und 21.40 Uhr ein Fenster aufhebelte, versuchte er ins Innere einer Einliegerwohnung in der Wilhelm-Hauff-Straße zu gelangen. Danach flüchtete er ohne Beute und unerkannt. Zeugen die verdächtige Wahrnehmung gemacht haben werden gebeten, diese der Ilsfelder Polizei unter Telefon 07062/915550 zu melden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.03925419999999,
+        "lon": 9.324490299999999
+    },
+    {
+        "date": "13.11.2013",
+        "city": "Eppingen",
+        "street": "Raußmühlstraße",
+        "description": "Gleich zwei Eppinger Firmen bekamen in der Nacht zum Mittwoch ungebetenen Besuch. In der Zeit zwischen 20.45 Uhr und 8 Uhr brachen die bislang unbekannten Einbrecher eine Türe am Firmengebäude in der Raußmühlstraße auf und gelangten so ins Innere. Nachdem sie eine weitere Türe gewaltsam geöffnet hatten gelangten sie in ein Büro und entwendeten daraus Bargeld in dreistelliger Höhe sowie eine Uhr. Der angerichtete Sachschaden am Gebäude dürfte schätzungsweise mehrere hundert Euro betragen. Auch in eine Firma in der Brettener Straße verschafften sich bislang Unbekannte durch das gewaltsame Öffnen eines Fensters Zutritt in die Räumlichkeiten. In einem Büro durchstöberten sie mehrere Schränke nach Wertgegenständen. Vermutlich wurden sie dabei von einem Mitarbeiter gestört, der kurz nach Mitternacht von einer Dienstfahrt zurückkam, worauf sie ohne Beute flüchteten. Eine bereits bereitgelegte Digitalkamera ließen sie ebenfalls  zurück. Ein Zusammenhang zwischen den beiden Einbrüchen ist möglich. Personen, die verdächtige Wahrnehmungen gemacht haben werden gebeten, sich mit der Eppinger Polizei unter Telefon, 07262/6095-0.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1309839,
+        "lon": 8.8942228
+    },
+    {
+        "date": "13.11.2013",
+        "city": "Eppingen",
+        "street": "Raußmühlstraße",
+        "description": "Gleich zwei Eppinger Firmen bekamen in der Nacht zum Mittwoch ungebetenen Besuch. In der Zeit zwischen 20.45 Uhr und 8 Uhr brachen die bislang unbekannten Einbrecher eine Türe am Firmengebäude in der Raußmühlstraße auf und gelangten so ins Innere. Nachdem sie eine weitere Türe gewaltsam geöffnet hatten gelangten sie in ein Büro und entwendeten daraus Bargeld in dreistelliger Höhe sowie eine Uhr. Der angerichtete Sachschaden am Gebäude dürfte schätzungsweise mehrere hundert Euro betragen. Auch in eine Firma in der Brettener Straße verschafften sich bislang Unbekannte durch das gewaltsame Öffnen eines Fensters Zutritt in die Räumlichkeiten. In einem Büro durchstöberten sie mehrere Schränke nach Wertgegenständen. Vermutlich wurden sie dabei von einem Mitarbeiter gestört, der kurz nach Mitternacht von einer Dienstfahrt zurückkam, worauf sie ohne Beute flüchteten. Eine bereits bereitgelegte Digitalkamera ließen sie ebenfalls  zurück. Ein Zusammenhang zwischen den beiden Einbrüchen ist möglich. Personen, die verdächtige Wahrnehmungen gemacht haben werden gebeten, sich mit der Eppinger Polizei unter Telefon, 07262/6095-0.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1309839,
+        "lon": 8.8942228
+    },
+    {
+        "date": "13.11.2013",
+        "city": "Öhringen",
+        "street": "Poststraße",
+        "description": "In eine Massagepraxis in der Poststraße versuchte ein Unbekannter in der Nacht zum Mittwoch einzubrechen. Der Täter machte sich an der Eingangstüre zu schaffen, scheiterte jedoch an der massiven Türe, so dass er wieder das Weite suchte. Zurück blieb ein Schaden von gut 200 Euro. Sachdienliche Hinweise zu dem gescheiterten Einbrecher nimmt das Polizeirevier unter Tel. 07941/9300 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2011522,
+        "lon": 9.5018593
+    },
+    {
+        "date": "15.11.2013",
+        "city": "Neckarsulm",
+        "street": "Thüringer Straße",
+        "description": "Am Freitag, 15.11.2013, im Zeitraum von 08.00 bis 17.45 Uhr, wurde in Neckarsulm in der Thüringer Straße in ein Einfamilienhaus eingebrochen. Durch das Aufbrechen einer Zugangstüre im Terrassenbereich gelangte der Einbrecher in das Hausinnere, in dem mehrere Zimmer durchsucht wurden. Einige Wertgegenstände wurden entwendet. Personen, die im Bereich der Thüringer Straße oder dem angrenzenden Wohngebiet Verdächtiges wahrgenommen haben, werden gebeten, sich telefonisch unter der Rufnummer 07132/93710 mit dem Polizeirevier Neckarsulm in Verbindung zu setzten.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2019471,
+        "lon": 9.2452987
+    },
+    {
+        "date": "15.11.2013",
+        "city": "Öhringen",
+        "street": "Marktstraße",
+        "description": "In der Zeit von Sonntag 10.11.2013 bis Freitag 15.11.2013 versuchte ein unbekannter Täter in der Marktstraße in ein Haushaltsauflösungsgeschäft einzubrechen. Der Täter versuchte die Hintereingangstüre zur Wintergasse hin aufzuhebeln, was jedoch misslang. Bereits eine Woche zuvor wurde erfolglos versucht, die Eingangstüre aufzuhebeln. Zeugen, die sachdienliche Hinweise geben können, werden gebeten sich beim Polizeirevier Öhringen unter der Telefonnummer 07941/9300 zu melden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.200635,
+        "lon": 9.501290299999999
+    },
+    {
+        "date": "17.11.2013",
+        "city": "Brackenheim",
+        "street": "Siedlungsweg",
+        "description": "Von 15:00 bis 20:30 Uhr waren die Bewohner eines Einfamilienhauses im Meimsheimer Siedlungsweg am vergangenen Sonntag nicht zu Hause. In dieser Zeit hebelten Unbekannte ein Fenster an dem Gebäude auf und gelangten offensichtlich durch dieses ins Innere. Dort durchsuchten sie Schubladen und ließen etwas Bargeld und Schmuck mitgehen. Vermutlich verließen sie das Gebäude durch die Haustüre, denn diese stand bei der Rückkehr der Familie einen Spalt offen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0662224,
+        "lon": 9.0821258
+    },
+    {
+        "date": "17.11.2013",
+        "city": "Mainhardt",
+        "street": "Im Seetal",
+        "description": "Ein bislang unbekannter Täter brach in der Nacht zum Sonntag in einen Imbiss ‚Im Seetal‘ ein. Zunächst versuchte er die Terrassentüre aufzuhebeln. Als dies nicht gelang schlug er die Scheibe ein. Er durchsuchte den Thekenbereich und entwendete aus einer Kasse Bargeld. Aus dem Kühlschrank nahm er noch einige Dosen eines Energy-Drinks mit. Durch den Einbruch entstand ein Schaden von 1500 Euro. Ein Nachbar machte am Samstag gegen 23.45 Uhr in unmittelbarer Nähe des Imbiss eine verdächtige Wahrnehmung. Auf dem Gerüst eines Hauses hielt sich eine Person auf. Dieser versuchte offensichtlich in das Gebäude einzusteigen. Der Unbekannte flüchtete.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.07587239999999,
+        "lon": 9.5642189
+    },
+    {
+        "date": "17.11.2013",
+        "city": "Obersontheim",
+        "street": "Ebbachweg",
+        "description": "In einem Mehrfamilienhaus im Ebbachweg, versuchte am Sonntag in der Zeit zwischen 14 Uhr und 18.30 Uhr ein Unbekannter eine Wohnung aufzubrechen. Die Eingangstüre hielt jedoch dem Aufbruchsversuch stand. An der Türe entstand ein Schaden von 300 Euro.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.05732,
+        "lon": 9.8912722
+    },
+    {
+        "date": "17.11.2013",
+        "city": "Öhringen",
+        "street": "Kelterweg",
+        "description": "In ein zurzeit nur sporadisch bewohntes Haus im Kelterweg drang ein Unbekannter in der Nacht zum Sonntag ein. Anschließend durchsuchte er sämtliche Räume und entwendete eine vorgefundene Geldkassette. In dieser befanden sich aber lediglich persönliche Gegenstände des Geschädigten, so dass der Einbrecher die Kassette auf den Kompost des Nachbargrundstücks warf und verschwand. Mögliche Zeugen sollten sich unter Tel. 07941/9300 bei der Polizei melden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.192338,
+        "lon": 9.5062149
+    },
+    {
+        "date": "18.11.2013",
+        "city": "Möckmühl",
+        "street": "Boschstraße",
+        "description": "Ganz offensichtlich nur auf den Spielautomat hatten es Unbekannte abgesehen, die in der Nacht zum Montag in eine Gaststätte in Möckmühl eingebrochen haben. Vermutlich handelte es sich bei den Einbrechern um dieselben Täter, die sich bereits in der Nacht vom 30. auf 31. Oktober gewaltsam Zutritt zu dem Lokal in der Boschstraße verschafften. Auch damals brachen sie den Spielautomat auf und stahlen aus diesem das Bargeld. Sonst interessierte sie im Raum nichts. Die Polizei hofft, dass jemand im Möckmühler Gewerbegebiet Waagener Tal in der Nacht zum 31. Oktober oder zum 18. November verdächtige Personen oder Fahrzeuge beobachtet hat. Zeugen werden gebeten, sich mit dem Polizeiposten Möckmühl, Telefon 06298 92000, in Verbindung zu setzen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.31850790000001,
+        "lon": 9.3647785
+    },
+    {
+        "date": "18.11.2013",
+        "city": "Neuenstein",
+        "street": "Hinteren Straße",
+        "description": "An der Eingangstüre einer Wohnung im ersten Oberschoss eines Hauses in der Hinteren Straße machte sich ein Unbekannter zwischen dem 18.11. und dem 22.11. zu schaffen. Seine Versuche, die Türe gewaltsam zu öffnen, scheiterten jedoch. Zurück blieb ein Schaden von gut 200 Euro. Mögliche Zeugen sollten sich unter Tel. 07941/9300 bei der Öhringer Polizei melden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2050879,
+        "lon": 9.5804563
+    },
+    {
+        "date": "19.11.2013",
+        "city": "Krautheim",
+        "street": "Goethestraße",
+        "description": "Schöntal / Krautheim  Die Abwesenheit der Hausbesitzer nutzten Einbrecher am Dienstag in Bieringen und Klepsau. In der Bieringer Goethestraße drangen die Täter zwischen 6.45 und 12.30 Uhr über ein rückwärtiges Fenster in das Gebäude ein und durchsuchten sämtliche Räume, wobei sie recht brachial ans Werk gingen. Auf ihrer Suche fiel ihnen lediglich eine Damenuhr in die Hände, mit der sie sich aus dem Staub machten. Vermutlich dieselben Täter waren dann auch noch in der Klepsauer Frankenstraße am Werk. Bei ihrer Rückkehr kurz vor 17 Uhr entdeckten die Geschädigten die angerichtete Bescherung. Wiederum waren die Einbrecher über ein rückwärtiges Fenster eingestiegen und recht brachial vorgegangen. Sie entwendeten einen vorgefundenen kleineren Geldbetrag sowie diverse Schmuckstücke. Der hinterlassene Sachschaden übersteigt bei beiden Einbrüchen den Wert der Beute deutlich. In Bieringen war am Morgen ein silberner Kombi mit auswärtigen Kennzeichen und mehreren südländisch aussehenden Personen aufgefallen. Sachdienliche Hinweise zu den Einbrüchen nimmt der Polizeiposten Krautheim unter Tel. 06294/234 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.42991869999999,
+        "lon": 9.5625656
+    },
+    {
+        "date": "19.11.2013",
+        "city": "Löwenstein",
+        "street": "Wohnhaus",
+        "description": "Bei einem Einbruch in ein Wohnhaus in Löwenstein-Hirrweiler, „Erlenäcker“, erbeutete ein bislang unbekannter Täter am Dienstag in der Zeit von 15.15 Uhr bis 17.00 Uhr mehrere Schmuckstücke von beträchtlichem Wert. Der Unbekannte hatte zuvor die Glasscheibe einer Tür eingeschlagen und konnte so in das Gebäudeinnere gelangen. Der angerichtete Sachschaden dürfte sich auf rund 1.000 Euro belaufen. Sachdienliche Hinweise nimmt die Polizei Weinsberg unter der Tel.Nr.: 07134/9920 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0911490,
+        "lon": 9.4146200
+    },
+    {
+        "date": "19.11.2013",
+        "city": "Schöntal",
+        "street": "Goethestraße",
+        "description": "Schöntal / Krautheim  Die Abwesenheit der Hausbesitzer nutzten Einbrecher am Dienstag in Bieringen und Klepsau. In der Bieringer Goethestraße drangen die Täter zwischen 6.45 und 12.30 Uhr über ein rückwärtiges Fenster in das Gebäude ein und durchsuchten sämtliche Räume, wobei sie recht brachial ans Werk gingen. Auf ihrer Suche fiel ihnen lediglich eine Damenuhr in die Hände, mit der sie sich aus dem Staub machten. Vermutlich dieselben Täter waren dann auch noch in der Klepsauer Frankenstraße am Werk. Bei ihrer Rückkehr kurz vor 17 Uhr entdeckten die Geschädigten die angerichtete Bescherung. Wiederum waren die Einbrecher über ein rückwärtiges Fenster eingestiegen und recht brachial vorgegangen. Sie entwendeten einen vorgefundenen kleineren Geldbetrag sowie diverse Schmuckstücke. Der hinterlassene Sachschaden übersteigt bei beiden Einbrüchen den Wert der Beute deutlich. In Bieringen war am Morgen ein silberner Kombi mit auswärtigen Kennzeichen und mehreren südländisch aussehenden Personen aufgefallen. Sachdienliche Hinweise zu den Einbrüchen nimmt der Polizeiposten Krautheim unter Tel. 06294/234 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.3423166,
+        "lon": 9.539864099999999
+    },
+    {
+        "date": "22.11.2013",
+        "city": "Erlenbach",
+        "street": "Am Hafenmarkt",
+        "description": "In die Erlenbacher Kleintierzuchtanlage, die Am Hafenmarkt liegt, brachen Unbekannte in der Nacht zum Donnerstag ein. Die Täter überstiegen das Eisentor, drückten ein Fenster ein und stiegen durch dieses in das Gebäude. Von dort ließen sie einen blauen, 60X30X30 Zentimeter großen Brutkasten mitgehen. Außerdem stahlen sie einen Bosch-AkkuSchrauber mit Koffer.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1651100,
+        "lon": 9.2661600
+    },
+    {
+        "date": "22.11.2013",
+        "city": "Bad Friedrichshall",
+        "street": "Hohe Straße",
+        "description": "Ein bislang unbekannter Täter warf in der Nacht zum vergangenen Freitag mit einem Stein eine Fensterscheibe zum Sekretariat der Grundschule in der Hohe Straße ein und verschaffte sich so Zutritt ins Schulgebäude.  In mehreren Büros  wurden sämtliche Schränke durchwühlt und darüber hinaus im Lehrerzimmer einige Schrankfächer aufgebrochen. Dem Täter fielen neben einem geringen Geldbetrag eine Digitalkamera  und eine Kaffemaschine  im Gesamtwert von etwa 400 EURO in die Hände. Der angerichtete Sachschaden beläuft sich dagegen auf etwa 1.000 EURO.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "Jagstfeld",
+        "lat": 49.2388573,
+        "lon": 9.204055199999999
+    },
+    {
+        "date": "22.11.2013",
+        "city": "Eppingen",
+        "street": "Pestalozziweg",
+        "description": "Ein bislang unbekannter Täter brach am gestrigen Freitag gegen 18.00 Uhr ein Fenster im Erdgeschoß eines Wohnhauses im Pestalozziweg auf und verschaffte sich so Zutritt in die Wohnung. Der Täter durchsuchte diverse Schränke und Schubladen. Soweit bislang bekannt wurde nichts entwendet. Der entstandene Sachschaden beläuft sich auf etwa 200 EURO.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1409881,
+        "lon": 8.912804699999999
+    },
+    {
+        "date": "22.11.2013",
+        "city": "Heilbronn",
+        "street": "Stuttgarter Straße",
+        "description": "Im fünfstelligen Euro-Bereich dürfte der Wert der Gegenstände liegen, welche in der Zeit von Freitag, 22. November bis Montag, 25. November 2013, bei einem Einbruch in Heilbronn gestohlen wurden. Ein Unbekannter hatte an einem Autohaus in der Stuttgarter Straße das Tor des Reifenlagers aufgebrochen und ließ von dort 16 Sätze Reifen samt Felgen, zwölf Reifen verschiedener Marken und Größen, einen Endschalldämpfer und zwei Dachboxen mitgehen. Der Abtransport muss mit einem größeren Fahrzeug vorgenommen worden sein. Sachdienliche Hinweise nimmt die Polizei Heilbronn unter der Tel.Nr.: 07131/104-2500 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1239966,
+        "lon": 9.2225668
+    },
+    {
+        "date": "22.11.2013",
+        "city": "Obereisesheim",
+        "street": "In der Fuchshalde",
+        "description": "In der Nacht zum vergangenen Freitag brach ein bislang unbekannter Täter an einem Firmengebäude in der Fuchshalde  ein Fenster auf und verschaffte sich so Zugang in das Gebäude. Im Rahmen der Durchsuchung eines Büros fiel dem Täter die Kaffeekasse mit Bargeld in Höhe von mehreren hundert EURO in die Hände.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2001380,
+        "lon": 9.2051000
+    },
+    {
+        "date": "23.11.2013",
+        "city": "Öhringen",
+        "street": "Tiele-Winckler-Straße",
+        "description": "In der Nacht zum Samstag drang ein noch unbekannte Täter in ein Gebäude der evangelischen Jugendhilfe Friedenshort in der Tiele-Winckler-Straße in Öhringen gewaltsam ein, indem eine Fensterscheibe eingeschlagen und das Fenster anschließend geöffnet wurde. Zuvor hatte der Täter vergeblich versucht, dieses Fenster sowie eine Hintereingangstüre aufzuhebeln. In einem Büro und einem weiteren Zimmer wurde offensichtlich gezielt nach Bargeld gesucht. Die gesamte Büroeinrichtung blieb vom Einbrecher unbeachtet. Schließlich begab sich der Eindringling in den Keller, wo ein an der Wand befestigter Tresor mit brachialer Gewalt weggewuchtet und komplett entwendet wurde. Der Täter flüchtete anschließend vermutlich wieder durch das zuvor eingeschlagene Fenster. Der angerichtete Sachschaden beläuft sich nach ersten Schätzungen auf ca. 1500 Euro. Hinweise an die Polizei Öhringen, Tel. 07941/9300",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1953167,
+        "lon": 9.5165202
+    },
+    {
+        "date": "24.11.2013",
+        "city": "Heilbronn",
+        "street": "Lammgasse",
+        "description": "Mit einem Vorschlaghammer versuchten am Sonntagmorgen, kurz nach 5 Uhr, drei Unbekannte das Schaufenster eines Juweliers in der Heilbronner Lammgasse einzuschlagen. Es gelang dem Trio jedoch nicht, da es sich bei der Scheibe um Sicherheitsglas handelt. Zeugen beobachteten die Täter und sahen, wie sie mit einem silberfarbenen oder weißen VW Passat Kombi wegfuhren. Der PKW hatte ein Kennzeichen, das mit ST begann. Eventuell handelte es sich um ein ausländisches Kennzeichen. Die Unbekannten wurden beschrieben als 19 bis 30 Jahre alte Männer. Einer ist zwischen 1,70 Meter und 1,80 Meter groß und hat eine kräftige Figur. Zur Tatzeit war dieser Mann bekleidet mit einer hellen Kapuzenjacke, die im Bauch- und im Rückenbereich etwas dunkler ist. Außerdem trug er eine hellgraue Jogginghose. Bei dem Vorschlaghammer handelt es sich um ein neueres Werkzeug mit einem schwarz-gelben Kunststoffstiel. Diesen Hammer und eine Steppdecke, die wahrscheinlich zur Lärmdämpfung benutzt wurde, ließen die Einbrecher zurück. Die alarmierte Polizei leitete sofort nach der Alarmierung eine Fahndung ein. Zeugen, die wissen, wo der Vorschlaghammer gekauft wurde oder Hinweise auf die Täter haben, werden gebeten, sich mit dem Polizeirevier Heilbronn, Telefon 07131 104-2500, in Verbindung zu setzen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1443642,
+        "lon": 9.2191829
+    },
+    {
+        "date": "25.11.2013",
+        "city": "Heilbronn",
+        "street": "Wilhelmstraße",
+        "description": "Auf Bargeld hatte es offenbar ein bislang noch unbekannter Einbrecher am Montag, in der Zeit von 00.00 Uhr bis 07.00 Uhr, abgesehen. Der Täter hatte die Tür einer Gaststätte in der Heilbronner Wilhelmstraße aufgebrochen und konnte so in das Innere der Gaststätte gelangen. Dort wurden zwei Spielautomaten aufgewuchtet und das darin befindliche Geld entnommen. Die Höhe des Betrages steht derzeit noch nicht fest. Der angerichtete Sachschaden beläuft sich auf mehrere hundert Euro. Sachdienliche Hinweise nimmt die Polizei Heilbronn unter der Tel.Nr.: 07131/104-2500 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1355325,
+        "lon": 9.2190222
+    },
+    {
+        "date": "25.11.2013",
+        "city": "Heilbronn",
+        "street": "Schäfergasse",
+        "description": "Zwei Wohnungen in der Heilbronner Schäfergasse waren am Montag, in der Zeit von 7.30 Uhr bis 17.30 Uhr, das Ziel eines bislang unbekannten Einbrechers. Der Täter hatte zwei Türen aufgewuchtet und konnte so die Räume betreten. Bisher konnte nicht festgestellt werden, dass irgendetwas gestohlen wurde, allerdings sind die Ermittlungen noch nicht abgeschlossen. Sachdienliche Hinweise nimmt die Polizei Heilbronn unter der Tel.Nr.: 07131/104-2500 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1453829,
+        "lon": 9.2194326
+    },
+    {
+        "date": "25.11.2013",
+        "city": "Mainhardt",
+        "street": "Im Seetal",
+        "description": "Einbrecher suchten in der Nacht auf Montag einen Verbrauchermarkt ‚Im Seetal‘ auf. Der Versuch, die Haupteingangstür aufzuhebeln, misslang jedoch. Durch die Einbrecher wurde ein Schaden von 300 Euro verursacht.",
+        "damage": "300",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.07587239999999,
+        "lon": 9.5642189
+    },
+    {
+        "date": "26.11.2013",
+        "city": "Bad Wimpfen",
+        "street": "Schulstraße",
+        "description": "In der Nacht zum Dienstag wurde in das Bad Wimpfener Hohenstaufengymnasium in der Schulstraße eingebrochen. Der Unbekannte schlug dazu ein Fenster ein und konnte so in das Innere des Gebäudes gelangen. Außer einigen Videocassetten fiel dem Einbrecher wohl nichts in die Hände. Der Wert des Diebesgutes ist recht gering, allerdings beträgt der angerichtete Sachschaden mehrere hundert Euro. Hinweise nimmt die Polizei Bad Wimpfen unter der Tel.Nr.: 07063/93340 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2289679,
+        "lon": 9.1601941
+    },
+    {
+        "date": "26.11.2013",
+        "city": "Ilsfeld",
+        "street": "Hölderlinweg",
+        "description": "Ein Haus im Ilsfelder Hölderlinweg war am Dienstag, gegen 18.45 Uhr, das Ziel eines bislang Einbrechers. Der Täter hatte eine Tür aufgehebelt und konnte so in das Innere des Gebäudes gelangen. Bei der anschließenden Durchsuchung fielen dem Unbekannten mehrere Uhren, Schmuckstücke und Briefmarkenalben in die Hände. Der genaue Wert des Diebesgutes ist derzeit noch nicht bekannt. Nach dem bisherigen Stand der Ermittlungen ist davon auszugehen, dass der Täter durch die Rückkehr der Hausbewohnerin in seiner weiteren Tatausführung gestört wurde und unerkannt flüchtete. Personen, die während des Abends rund um den Tatort verdächtige Wahrnehmungen machen konnten oder sonstige sachdienliche Hinweise geben können werden gebeten, sich unter der Tel.Nr.: 07062/915550 mit der Polizei Ilsfeld in Verbindung zu setzen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0654656,
+        "lon": 9.217806600000001
+    },
+    {
+        "date": "28.11.2013",
+        "city": "Nordheim",
+        "street": "Landturmstraße",
+        "description": "Auf Bargeld hatte es ein bislang Unbekannter abgesehen, als er in der Nacht zum Mittwoch eine Firma in der Nordheimer Landturmstraße heimsuchte. Der Einbrecher hatte zunächst ein Fenster aufgebrochen und konnte so in das Innere des Gebäudes gelangen. Dort wurden mehrere Behältnisse durchsucht. Die genaue Höhe des Bargeldbetrages, welcher dem Täter dabei in die Hände fiel, ist  noch nicht bekannt. Sachdienliche Hinweise nimmt die Polizei Lauffen unter der Tel.Nr.: 07133/2090 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1119402,
+        "lon": 9.1321537
+    },
+    {
+        "date": "28.11.2013",
+        "city": "Pfaffenhofen",
+        "street": "Heilbronner Straße",
+        "description": "Bei einem Einbruch in Pfaffenhofen erbeutete ein bislang Unbekannter Zigaretten im Wert von mehreren tausend Euro. Der Einbrecher hatte sich dazu in der Nacht zum Mittwoch eine in der Heilbronner Straße gelegene Tankstelle ausgesucht. Nachdem der Täter ein Fenster aufgedrückt hatte und in das Gebäudeinnere gelangt war, nahm er die Zigaretten an sich und versuchte zudem noch, einen Safe aufzubrechen. Dies misslang jedoch. Der angerichtete Schaden dürfte mehrere tausend Euro betragen. Hinweise nimmt die Polizei Lauffen unter der Tel.Nr.: 07133/2090 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.06495229999999,
+        "lon": 8.9786383
+    },
+    {
+        "date": "01.12.2013",
+        "city": "Bad Rappenau",
+        "street": "Salzelmener Straße",
+        "description": "Zwei bislang Unbekannte versuchten am Sonntag um 03.15 Uhr in ein Wohnhaus in der Salzelmener Straße einzubrechen. Gerade als ein Bewohner nach Hause kam flüchtete ein Täter zu einem in der Nähe abgestellten blau-weißen Mountainbike mit eingeschaltetem LED-Licht und fuhr davon. Der Mann war ca. 19 – 20 Jahre alt, ca. 170 – 175 cm groß, trug eine beige Jacke mit braunen Applikationen sowie eine Kapuze auf dem Kopf. Ein zweiter Täter, der sich am Rolladen eines ebenerdig befindlichen Schlafzimmerfensters zu schaffen machte, flüchtete zu Fuß. Hinweise zu den Tätern oder über verdächtige Wahrnehmungen nimmt der Polizeiposten Bad Rappenau unter Telefon 07264 95900 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2491832,
+        "lon": 9.1262249
+    },
+    {
+        "date": "01.12.2013",
+        "city": "Heilbronn",
+        "street": "Austraße",
+        "description": "Eine Firma in der Heilbronn Austraße war in der Nacht zum Sonntag das Ziel eines Einbrechers. Der bislang noch Unbekannte war dort in eine Werkstatt eingedrungen und ließ zwei Autoreifen mitgehen. Der angerichtete Sachschaden dürfte bei mehreren hundert Euro liegen. Sachdienliche Hinweise nimmt die Polizei Heilbronn unter der Tel.Nr.: 07131/104-2500 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1684772,
+        "lon": 9.2190572
+    },
+    {
+        "date": "01.12.2013",
+        "city": "Neckarsulm",
+        "street": "Weidachstraße",
+        "description": "Eine Firma in der Neckarsulmer Weidachstraße wurde in der Nacht zum Sonntag von einem bislang unbekannten Einbrecher heimgesucht. Der Täter hatte ein Fenster aufgebrochen und konnte so in das Innere der Räume gelangen. Dort wurden weitere Türen aufgehebelt. Gestohlen wurde fast nichts, jedoch beläuft sich der angerichtete Sachschaden auf rund 2.500 Euro.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.198398,
+        "lon": 9.2193741
+    },
+    {
+        "date": "01.12.2013",
+        "city": "Neckarsulm",
+        "street": "Weidachstraße",
+        "description": "In der gleichen Nacht und in der gleichen Straße wurde in eine weitere Firma eingebrochen. Im Innern wurden sämtliche Schränke durchwühlt und Behältnisse aufgebrochen. Bei dieser Einbruchstour fiel dem Unbekannten ein vierstelliger Eurobetrag in die Hände. Der angerichtete Sachsachaden dürfte rund 10.000 Euro betragen. Sachdienliche Hinweise nimmt die Polizei Neckarsulm unter der Tel.Nr.: 07132/93710 entgegen.",
+        "damage": "10.000",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.198398,
+        "lon": 9.2193741
+    },
+    {
+        "date": "02.12.2013",
+        "city": "Heilbronn",
+        "street": "Bahnhofstraße",
+        "description": "Auch in das Gebäude einer Kirchengemeinde in der Heilbronner Bahnhofstraße verschafften sich unbekannte Einbrecher am vergangenen Wochenende gewaltsamen Zutritt. Zwischen Samstagabend 18 Uhr und Montagmorgen warfen die Unbekannten eine Fensterscheibe ein und gelangten so ins Innere des Gebäudes. Dort scheiterte zunächst der Versuch eine verschlossene Bürotür zu öffnen, worauf die Täter ein weiteres Fenster einschlugen. Dort hebelten sie einen Schlüsselkasten auf und stahlen aus diesem einen Generalschlüssel. So war es den Tätern möglich in sämtliche Büros zu gelangen. Dort wüteten die Einbrecher regelrecht indem sie Schränke, Schubladen und Rollcontainer aufhebelten oder mit Gewalt herausrissen. Aus einer Geldkassette wurde Bargeld in noch nicht bekannter Höhe entwendet. Der angerichtete Schaden am Inventar ist beträchtlich und dürfte im fünfstelligen Eurobereich liegen. Zeugen beider Fälle werden gebeten sich mit der Heilbronner Polizei, unter Telefon 07131/104-2500, in Verbindung zu setzen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1427164,
+        "lon": 9.209709
+    },
+    {
+        "date": "02.12.2013",
+        "city": "Heilbronn",
+        "street": "Käferflugstraße",
+        "description": "In der Nacht zum Montag verschafften sich bislang unbekannte Einbrecher Zutritt in eine Gaststätte in der Heilbronner Käferflugstraße. Nachdem sie die Alarmanlage außer Betrieb gesetzt und eine Türe aufgehebelt hatten gelangten die Täter in den Gastraum. Dort brachen sie mehrere Spielautomaten auf und entwendeten aus diesen Münzgeld in unbekannter Höhe. Weiterhin nahmen sie aus verschiedenen Behältnissen mehrere hundert Euro Bargeld sowie eine mit Leergut gefüllten Tüte mit. Am Gebäude entstand zudem ein Sachschaden von rund 500 Euro.",
+        "damage": "500",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1549567,
+        "lon": 9.2266506
+    },
+    {
+        "date": "02.12.2013",
+        "city": "Heilbronn",
+        "street": "Sontheimer Straße",
+        "description": "Vermutlich weil der Täter gestört wurde, misslang am Montag, gegen 03.15 Uhr ein Einbruch in ein Wettbüro in der Sontheimer Straße in Heilbronn. Der Unbekannte hatte versucht, mit einem Werkzeug die Tür des Büros aufzuwuchten. Dies klappte jedoch nicht auf Anhieb, sodass der Einbrecher, welcher bei der weiteren Tatausführung gestört wurde, sein Heil in der Flucht suchte. Hinweise nimmt die Polizei Heilbronn unter der Tel.Nr.: 07131/104-2500 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1289989,
+        "lon": 9.2109159
+    },
+    {
+        "date": "03.12.2013",
+        "city": "Leingarten",
+        "street": "Dieselstraße",
+        "description": "Bei einem Einbruch in ein Büro und ein Fotostudio in der Leingartener Dieselstraße in der Nacht zum Dienstag ließ der Täter hochwertige Kameras und Zubehör mitgehen. Die Höhe des angerichteten Sachschadens ist derzeit noch nicht bekannt. Der Unbekannte hatte zunächst ein Fenster aufgebrochen und konnte so in das Innere der Räume gelangen. Sachdienliche Hinweise nimmt die Polizei Leintal unter der Tel.Nr.: 07138/810630 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.14686039999999,
+        "lon": 9.1241723
+    },
+    {
+        "date": "04.12.2013",
+        "city": "Neuenstein",
+        "street": "",
+        "description": "Auf Geräusche wurde die Bewohnerin eines Hauses im Neuensteiner Ortsteil Neureut am Mittwoch gegen 10.30 Uhr aufmerksam. Als die 29-Jährige nach dem Rechten sah, entdeckte sie ein Pärchen, welches sich offensichtlich unbemerkt in das Wohnhaus geschlichen hatte. Die beiden unterhielten sich in einer ausländischen Sprache. Als die Geschädigte daraufhin sagte, dass sie die Polizei rufen werde, ergriff das Duo die Flucht in Richtung Westen. Dort stiegen sie in ein am Ortsrand abgestelltes silbernes Fahrzeug und fuhren davon. Die unbekannte Frau war etwa 35 Jahre alt, 160 Zentimeter groß und auffallend dick. Sie trug eine dunkle Kapuzenjacke. Ihr Begleiter war cirka gleich alt, etwas größer und hatte dunkelbraune kurze Haare. Aufgrund der rechtzeitigen Entdeckung konnten die beiden Einbrecher nichts entwenden. Vermutlich handelte es sich um zwei Südosteuropäer. Sachdienliche Hinweise nimmt das Polizeirevier Öhringen unter Tel. 07941/9300 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "Neureut",
+        "lat": 49.252281,
+        "lon": 9.597477999999999
+    },
+    {
+        "date": "05.12.2013",
+        "city": "Eppingen",
+        "street": "Frauenbrunner Straße",
+        "description": "Den Maschendrahtzaun, der rund um das Areal eines Eppinger Getränkehandels in der Frauenbrunner Straße steht, trennte ein Unbekannter in der Nacht zum Donnerstag durch. Dann schlug er am Firmengebäude ein Fenster ein und kletterte in das Innere. Dort wuchtete er eine Bürotür auf und begab sich ins Obergeschoß, wo sich eine Wohnung befindet. Der Bewohner wachte jedoch auf und rief den Einbrecher an. Dieser nahm daraufhin die Beine in die Hand und flüchtete ohne Beute.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1341349,
+        "lon": 8.9001016
+    },
+    {
+        "date": "05.12.2013",
+        "city": "Kupferzell",
+        "street": "Sallstraße",
+        "description": "In einen Baumarkt in der Mangoldsaller Sallstraße drangen zwei unbekannte Täter in der Nacht zum Donnerstag mit Brachialgewalt ein. Anschließend entwendeten sie gezielt cirka 30 hochwertige Motorsägen der Marke Stihl im Gesamtwert von rund 20.000 Euro. Bevor sie verschwanden nahmen sie noch das Wechselgeld aus der Kasse sowie einen kompletten kleinen Tresor, in dem sich weiteres Wechselgeld befand, mit. Die beiden Täter hatten vor dem Eingangstor ihr Fahrzeug geparkt, um ihre Beute zu einzuladen. Zeugen, denen in der Tatnacht etwas Verdächtiges aufgefallen ist, sollten sich unter Tel. 07940/9400 bei der Künzelsauer Polizei melden.",
+        "damage": "20.000",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2282435,
+        "lon": 9.641075899999999
+    },
+    {
+        "date": "07.12.2013",
+        "city": "Obersulm",
+        "street": "Falternstraße",
+        "description": "Ein Einfamilienhaus in der Eschenauer Falternstraße war am Samstag zwischen 15:30 -18:00 Uhr das Ziel eines Einbrechers. Der Täter hatte eine Tür aufgehebelt und konnte so in das Innere des Gebäudes gelangen. Anschließend machte sich der Unbekannte an einem Tresor zu schaffen. Nach bisherigem Stand der Ermittlungen wurde jedoch nichts aus dem Haus entwendet. Die Polizei schließt nicht aus, dass der Täter bei der Tatausführung gestört wurde und deshalb ohne Beute die Tatörtlichkeit verließ. Personen, die rund um den Tatort verdächtige Wahrnehmungen machen konnten oder sonstige sachdienliche Hinweise geben können, werden gebeten sich unter der Tel.Nr.: 07134/9920 mit der Polizei Weinsberg in Verbindung zu setzten.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "Eschenau",
+        "lat": 49.1387747,
+        "lon": 9.4089831
+    },
+    {
+        "date": "07.12.2013",
+        "city": "Öhringen",
+        "street": "Im Rosengarten",
+        "description": "Die Abwesenheit der Bewohner wollten unbekannte Einbrecher von Donnerstag auf Freitag nutzen. Im Rosengarten versuchten sie von der Straßenseite her das teilweise durch Buschwerk verdeckte Küchenfenster aufzuhebeln. Aus unbekannten Gründen ließen sie von dem Einbruch ab, vermutlich wurden sie gestört. Ein Bekannter der im Urlaub befindlichen Besitzer bemerkte den Schaden bei seiner täglichen Nachschau.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1914810,
+        "lon": 9.5020740
+    },
+    {
+        "date": "07.12.2013",
+        "city": "Talheim",
+        "street": "Bahnhofstraße",
+        "description": "Bislang unbekannte Einbrecher suchten am vergangenen Wochenende ein Wohn- und Geschäftshaus in der Talheimer Bahnhofstraße heim. Vermutlich am Samstagnachmittag oder den frühen Abendstunden verschafften sich die Diebe gewaltsam Zutritt in das Gebäude, indem sie ein Fenster aufhebelten und in die Räumlichkeiten gelangten. In der Wohnung durchstöberten sie das Inventar nach möglichem Diebesgut, wobei ihnen Bargeld in noch nicht bekannter Höhe in die Hände fiel. Auch aus dem Verkaufsraum einer Gärtnerei, die sich im Erdgeschoss des Hauses befindet, entwendeten die Langfinger aus einem Portemonnaie Bargeld. Da sich das Gebäude im Talheimer Ortskerne befindet hofft die Polizei auf Zeugen. Diese setzen sich bitte mit der Untergruppenbacher Polizei, Telefon 07131/644630, in Verbindung.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0847613,
+        "lon": 9.194117199999999
+    },
+    {
+        "date": "09.12.2013",
+        "city": "Künzelsau",
+        "street": "Schulen",
+        "description": "In einen Verkaufsstand auf dem Vorplatz der Gewerblichen Schulen in Künzelsau brachen Unbekannte in der Nacht zum Montag ein. Zunächst versuchten sie vergeblich die Metalltür des Kiosks aufzuwuchten. Als dies nicht gelang, brachen sie die Klappe zum Verkaufsstand auf und drangen so ins Innere vor. Die Täter erbeuteten daraus vier Kartons mit Energy-Drinks und zwei Kartons mit verschiedenen Schoko- und Müsliriegeln. Der angerichtete Sachschaden in Höhe von 500 Euro übertrifft bei weitem den Wert des Diebesguts. Wer im Tatzeitraum zwischen Sonntag, 19 Uhr, und dem frühen Montagmorgen im Bereich des Schulgeländes Am Gaisberg verdächtige Wahrnehmungen gemacht hat, sollte sich bei der Polizei in Künzelsau, Telefon 07940-9400, melden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.25981669999999,
+        "lon": 9.6882176
+    },
+    {
+        "date": "09.12.2013",
+        "city": "Obersulm",
+        "street": "Eichstraße",
+        "description": "Zwei Einbrüche ereigneten sich am Montag im Raum Obersulm. In ein Einfamilienhaus in der Eichstraße in Obersulm-Eichelberg stieg ein Unbekannter über ein Kellerfenster ein, das er zuvor gewaltsam geöffnet hatte. Der Einbruch ereignete sich zwischen 15:50 und 20:00 Uhr. Der Täter durchsuchte mehrere Schränke im Inneren.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1146129,
+        "lon": 9.4091647
+    },
+    {
+        "date": "09.12.2013",
+        "city": "Obersulm",
+        "street": "Breitäckern",
+        "description": "Ein weiterer Einbruch ereignete sich zwischen 13:30 und 19:00 Uhr in den Breitäckern in Obersulm-Willsbach. Dort drang der Täter über eine Terrassentüre im Untergeschoss in das Gebäude ein. Beide Häuser wurden durch den Täter durchsucht. Welche Gegenstände jeweils entwendet wurden kann zurzeit noch nicht gesagt werden. Der entstandene Sachschaden beläuft sich auf mindestens 1000 Euro. Derzeit wird nicht ausgeschlossen, dass beide Einbrüche von denselben Tätern begangen worden sind. Personen die an den Tatörtlichkeiten verdächtige Wahrnehmungen gemacht haben oder sonstige sachdienliche Hinweise geben können, werden gebeten sich mit der Polizei Weinsberg, unter Tel.-Nr.: 07134/9920, in Verbindung zu setzen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.12898329999999,
+        "lon": 9.3579103
+    },
+    {
+        "date": "10.12.2013",
+        "city": "Heilbronn",
+        "street": "Käferflugstraße",
+        "description": "Bereits zum zweiten Mal innerhalb weniger Wochen, drangen bislang unbekannte Einbrecher in eine Gaststätte in der Heilbronner Käferflugstraße ein und brachen dort zwei Geldspielautomaten auf. In der Nacht zum Dienstag hebelten die Einbrecher eine Türe auf und gelangten so in das Gebäude. Aus den gewaltsam geöffneten Geldspielautomaten entwendeten sie das Münzgeld. Weiterhin entstand Sachschaden in Höhe von mehreren hundert Euro. Zeugen melden sich bitte bei der Heilbronner Polizei, Telefon 07131/104-2500.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1549567,
+        "lon": 9.2266506
+    },
+    {
+        "date": "11.12.2013",
+        "city": "Heilbronn",
+        "street": "Käferflugstraße",
+        "description": "Bereits zum zweiten Mal innerhalb weniger Wochen, drangen bislang unbekannte Einbrecher in eine Gaststätte in der Heilbronner Käferflugstraße ein und brachen dort zwei Geldspielautomaten auf. In der Nacht zum Dienstag hebelten die Einbrecher eine Türe auf und gelangten so in das Gebäude. Aus den gewaltsam geöffneten Geldspielautomaten entwendeten sie das Münzgeld. Weiterhin entstand Sachschaden in Höhe von mehreren hundert Euro. Zeugen melden sich bitte bei der Heilbronner Polizei, Telefon 07131/104-2500.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1549567,
+        "lon": 9.2266506
+    },
+    {
+        "date": "14.12.2013",
+        "city": "Bretzfeld",
+        "street": "Steinsfeldstraße",
+        "description": "Zwei Kellerräume eines Mehrfamilienhauses in der Rappacher Steinsfeldstraße brachen Unbekannte in der Nacht zum Samstag auf. Aus einem der Räume entwendeten sie diverse Taucherutensilien im Wert von über 2.400 Euro sowie eine Schlagbohrmaschine der Marke Derwald im Wert von 500 Euro. Aus dem zweiten Raum wurde ein Hilti-Bohrhammer, ein Bosch-Akkuschrauber, eine Handkreissäge, eine Stichsäge sowie eine Werkzeugkiste entwendet. Sachdienliche Hinweise nimmt der Polizeiposten Bretzfeld unter Tel. 07946/940010 entgegen.",
+        "damage": "2.900",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1774929,
+        "lon": 9.4283681
+    },
+    {
+        "date": "14.12.2013",
+        "city": "Talheim",
+        "street": "Hauptstraße",
+        "description": "In der Samstagnacht verschafften sich unbekannte Einbrecher Zugang zu einer Metzgerei in Talheim und entwendeten einen Laptop. Sie drangen gewaltsam in das Gebäude ein, indem sie zuerst mehrere Fenster im Obergeschoss aufhebelten und schließlich über den Balkon in die angrenzende Wohnung und von dort in die Büroräume der Metzgerei gelangten. Der Laptop blieb das einzige Diebesgut, dass die Täter mitnahmen. Anschließend verließen sie das Gebäude wieder über ein Fenster der Metzgerei.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0831096,
+        "lon": 9.1938133
+    },
+    {
+        "date": "14.12.2013",
+        "city": "Talheim",
+        "street": "Bahnhofstraße",
+        "description": "Bislang unbekannte Einbrecher suchten am vergangenen Wochenende ein Wohn- und Geschäftshaus in der Talheimer Bahnhofstraße heim. Vermutlich am Samstagnachmittag oder den frühen Abendstunden verschafften sich die Diebe gewaltsam Zutritt in das Gebäude, indem sie ein Fenster aufhebelten und in die Räumlichkeiten gelangten. In der Wohnung durchstöberten sie das Inventar nach möglichem Diebesgut, wobei ihnen Bargeld in noch nicht bekannter Höhe in die Hände fiel. Auch aus dem Verkaufsraum einer Gärtnerei, die sich im Erdgeschoss des Hauses befindet, entwendeten die Langfinger aus einem Portemonnaie Bargeld. Da sich das Gebäude im Talheimer Ortskerne befindet hofft die Polizei auf Zeugen. Diese setzen sich bitte mit der Untergruppenbacher Polizei, Telefon 07131/644630, in Verbindung.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0847613,
+        "lon": 9.194117199999999
+    },
+    {
+        "date": "15.12.2013",
+        "city": "Ingelfingen",
+        "street": "Künzelsauer Straße",
+        "description": "In einem Neubau eines Firmengebäudes an der Künzelsauer Straße suchten Unbekannte am vergangenen Wochenende nach Stehlenswertem. Dabei hatten es die Täter auf Baumaschinen abgesehen. Aus einem Heizungsraum entwendeten sie drei Boschgeräte, einen Schlagschrauber, einen Bohrhammer und einen Akkuschrauber mit Tigersäge sowie einen Olsen-Rätschenkasten im Gesamtwert von 2.000 Euro. Sachdienliche Hinweise zu dem Diebstahl nimmt der Polizeiposten Niedernhall unter Tel. 07940/8294 entgegen.",
+        "damage": "2.000",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2989931,
+        "lon": 9.6552853
+    },
+    {
+        "date": "15.12.2013",
+        "city": "Neuenstadt",
+        "street": "Theo-Förch-Straße",
+        "description": "Am Wochenende stiegen unbekannte Täter über ein eingeschlagenes Fenster in ein Lager in Neuenstadt-Kochertürn ein und gelangten von dort in den Personalshop. Sie verließen den Tatort ohne Beute. Das war jedoch nicht der erste Einbruch dieser Art. Bereits Mitte Oktober wurde in die Firma eingebrochen. Damals konnten die Täter etwas Bargeld stehlen. Ob es dieselben Täter waren, ist unklar. Zeugen, die zwischen Freitag und Montag verdächtige Personen oder Fahrzeuge im Bereich der Theo-Förch-Straße gesehen haben, werden gebeten, sich mit dem Polizeiposten Neuenstadt, Telefon 07139 47100, in Verbindung zu setzen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.24087369999999,
+        "lon": 9.3057406
+    },
+    {
+        "date": "16.12.2013",
+        "city": "Niedernhall",
+        "street": "Gerberstraße",
+        "description": "An der Haustüre eines Mehrfamilienhauses in der Gerberstraße machte sich ein Unbekannter in der Nacht zum Montag zu schaffen. Seine Versuche, die gut gesicherte Türe aufzubrechen, scheiterten jedoch, weshalb er wieder verschwand. Zurück blieb ein Schaden von einigen Hundert Euro. Zeugen, die etwas Verdächtiges beobachtet haben, sollten sich unter Tel. 07940/8294 beim Polizeiposten melden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2956648,
+        "lon": 9.6190617
+    },
+    {
+        "date": "17.12.2013",
+        "city": "Ellhofen",
+        "street": "Grantschener Straße",
+        "description": "Gleich an mehreren Stellen versuchte ein Einbrecher am Dienstag, gegen 23.40 Uhr, in eine Firma in der Grantschener Straße in Ellhofen zu gelangen, bevor er durch einen Zeugen an der Fortsetzung seiner Tat gehindert wurde. Nachdem der Täter sich zunächst erfolglos an der Eingangstür versucht hatte, schlug er die Fensterscheibe daneben ein und gelangte auf diese Weise ins Büro. Er verließ den Raum danach und drückte nun von außen ein weiteres Fenster auf. Kurz danach wurde der Unbekannte wachsamen Zeugen an seiner weiteren Tathandlung gestört. Der Täter floh vermutlich ohne Beute. Sachdienliche Hinweise nimmt die Polizei Weinsberg unter der Tel.Nr.: 07134/9920 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1502123,
+        "lon": 9.3200481
+    },
+    {
+        "date": "17.12.2013",
+        "city": "Massenbach",
+        "street": "Mühlweg",
+        "description": "Ein Laptop und einen Zigarettenautomaten erbeuteten unbekannte Täter, als sie zwischen Montag und Dienstag in eine Gaststätte im Massenbacher Mühlweg einstiegen. Sie schlugen hierfür eine Fensterscheibe ein und gelangten so in die Gasträume. Da der Tatzeitraum noch nicht genauer eingegrenzt werden konnte, müsste sich der Einbruch zwischen Montag 16:00 Uhr und Dienstag 15:15 Uhr stattgefunden haben. Ob etwas gestohlen wurde, ist bislang noch nicht bekannt. Zeugen werden gebeten sich beim Polizeiposten  Leintal unter der Telefonnummer 07138 810630 zu melden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1599922,
+        "lon": 9.0658186
+    },
+    {
+        "date": "17.12.2013",
+        "city": "Öhringen",
+        "street": "Austraße",
+        "description": "In den Tankstellenshop beim Ö-Center wollte ein Unbekannter am Dienstag zwischen 0 und 1 Uhr einbrechen, indem er die gläserne Zugangstüre einzuschlagen versuchte. Dies misslang jedoch, da die Verglasung zwar splitterte, aber standhielt. Zurück blieb ein Schaden von 500 Euro. Bereits in der Nacht zum 5.12. hatte vermutlich derselbe Täter versucht, dort einzudringen und war ebenfalls gescheitert. Zeugen, die etwas Verdächtiges beobachtet haben, sollten sich unter Tel. 07941/9300 beim Polizeirevier melden.",
+        "damage": "500",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2045141,
+        "lon": 9.4907842
+    },
+    {
+        "date": "19.12.2013",
+        "city": "Gemmingen",
+        "street": "Daimlerstraße",
+        "description": "In der Nacht von Mittwoch auf Donnerstag wurde in mehrere Bäckereien eingebrochen. Unbekannte Täter wuchteten in Gemmingen, in der Zeit zwischen 21:00 Uhr und 05:00 Uhr, in einer Bäckereifiliale im Freizeitweg ein Fenster auf und gelangten so in den Verkaufsraum. Im Inneren machten sich die Einbrecher an einem Tresor zu schaffen und entwendeten aus diesem Bargeld in einer noch nicht bekannten Höhe. Der dadurch entstandene Sachschaden am Fenster beläuft sich auf etwa 1.500 Euro. Mit brachialer Gewalt wurde auch die Eingangstüre zu einer Bäckerei in der Daimlerstraße in Kirchardt, zwischen 22:00 Uhr und 04:30 Uhr, aufgewuchtet. Ob etwas entwendet wurde, muss noch festgestellt werden. Für sachdienliche Hinweise wenden sich Zeugen bitte an die Polizei Eppingen unter der Telefonnummer: 07262 60950.",
+        "damage": "1.500",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.203663,
+        "lon": 9.000455299999999
+    },
+    {
+        "date": "19.12.2013",
+        "city": "Kirchardt",
+        "street": "Daimlerstraße",
+        "description": "In der Nacht von Mittwoch auf Donnerstag wurde in mehrere Bäckereien eingebrochen. Unbekannte Täter wuchteten in Gemmingen, in der Zeit zwischen 21:00 Uhr und 05:00 Uhr, in einer Bäckereifiliale im Freizeitweg ein Fenster auf und gelangten so in den Verkaufsraum. Im Inneren machten sich die Einbrecher an einem Tresor zu schaffen und entwendeten aus diesem Bargeld in einer noch nicht bekannten Höhe. Der dadurch entstandene Sachschaden am Fenster beläuft sich auf etwa 1.500 Euro. Mit brachialer Gewalt wurde auch die Eingangstüre zu einer Bäckerei in der Daimlerstraße in Kirchardt, zwischen 22:00 Uhr und 04:30 Uhr, aufgewuchtet. Ob etwas entwendet wurde, muss noch festgestellt werden. Für sachdienliche Hinweise wenden sich Zeugen bitte an die Polizei Eppingen unter der Telefonnummer: 07262 60950.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.203663,
+        "lon": 9.000455299999999
+    },
+    {
+        "date": "19.12.2013",
+        "city": "Heilbronn",
+        "street": "Eichelberger Weg",
+        "description": "Alle Schubladen und Schränke eines Wohnhauses im Heilbronner Eichelberger Weg durchsuchten bislang unbekannte Täter am Donnerstag. Zwischen 07:45 Uhr und 23:30 Uhr hebelten die Einbrecher ein Fenster auf und gelangten so ins Innere. Offensichtlich wurde jedoch nichts gestohlen. Sachdienliche Hinweise werden durch die Polizei in Heilbronn unter der Telefonnummer 07131 1042500 angenommen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1481323,
+        "lon": 9.2411388
+    },
+    {
+        "date": "19.12.2013",
+        "city": "Leingarten",
+        "street": "",
+        "description": "Etwa 2.500 Euro Schaden verursachten bislang unbekannte Täter in der Nacht auf Donnerstag, bei einem Einbruch in das Gebäude des Leingartener Kleintierzuchtvereins. In der Zeit zwischen Mittwoch 19:00 Uhr und Donnerstag gegen 09:00 Uhr schlugen die Unbekannten die Scheibe einer Glastür ein und gelangten so in das Gebäude im Gewann „Im Schmalzet“. Im Inneren wuchteten sie dann mehrere Metallschränke in der Küche und den Nebenräumen auf, wobei eine größere Menge Porzellan zu Bruch ging. Nach bisherigem Kenntnisstand wurde nichts entwendet. Sachdienliche Hinweise werden von der Polizei Schwaigern unter der Telefonnummer 07138 810630 entgegengenommen.",
+        "damage": "2.500",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1451573,
+        "lon": 9.1171933
+    },
+    {
+        "date": "20.12.2013",
+        "city": "Heilbronn",
+        "street": "Gottlieb-Daimler-Straße",
+        "description": "Bislang Unbekannte verschafften sich in der Nacht von Donnerstag auf Freitag Zutritt zu der Verkaufs- und Lagerhalle eines Gastro-Service in der Gottlieb-Daimler-Straße. Mehrere Bürotüren wurden aufgehebelt und Bargeld in Höhe von mehreren hundert Euro entwendet. Hinweise über verdächtige Wahrnehmungen bitte an das Polizeirevier Heilbronn unter Telefon 07131 104-2500.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1545966,
+        "lon": 9.2140022
+    },
+    {
+        "date": "20.12.2013",
+        "city": "Heilbronn",
+        "street": "Wimpfener Weg",
+        "description": "Unbekannte drangen am Freitag in der Zeit zwischen 02.00 bis 03.00 Uhr im Wimpfener Weg gewaltsam in die Verkaufsräume eines Geschäfts ein. Die Täter entwendeten in adidas-Sporttaschen sowie in mitgebrachten großen Kunststofftaschen Schuhe und Handtaschen im Wert von mehreren Tausend Euro. Möglicherweise wurden die Täter bei der Ausführung gestört, da eine zum Abtransport bereit gestellte Kunststofftasche im Eingangsbereich zurück blieb. Hinweise über verdächtige Wahrnehmungen bitte an das Polizeirevier Heilbronn unter Telefon 07131 104-2500.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.18603599999999,
+        "lon": 9.1084833
+    },
+    {
+        "date": "20.12.2013",
+        "city": "Möckmühl",
+        "street": "Kirchplatz",
+        "description": "Bislang Unbekannte gelangten in der Nacht von Donnerstag auf Freitag in ein städtisches Gebäude am Kirchplatz 6. Dort wurden insgesamt sechs Holztüren zu Räumlichkeiten der Musikschule und VHS unter massiver Gewaltanwendung aufgebrochen. Die Täter entwendeten mehrere hundert Euro Bargeld sowie zwei Schlüssel. Hinweise über verdächtige Wahrnehmungen bitte an den Polizeiposten Möckmühl unter Telefon 06298 92000.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.3228422,
+        "lon": 9.360790699999999
+    },
+    {
+        "date": "21.12.2013",
+        "city": "Bad Rappenau",
+        "street": "Asternweg",
+        "description": "Ganz anders in Bad Rappenau im Asternweg dort drangen die Täter mit brachialer Gewalt in eine Wohnung im 1. OG ein. Die Wohnungstüre wurde aufgehebelt und nach durchsuchen der Zimmer Schmuckgegenstände und ein kleiner Tresor mitgenommen. Der Tresor diente den Besitzern zur Aufbewahrung ihrer Unterlagen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2365876,
+        "lon": 9.101531099999999
+    },
+    {
+        "date": "21.12.2013",
+        "city": "Bad Wimpfen",
+        "street": "Eichendorffstraße",
+        "description": "Auch in Bad Wimpfen in der Eichendorffstraße nutzen unbekannte Täter die Abwesenheit der Eigentümer zwischen 14.30 Uhr und 17.50 Uhr aus um über ein Fenster einzusteigen. Aus der Wohnung wurden mehrere Armbanduhren gestohlen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2282782,
+        "lon": 9.1544356
+    },
+    {
+        "date": "21.12.2013",
+        "city": "Heilbronn",
+        "street": "Bensheimer Straße",
+        "description": "In Heilbronn in der Bensheimer Straße entwendeten unbekannte Täter ebenfalls Schmuckgegenstände. Hier waren sie durch Aufhebeln eines Fensters in das Haus gelangt. Auch in diesem  Haus  wurden sämtliche Räume durchsucht. Der Tatzeitraum kann zwischen 15.30 Uhr und 22.00 Uhr eingegrenzt werden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1825065,
+        "lon": 9.1054242
+    },
+    {
+        "date": "21.12.2013",
+        "city": "Lauffen",
+        "street": "Ulrichstraße",
+        "description": "In Lauffen in der Ulrichstaße versuchten die Täter mehrfach zwei Wohnungen aufzubrechen. Die Täter gelangten nicht in die Wohnungen, es blieb beim Versuch.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0753667,
+        "lon": 9.1502026
+    },
+    {
+        "date": "21.12.2013",
+        "city": "Untereisesheim",
+        "street": "Gablonzer Weg",
+        "description": "In Untereisesheim versuchten am Samstag, 21.12.2013, im Gablonzer Weg unbekannte Täter eine Terrassentüre auf zu wuchten. Dabei nutzten sie die Abwesenheit der Eigentümer gegen 19.20 Uhr. Die Täter gelangten nicht in das Gebäude. Die den Sachverhalt aufnehmende Streife überprüfte  auch die Gebäude in der näheren Umgebung und stellte an einem Haus in der Bibershecke fest, dass dort eingebrochen wurde. Hier hatten die Täter ein Fenster aufgehebelt und das Haus komplett nach Wertgegenständen durchsucht. Was genau entwendet wurde kann noch nicht gesagt werden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2077538,
+        "lon": 9.194675199999999
+    },
+    {
+        "date": "21.12.2013",
+        "city": "Untereisesheim",
+        "street": "Görlitzer Straße",
+        "description": "Eine Überraschung erlebte auch ein Ehepaar bei ihrer Rückkehr zum Wohnhaus in der Görlitzer Straße am Samstag gegen 19.00 Uhr. Die Haustüre stand offen. Die Täter hatten die Terrassentüre aufgebrochen und ließen sich hier nicht mal durch den anwesenden Hund abschrecken. Diesen fanden die Geschädigten eingesperrt in einem Zimmer. Das Verhalten des Tieres lässt darauf schließen dass es vermutlich betäubt wurde. Auch in diesem Haus  wurden sämtliche Räume des Hauses durchsucht. Ziel waren hier Schmuckgegenstände.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.20769019999999,
+        "lon": 9.193356699999999
+    },
+    {
+        "date": "22.12.2013",
+        "city": "Flein",
+        "street": "Ulrichstaße",
+        "description": "In eine Fleiner Bäckerei verschaffte sich ein bislang unbekannter Einbrecher in der Nacht zum Sonntag gewaltsamen Zutritt und durchwühlte sämtliche Schränke und Schubladen. Aus der Küche entwendete er eine Kaffeekasse der Beschäftigten in der sich Bargeld in noch unbekannter Höhe befand. Zeugen, die in der Tatnacht verdächtige Wahrnehmungen gemacht haben, werden gebeten, sich mit der Weinsberger Polizei, Telefon 07134/9920, in Verbindung zu setzen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.10214819999999,
+        "lon": 9.211708300000002
+    },
+    {
+        "date": "22.12.2013",
+        "city": "Lauffen",
+        "street": "Lauffener Straße",
+        "description": "Vermutlich gestört wurden die Täter bei einem Einbruch am Sonntagabend in Brackenheim-Meimsheim. Um in das Wohnhaus in der Lauffener Straße zu gelangen brachen die Unbekannte ein Fenster auf und gelangten so ins Innere. Im Gebäude wurde nichts durchwühlt und offensichtlich auch nichts gestohlen, weshalb es wahrscheinlich ist, dass die Langfinger gestört wurden. Verdächtige Wahrnehmungen in diesem Zusammenhang werden erbeten an die Lauffener Polizei, unter Telefon 07133/2090.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0977927,
+        "lon": 9.136834499999999
+    },
+    {
+        "date": "23.12.2013",
+        "city": "Heilbronn",
+        "street": "Heidelberger Straße",
+        "description": "Ein bislang Unbekannter drang in der Zeit von Samstag bis Montag in eine Bäckerei in der Heidelberger Straße ein. Nach Aufhebeln eines Fensters gelangte er in die Verkaufsräume, wo er einen kleinen Schranktresor  mit einem geringen Betrag an Wechselgeld entwendete.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.14604139999999,
+        "lon": 9.1846797
+    },
+    {
+        "date": "23.12.2013",
+        "city": "Heilbronn",
+        "street": "Cäcilienbrunnenstraße",
+        "description": "In der Zeit von Sonntag, 13.00 Uhr bis Montag, 05.00 Uhr gelangte ein Unbekannter gewaltsam über die Glaseingangstür in die Räumlichkeiten einer Bäckerei in der Cäcilienbrunnenstraße. Auch hier hatte es der Einbrecher auf Bargeld abgesehen. Mit einem geringen Betrag aus der Kaffeekasse verschwand der Täter. Hinweise über verdächtige Wahrnehmungen nehmen die Polizeireviere Böckingen unter Telefon 07131 204060 sowie Heilbronn unter Telefon 07131 104-2500 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1285496,
+        "lon": 9.2314978
+    },
+    {
+        "date": "23.12.2013",
+        "city": "Neuenstadt",
+        "street": "Gymnasiumstraße",
+        "description": "Bislang Unbekannte drangen in der Zeit von Samstag bis Montag in das Gebäude der Realschule in der Gymnasiumstraße ein. Die Täter gelangten nach Einschlagen eines Fensters im Erdgeschoss ins Gebäudeinnere. Um in ein Büro zu gelangen, zerstörten sie eine Panzerglasscheibe. Aus dem Büro wurde ein Notebook entwendet. Der angerichtete Sachschaden ist erbheblich. Hinweise über verdächtige Wahrnehmungen nimmt der Polizeiposten Neuenstadt unter Telefon 07139 47100 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2343987,
+        "lon": 9.3373467
+    },
+    {
+        "date": "23.12.2013",
+        "city": "Bretzfeld",
+        "street": "Albert-Fernand-Straße",
+        "description": "In eine Wohnung im ersten Stock eines Wohnhauses in der Albert-Fernand-Straße in Unterheimbach versuchte ein Unbekannter am vergangenen Montag zwischen 6.30 und 16.45 Uhr einzubrechen. Seine Versuche, die Wohnungstüre aufzuhebeln, scheiterten jedoch und der Täter verschwand wieder. Mögliche Zeugen sollten sich unter Tel. 07946/940010 beim Polizeiposten in Bretzfeld melden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1402209,
+        "lon": 9.464070399999999
+    },
+    {
+        "date": "23.12.2013",
+        "city": "Heilbronn",
+        "street": "Andersenstraße",
+        "description": "Ein bislang Unbekannter drang in der Zeit von Freitag bis Montag in ein derzeit unbewohntes Wohngebäude in der Andersenstraße ein. Über ein Kellerfenster gelangte der Einbrecher ins Gebäudeinnere, durchsuchte alle Räumlichkeiten und verschwand mit mehreren kleinen Einrichtungsgegenständen im Wert von etwa 100 Euro. Hinweise über verdächtige Wahrnehmungen nimmt das Polizeirevier Böckingen unter Telefon 07131 204060 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.18357700000001,
+        "lon": 9.1198292
+    },
+    {
+        "date": "24.12.2013",
+        "city": "Gemmingen",
+        "street": "Ringstraße",
+        "description": "Leider ruhten auch am Heilig Abend,  24.12.2013 in der Zeit von 17.15 Uhr und 21.00 Uhr die Langfinger nicht. Unbekannte versuchten zunächst in der Ringstraße an einem Wohngebäude ein Küchenfenster aufzuhebeln. Da dies scheiterte, hebelten sie die Hauseingangstüre an der Westseite des Anwesens auf und gelangten so in das Gebäude. Seltsamerweise durchsuchten der oder die Täter das Erdgeschoß nicht, während sie im Obergeschoß sämtliche Räume und Schränke durchsuchten und den Inhalt teilweise auf den Boden warfen. Nach bisherigen Ermittlungen wurde nichts entwendet. Die unverschlossene Türe zur angebauten Gewerbehalle, in der Baumaschinen untergebracht sind,  wurde zwar geöffnet, anscheinend wurde die Halle aber weder betreten noch durchsucht. Der entstandene Sachschaden wird auf ca. 400 Euro geschätzt. Sachdienliche Hinweise zu dem Fall nimmt das Polizeirevier in Eppingen unter Telefon 07262/60950 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1464445,
+        "lon": 8.9703211
+    },
+    {
+        "date": "24.12.2013",
+        "city": "Heilbronn",
+        "street": "Wormser Straße",
+        "description": "Unbekannte drangen am Heiligabend in ein Wohngebäude in der Wormser Straße ein und entwendeten aus den Küchenräumlichkeiten der dort wohnhaften Familie ein sogenanntes IPad, ein IPhone und ein Laptop sowie Bargeld in Höhe von mehreren hundert Euro. Sämtliche Gegenstände waren auf der Küchenarbeitsplatte im Erdgeschoß abgelegt gewesen. Lediglich ein Teil des Bargeldes wurde aus einer Damenhandtasche, die im Flur hing,  gestohlen.  Wie die Täter in die Wohnung gelangten ist völlig unklar, sämtliche Türen und Fenster wurden auf Einbruchspuren untersucht, es konnten keinerlei Aufbruchspuren erkannt werden. Auch der Hausschlüssel nebst Ersatzschlüssel sind vorhanden. Sachdienliche Hinweise nimmt das Polizeirevier Böckingen unter Telefon 07131/204060 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.181552,
+        "lon": 9.109328699999999
+    },
+    {
+        "date": "24.12.2013",
+        "city": "Öhringen",
+        "street": "Heilbronner Straße",
+        "description": "Am Heiligen Abend gegen 23.40 Uhr wurde das Polizeirevier Öhringen von einem Wachdienst informiert, dass die Alarmanlage beim Spielcasino im Brenntenstock ausgelöst habe. Nach wenigen Minuten trafen dort mehrere Streifen des Polizeireviers Öhringen ein. Sie stellten fest, dass von bisher unbekannten Tätern die Glaszugangstüre gewaltsam eingedrückt wurde. Im Innenraum waren insgesamt fünf Spielautomaten aufgehebelt worden. Die Bargeldbehälter fehlten. Das gesamte Tatgeschehen spielte sich innerhalb weniger Minuten ab, wobei sich die Täter von der aktivierten Alarmanlage offensichtlich nicht abschrecken ließen. Wie viel Bargeld sich in den Spielautomaten befand, muss erst noch ermittelt werden. Nach bisherigen Erkenntnissen flüchteten die Täter nach Tatausführung in Richtung Heilbronner Straße, Schwöllbronner Weg bzw. Galgenberg. Kurz vor 23.00 Uhr wurde im dortigen Bereich ein silberner Van beobachtet. Möglicherweise handelt es sich hierbei um das von den Tätern benutzte Fahrzeug. Hinweise bitte an die Polizei Öhringen, Tel. 07941/9300.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2009408,
+        "lon": 9.4876233
+    },
+    {
+        "date": "25.12.2013",
+        "city": "Leingarten",
+        "street": "in der Kleinen Hohle",
+        "description": "Ein bislang Unbekannter drang in der Zeit von Montag bis Mittwoch gewaltsam in das Gebäude des Kindergartens in der Kleinen Hohle ein. Der Einbrecher gelangte nach dem Einschlagen eines Fensters in die Räumlichkeiten und durchsuchte zahlreiche Schränke. Über entwendete Gegenstände liegen derzeit keine Erkenntnisse vor. Hinweise über verdächtige Wahrnehmungen nimmt der Polizeiposten Leintal unter 07138 810630 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.14928279999999,
+        "lon": 9.1016285
+    },
+    {
+        "date": "25.12.2013",
+        "city": "Bretzfeld",
+        "street": "Galgenbergstraße",
+        "description": "Am Mittwochmorgen gegen 04.15 Uhr erwachten Anwohner in der Galgenbergstraße in Schwabbach durch laute Klopfgeräusche. Das Ehepaar ging nach draußen und erkannte am Nachbargebäude zwei bis drei Personen, die sich an einem Rollladen zu schaffen machten. Einer der vermeintlichen Einbrecher bemerkte das Ehepaar und gab einen lauten Pfiff ab. Daraufhin rannten die Personen in Richtung Forchenweg, stiegen in einen dort abgestellten größeren PKW und fuhren beschleunigt davon. Weitere Hinweise bitte an die Polizei Bretzfeld, Tel. 07946/940010.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1804461,
+        "lon": 9.400342100000001
+    },
+    {
+        "date": "25.12.2013",
+        "city": "Mainhardt",
+        "street": "Mönchstraße",
+        "description": "Unbekannte Täter brachen im Zeitraum von Sonntag, 22.12.2013, bis Mittwoch, 25.12.2013, in eine Firma in der Mönchstraße ein. Die Täter durchsuchten anschließend das Gebäude. Nach momentanem Sachstand wurde Münzgeld aus einem Getränkeautomat entwendet; ob noch mehr gestohlen wurde ist noch unklar.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.065471,
+        "lon": 9.5547306
+    },
+    {
+        "date": "26.12.2013",
+        "city": "Heilbronn",
+        "street": "Allee",
+        "description": "Mit einem Metallblock versuchte ein bislang unbekannter Einbrecher in der Nacht zum Donnerstag die Glastür eines Geschäfts in der Heilbronner Allee einzuwerfen. Diese hielt jedoch Stand, sodass der Einbrecher nicht ins Innere des Gebäudes gelangte. Es entstand ein Sachschaden in Höhe von mehreren hundert Euro. Zeugen, die verdächtige Beobachtungen gemacht haben melden diese an die Heilbronner Polizei, Telefon 07131/104-2500.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.140728,
+        "lon": 9.221755
+    },
+    {
+        "date": "26.12.2013",
+        "city": "Nordheim",
+        "street": "Hauptstraße",
+        "description": "Gleich zweimal suchten bislang unbekannte Einbrecher während der Feiertage türkische Schnellrestaurants heim. In der Nordheimer Hauptstraße verschafften sich Unbekannte gewaltsam Zutritt in das Gebäude. Im Gastraum hebelten sie drei Geldspielautomaten auf und entwendeten aus diesen das Münzgeld in noch unbekannter Höhe. An den Geräten selbst dürfte ein Schaden in Höhe von etwa 2.500 Euro entstanden sein. Hinweise bitte an die Lauffener Polizei, Telefon 07133/2090.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1080506,
+        "lon": 9.1302948
+    },
+    {
+        "date": "26.12.2013",
+        "city": "Nordheim",
+        "street": "Hauptstraße",
+        "description": "Auch in der Weinsberger Hauptstraße versuchten Einbrecher ins Innere eines Imbiss zu gelangen. Über eine unverschlossene Türe gelangten diese zunächst in den Flur eines Wohn- und Geschäftshauses. Dort wurde versucht, die Stahltüre aufzubrechen, was nicht gelang. So mussten die Einbrecher unverrichteter Dinge wieder abziehen. Hinterließen aber einen Sachschaden in Höhe von mehreren hundert Euro. Hinweise bitte an die Weinsberger Polizei, Telefon 07134/9920.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1080506,
+        "lon": 9.1302948
+    },
+    {
+        "date": "26.12.2013",
+        "city": "Oberstenfeld",
+        "street": "Landesstraße",
+        "description": "In der Zeit zwischen Samstag und Donnerstag suchte ein bislang unbekannter Täter gleich mehrere Gartenhäuser entlang der Landesstraße 1117 im Gewann \"Ochsenweide\" heim. Indem er den Zaun überstieg, gelangte er auf das erste Grundstück und brach ein Fenster am dortigen Gartenhäuschen auf. Anschließend stieg er in das Innere ein, durchwühlte das Inventar und ließ augenscheinlich nichts mitgehen. Im weiteren Verlauf begab er sich auf das benachbarte Grundstück und hebelte das Türschloss des Gartenhauses auf. Dabei fiel ihm ein Notstromaggregat im Wert von etwa 400 Euro in die Hände, das er mitgehen ließ. Der Schaden an der Tür wurde mit ungefähr 1.000 Euro beziffert. Durch Übersteigen eines weiteren Zugangstors gelangte der Unbekannte schließlich auf das nächste Grundstück und begab sich wiederrum zum Gartenhäuschen. Da die Tür nicht verschlossen war, gelangte er mühelos und ohne Schaden anzurichten in den Innenraum und entwendete daraus eine Schnapsflasche von geringem Wert. Die Ermittlungen dauern an. Hinweise nimmt der Polizeiposten Großbottwar, Tel. 07148/1625-0 oder das Polizeirevier Marbach/N. unter Tel. 07144/900-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0311222,
+        "lon": 9.3322477
+    },
+    {
+        "date": "27.12.2013",
+        "city": "Heilbronn",
+        "street": "Gruppenbacher Straße",
+        "description": "Ein bislang unbekannter Täter brach am vergangenen Freitag in der Zeit zwischen 15.30 und 18.00 Uhr eine Terrassentüre der Gruppenbacher Straße auf und verschaffte sich so Zugang in das Wohnhaus. Lediglich in einem Zimmer durchsuchte der Täter diverse Schränke und Schubladen. Nach ersten Feststellungen der  Wohnungsinhaber wurde vermutlich nichts entwendet.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1264866,
+        "lon": 9.226254100000002
+    },
+    {
+        "date": "27.12.2013",
+        "city": "Obereisesheim",
+        "street": "",
+        "description": "Am vergangenen Freitag in der Zeit zwischen 10.45 und 20.45 Uhr drang ein bislang unbekannter Täter nach Aufbrechen einer Terrassentüre in ein Einfamilienhaus im südlichen Ortsrand von Obereisesheim  ein. Der Täter durchsuchte im Gebäude zahlreiche Räumlichkeiten. Hierbei fielen dem Täter diverser Schmuck und Münzen in die Hände. Die Schadenshöhe ist derzeit noch nicht bekannt.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1921648,
+        "lon": 9.1976463
+    },
+    {
+        "date": "29.12.2013",
+        "city": "Künzelsau",
+        "street": "Stuttgarter Straße",
+        "description": "Die Abwesenheit der Bewohner nutzte ein Einbrecher zwischen Samstag 9 Uhr und Sonntagmorgen. Er brach im zweiten Stock eines Wohnhauses in der Stuttgarter Straße die Türe auf und drang in die Wohnung ein. Eine Besucherin der Nachbarwohnung entdeckte gegen 8.30 Uhr die aufgebrochene Türe und verständigte die Polizei. Was genau entwendet wurde, steht zurzeit noch nicht fest. Zeugen, die im Tatzeitraum etwas Verdächtiges beobachtet haben, sollten sich unter Tel. 07940/9400 beim Polizeirevier melden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2751352,
+        "lon": 9.6849647
+    },
+    {
+        "date": "31.12.2013",
+        "city": "Oedheim",
+        "street": "Eichenstraße",
+        "description": "Am frühen Dienstagmorgen, 31.12.2013, gegen 00.35 Uhr, bemerkte der Hauseigentümer beim Heimkommen, dass offensichtlich während seiner Abwesenheit in sein Haus in der Eichenstraße in Oedheim eingebrochen worden war. Der oder die Täter waren durch Aufhebeln eines Fensters ins Gebäudeinnere gelangt. Durch die Wucht beim Öffnen ging die komplette Scheibe zu Bruch. Im Haus wurden sämtliche Schränke durchsucht. Die Höhe des Sachschadens und des Diebesgutes lässt sich derzeit noch nicht genau beziffern. Anwohner oder Passanten, die bereits am Montagabend des 30.12.2013 verdächtige Wahrnehmungen gemacht haben, werden gebeten sich telefonisch unter 07132/93710 beim Polizeirevier Neckarsulm zu melden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2448595,
+        "lon": 9.248785699999999
+    },
+    {
+        "date": "01.01.2014",
+        "city": "Künzelsau",
+        "street": "Hauptstraße",
+        "description": "Bereits am Neujahrsmorgen wurde im Künzelsauer Stadtgebiet ein 39 Jahre alter, alkoholisierter Mann durch Angehörige eines Security-Dienstes festgehalten, nachdem er zwei Ausstellungsvitrinen in der Hauptstraße eingeschlagen hatte. Eine Polizeistreife brachte den Tatverdächtigen anschließend zur Dienststelle. Nach den bisherigen Ermittlungen hatte er zuvor die Vitrinenverglasung eines Haushaltswarengeschäfts eingeschlagen. Er ließ hochwertige Töpfe und Pfannen mitgehen, verstaute diese in einem mitgebrachten Plastiksack und machte sich anschließend an einer weiteren Vitrine zu schaffen. Auch diese konnte er öffnen und entnahm daraus Optikzubehör, welches er ebenfalls in seinen Plastiksack legte. Den Zeugen fiel der Mann anschließend auf, weil es aus seinem Sack heraus \"verdächtig klapperte\". Sie wollten den Mann ansprechen, dieser lief jedoch davon uns warf auf der Flucht Teile seiner Beute weg. Den Security-Kräften gelang es, ihn einzuholen und bis zum Eintreffen der Polizei festzuhalten. Nach Abschluss der polizeilichen Maßnahmen musste der bereits einschlägig bekannte Dieb wieder auf freien Fuß gesetzt werden. Der von ihm angerichtete Sachschaden beträgt rund 300 Euro; der Diebstahlsschaden liegt bei etwa 500 Euro.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2792043,
+        "lon": 9.6895888
+    },
+    {
+        "date": "01.01.2014",
+        "city": "Langenbrettach",
+        "street": "Neudeck",
+        "description": "Einbruch In der Silvesternacht brach ein bislang Unbekannter in ein Haus in Langenbeutingen, \"Neudeck\" ein. Der Täter hatte dazu offenbar ein Fenster eingeschlagen und konnte so in das Innere des Objektes eindringen. Dort suchte er zielstrebig nach Wertgegenständen und Geld. Insgesamt fielen dem Einbrecher mehrere Schmuckstücke, eine Uhr und etwas Bargeld in die Hände. Die Tat wurde erst am Neujahrsmorgen, gegen 03.30 Uhr, entdeckt. Sachdienliche Hinweise nimmt die Polizei Neckarsulm unter der Tel.Nr.: 07132/93710 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.206605,
+        "lon": 9.420342
+    },
+    {
+        "date": "01.01.2014",
+        "city": "Möckmühl",
+        "street": "Rädlestraße",
+        "description": "Einbruch In der Zeit von Samstag, 29. Dezember 2013, 15.30 Uhr, bis Mittwoch, 01. Januar 2014, 20.00 Uhr, brach ein bislang Unbekannter in ein Wohnhaus in der Züttlinger Rädlestraße ein. Der Einbrecher hatte eine Tür aufgehebelt und konnte so in das Innere des Gebäudes gelangen. Dort wurden sämtliche Zimmer durchsucht. Ob etwas gestohlen wurde, ist momentan noch nicht bekannt. Der angerichtete Sachschaden dürfte sich auf rund 1.000 Euro belaufen. Sachdienliche Hinweise nimmt die Polizei Neckarsulm unter der Tel.Nr.: 07132/93710 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2975334,
+        "lon": 9.336871300000002
+    },
+    {
+        "date": "02.01.2014",
+        "city": "Eppingen",
+        "street": "Muldenstraße",
+        "description": "Von Mi auf Do, 01./02.01., 18.30-12.30 Uhr versuchte ein unbekannter Täter das Wohnzimmerfenster einer Einliegerwohnung in der Muldenstraße in Ittlingen aufzuhebeln. Dem Täter gelang es jedoch hierbei nicht, sich Zutritt zur Wohnung zur verschaffen. Der entstandene Sachschaden beträgt ca. 500 Euro. Personen, die Angaben zum Vorfall machen können, werden gebeten, sich mit der Polizei Eppingen (07262-6095-0) in Verbindung zu setzen.",
+        "damage": "500",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1948983,
+        "lon": 8.9300742
+    },
+    {
+        "date": "02.01.2014",
+        "city": "Heilbronn",
+        "street": "Marktplatz",
+        "description": "In der Zeit zwischen Di., 31.12.2013 und Do, 02.01.2014, 13.00-09.00 Uhr, versuchte ein unbekannter Täter die Eingangstüre zu einem Reisebüro am Marktplatz aufzuhebeln. Nachdem ihm dies nicht gelang, versuchte er, ein Segment der Glasfront im Eingangsbereich einzuschlagen, so dass hierdurch das Glas teilweise zersplitterte. Der Sachschaden beträgt ca. 1000.- Euro. Personen, die Beobachtungen gemacht haben, werden gebeten, sich mit dem Polizeirevier Heilbronn (07131-104-2514) in Verbindung zu setzen.",
+        "damage": "1.000",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.142444,
+        "lon": 9.2190421
+    },
+    {
+        "date": "02.01.2014",
+        "city": "Ittlingen",
+        "street": "Muldenstraße",
+        "description": "Einbruchsversuch In der Zeit von Mittwoch, 17.30 Uhr, bis Donnerstag, 12.30 Uhr, versuchte ein bislang Unbekannter in eine Wohnung in der Ittlinger Muldenstraße einzubrechen. Der Versuch, ein Fenster aufzuhebeln scheiterte jedoch, sodass der Einbrecher nicht in das Gebäude gelangte. Der angerichtete Sachschaden dürfte mehrere hundert Euro betragen. Sachdienliche Hinweise nimmt die Polizei Eppingen unter der Tel.Nr.: 07262 6095-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1948983,
+        "lon": 8.9300742
+    },
+    {
+        "date": "03.01.2014",
+        "city": "Ilsfeld",
+        "street": "König-Wilhelm-Straße",
+        "description": "Über den Hintereingang einer Bäckerei in der König-Wilhelm-Str. verschaffte sich in der Zeit zw. 02. und 03.01, 18.00-05.10 Uhr, ein unbekannter Täter zutritt zu den dortigen Räumlichkeiten. In der Folge gelangte er an Bar- bzw. Wechselgeld des Betriebs i.H.v. 535.-Euro. Der Sachschaden wird auf ca. 700 Euro beziffert. Zeugen, die Angaben zum Vorfall machen können, werden gebeten, sich mit der Polizei Weinsberg (07134-992-0) in Verbindung zu setzen.",
+        "damage": "1.200",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0551743,
+        "lon": 9.244081099999999
+    },
+    {
+        "date": "03.01.2014",
+        "city": "Künzelsau",
+        "street": "Gaisbacher Straße",
+        "description": "Ein unbekannter Täter versuchte in der Nacht zum Freitag, 03.01., in der Zeit zw. 01.30 und 05.00 Uhr, das Fenster der Toilette einer Gaststätte in der Gaisbacher Straße aufzuhebeln. Nachdem ihm dies in der Folge nicht vollständig gelang, ließ der Täter von einem Einstiegsversuch ab und entfernte sich unverrichteter Dinge. Personen, die Beobachtungen zum Hergang machen können, werden gebeten, sich mit der Polizei Künzelsau (07940-940-421) in Verbindung zu setzen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.27379810000001,
+        "lon": 9.6865506
+    },
+    {
+        "date": "03.01.2014",
+        "city": "Künzelsau",
+        "street": "",
+        "description": "Einbruch in Jugendhütte In der Nacht zum Freitag, 03.01., brachen unbekannte Täter das mit einem Eisengitter gesicherte Fenster einer Jugendhütte auf, welche sich zwischen den Ortsteilen Nitzenhausen und Uzenbronnen befindet. Aus der Hütte entwendete der Täter im Anschluss eine Geldkasse mit ca. 50 Euro Bargeld sowie eine Flasche mit alkoholischem Getränk. Sachdienliche Hinweise von Personen, die Beobachtungen machen konnten, nimmt das Poli-zeirevier Künzelsau, 07940-940-440, entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2841494,
+        "lon": 9.690929599999999
+    },
+    {
+        "date": "04.01.2014",
+        "city": "Obrigheim",
+        "street": "Hochbäumel",
+        "description": "Ein bislang unbekannter Täter brach in der Nacht vom Freitag, dem 03.01.2014, auf Samstag, dem 04.01.2014, im Gewann Hochbäumel in eine Maschinenhalle ein und entwendete dort ein Stromaggregat, eine Motorsäge, ca. 300 Liter Diesel, mehrere Zapfwellenkupplungen, eine Gelenkstange sowie zwei Kompletträder im Wert von mehreren tausend Euro. Sachdienliche Hinweise nimmt das Polizeirevier Mosbach, Tel.: 06261/8090, entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.3605120,
+        "lon": 9.0749440
+    },
+    {
+        "date": "05.01.2014",
+        "city": "Bad Rappenau",
+        "street": "Weinbrennerstraße",
+        "description": "In der Zeit von Samstag bis Sonntag wurde in Bad Rappenau in ein Clubheim in der Weinbrennerstraße sowie in zwei Imbissstuben im Bereich \"Zeitwald\" eingebrochen. Es wurde vermutlich nichts entwendet, aber Sachschaden in noch unbekannter Höhe hinterlassen. Hinweise nimmt das Polizeirevier Eppingen unter der Tel. Nr. 07262 60950 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.23459030000001,
+        "lon": 9.114849
+    },
+    {
+        "date": "05.01.2014",
+        "city": "Bad Rappenau",
+        "street": "Weinbrennerstraße",
+        "description": "In der Zeit von Samstag bis Sonntag wurde in Bad Rappenau in ein Clubheim in der Weinbrennerstraße sowie in zwei Imbissstuben im Bereich \"Zeitwald\" eingebrochen. Es wurde vermutlich nichts entwendet, aber Sachschaden in noch unbekannter Höhe hinterlassen. Hinweise nimmt das Polizeirevier Eppingen unter der Tel. Nr. 07262 60950 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.23459030000001,
+        "lon": 9.114849
+    },
+    {
+        "date": "05.01.2014",
+        "city": "Bad Rappenau",
+        "street": "Einfamilienhaus",
+        "description": "In den Nachmittagsstunden des Sonntags drangen bisher noch unbekannte Einbrecher in ein Einfamilienhaus in Bad Rappenau-Bonfeld \"Im Schänzle\" ein. Die Einbrecher durchsuchten das Haus und stahlen Bargeld, Schmuck sowie Münzen. Der Wert des Diebesgutes muss noch ermittelt werden. Die Unbekannten richteten erheblichen Sachschaden an. Hinweise nimmt das Polizeirevier Eppingen unter der Tel. Nr. 07262 60950 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "Bonfeld",
+        "lat": 49.24016899999999,
+        "lon": 9.1020153
+    },
+    {
+        "date": "05.01.2014",
+        "city": "Bretzfeld",
+        "street": "Egertenstraße",
+        "description": "In der Zeit vom Freitag, 27.12.13 bis zum Sonntag, 05.01.14, wurde in ein Wohnhaus in Bretzfeld-Waldbach in der Egertenstraße eingebrochen. Während der Abwesenheit der Eigentümer wurde ein Kellerfenster aufgehebelt. Nach ersten Erkenntnissen wurde nichts entwendet. Hinweise an den Polizeiposten Bretzfeld, 07946 940010",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.162179,
+        "lon": 9.4032105
+    },
+    {
+        "date": "05.01.2014",
+        "city": "Dörzbach",
+        "street": "Bachgasse",
+        "description": "In der Zeit von Samstag, 20.00 Uhr bis Sonntag, 08.00 Uhr drang ein bislang Unbekannter in eine Gartenhütte in der Dörzbacher Bachgasse ein. Aus dem Innern der Hütte ließ der Einbrecher zwei Taschenlampen, zwei Bambusfackeln und eine Flasche Lampenöl mitgehen. Der Gesamtwert des Diebesgutes dürfte bei deutlich über 100 Euro liegen. Sachdienliche Hinweise nimmt die Polizei Künzelsau unter der Tel.Nr.: 07940 940-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.3841045,
+        "lon": 9.7049719
+    },
+    {
+        "date": "06.01.2014",
+        "city": "Künzelsau",
+        "street": "Hauptstraße",
+        "description": "Mit einem Einbruch sind derzeit die Beamten des Künzelsauer Polizeireviers beschäftigt. In der Zeit von Samstag, 14.00 Uhr, bis Montag, 11.45 Uhr, waren Unbekannte in den Verkaufsraum eines Geschäftes in der Künzelsauer Hauptstraße eingedrungen. Bei ihrer Einbruchstour ließen die Täter mehrere hundert Euro Bargeld und Zigaretten im Gesamtwert von über 10.000 Euro mitgehen. Möglicherweise wurde für die Ausübung der Tat ein Kleinbus verwendet, mit welchem auch das Diebesgut eventuell abtransportiert wurde. Weitere Ermittlungen sind derzeit noch im Gange. Sachdienliche Hinweise nimmt die Polizei Künzelsau unter der Tel.Nr.: 07940 940-0 entgegen.",
+        "damage": "10.000",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2792043,
+        "lon": 9.6895888
+    },
+    {
+        "date": "06.01.2014",
+        "city": "Lehrensteinsfeld",
+        "street": "Willsbacher Straße",
+        "description": "Ein bislang Unbekannter brach am Montag, in der Zeit von 11.30 Uhr bis 20.00 Uhr, in ein Wohnhaus in der Lehrensteinsfelder Willsbacher Straße ein. Der Täter hebelte zunächst eine Tür auf und konnte so in das Innere des Gebäudes gelangen. Dort durchsuchte er mehrere Behältnisse. Insgesamt fielen dem Einbrecher mehrere hundert Euro Bargeld in die Hände. Andere Gegenstände blieben unbehelligt. Sachdienliche Hinweise nimmt die Polizei Weinsberg unter der Tel.Nr.: 07134 992-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1313842,
+        "lon": 9.3294142
+    },
+    {
+        "date": "06.01.2014",
+        "city": "Öhringen",
+        "street": "",
+        "description": "Ein bislang Unbekannter hatte in der Nacht zum Montag versucht, in eine Wohnung in Öhringen-Verrenberg, Wiesenkelter einzubrechen. Der Täter hatte hierbei versucht, mit einem unbekannten Werkzeug die Wohnungstür aufzuhebeln, was ihm jedoch misslang. Die Wohnung konnte nicht betreten werden. Weitere Ermittlungen dazu sind im Gange. Sachdienliche Hinweise nimmt die Polizei Öhringen unter der Tel.Nr.: 07941 930-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "Verrenberg",
+        "lat": 49.188207,
+        "lon": 9.461864
+    },
+    {
+        "date": "06.01.2014",
+        "city": "Weinsberg",
+        "street": "Hohe Straße",
+        "description": "Unbekannte Täter brachen im Zeitraum vom 23.12.13 - 06.01.14 in ein Wohnhaus in der Hohe Straße in Gellmersbach ein. Die Täter wuchteten ein Fenster des Hauses auf und gelangten so in die Wohnung. Entwendet wurden verschiedene Schmuckstücke deren Wert noch unbekannt ist. Am Fenster entstand ein Sachschaden von circa 500 Euro. Sachdienliche Hinweise nimmt das Polizeirevier Weinsberg unter der Nummer 07134 992 0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "Gellmersbach",
+        "lat": 49.1813388,
+        "lon": 9.3016769
+    },
+    {
+        "date": "07.01.2014",
+        "city": "Abstatt",
+        "street": "Seeacker",
+        "description": "Ein Hochbaulaser samt Stativ und Zubehör fielen einem bislang Unbekannten in der Zeit von Donnerstag, 19. Dezember 2013 bis Dienstag, 07. Januar 2014 in Abstatt in die Hände. Der Täter hatte einen in der Straße \"Seeacker\" abgestellten Baucontainer aufgebrochen und ließ die Geräte mitgehen. Auf dem benachbarten Häckselplatz wurde vermutlich im gleichen Tatzeitraum eine Grabenwalze gestohlen. Der Wert des Diebesgutes ist derzeit noch nicht exakt bezifferbar. Hinweise nimmt die Polizei Untergruppenbach unter der Tel.Nr.: 07131/644630 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0688071,
+        "lon": 9.2886712
+    },
+    {
+        "date": "07.01.2014",
+        "city": "Heilbronn",
+        "street": "",
+        "description": "Unbekannte Täter brachen in der Zeit vom 04. - 07.01.2014 in eine Apotheke in Heilbronn-Sontheim ein. Entwendet wurden Bargeld und Medikamente in bisher unbekanntem Wert. Sachdienliche Hinweise nimmt das Polizeirevier Heilbronn unter der Nummer 07131 104 2500 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "Sontheim",
+        "lat": 49.115702,
+        "lon": 9.194740999999999
+    },
+    {
+        "date": "08.01.2014",
+        "city": "Erlenbach",
+        "street": "In den Hüttenäckern",
+        "description": "Die beiden Kindergärten in der Erlenbacher Straße \"In den Hüttenäckern\" wurden in der Nacht zum Mittwoch von einem bislang Unbekannten heimgesucht. In einem Fall fiel dem Einbrecher offenbar nichts Stehlenswertes in die Hände, während bei der anderen Tat eine geringe Summe Bargeld sowie ein Laptop samt Zubehör entwendet wurde. Der angerichtete Sachschaden dürfte bei fast 2.000 Euro liegen. Hinweise nimmt die Polizei Neckarsulm unter der Tel.Nr.: 07132 9371-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1780740,
+        "lon": 9.2650270
+    },
+    {
+        "date": "08.01.2014",
+        "city": "Schwaigern",
+        "street": "Paul-Gerhardt-Straße",
+        "description": "Durch ein aufgebrochenes Fenster gelangte am Mittwoch, in der Zeit von 17.00 Uhr bis 19.00 Uhr ein bislang unbekannter Einbrecher in ein Wohnhaus in der Schwaigerner Paul-Gerhardt-Straße. Im Haus wurden sämtliche Behältnisse durchwühlt. Dem Täter fielen bei seinem Beutezug einige Schmuckstücke in die Hände. Der angerichtete Sachschaden wird auf rund 1.000 Euro geschätzt. Sachdienliche Hinweise nimmt die Polizei Lauffen unter der Tel.Nr.: 07133 2090 entgegen.",
+        "damage": "1.000",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.146227,
+        "lon": 9.0618628
+    },
+    {
+        "date": "09.01.2014",
+        "city": "Heilbronn",
+        "street": "Brückenstraße",
+        "description": "Auf eine Gaststätte in der Heilbronn Brückenstraße hatten es in der Nacht zum Donnerstag zwei Unbekannte abgesehen. Gegen 03.00 Uhr brachen die Täter ein Fenster auf, um in das Gebäudeinnere zu gelangen. Vermutlich wurden die Einbrecher jedoch gestört, sodass diese noch vor dem Eintreffen der Polizei flüchten konnten. Sachdienliche Hinweise nimmt die Polizei Heilbronn-Böckingen unter der Tel.Nr.: 07131 204060 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1689665,
+        "lon": 9.2040545
+    },
+    {
+        "date": "10.01.2014",
+        "city": "Öhringen",
+        "street": "Cappelrain",
+        "description": "Der Raum der katholischen Kirchengemeinde im Öhringer \"Cappelrain\" war am Freitag, kurz nach Mitternacht das Ziel eines bislang unbekannten Einbrechers. Nach dem bisherigen Stand der Ermittlungen hatte der Täter durch ein Fenster den Innenraum des dort untergebrachten Kindergartens betreten. Dort brach der Einbrecher mehrere Türen auf. Der angerichtete Sachschaden dürfte beträchtlich sein. Ob etwas gestohlen wurde, steht noch nicht fest. Trotz einer sofort eingeleiteten Fahndung gelang dem Täter die Flucht. Den ersten Erkenntnissen nach, könnte es sich um eine männliche Person handeln, deren Größe etwa 180 cm beträgt, die eine kräftige Figur hat und zur Tatzeit mit einer hellen Jacke und einer dunklen Hose bekleidet war. Sachdienliche Hinweise nimmt die Polizei Öhringen unter der Tel.Nr.: 07941 930-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1971137,
+        "lon": 9.5088239
+    },
+    {
+        "date": "10.01.2014",
+        "city": "Öhringen",
+        "street": "Röntgenstraße",
+        "description": "In der Nacht von Donnerstag auf Freitag waren zwei Kindergärten in der Röntgenstraße und Hungerfeldstraße in Öhringen das Ziel von Einbrechern. Nach dem Aufhebeln von Fenstern konnten die Einbrecher in die Kindergärten gelangen und jeweils einen geringen Bargeldbe-trag auffinden. Sie hinterließen einen Sachschaden von über 1000 Euro. Hinweise an das Polizeirevier Öhringen, Tel. 07941/9300.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1927809,
+        "lon": 9.509694699999999
+    },
+    {
+        "date": "10.01.2014",
+        "city": "Öhringen",
+        "street": "Röntgenstraße",
+        "description": "In der Nacht von Donnerstag auf Freitag waren zwei Kindergärten in der Röntgenstraße und Hungerfeldstraße in Öhringen das Ziel von Einbrechern. Nach dem Aufhebeln von Fenstern konnten die Einbrecher in die Kindergärten gelangen und jeweils einen geringen Bargeldbe-trag auffinden. Sie hinterließen einen Sachschaden von über 1000 Euro. Hinweise an das Polizeirevier Öhringen, Tel. 07941/9300.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1927809,
+        "lon": 9.509694699999999
+    },
+    {
+        "date": "10.01.2014",
+        "city": "Öhringen",
+        "street": "Büttelbronner Straße",
+        "description": "In der Nacht von Donnerstag auf Freitag brachen unbekannte Täter in eine Schule in der Büttelbronner Straße in Öhringen ein. Nachdem sie in das Schulgebäude gelangt waren, durchsuchten sie dieses. Nach bisherigen Kenntnisstand wurde nichts entwendet. Hinweise an das Polizeirevier Öhringen, tel. 07941/9300.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2025728,
+        "lon": 9.4968304
+    },
+    {
+        "date": "11.01.2014",
+        "city": "Eppingen",
+        "street": "Brettener Straße",
+        "description": "Am Samstag, kurz nach Mitternacht, versuchten Unbekannte in ein Autohaus in Eppingen in der Brettener Straße einzubrechen. Nachdem verschiedene Türen und Fenster aufgebrochen bzw. eingeschlagen worden waren, ließen sie offensichtlich von ihrem Vorhaben ab. Sie hinterließen einen Sachschaden von mind. 1000 Euro. Hinweise an das Polizeirevier Eppingen, Tel. 07262/60950.",
+        "damage": "1.000",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1344406,
+        "lon": 8.8986921
+    },
+    {
+        "date": "11.01.2014",
+        "city": "Ilsfeld",
+        "street": "Schulstraße",
+        "description": "Am vergangenen Samstag, in der Zeit zwischen 13.45 Uhr und 17.25 Uhr gelangten bislang unbekannte Täter durch ein Fenster einer Einliegerwohnung in den Wohnbereich eines Objektes in der Schulstraße. In den Räumlichkeiten wurden Schränke und Kommoden durchwühlt. Vermutlich wurden die Täter bei der Tatbegehung gestört, da sie über das Erkerfenster des Esszimmers im Erdgeschoß flüchteten. Dieses Erkerfenster ist der Straßenseite zugewandt, der oder die Täter gingen also das Risiko ein, gesehen zu werden. Im Gebäude selbst waren offen ein Laptop und andere elektronische Geräte abgelegt. Weiterhin wurden zwei hochwertige Armbanduhren nicht mitgenommen, obwohl auch diese offen in den Räumlichkeiten zugänglich waren. Vermutlich hatte der Täter keine Zeit diese Gegenstände mitzunehmen. Durch die Polizei konnte vor Ort Spurensicherung betrieben werden. Sachdienlich Hinweise nimmt das Polizeirevier Weinsberg unter Telefon 07134/9920 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "Auenstein",
+        "lat": 49.0586876,
+        "lon": 9.2874527
+    },
+    {
+        "date": "11.01.2014",
+        "city": "Offenau",
+        "street": "",
+        "description": "Langfinger gehen Einfamilienhaus an Bislang unbekannte Täter gelangten im Laufe der gestrigen Nacht in der Zeit zwischen 15.00 Uhr und 00.30 Uhr über den von der Straßenseite her frei zugänglichen Garten eines Wohnhauses am nördlichen Ortsrand von Offenau und gelangten so auf die Rückseite des dortigen Einfamilienhauses. Dort machten sie sich zunächst an den Rollläden der Terrassentüre und eines danebenliegenden Fensters zu schaffen und schoben diese zur Hälfte auf. Anschließend hebelten sie das hölzerne Fenster des Arbeitszimmers auf. Die geöffnete Terrassentüre sicherten sie mit vor Ort vorgefundenen Möbelstücken gegen Zufallen, wohl um einen schnellen Fluchtweg offenzuhalten. Die Täter gelangten jedenfalls in das Gebäude, durchsuchten und durchwühlten Behältnisse und Zimmer im gesamten Erdgeschoßbereich. Der oder die Täter entwendeten Schmuck im Gesamtwert von mehreren tausend Euro. Andere hochwertige Gegenstände blieben unberührt. Anhand der Spurenlage geht die Polizei von mindestens zwei Tätern aus. Aufgrund der umfangreichen Spurenlage hat auch die Kriminalpolizei die Ermittlungen aufgenommen. Sachdienliche Hinweise zu dem Einbruch nimmt das Polizeirevier Neckarsulm unter Telefon 07132/93710 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2450112,
+        "lon": 9.164699299999999
+    },
+    {
+        "date": "11.01.2014",
+        "city": "Öhringen",
+        "street": "Schillerstraße",
+        "description": "Einbruch in Bürogebäude In der Nacht zum vergangenen Samstag, in der Zeit zwischen 18.15 Uhr und 10.15 Uhr such-ten Einbrecher in der Schillerstraße die Räumlichkeiten eines dortigen Bürogebäudes heim. Offensichtlich mit brachialer Gewalt drückten sie die hölzerne Eingangstüre des 3-stöckigen Gebäudes auf. Im Anschluss wurden im Gebäude sämtliche Büroräumlichkeiten durchsucht. Aus einem Büro im Erdgeschoß wurden aus einer Geldkassette mehrere hundert Euro entwendet. Ferner wurden im 1. Stock die Kaffeekasse entleert. Weiterer Diebstahlschaden entstand nach den bisherigen Ermittlungen nicht. Der angerichtete Sachschaden an Türen und Mobiliar beträgt ca. 500 Euro. Sachdienliche Hinweise auf den oder die Täter werden an das Polizeirevier Öhringen unter Telefon 07941/930245 erbeten.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.202454,
+        "lon": 9.502982399999999
+    },
+    {
+        "date": "12.01.2014",
+        "city": "Heilbronn",
+        "street": "Kaiser-Friedrich-Platz",
+        "description": "In eine Heilbronner Gaststätte brachen in der Nacht zum Sonntag bislang unbekannte Täter ein und entwendeten Zigaretten mit noch unbekanntem Wert. Nachdem sie die Eingangstüre des Lokals am Kaiser-Friedrich-Platz aufgehebelt hatten, gelangten die Einbrecher in die Räumlichkeiten. Dort brachen sie einen aufgestellten Zigarettenautomaten auf und stahlen aus diesem sämtliche Zigaretten. Die Polizei bittet Zeugen, sich unter Telefon 07131/104-2500 zu melden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1404960,
+        "lon": 9.2119560
+    },
+    {
+        "date": "12.01.2014",
+        "city": "Neckarsulm",
+        "street": "Audi AG Straße",
+        "description": "Unbekannte Täter entwendeten zwischen Donnerstag, dem 12. Dezember 2013 und Mittwoch, dem 08. Januar 2014 diverse Sanitärartikel auf einer Baustelle in der Audi AG Straße. Es handelt sich um zwei Automatikbatterien inklusive Stromversorgung, 22 normale Einhebelmischbatterien, drei WC-Drückerplatten, 25 Eckventile, zwei Siphons, drei Kombieckventile und zwei Auslaufventile. Das Diebesgut hat einen Gesamtwert in Höhe von zirka 3400 Euro. Sachdienliche Hinweise nimmt die Polizei in Neckarsulm unter der Telefonnummer: 07132 9371-0 gerne entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1922581,
+        "lon": 9.228708899999999
+    },
+    {
+        "date": "12.01.2014",
+        "city": "Offenau",
+        "street": "Goethestraße",
+        "description": "Mehrere hundert Euro Bargeld, etwas Schmuck sowie ein Mobiltelefon erbeuteten bislang unbekannte Täter bei einem Einbruch in Offenau. In der Zeit zwischen 19 Uhr und 23 Uhr verschafften sich die Unbekannten gewaltsam Zutritt in eine Erdgeschosswohnung in der Goethestraße und durchstöberten dort das Inventar nach Stehlenswertem. Zeugen, die verdächtige Wahrnehmungen gemacht haben werden gebeten, sich mit der Neckarsulmer Polizei unter Telefon 07132/93710 in Verbindung zu setzen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.240727,
+        "lon": 9.1622249
+    },
+    {
+        "date": "13.01.2014",
+        "city": "Haßmersheim",
+        "street": "Wilhelm-Hauff-Straße",
+        "description": "Auf ein Wohnhaus in der Haßmersheim-Neckarmühlbacher Wilhelm-Hauff-Straße hatte es ein bislang Unbekannter am Montag abgesehen. Der Einbrecher hebelte in der Zeit von 08.30 Uhr bis 14.40 Uhr eine Tür auf und konnte so in das Innere des Gebäudes gelangen. Dort durchsuchte der Täter sämtliche Räume und das Mobiliar. Nach dem bisherigen Ermittlungsstand hatte es der Unbekannte ausschließlich auf Bargeld abgesehen. Selbst die Kindersparbüchse blieb nicht unbehelligt. Sachdienliche Hinweise nimmt die Polizei Diedesheim unter der Tel.Nr.: 06261 6757-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.28304860000001,
+        "lon": 9.138965299999999
+    },
+    {
+        "date": "15.01.2014",
+        "city": "Bad Rappenau",
+        "street": "Amtshausstraße",
+        "description": "Das Sportheim in Bad Rappenau-Treschklingen, in der Amtshausstraße, war in der Nacht zum Mittwoch das Ziel eines Einbrechers. Der Täter schlug eine Scheibe ein und konnte so in das Innere des Gebäudes gelangen. Auf Grund der Spurenlage hatte es der Unbekannte vermutlich gezielt auf Bargeld abgesehen, allerdings fiel ihm nur ein sehr geringer Bargeldbetrag in die Hände. Sachdienliche Hinweise nimmt die Polizei Bad Rappenau unter der Tel.Nr.: 07264 95900 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2285029,
+        "lon": 9.059618400000002
+    },
+    {
+        "date": "15.01.2014",
+        "city": "Eppingen",
+        "street": "Scheuerlesstraße",
+        "description": "Eine geringe Summe Bargeld und einen PC erbeutete ein bislang Unbekannter bei einem Einbruch in eine Firma in der Eppinger Scheuerlesstraße. Der Täter hatte dort in der Nacht zum Mittwoch ein Fenster aufgewuchtet und konnte so in das Innere des Betriebes gelangen. Zusätzlich zu seiner erlangten Beute richtete der Einbrecher auch noch einen Sachschaden von mehreren hundert Euro an. Sachdienliche Hinweise nimmt die Polizei Eppingen unter der Tel.Nr.: 07262 6095-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1405732,
+        "lon": 8.9209114
+    },
+    {
+        "date": "15.01.2014",
+        "city": "Massenbachhausen",
+        "street": "Jahnstraße",
+        "description": "Auf das Massenbachhausener Sportheim in der Jahnstraße hatte es ein bislang Unbekannter in der Nacht zum Mittwoch abgesehen. Der Einbrecher hatte ein Fenster aufgebrochen und konnte so in das Gebäudeinnere gelangen. Insgesamt erbeutete der Täter dort wenige Euro Bargeld und einen Flachbildfernsehgerät. Sachdienliche Hinweise nimmt die Polizei Leintal unter der Tel.Nr.: 07138 810630 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1746967,
+        "lon": 9.045052199999999
+    },
+    {
+        "date": "18.01.2014",
+        "city": "Leingarten",
+        "street": "Breitwiesen",
+        "description": "In der Nacht von Donnerstag auf Freitag drangen unbekannte Täter in die Sportgaststätte, Breitwiesen , ein. Die unbekannten Täter zersägten auf der Gebäuderückseite Metallverankerungen eines Schutzgitters am Toilettenfensters und konnten so in den Gastraum eindringen. Es wurden dort mehrere Schubladen und Regale durchsucht. Erbeuten konnten die Täter nur etwas Bargeld. Hinweise bitte an das Polizeirevier Lauffen, Tel.Nr. 07133/2090",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1451573,
+        "lon": 9.1171933
+    },
+    {
+        "date": "18.01.2014",
+        "city": "Offenau",
+        "street": "Jahnstraße",
+        "description": "Im Zeitraum zwischen 17./18.01., 18.00 bis 11.00 Uhr, nutzte ein Unbekannter die Gelegenheit, um sich während der Abwesenheit der Bewohner eines Wohnhauses in der Jahnstraße Zutritt zum Gebäude zu verschaffen. Hierzu hebelte er ein zur Jahnstraße gelegenes Fenster auf und gelangte so ins Hausinnere. Inwieweit der Täter zu Diebesgut gelangte, muss durch den Hausbewohner erst noch geklärt werden. Der Sachschaden am beschädigten Fenster beträgt ca. 1.000 Euro. Zeugenhinweise zur Tat erbittet der Polizeiposten Bad Wimpfen, Tel. 07063-9334-12.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2484855,
+        "lon": 9.1649114
+    },
+    {
+        "date": "18.01.2014",
+        "city": "Öhringen",
+        "street": "Karlsvorstadt",
+        "description": "In der Zeit zwischen Fr/Sa, 17/18.01., 19.00-01.00 Uhr, brach ein bislang unbekannter Täter eine verschlossene Stahltüre eines Lagerraums in der \"Karlsvorstadt\" auf. Nach bisherigen Erkenntnissen wurde aus dem Gebäude nichts entwendet. Der Täter verursachte einen Sachschaden i.H.v. ca. 2.000 Euro. Personen, die Beobachtungen zum Hergang machen konnten, werden gebeten, sich mit dem Polizeirevier Öhrigen, 07941-930-0, in Verbindung zu sezten.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2015697,
+        "lon": 9.5070227
+    },
+    {
+        "date": "19.01.2014",
+        "city": "Bad Rappenau",
+        "street": "Salinenpark",
+        "description": "Eine Holzhütte im Bad Rappenauer Salinenpark brachen in der Nacht zum Sonntag unbekannte Einbrecher auf. In der Hütte, die im Rahmen des Glühweinmarktes aufgestellt worden war verspeisten sie einen Flammkuchen und entwendeten gelagerte Getränke im Wert von mehreren hundert Euro. An der Holzhütte entstand ein Sachschaden in Höhe von etwa 100 Euro. Zeugen, die verdächtige Beobachtungen gemacht haben werden gebeten, sich mit der Polizei in Bad Rappenau, Telefon 07264/95900 in Verbindung zu setzen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2375335,
+        "lon": 9.1167074
+    },
+    {
+        "date": "19.01.2014",
+        "city": "Heilbronn",
+        "street": "Hammelwasen",
+        "description": "In ein Haus der Gartenanlage Hammelwasen in Heilbronn verschafften sich bislang unbekannte Einbrecher gewaltsam Zutritt. In der Zeit zwischen dem 9. Januar und dem 19. Januar brachen die Unbekannten das Türschloss auf und gelangten so ins Innere der Hütte. Ob etwas gestohlen wurde, ist bislang noch nicht bekannt. Der Sachschaden blieb glücklicherweise gering. Zeugenhinweise werden erbeten an die Heilbronner Polizei, Telefon 07131/104-2500.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1411132,
+        "lon": 9.2082145
+    },
+    {
+        "date": "19.01.2014",
+        "city": "Neuenstein",
+        "street": "Höhenweg",
+        "description": "Zwischen Samstag 00:00 Uhr und Sonntag 17:00 Uhr brachen bislang unbekannte Täter in Neuenstein-Kirchensall in einen Gewölbekeller im Höhenweg ein. Dort entwendeten sie zwei hochwertige Mikrophone der Marke Neumann sowie etwas Bargeld. Zeugen werden gebeten sachdienliche Hinweise dem Polizeirevier Öhringen zu melden unter der Telefonnummer: 07941 930-0.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.23772719999999,
+        "lon": 9.600432999999999
+    },
+    {
+        "date": "20.01.2014",
+        "city": "Obersulm",
+        "street": "Marktplatz",
+        "description": "Zwischen Sonntag 19:00 Uhr und Montag 06:15 Uhr brachen bislang unbekannte Täter in eine Bäckerei am Marktplatz in Willsbach ein. Es entstand ein Diebstahlsschaden in Höhe von knapp 1.500 Euro. Sachdienliche Hinweise nimmt die Polizei in Weinsberg unter der Telefonnummer: 07134 992-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.13661459999999,
+        "lon": 9.356084599999999
+    },
+    {
+        "date": "20.01.2014",
+        "city": "Abstatt",
+        "street": "Beilsteiner Straße",
+        "description": "Zwischen Sonntag 21:30 Uhr und Montag 09:30 Uhr brachen bislang unbekannte Täter in ein Hotel in der Beilsteiner Straße in Abstatt ein und entwendeten einen Möbeltresor samt Bargeld in bislang nicht bekannter Höhe. Es entsteht ein Sachschaden in Höhe von knapp 1.000 Euro. Die Polizei in Untergruppenbach bittet um sachdienliche Hinweise an die Telefonnummer: 07131 64463-0.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0649412,
+        "lon": 9.2925212
+    },
+    {
+        "date": "20.01.2014",
+        "city": "Bönnigheim",
+        "street": "Georg-Beer-Straße",
+        "description": "Ebenfalls durch das Aufhebeln der Terassentür gelangten unbekannte Täter am Montag in der Zeit zwischen 17:30 Uhr und 22:00 Uhr in eine Wohnung in der Georg-Beer-Straße. Aus der Wohnung entwendeten die Täter Bargeld und Schmuck. Die Schadenshöhe ist bislang noch nicht bekannt.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0363912,
+        "lon": 9.091308699999999
+    },
+    {
+        "date": "20.01.2014",
+        "city": "Heilbronn",
+        "street": "Jörg-Ratgeb-Platz",
+        "description": "Zwischen Samstag 13:30 Uhr und Montag 07:20 Uhr brachen bislang unbekannte Täter in die Markt-Apotheke am Jörg-Ratgeb-Platz in Heilbronn ein. Die Einbrecher entwendeten Medikamente und Bargeld in einem Gesamtwert von ungefähr 6.000 Euro. Die Polizei in Heilbronn bittet Zeugen des Vorfalls um sachdienliche Hinweise an die Telefonnummer: 07131 104-2514. Stadt- und Landkreis Heilbronn",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.11988059999999,
+        "lon": 9.208008099999999
+    },
+    {
+        "date": "20.01.2014",
+        "city": "Heilbronn",
+        "street": "Elsa-Sitter-Weg",
+        "description": "Zwischen Sonntag 17:00 Uhr und Montag 09:50 Uhr versuchten bislang unbekannte Täter in ein Gartenhaus im Elsa-Sitter-Weg in Heilbronn einzubrechen. Trotz Einschlagen einer Scheibe gelang es den Tätern nicht, ins Gebäudeinnere zu gelangen. Es entstand ein Sachschaden in Höhe von knapp 150 Euro. Die Polizei in Heilbronn-Sontheim bittet um sachdienliche Hinweise an die Telefonnummer: 07131 253093.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.12285670000001,
+        "lon": 9.2155757
+    },
+    {
+        "date": "20.01.2014",
+        "city": "Leingarten",
+        "street": "Benzstraße",
+        "description": "Zwischen Sonntag 19:00 Uhr und Montag 06:30 Uhr brachen bislang unbekannte Täter in Großgartach in der Benzstraße in ein Autohaus ein. Höchstwahrscheinlich, da eine Alarmanlage auslöste, verließen die Einbrecher nach kurzer Zeit das Anwesen wieder. Entwendet wurde lediglich etwas Kleingeld. Der entstandene Sachschaden wurde bislang noch nicht beziffert. Sachdienliche Hinweise nimmt die Polizei in Leintal unter der Telefonnummer: 07138 81063-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1513769,
+        "lon": 9.130401299999999
+    },
+    {
+        "date": "22.01.2014",
+        "city": "Erlenbach",
+        "street": "Käppelesäcker",
+        "description": "In einem Firmenhof im Erlenbacher Käppelesäcker waren in der Nacht zum Mittwoch Diebe aktiv. Die Täter brachen in der Zeit zwischen Dienstagabend 21 Uhr, und Mittwoch, 13.30 Uhr, einen im Hinterhof eines Betriebes einen dort aufgestellten Container auf. Daraus entwendeten sie Autoreifen. Zudem montierten sie von zwei Fahrzeugen beiden Vorbauten, einer davon mit angebrachten Kennzeichen HN-WO 417, ab und nahmen alles mit. Das Polizeirevier Neckarsulm hat die Ermittlungen aufgenommen. Zeugen sollten sich dort unter der Telefonnummer 07132 9371-0, melden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1675418,
+        "lon": 9.2630846
+    },
+    {
+        "date": "22.01.2014",
+        "city": "Heilbronn",
+        "street": "Stuttgarter Straße",
+        "description": "Eine Tankstelle in der Stuttgarter Straße in Heilbronn war das Ziel unbekannter Einbrecher in der Nacht von Mittwochabend 20.00 Uhr bis Donnerstagmorgen 7.00 Uhr. Nach Einschlagen einer Fensterscheibe war es gelungen, ins Gebäude zu gelangen. Entwendet wurden Zigaretten und Bargeld in bislang noch nicht bekannter Höhe. Die Polizei Heilbronn, Telefon 07131/104-2500, sucht Zeugen, die verdächtige Wahrnehmungen gemacht haben.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1239966,
+        "lon": 9.2225668
+    },
+    {
+        "date": "22.01.2014",
+        "city": "Heilbronn",
+        "street": "Wartbergstraße",
+        "description": "Eine Hausmitbewohnerin eines Mehrfamilienhauses in der Heilbronner Wartbergstraße hörte am Mittwoch gegen 17:30 Uhr einen Schlag. Dieser wurde vermutlich durch Einbrecher beim Aufwuchten einer Balkontüre zu einer Erdgeschosswohnung verursacht. Aus der Wohnung einer 75jährigen wurde Schmuck von bislang unbekanntem Wert gestohlen. Täterhinweise liegen bislang keine vor. Zeugen, welche sachdienliche Hinweise geben können, werden gebeten, sich mit dem Polizeirevier Heilbronn unter der Telefonnummer 07131 104-2500 in Verbindung zu setzen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1496738,
+        "lon": 9.229882900000002
+    },
+    {
+        "date": "22.01.2014",
+        "city": "Ilsfeld",
+        "street": "Robert-Kohlhammer-Straße",
+        "description": "Mittwochnacht hatten es Unbekannte in Ilsfeld auf einen Lkw-Reifen abgesehen. Von einem in der Robert-Kohlhammer-Straße auf einem Firmengelände abgestellten Schwerlastanhänger entwendeten sie das Reserverad in der Größe 445/45 R19.5 mit einem Gewicht von etwa 100 kg. Der Reifen war neuwertig. Diebstahlschaden ca. 1.200 Euro. Hinweise zu der Tat nimmt die Polizei in Ilsfeld, Telefon 07062 91555 0, entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0552822,
+        "lon": 9.249075399999999
+    },
+    {
+        "date": "22.01.2014",
+        "city": "Neuenstadt",
+        "street": "Daimlerstraße",
+        "description": "In das Gebäude einer Neuenstadter Firma verschafften sich bislang unbekannte Einbrecher in der Nacht zum Mittwoch gewaltsam Zutritt. Gegen 0:45 Uhr löste der Alarm des Gebäudes aus, weshalb die Streifen zur Firma in der Daimlerstraße fuhren. Schnell stellten die Beamten fest, dass eine Fensterscheibe eingeschlagen worden war. Ob etwas gestohlen wurde, ist bislang nicht bekannt. Zeugen, die Verdächtiges beobachtet haben werden gebeten, dies der Polizei Neckarsulm, unter Telefon 07132/93710 zu melden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.238398,
+        "lon": 9.3429342
+    },
+    {
+        "date": "23.01.2014",
+        "city": "Flein",
+        "street": "Talheimer Straße",
+        "description": "In der Zeit von Mittwoch, 22:00 Uhr bis Donnerstag, 09:00 Uhr, drangen mindestens zwei unbekannte Einbrecher in das Fleiner Stadionrestaurant in der Talheimer Straße ein. Die Täter brachen eine Terrassentüre auf, deren Scheibe dabei zu Bruch ging. Im Gastraum durchstöberten sie den Thekenbereich und entwendeten aus einer Geldkassette und den Bediengeldbeuteln einen vierstelligen Bargeldbetrag. Weiterhin brachen die Unbekannten eine weitere Türe im Inneren der Gaststätte auf. Gleich einen ganzen Zigarettenautomat schleppten die Einbrecher nach draußen und brachen diesen auf einem Grasweg, hinter der Sandberghalle mit brachialer Gewalt auf. Vermutlich um entstandene Spuren zu verwischen, putzten die Diebe den Zigarettenautomaten mit ebenfalls aus der Gaststätte gestohlenen Reinigungsmitteln sowie einem Wischmopp. Sowohl der Wert des Diebesgutes, als auch der angerichtete Schaden können bislang noch nicht beziffert werden. Am Gebäude entstand in Höhe von zirka 1000 Euro. Zeugen, die etwas Verdächtiges beobachtet haben oder andere sachdienliche Hinweise geben können werden gebeten, sich mit der Polizei Untergruppenbach unter der Telefonnummer 07131 644-630 in Verbindung zu setzen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1035813,
+        "lon": 9.2027418
+    },
+    {
+        "date": "24.01.2014",
+        "city": "Heilbronn",
+        "street": "Spitzwegstraße",
+        "description": "Bislang unbekannter Täter drang in der Nacht vom Donnerstag, 23.01.2014, auf Freitag, 24.01.2014, durch das Aufhebeln einer Glastüre in einen Kindergarten in der Spitzwegstraße ein. Aus einem Büroraum entwendete er eine silberfarbene Geldkassette, welche einen geringen Geldbetrag enthielt. Sachdienliche Hinweise nimmt der Polizeiposten Heilbronn-Sontheim, Tel.: 07131/253093, entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1206487,
+        "lon": 9.197479
+    },
+    {
+        "date": "24.01.2014",
+        "city": "Heilbronn",
+        "street": "Neipperger Höhe",
+        "description": "Am Freitag, dem 24.01.2014, in der Zeit zwischen 15.00 Uhr und 18.15 Uhr, drang ein unbekannter Täter in ein Einfamilienhaus in der Neipperger Höhe ein, durchsuchte die Räumlichkeiten und entwendete Schmuck und Sammlermünzen in bislang noch unbekannter Höhe. Sachdienliche Hinweise nimmt die Kriminalpolizei Heilbronn, Tel.. 07131/104-4444, entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1184722,
+        "lon": 9.1508799
+    },
+    {
+        "date": "25.01.2014",
+        "city": "Bad Friedrichshall",
+        "street": "Kirchbrunnenstraße",
+        "description": "Bereits am Samstag, gegen 19.30 Uhr, wollte ein Unbekannter, in eine Wohnung in der Bad Friedrichshaller Kirchbrunnenstraße einzubrechen. Nach den bisherigen Ermittlungen hatte der Einbrecher versucht, eine Tür aufzuwuchten. Vermutlich gelang es dem Täter nicht, die Wohnung zu betreten. Der angerichtete Sachschaden hält sich in Grenzen. Sachdienliche Hinweise nimmt die Polizei Neckarsulm unter der Tel.Nr.: 07132 9371-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2241724,
+        "lon": 9.217794099999999
+    },
+    {
+        "date": "25.01.2014",
+        "city": "Kirchardt",
+        "street": "",
+        "description": "Wenig Diebesgut aber viel Schaden könnte die Überschrift auch lauten, weil in der Zeit von Freitag, 24.01., 17.45 Uhr, bis Samstag 25.01.2014, 08.00 Uhr unbekannte Täter auf der Baustelle des Oberflächenabsetzbeckens zwischen Kirchardt und Bad Rappenau-Grombach insgesamt 3 Mannschaftscontainer und 4 Materialcontainer brachial aufbrachen. Zudem wurde an einem Minibagger KUBOTA die Frontscheibe eingeschlagen und versucht diesen zu starten. Dies gelang den Tätern jedoch nicht. Aus den Containern wurden ein Werkzeugkoffer und verschiedene Werkzeuge entwendet. Das Diebesgut hatte einen Wert von wenigen hundert Euro. Der angerichtete Schaden beträgt ca. 2000 Euro.",
+        "damage": "2.000",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2065724,
+        "lon": 8.9925642
+    },
+    {
+        "date": "26.01.2014",
+        "city": "Heilbronn",
+        "street": "Berliner Platz",
+        "description": "In der Zeit von Samstag, 04:15 Uhr, bis Sonntag, 20:00 Uhr verschaffte sich ein bislang unbekannter Täter Zugang zu einem Wohngebäude am Berliner Platz. Im Kellergeschoss brach er insgesamt vier Türen zu den jeweiligen Kellerräumen auf. Entwendet wurde vermutlich jedoch nichts. Der genaue Sachschaden in bislang noch nicht bekannt. Zeugen oder andere Personen, die sachdienliche Hinweise geben können, werden gebeten sich mit der Polizei Heilbronn unter der Telefonnummer 07131 104-2500 in Verbindung zu setzen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1453729,
+        "lon": 9.2218258
+    },
+    {
+        "date": "26.01.2014",
+        "city": "Löwenstein",
+        "street": "Vorhofer Straße",
+        "description": "Bislang unbekannte Einbrecher verschafften sich am Sonntag gewaltsam Zutritt in ein Löwensteiner Wohnhaus. In der Zeit zwischen 14 Uhr und 19.30 Uhr brachen die Täter ein Fenster des Hauses in der Vorhofer Straße auf und gelangten so in das Gebäude. Im Inneren durchstöberten die Langfinger das Inventar nach möglichem Diebesgut. Eine verschlossene Türe im Obergeschoss brachen sie ebenfalls auf. Gestohlen wurde wahrscheinlich nichts. Am Gebäude entstand Sachschaden von mehreren hundert Euro. Zeugen, die Verdächtiges beobachtet haben werden gebeten, sich mit der Obersulmer Polizei unter Telefon 07130 7077 in Verbindung zu setzen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.09205,
+        "lon": 9.379957700000002
+    },
+    {
+        "date": "26.01.2014",
+        "city": "Niedernhall",
+        "street": "Niedernhaller Straße",
+        "description": "Eine Fahrschule in der Niedernhaller Straße \"Egelsgraben\" war in der Nacht zum Sonntag das Ziel eines bislang unbekannten Einbrechers. Der Täter hatte ein Fenster aufgebrochen und konnte so in das Innere des Gebäudes gelangen. Offenbar hatte es der Unbekannte ausschließlich auf Bargeld abgesehen. Insgesamt fiel dem Einbrecher ein dreistelliger Eurobetrag in die Hände. Der angerichtete Sachschaden dürfte bei fast 4.000 Euro liegen. Sachdienliche Hinweise nimmt die Polizei Künzelsau unter der Tel.Nr.: 07940 940-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.3053128,
+        "lon": 9.6319167
+    },
+    {
+        "date": "27.01.2014",
+        "city": "Heilbronn",
+        "street": "Ludwigsburger Straße",
+        "description": "Auf eine Gaststätte in der Ludwigsburger Straße in Heilbronn hatte es in der Nacht zum Montag ein bislang unbekannter Einbrecher abgesehen. Der Täter hatte dazu eine Tür aufgebrochen und konnte so in das Innere des Gebäudes gelangen. Durch wuchtete der Unbekannte drei Spielautomaten auf und ließ das darin befindliche Bargeld in noch unbekannter Höhe mitgehen. Der angerichtete Sachschaden ist beträchtlich, lässt sich bisher aber noch nicht genau beziffern. Sachdienliche Hinweise nimmt die Polizei Heilbronn-Böckingen unter der Tel.Nr.: 07131 204060 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.13056049999999,
+        "lon": 9.1890279
+    },
+    {
+        "date": "28.01.2014",
+        "city": "Heilbronn",
+        "street": "Poststraße",
+        "description": "In der Nacht von Montag auf Dienstag gelangte ein bislang Unbekannter in der Poststraße in Heilbronn-Kirchhausen, vermutlich über ein verschlossenes Tor auf das eingezäunte Gelände eines Kindergartens. Dort hebelte er ein Fenster auf und stieg ins Gebäude ein. In den Räumlichkeiten brach der Einbrecher diverse verschlossene Schranktüren auf. Da sich im Kindergarten kein lohnenswertes Stehlgut befand, entwendete der Täter nichts. Es entstand Sachschaden am Kindergarten in bislang unbekannter Höhe. Um sachdienliche Hinweise bittet die Polizei in Heilbronn-Kirchhausen unter der Telefonnummer: 07066 9401-0.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.18368539999999,
+        "lon": 9.1115633
+    },
+    {
+        "date": "28.01.2014",
+        "city": "Heilbronn",
+        "street": "Asperger Straße",
+        "description": "Der Kindergarten in der Heilbronner Asperger Straße war in der Nacht zum Dienstag das Ziel eines bislang unbekannten Einbrechers. Der Täter wuchtete zunächst ein Fenster auf und konnte so in das Innere des Gebäudes gelangen. Dort wurden sämtliche Behältnisse durchwühlt. Außer, dass dem Unbekannten etwas Bargeld indie Hände fiel, richtete er auch noch eine Sachschaden in Höhe von mehreren hundert Euro an. Sachdienliche Hinweise nimmt die Polizei Heilbronn-Kirchhausen unter der Tel.Nr.: 07131 94010 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1809095,
+        "lon": 9.1102882
+    },
+    {
+        "date": "28.01.2014",
+        "city": "Heilbronn",
+        "street": "Wilhelm-Blos-Straße",
+        "description": "In der Wilhelm-Blos-Straße in Heilbronn haben Unbekannte vergeblich versucht, bei einem Einbruch Beute zu machen. Gegen 20.20 Uhr wollten sie dort in das Untergeschoß eines Wohngebäudes eindringen, indem sie versuchten ein Fenster aufzuhebeln. Die installierte Warnanlage reagierte und schlug Alarm. Die Täter flüchteten. Sachdienliche Hinweise zu der Tat nimmt die Heilbronner Polizei unter der Telefonnummer 07131 104-2500 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.14239569999999,
+        "lon": 9.2443911
+    },
+    {
+        "date": "28.01.2014",
+        "city": "Leingarten",
+        "street": "Heilbronner Straße",
+        "description": "Unbekannte drangen in der Nacht zum Dienstag in drei Geschäfte in der Heilbronner Straße in Leingarten-Großgartach ein. Von der Rückseite einer Reiseagentur aus dran-gen sie in den dort gelegenen Sozialraum ein und durchsuchten die Schränke. Offenbar fanden sie jedoch nichts Stehlenswertes.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1432562,
+        "lon": 9.131164799999999
+    },
+    {
+        "date": "28.01.2014",
+        "city": "Leingarten",
+        "street": "Heilbronner Straße",
+        "description": "In einer benachbarten Bäckerei, an der die Täter zuvor eine Schiebetür aufgehebelt hatten, fanden die Einbrecher dagegen einen kleineren Bargeldbetrag, den sie aus einem ebenfalls gewaltsam aufgebrochenen Schrank herausnahmen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1432562,
+        "lon": 9.131164799999999
+    },
+    {
+        "date": "28.01.2014",
+        "city": "Leingarten",
+        "street": "Heilbronner Straße",
+        "description": "Schließlich verschafften sie sich auch noch Zugang zu einer nahe gelegenen Buchhandlung. Aus der dortigen Auslage entwendeten sie Zigaretten. Zudem wurden zwei Türen erheblich beschädigt. Der Gesamtschaden bei den drei Einbrüchen beläuft sich auf etwa 8.000 Euro. Zeugen, die im Tatzeitraum zwischen Montag, 20 Uhr, und Dienstag, 4 Uhr, etwas Verdächtiges im Bereich der Heilbronner Straße bemerkt haben, sollten sich beim Polizeiposten Leintal, Telefon 07138 8106 0, melden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1432562,
+        "lon": 9.131164799999999
+    },
+    {
+        "date": "29.01.2014",
+        "city": "Bretzfeld",
+        "street": "Ackermannweg",
+        "description": "In der gleichen Nacht und der gleichen Straße wurde in den katholischen Kindergarten eingebrochen. Auch hier wurde ein Fenster aufgehebelt und im Gebäudeinnern offenbar gezielt nach Bargeld gesucht. Falls die Täter auf eine reiche Beute gehofft hatten, blieb dieser Wunsch glücklicherweise unerfüllt. Lediglich einen recht geringen Bargeldbetrag konnten die Diebe mitgehen lassen. Der angerichtete Sachschaden beträgt in diesem Fall mindestens 1.000 Euro. Die Kindertagesstätte in der Steinsfeldstraße blieb ebenfalls nicht unbehelligt. Nach der gleichen Vorgehensweise wurde auch dort nach Geld gesucht. Nur wenige Euro fielen den Unbekannten in die Hände. Der Sachschaden beläuft sich hier auf mehrere hundert Euro. Beim Einbruch in den Kindergarten in der Humboldtstraße hatten die Täter wiederum ein Fenster aufgehebelt und im Gebäudeinnern alles durchsucht. Da offenbar kein Bargeld zu finden war, wurde ein Büroraum brachial aufgebrochen und eine alte, antiquarische Nähmaschine der Marke Gritzner, Typ VG, gestohlen. Danach verschwanden die Unbekannten vermutlich durch die Terrassentür. Die Polizei Bretzfeld bittet dringend um Hinweise, die zur Ermittlung der Täter führen. Sachdienliche Angaben werden unter der Tel.Nr.: 07946 940-010 entgegengenommen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.17786359999999,
+        "lon": 9.4428976
+    },
+    {
+        "date": "29.01.2014",
+        "city": "Bretzfeld",
+        "street": "Ackermannstraße",
+        "description": "Mit der Aufklärung mehrerer Einbrüche ist die Polizei Bretzfeld derzeit beschäftigt. In der Nacht zum Mittwoch trieben dort vermutlich zwei bislang Unbekannte ihr Unwesen. So wurden in der Ackermannstraße in die Vereinsräume einer Pfadfindergruppe eingebrochen. Die Täter hatten dazu ein Fenster aufgehebelt und konnten so in das Innere der Räumlichkeiten gelangen. Dort wurden sämtliche Behältnisse durchsucht. Insgesamt fielen den Täter bei diesem Beutezug rund 200 Euro Bargeld in die Hände. Der angerichtete Sachschaden beläuft sich auf knapp 1.000 Euro.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.17786359999999,
+        "lon": 9.4428976
+    },
+    {
+        "date": "30.01.2014",
+        "city": "Leingarten",
+        "street": "Heilbronner Straße",
+        "description": "Eine Firma in der Heilbronner Straße in Leingarten war in der Nacht zum Donnerstag das Ziel eines bislang unbekannten Einbrechers. Der Täter hatte dort ein Fenster aufgewuchtet und konnte so in das Innere des Gebäudes gelangen. Sämtliche Räume und Behältnisse wurden durchsucht. Dem Einbrecher fiel ein niedriger vierstelliger Eurobetrag in die Hände. Der angerichtete Sachschaden beläuft sich auf über 1.000 Euro. Sachdienliche Hinweise nimmt die Polizei Leintal unter der Tel.Nr.: 07138 81063-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1432562,
+        "lon": 9.131164799999999
+    },
+    {
+        "date": "01.02.2014",
+        "city": "Schwaigern",
+        "street": "Weststraße",
+        "description": "In der Nacht von Freitag auf Samstag brachen unbekannte Täter in die Grundschule in Schwaigern in der Weststraße ein. Zugang verschafften sich die Täter über ein Fenster im Lehrerzimmer. Dort wurden sämtliche Schränke aufgebrochen. Ebenso wurde das Zimmer zum Sekretariat und das Rektorzimmer aufgebrochen, sowie weitere verschlossene Klassenzimmer und darin befindliche Schränke. Der angerichtete Sachschaden ist weitaus höher als das erbeutete Diebesgut, ein Notebook im Wert von einigen hundert Euro. Hinweise bitte an das Polizeirevier Lauffen, Tel.Nr. 07133/2090",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1455589,
+        "lon": 9.0523899
+    },
+    {
+        "date": "01.02.2014",
+        "city": "Bad Wimpfen",
+        "street": "Kirschenweg",
+        "description": "Zu einem Einbruchsversuch, kam es im Zeitraum von Samstag, 25. Januar, 09.00 Uhr bis Samstag, 01. Februar 2014, 09.00 Uhr im Bad Wimpfener Kirschenweg. Ein Unbekannter hatte versucht, die Haustür eines Einfamilienhauses aufzuhebeln, was jedoch glücklicherweise nicht gelang. Der angerichtete Sachschaden hält sich in Grenzen. Hinweise nimmt die Polizei Bad Wimpfen unter der Tel.Nr.: 07063 9334-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2323385,
+        "lon": 9.1569225
+    },
+    {
+        "date": "02.02.2014",
+        "city": "Schwaigern",
+        "street": "Obelisk",
+        "description": "In den Kindergarten \"Obelisk\" in Schwaigern drangen am vergangenen Wochenende Einbrecher ein. Sie hatten zuvor ein über den Garten zugängliches Fenster aufgebrochen und sich anschließend in den Räumlichkeiten umgesehen. Sie brachen dort mehrere Schränke auf und entnahmen schließlich aus einer vorgefundenen Geldkassette einen geringeren Bargeldbetrag. Über die Terrasse verließen die Täter den Kindergarten. Der von ihnen angerichtete Sachschaden übersteigt den Wert ihrer Beute bei weitem. Das Polizeirevier Lauffen nimmt unter der Telefonnummer 07133 2090 Hinweise zu dem Einbruch entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1429964,
+        "lon": 9.0647257
+    },
+    {
+        "date": "02.02.2014",
+        "city": "Schwaigern",
+        "street": "Schloßstraße",
+        "description": "Ein bislang Unbekannter suchte, in der Zeit von Freitagnachmittag bis Sonntag, drei Kindergärten in Schwaigern heim. An dem Gebäude in der Schloßstraße hatte der Täter ein Fenster aufgebrochen und konnte so in das Innere des Kindergartens eindringen. Dort wuchten noch weitere Behältnisse und Schränke gewaltsam geöffnet. Vermutlich fand der Einbrecher nichts für ihn Stehlenswertes vor. Der angerichtete Sachschaden beläuft sich allerdings auf rund 1.500 Euro.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1436289,
+        "lon": 9.0578747
+    },
+    {
+        "date": "02.02.2014",
+        "city": "Schwaigern",
+        "street": "Gratstraße",
+        "description": "Im gleichen Tatzeitraum erhielt auch der Kindergarten in der Gratstraße ungebetenen Besuch. Wiederum drang der Einbrecher durch ein aufgewuchtetes Fenster in das Gebäude ein, wo eine Tür gewaltsam geöffnet wurde. Auch in diesem Fall wurde vermutlich nichts gestohlen. Die Höhe des angerichteten Sachschadens steht noch nicht fest. Sachdienliche Hinweise nimmt die Polizei Lauffen unter der Tel.Nr.: 07133 209-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1421131,
+        "lon": 9.061073
+    },
+    {
+        "date": "02.02.2014",
+        "city": "Schwaigern",
+        "street": "Weststraße",
+        "description": "Nach zwei Einbrüchen in einen Kindergarten sowie in die Grundschule in Schwaigern wurde dem Polizeiposten Leintal nun eine weitere, gleichgelagerte Tat gemeldet. Im Zeitraum zwischen Freitagabend, 18 Uhr, und Samstag, 4:50 Uhr, waren Unbekannte in die Sonnenberg-Förderschule in der Weststraße eingedrungen und hatten sich anschließend ebenfalls gewaltsam Zugang zu mehreren Innenräumen verschafft. Dabei erlangten sie Bargeld und nahmen eine Bankkarte mit. Mit dieser gelang es den Tätern mehrfach Geld abzuheben. Der Sach- und Diebstahlschaden liegt im fünfstelligen Euro-Bereich. Sachdienliche Hinweise zu den drei Taten nimmt die Polizei in Leintal, Telefon 07138 810630, entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1455589,
+        "lon": 9.0523899
+    },
+    {
+        "date": "02.02.2014",
+        "city": "Heilbronn",
+        "street": "Zehentgasse",
+        "description": "In eine Heilbronner Gaststätte in der Zehentgasse drangen in der Nacht zum Sonntag unbekannte Täter ein. In der Zeit zwischen Sonntag, 2.30 Uhr und 10 Uhr, verschafften sie sich über die Haupteingangstür gewaltsam Zugang zum Gastraum. Anschließend hebelten sie zwei Kellertüren sowie die Metalltür zum Getränkelager auf. Schließlich fanden sie einen Tresor, den sie mit Brachialgewalt von der Wand stemmten und komplett mitnahmen. Zudem entwendeten die Einbrecher eine vorgefundene Geldkassette. Der Sach- und Diebstahlschaden ist fünfstellig. Zeugen, die zur Tatzeit im Bereich der Osteria etwas Verdächtiges beobachtet haben, sollten sich beim Polizeirevier Heilbronn, Telefon 07131 104 2500, melden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1448711,
+        "lon": 9.219301999999999
+    },
+    {
+        "date": "02.02.2014",
+        "city": "Heilbronn",
+        "street": "Achtungstraße",
+        "description": "Eine Gaststätte in der Heilbronner Achtungstraße war am Sonntag, gegen 02.00 Uhr, das Ziel eines bislang unbekannten Einbrechers. Der Täter hatte zunächst versucht, ein Fenster aufzuwuchten, ließ dann aber von seinem Vorhaben ab und machte sich an der Eingangstür zu schaffen. Allerdings scheiterte sein Einbruchsversuch, sodass der Unbekannte unverrichteter Dinge den Tatort verließ. Die Höhe des angerichteten Sachschadens ist derzeit noch nicht bekannt. Sachdienliche Hinweise nimmt die Polizei Heilbronn unter der Tel.Nr.: 07131 104-2500 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1399787,
+        "lon": 9.210985899999999
+    },
+    {
+        "date": "02.02.2014",
+        "city": "Kirchardt",
+        "street": "Kettendstraße",
+        "description": "Ein Clubhaus in der Kirchardter Kettendstraße war in der Nacht zum Sonntag das Ziel eines bislang unbekannten Einbrechers. Der Täter wuchtete zunächst ein Fenster auf und konnte so in das Innere des Gebäudes gelangen. Von dort ließ der Einbrecher ein Fernsehgerät, mehrere Flaschen Whiskey und Münzgeld in noch unbekannter Höhe mitgehen. Sachdienliche Hinweise nimmt die Polizei Eppingen unter der Telefon 07262 6095-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2101947,
+        "lon": 9.0023444
+    },
+    {
+        "date": "02.02.2014",
+        "city": "Oberstenfeld",
+        "street": "Robert-Bosch-Straße",
+        "description": "Vermutlich auf Bargeld und Zigaretten abgesehen hatten es bislang Unbekannte, als sie im Zeitraum zwischen Sonntag 19:00 Uhr und Montag etwa 08:50 Uhr in einen Getränkemarkt in der Robert-Bosch-Straße eindrangen. Über die frei zugängliche Gebäuderückseite gelangten die Täter auf das Firmengelände und arbeiteten sich bis zu einem Fenster im Obergeschoss vor, das sie kurzerhand aufhebelten, um in die Räumlichkeiten einzusteigen. In einem Büroraum durchwühlten sie sämtliche Schränke und Schubladen und ließen Bargeld in Höhe von mehreren Hundert und verschiedene Scheckkarten mitgehen. Im weiteren Verlauf ihrer Diebestour fielen ihnen im Verkaufsraum 150 Schachteln Zigaretten im Wert von etwa 750 Euro in die Hände, die sie mitgehen ließen. Der angerichtete Sachschaden wurde mit etwa 200 Euro beziffert. Die polizeilichen Ermittlungen dauern an. Hinweise nimmt der Polizeiposten Großbottwar unter Telefon 07148/1625-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0176038,
+        "lon": 9.3163123
+    },
+    {
+        "date": "03.02.2014",
+        "city": "Abstatt",
+        "street": "Happenbacher Straße",
+        "description": "Eine Großbaustelle in der Happenbacher Straße in Abstatt war in der Zeit von Samstag, 15.15 Uhr bis Montag, 08.00 Uhr, das Ziel eines unbekannter Einbrechers. Der Täter hatte gewaltsam ein Eingangstor geöffnet und hatte es auf die dort gelagerten Sprieße abgesehen. Es handelt sich dabei um die Menge von rund 400 Stück, mit einem Gesamtwert von rund 40.000 Euro. Zum Abtransport muss mit großer Wahrscheinlichkeit ein Lkw verwendet worden sein. Das Gesamtgewicht des Diebesgutes dürfte bei etwa 12 Tonnen liegen. Der angerichtete Sachschaden liegt bei rund 1.000 Euro. Sachdienliche Hinweise nimmt die Polizei Weinsberg unter der Tel.Nr.: 07134 992-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0731323,
+        "lon": 9.291246899999999
+    },
+    {
+        "date": "03.02.2014",
+        "city": "Künzelsau",
+        "street": "Frankenweg",
+        "description": "Ein Einbrecher war am Montag, zwischen 14 und 18 Uhr, in einem Künzelsauer Alterswohnsitz im Frankenweg aktiv. Der Täter betrat in diesem Zeitraum das Zimmer einer Bewohnerin und hatte dabei offenbar gleich geeignetes Werkzeug mitgebracht um den darin befindlichen Schreibtisch aufzuwuchten. Daraus entnahm er eine schwarze Geldtasche mit der Aufschrift \"Volksbank\", in der sich Bargeld befand. Die Polizei sucht nun Zeugen, die im genannten Zeitraum verdächtige Beobachtungen in dem Seniorenheim gemacht haben. Hinweise bitte unter Telefon 07940 9400.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2800951,
+        "lon": 9.6980035
+    },
+    {
+        "date": "03.02.2014",
+        "city": "Möckmühl",
+        "street": "Ruchsener Straße",
+        "description": "Ein Gartenhaus in der Ruchsener Straße in Möckmühl, war in der Nacht zum Montag das Ziel eines Einbrechers. Der Unbekannte hatte das Fenster des Häuschens aufgebrochen und konnte so in das Innere des Raumes gelangen. Von dort ließ der Täter eine Bohrmaschine und zwei Flaschen Schnaps mitgehen. Sachdienliche Hinweise nimmt die Polizei Möckmühl unter der Tel.Nr.: 06298 92000 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.3264067,
+        "lon": 9.3676148
+    },
+    {
+        "date": "04.02.2014",
+        "city": "Dörzbach",
+        "street": "Drehergasse",
+        "description": "Bislang unbekannte Einbrecher gelangten in der Nacht zum Dienstag in ein Dörzbacher Schreibwarengeschäft. In der Zeit zwischen 18.40 Uhr und 7:50 Uhr versuchten die Unbekannten zunächst eine Türe des Geschäfts in der Drehergasse aufzuhebeln. Da dies misslang, brachen sie ein Oberlicht auf dem Dach des Gebäudes auf und gelangten so in die Räumlichkeiten. Im Inneren wuchteten sie mehrere Schränke auf und durchstöberten diese. Gestohlen wurde aus diesen wahrscheinlich nichts. Aus einer Zigarettenauslage sowie weiteren Behältnissen entwendeten die Langfinger eine größere Menge an Zigarettenschachteln sowie -Stangen. Durch ein weiteres Oberlicht transportierten die Einbrecher ihre Beute nach draußen. Am Gebäude entstand Sachschaden in Höhe von etwa 1.000 Euro. Der Wert des Diebesguts kann bislang nicht beziffert werden. Zeugen die verdächtige Beobachtungen gemacht haben, werden gebeten, sich mit der Polizei Künzelsau, unter Telefon 07940 940-0 in Verbindung zu setzen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.3841812,
+        "lon": 9.7076031
+    },
+    {
+        "date": "04.02.2014",
+        "city": "Eppingen",
+        "street": "Elsenzstraße",
+        "description": "Auf den Lebensmittelladen beim Eppinger Asylbewerberheim in der Elsenzstraße hatte es in der Zeit von Sonntag bis Dienstag ein bislang Unbekannter abgesehen. Der Täter wuchtete dort ein Fenster auf und konnte so in den Verkaufsraum gelangen. Dort ließ der Einbrecher Lebensmittel und Süßigkeiten im Wert von etwa 150 Euro mitgehen. Sachdienliche Hinweise nimmt die Polizei Eppingen unter der Tel.Nr.: 07262 6095-0 entgegen",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1327972,
+        "lon": 8.900807499999999
+    },
+    {
+        "date": "04.02.2014",
+        "city": "Heilbronn",
+        "street": "Querschulgasse",
+        "description": "Ein weiterer Einbruch wurde am Dienstag, in der Zeit von 01.00 Uhr bis 09.30 Uhr in der Heilbronner Querschulgasse verübt. Der Täter hatte dort das Fenster einer Gaststätte aufgebrochen und konnte so in das Innere des Lokals gelangen. Dort wuchtete der Unbekannte zwei Geldspielautomaten auf und ließ Bargeld in noch unbekannter Höhe mitgehen. Auch in der Lammgasse schlug der Einbrecher zu.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1420853,
+        "lon": 9.2216869
+    },
+    {
+        "date": "04.02.2014",
+        "city": "Heilbronn",
+        "street": "Gartenstraße",
+        "description": "Auf ein Wohnhaus in der Heilbronner Gartenstraße hatte es ein bislang Unbekannter am Dienstag, in der Zeit von 11.00 Uhr bis 18.30 Uhr abgesehen. Der Täter gelangte auf bisher nicht bekannte Weise in das Mehrfamilienhaus und brach dort eine Wohnungstür auf. Mehrere Räume wurden durchsucht. Ob der Einbrecher etwas gestohlen hat, ist bisher noch nicht bekannt.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1461768,
+        "lon": 9.2253926
+    },
+    {
+        "date": "04.02.2014",
+        "city": "Heilbronn",
+        "street": "Gartenstraße",
+        "description": "Ebenfalls am Dienstagnachmittag gelang es einem Unbekannten in der Gartenstraße auf die gleiche Art, in eine Wohnung zu gelangen. Dort wurde alles durchsucht. Ob etwas gestohlen wurde, lässt sich bisher noch nicht definitiv sagen. Die Polizei Heilbronn nimmt unter der Tel.Nr.: 07131 104-2500 sachdienliche Hinweise entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1461768,
+        "lon": 9.2253926
+    },
+    {
+        "date": "04.02.2014",
+        "city": "Heilbronn",
+        "street": "Schillerstraße",
+        "description": "Vermutlich nicht mit der Anwesenheit der Bewohnerin eines Hauses in der Heilbronner Schillerstraße hatten Einbrecher am Dienstag, gegen 13.30 Uhr, gerechnet. Sie machten sich an der Haustür eines Anwesens zu schaffen. Die Hausbesitzerin hörte die Geräusche und sah nach. Dies veranlasste die Täter aus nachvollziehbaren Gründen zum Rückzug. Sie hinterließen einen kleineren Sachschaden an der Haustür. Eventuell haben Anwohner oder Passanten im Tatzeitraum etwas Verdächtiges im Bereich der Schillerstraße bemerkt. Sie sollten sich bei der Heilbronner Polizei, Telefon 07131 104 2500, melden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1437933,
+        "lon": 9.230066599999999
+    },
+    {
+        "date": "06.02.2014",
+        "city": "Mainhardt",
+        "street": "Am Moosbach",
+        "description": "Ein vorbeifahrender Verkehrsteilnehmer meldete in der Nacht zum Donnerstag der Haller Polizei, dass an einem Geschäft Am Moosbach der Alarmmelder in Betrieb ist. Die Polizei stellte fest, dass in der Zeit vor 2.30 Uhr eine rote Rundummeldung abgeschlagen und akustische Signalgeber beschädigt worden waren. An einem Nebeneingang wurde erfolglos versucht die Tür aufzubrechen, danach wurde die Haupteingangstür eingedrückt. Ob die Täter aus dem laden etwas entwendet haben, muss zusammen mit dem Betreiber noch geklärt werden. Zeugen, die im Tatortbereich in der Nacht von Mittwoch auf Donnerstag etwas beobachtet haben, was mit der tat in Verbindung zu bringen ist, werden gebeten, sich bei der Polizei in Schwäbisch hall (0791/4000) zu melden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0760060,
+        "lon": 9.5619340
+    },
+    {
+        "date": "06.02.2014",
+        "city": "Schöntal",
+        "street": "Kessachstraße",
+        "description": "Auf einen Einkaufsmarkt in der Schöntal-Oberkessacher Kessachstraße hatte es ein bislang Unbekannter am Donnerstag, in der Zeit zwischen 02.00 Uhr bis 06.45 Uhr, abgesehen. Der Einbrecher hatte dort ein Fenster aufgewuchtet und konnte so in das Innere des Marktes gelangen. Von dort ließ er eine komplette Ladenkasse mit etwas Bargeld, ein Laptop und über 600 Schachteln Zigaretten mitgehen. Der Wert des Diebesgutes dürfte bei rund 5.000 Euro liegen. Der angerichtete Sachschaden beläuft sich auf etwa 2.000 Euro. Sachdienliche Hinweise nimmt die Polizei Krautheim unter der Tel.Nr.: 06294 234 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.3648074,
+        "lon": 9.4842093
+    },
+    {
+        "date": "07.02.2014",
+        "city": "Bad Friedrichshall",
+        "street": "Schafgrube",
+        "description": "Zwei unbekannte Täter versuchten am Freitagabend, 07.02., gegen 18.30 Uhr, in ein Wohnhaus in der Schafgrube in Kochendorf einzubrechen. Als sie vom Eigentümer während seiner Heimkehr bemerkt wurden, flüchteten die Personen unverrichteter Dinge durch den Garten ins angrenzende freie Gelände. Die Täter waren ca. 18 bis 20 Jahre alt und ca. 175 bis 180 cm groß, mit schlanker bzw. sportlicher Gestalt. Ein Täter war mit einem grau/schwarzgestreiften (Kapuzen)Pulli bekleidet. Eine Sofortfahndung der Polizei, bei der auch ein Hubschrauber eingesetzt wurde, verlief ergebnislos. Personen, die zum Vorfall Beobachtungen gemacht haben, werden gebeten, sich mit dem Polizeiposten Bad Friedrichshall (07136-9803-0) in Verbindung zu setzen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2197894,
+        "lon": 9.220524400000002
+    },
+    {
+        "date": "08.02.2014",
+        "city": "Bretzfeld",
+        "street": "Heilbronner Straße",
+        "description": "Unbekannte Täter brachen im Ortsteil Bitzfeld in der Nacht zum 08.02.2013 in eine Tankstelle ein. Sie entwendeten Tabakwaren und Motorenöl für mehrere tausend Euro. Die weiteren Ermittlungen werden vom Polizeirevier Öhringen geführt, welches unter der Telefonnummer 07941 930-0 Hinweise entgegen nimmt.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "Bitzfeld",
+        "lat": 49.1896819,
+        "lon": 9.4424072
+    },
+    {
+        "date": "09.02.2014",
+        "city": "Bad Friedrichshall",
+        "street": "Poststraße",
+        "description": "Auf ein Ladengeschäft in der Jagstfelder Poststraße hatte es ein bislang Unbekannter am Sonntag, gegen 05.30 Uhr, abgesehen. Der Täter hatte versucht, die Eingangstür aufzuhebeln, was ihm jedoch nicht gelang.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.23306849999999,
+        "lon": 9.195582
+    },
+    {
+        "date": "09.02.2014",
+        "city": "Bad Friedrichshall",
+        "street": "Poststraße",
+        "description": "Vermutlich die gleiche Person hatte an diesem Morgen, sich auch an der Tür eines wenige Meter entfernten Geschäftes versucht. Wiederum gelang es dem Einbrecher nicht, die Eingangstür zu öffnen. Die Höhe des angerichteten Gesamtsachschadens ist bislang noch nicht bekannt. In diesem Zusammenhang bittet die Polizei dringend darum, dass Personen, welche am Sonntagmorgen im Bereich der Poststraße diesbezüglich verdächtige Wahrnehmungen machen konnten, sich unter der Tel.Nr.: 07131 104-4444 mit der Kriminalpolizei in Verbindung setzen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.23306849999999,
+        "lon": 9.195582
+    },
+    {
+        "date": "09.02.2014",
+        "city": "Eppingen",
+        "street": "Ochsenburgerstrasse",
+        "description": "Unbekannte Täter warfen in der Nacht zum Samstag, 08.02.2014, mit einem Stein die Fensterscheibe eines Sportheims im Ortsteil Mühlbach ein und gelangten so in das Sportheim. Hier wurden Türen aufgetreten. Aus einer Kasse entwendete sie Bargeld im dreistelligen Bereich. Der angerichtete Sachschaden beläuft sich auf 2.000 Euro.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "Mühlbach",
+        "lat": 49.0949255,
+        "lon": 8.900787099999999
+    },
+    {
+        "date": "09.02.2014",
+        "city": "Eppingen",
+        "street": "Unterdorfstraße",
+        "description": "Auf ein Vereinsgebäude in Eppingen-Adelshofen, in der Unterdorfstraße, hatte es in der Zeit von Sonntag, 20.15 Uhr bis Montag, 10.50 Uhr, ein bislang Unbekannter abgesehen. Der Täter war auf noch nicht geklärte Weise in das Gebäude eingedrungen. Dort wurden sämtliche Räume und Behältnisse durchsucht. Dem Einbrecher fiel dabei etwas Wechselgeld in die Hände. Der angerichtete Sachschaden beträgt mehrere hundert Euro. Sachdienliche Hinweise nimmt die Polizei Eppingen unter der Tel.Nr.: 07262 60950 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1656877,
+        "lon": 8.8928213
+    },
+    {
+        "date": "09.02.2014",
+        "city": "Eppingen",
+        "street": "Hohlweg",
+        "description": "Am Sonntagnachmittag machten sich in Eppingen gegen 15:25 Uhr im Langenberger Hohlweg drei bislang unbekannte jugendliche Täter am Schloss der Türe eines Garten-hauses zu schaffen, als sie von Zeugen gestört wurden. Auf Ansprechen, was sie denn machten, ergriffen sie die Flucht und rannten den Langenberger Hohlweg in Richtung Otto-Hahn-Strasse davon. Weitere Zeugen werden gebeten, sachdienliche Hinweise unter der Telefonnummer: 07262 6095-0 der Polizei in Eppingen mitzuteilen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1337001,
+        "lon": 8.926250099999999
+    },
+    {
+        "date": "09.02.2014",
+        "city": "Flein",
+        "street": "Falterstraße",
+        "description": "Ein Ladengeschäft in der Fleiner Falterstraße war in der Zeit von Samstag, 20.15 Uhr, bis Sonntag, 08.00 Uhr, das Ziel eines Einbrechers. Der Unbekannte hatte versucht, ein Fenster aufzuhebeln, um so in das Innere des Gebäudes zu gelangen. Der Täter scheiterte jedoch mit seinem Vorhaben und hinterließ einen Sachschaden von mehreren hundert Euro. Hinweise nimmt die Polizei Untergruppenbach unter der Tel.Nr.: 07131 64463-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1018967,
+        "lon": 9.208083199999999
+    },
+    {
+        "date": "09.02.2014",
+        "city": "Zaberfeld",
+        "street": "",
+        "description": "Unbekannte brachen in der Nacht von Freitag 07.02. auf Samstag 08.02. mit brachialer Gewalt in eine Gaststätte in Zaberfeld ein. Sie durchsuchten mehrere Räume, wobei es ihnen gelang, Bargeld in Höhe von ca. 200 Euro zu entwenden. Der entstandene Schaden dürfte auf 1.000 Euro zu beziffern sein. Sachdienliche Hinweise nimmt das Polizeirevier Lauffen unter Tel. 07133 209-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0587109,
+        "lon": 8.9281007
+    },
+    {
+        "date": "10.02.2014",
+        "city": "Eppingen",
+        "street": "Leinbergstraße",
+        "description": "Eine Höhengaststätte in der Eppingen-Kleingartacher Leinbergstraße war in der Nacht zum Montag das Ziel eines bislang unbekannten Einbrechers. Der Täter hatte eine Tür aufgebrochen und konnte so in das Innere des Gasthauses gelangen. Im Innern wurden einige Behältnisse durchsucht. Vermutlich wurde jedoch nichts gestohlen. Sachdienliche Hinweise nimmt die Polizei Eppingen unter der Tel.Nr.: 07262 6095-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1023232,
+        "lon": 8.969003899999999
+    },
+    {
+        "date": "10.02.2014",
+        "city": "Heilbronn",
+        "street": "Karlstraße",
+        "description": "In Heilbronn war am Montag ein Einbrecher unterwegs. In der Schulgasse drang er in der Zeit zwischen 7.45 Uhr und 19 Uhr in eine Wohnung im zweiten Obergeschoß des Acht-Parteien-Hauses ein. Er durchsuchte die Räumlichkeiten, fand jedoch offenbar keine Beute. Beim Sachschaden blieb es auch in einem weiteren Fall. Ebenfalls im gleichen Zeitraum verschaffte sich ein Unbekannter auch Zugang zu einem Mehrfamilienhaus in der Karlstraße. Im zweiten Obergeschoß suchte er in einer Wohnung nach Stehlenswertem, nachdem er die Eingangstür zuvor gewaltsam geöffnet hatte. Auch hier fand der Täter offenbar nichts von Interesse. Im Zusammenhang mit dieser Tat steht vermutlich ein etwa 30 bis 35 Jahre alter Mann, der gegen 16 Uhr, bei einem Hausbewohner geklingelt und nach einem \"David\" gefragt hatte. Nachdem der Zeuge weder jemand dieses Namens noch den Besucher kannte, wartete er, bis der Unbekannte zum Ausgang ging und schloss die Tür. Der verdächtige Mann war etwa 185 bis 190 groß und hatte schwarze, unordentliche Haare und einen \"Zweitagebart\". Er hatte eine sportliche Statur und war dunkel gekleidet. Eventuell hatte er zuvor eine schwarze Mütze getragen. Er sprach mit starkem, vermutlich südosteuropäischem Akzent. Weitere Hinweise zu den beiden Einbrüchen nimmt die Polizei in Heilbronn, Telefon 07131 104 2500 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.14269789999999,
+        "lon": 9.2298195
+    },
+    {
+        "date": "10.02.2014",
+        "city": "Oberstenfeld",
+        "street": "Hagstolz",
+        "description": "Auf Haushaltsgeräte und Nahrungsmittel abgesehen hatten es unbekannte Täter, die im Zeitraum zwischen Sonntag 11:30 Uhr und Montag 14:30 Uhr die Eingangstür eines Vereinsheims in der Straße \"Hagstolz\" aufhebelten und auf diese Weise in die Räumlichkeiten gelangten. Dabei ließen sie die Geräte sowie Getränke und Süßigkeiten mitgehen. Auf ihrer weiteren Diebestour hebelten sie zudem eine Tür zum Lagerraum auf, aus dem sie unter anderem kistenweise alkoholische Getränke entwendeten. Der Wert des Diebesguts wurde mit etwa 1.000 Euro angegeben. Der angerichtete Sachschaden beläuft sich auf 500 Euro. Hinweise nimmt der Polizeiposten Großbottwar, Telefon 07148/1625-0, entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0233364,
+        "lon": 9.3363108
+    },
+    {
+        "date": "11.02.2014",
+        "city": "Bad Friedrichshall",
+        "street": "Würzburger Straße",
+        "description": "Ein Wohnhaus in der Duttenberger Würzburger Straße war in der Zeit von Donnerstag, 06. Februar, bis Dienstag, 11. Februar 2014, das Ziel eines Einbrechers. Der Unbekannte hatte während der Abwesenheit der Wohnungsinhaber einer Tür aufgehebelt und die Räume offenbar gezielt nach Bargeld durchsucht. Dem Täter fielen dabei mehrere hundert Euro in die Hände. Sachdienliche Hinweise nimmt die Polizei Bad Friedrichshall unter der Tel.Nr.: 07136 9803-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2530085,
+        "lon": 9.1962829
+    },
+    {
+        "date": "11.02.2014",
+        "city": "Künzelsau",
+        "street": "Keltergasse",
+        "description": "Unbekannte waren in der Zeit von Freitag, 07. Februar bis Dienstag, 11. Februar 2014 in der Künzelsauer Keltergasse zu Gange. Nach dem bisherigen Stand der Ermittlungen hatte offenbar jemand versucht, in das Gebäude Nr. 33 einzudringen. An der Stadtmauer wurden Farbschmierereien verursacht. Ob beides miteinander in einem Zusammenhang steht, kann derzeit nicht näher verifiziert werden. Hinweise nimmt die Polizei Künzelsau unter der Tel.nre.: 07940 940-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2785729,
+        "lon": 9.6886434
+    },
+    {
+        "date": "12.02.2014",
+        "city": "Brackenheim",
+        "street": "Hirnerweg",
+        "description": "Ein Wohnhaus im Brackenheimer Hirnerweg war in der Zeit von Sonntag bis Mittwoch das Ziel eines noch unbekannten Einbrechers. Der Täter wollte in einer Höhe von etwa 2,5 Meter ein Fenster aufbrechen, was ihm jedoch nicht gelang. Sachdienliche Hinweise nimmt die Polizei Brackenheim unter der Tel.Nr.: 07135 6096 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0779862,
+        "lon": 9.061028799999999
+    },
+    {
+        "date": "13.02.2014",
+        "city": "Ittlingen",
+        "street": "Hauptstraße",
+        "description": "Weil er Hunger hatte wollte ein 15-Jähriger am Donnerstagabend in eine Bäckerei in der Ittlinger Hauptstraße einbrechen. Passanten beobachteten den Jungen bei seinen Versuchen in das Geschäft einzudringen und benachrichtigten die Polizei. Die Polizeibeamten konnten den verhinderten Einbrecher festhalten. Wie sich herausstellte, war der Jugendliche von zuhause weggelaufen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1911589,
+        "lon": 8.933376299999999
+    },
+    {
+        "date": "13.02.2014",
+        "city": "Eppingen",
+        "street": "Eichendorffstraße",
+        "description": "Dreiste Wohnungseinbrecher Am Donnerstagabend drangen bislang noch unbekannte Einbrecher in der Eppinger Eichendorffstraße in ein Wohnhaus ein. Nachdem sie ein Fenster aufgehebelt hatten entwendeten sie Schmuckstücke in noch nicht bekanntem Wert. Dass die Einbrecher ziemlich dreist vorgingen, lässt sich daraus erkennen, dass die Hausbewohner zur Tatzeit im Haus waren, jedoch nichts bemerkten. Hinweise auf verdächtige Wahrnehmungen bitte an die Polizei Eppingen, 07262/6095-0.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1335438,
+        "lon": 8.9224641
+    },
+    {
+        "date": "13.02.2014",
+        "city": "Erlenbach",
+        "street": "Hafenmarkt",
+        "description": "Noch ist unklar, wie hoch der Sachschaden ist, der beim Einbruch in eine Kleintierzuchtanlage in Erlenbach, Hafenmarkt, am Donnerstagabend entstand. Bislang Unbekannte zerschnitten dort am gestrigen Donnerstag zwischen 19 und 21.30 Uhr an verschiedenen Stallungen die Drahtgeflechte und gelangen so in die Außengehege. Nach bisherigen Erkenntnissen entwendeten sie vierzehn Hühner und zwei Hähne. Das Polizeirevier Neckarsulm sucht Zeugen, die verdächtige Wahrnehmungen gemacht haben; Hinweise unter Telefon 07132/9371-0",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1634181,
+        "lon": 9.2659595
+    },
+    {
+        "date": "13.02.2014",
+        "city": "Heilbronn",
+        "street": "Fritz-Haber-Straße",
+        "description": "Ein Einbruchsversuch in eine Wohnung in der Sontheimer Fritz-Haber-Straße verlief für einen Unbekannten am Donnerstag erfolglos. Der Täter wollte das Schloss der Eingangstür mit einem Schließbesteck öffnen. Dieses brach jedoch ab, so dass nur ein Sachschaden in noch nicht bekannter Höhe entstand. Personen, die im Tatzeitraum zwischen 9.00 und 13.30 Uhr, verdächtige Wahrnehmungen im Bereich der Fritz-Haber-Straße gemacht haben, sollten sich beim Polizeirevier Heilbronn, Telefon 07131 104 2500, melden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1191714,
+        "lon": 9.2104014
+    },
+    {
+        "date": "13.02.2014",
+        "city": "Offenau",
+        "street": "Birkenstraße",
+        "description": "In ein Wohnhaus in der Birkenstraße in Offenau drangen am Donnerstag Unbekannte ein. Die Täter verschafften sich über die rückwärtig gelegene Terrassentür gewaltsam Zugang zum Wintergarten und von dort schließlich in die Wohnräume. Im Obergeschoß durchsuchten sie im Schlafzimmer und den Kinderzimmern sämtliche Schränke und fanden schließlich ein neuwertiges iPad4, das sie mitnahmen. Wer im Tatzeitraum zwischen Donnerstag, 08.30 Uhr, und 18:45 Uhr, etwas Verdächtiges im Bereich des Wohngebietes bemerkt hat, sollte sich beim Polizeiposten Bad Friedrichshall, Telefon 07136 980321, melden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2501686,
+        "lon": 9.1675469
+    },
+    {
+        "date": "13.02.2014",
+        "city": "Pfedelbach",
+        "street": "Brunnenfeldstraße",
+        "description": "Glücklicherweise hielt die Stahltür stand - diese Erfahrung durfte ein Einbrecher in der Nacht zum Donnerstag, in der Pfedelbacher Brunnenfeldstraße machen. Der Täter hatte dort versucht, mit einem Werkzeug die Tür zu einem Getränkelager zu öffnen. Der Unbekannte schaffte es jedoch nicht, ins Innere des Lagers zu gelangen. Sachdienliche Hinweise nimmt die Polizei Öhringen unter der Tel.Nr.: 07941 930-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1828118,
+        "lon": 9.4987403
+    },
+    {
+        "date": "13.02.2014",
+        "city": "Talheim",
+        "street": "Hühnerbrünnele",
+        "description": "Die Abwesenheit der Hausbesitzer nutzten bislang unbekannte Einbrecher am Donnerstag in der Zeit zwischen 10.30 und 21.00 Uhr in Talheim aus. Im \"Hühnerbrünnele\" hebelten sie ein Fenster eines Einfamilienwohnhauses auf. Im Haus durchsuchten sie nahezu alle Räumlichkeiten. Mit Schmuck in noch unbekanntem Wert machten sie sich von dannen. Die Polizei sucht Zeugen; wer verdächtigte Personen beobachtet hat, möge sich bitte beim Revier Weinsberg, Telefon 07134/992-0, melden. Hohenlohekreis",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0845531,
+        "lon": 9.1995341
+    },
+    {
+        "date": "15.02.2014",
+        "city": "Untergruppenbach",
+        "street": "Finkenstraße",
+        "description": "Unbekannte Täter verschafften sich im Zeitraum zwischen Freitag 16:00 Uhr und Samstag 17:00 Uhr über die Terrassentür Zutritt zu einem Wohnhaus in der Finkenstraße in Untergruppenbach. Hierbei wurde die Terrassentür aufgehebelt und ein Tresor mit persönlichen Dokumenten und einem geringen Bargeldbetrag entwendet. Die Hauseigentümer waren über das Wochenende verreist. Der entstandene Sachschaden muss noch ermittelt werden.Sachdienliche Angaben zum Vorfall nimmt der Polizeiposten Untergruppenbach unter der Telefonnummer 07131 64463-0, entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0925417,
+        "lon": 9.269935900000002
+    },
+    {
+        "date": "16.02.2014",
+        "city": "Dörzbach",
+        "street": "Kapellenweg",
+        "description": "In der Zeit zwischen Samstag, 0.00 Uhr und Sonntag, 15.00 Uhr, stiegen Unbekannte in ein Motorrad-Vereinsheim im Dörzbacher Kapellenweg ein. Die Täter versuchten zunächst erfolglos die Eingangstür aufzuhebeln und schlugen schließlich die Fenster ein. So gelangten sie ins Innere des Gebäudes und entwendeten aus dem Küchenbereich drei Flaschen Hochprozentiges, wie Whiskey, Weinbrand und weißen Rum. Anschließend suchten sie auch in einer benachbarten Wochenendhütte und einem Wohnwagen Stehlenwertes. Auch hier gelangten sie über die Fenster in die Räumlichkeiten. Ob hier etwas gestohlen wurde steht noch nicht fest. Der bisher ermittelte Sach- und Diebstahlschaden beläuft sich auf etwa 250 Euro. Der Polizeiposten Krautheim nimmt unter der Telefonnummer 06294-234 Zeugenhinweise zu der Tat entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.3803486,
+        "lon": 9.7082155
+    },
+    {
+        "date": "16.02.2014",
+        "city": "Dörzbach",
+        "street": "Kapellenweg",
+        "description": "In der Zeit zwischen Samstag, 00:00 bis Sonntag, 16:00 Uhr betraten unbekannte Täter unbefugt ein Wochenendgrundstück im Dörzbacher Kapellenweg. Sie brachen ein Fenster des darauf befindlichen Wochenendhauses mitsamt dem Fensterrahmen aus dem Mauerwerk heraus, stiegen so in das Haus ein und durchwühlten sämtliche Schränke. An einem Wohnwagen auf demselben Grundstück schlugen die Täter eine Scheibe ein und stiegen auch dort ein. Entwendet wurde jedoch nichts. Dennoch entstand dem Eigentümer ein Sachschaden von etwa 800 Euro. Zeugen die verdächtige Beobachtungen gemacht haben, werden gebeten, diese der Krautheimer Polizei unter Telefon 06294 234 mitzuteilen. Für Rückfragen stehen wir Ihnen unter der Telefonnummer 07131 104-1010 gerne zur Verfügung.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.3803486,
+        "lon": 9.7082155
+    },
+    {
+        "date": "16.02.2014",
+        "city": "Obersulm",
+        "street": "Breitäcker",
+        "description": "Am Sonntag brach ein bislang unbekannter Täter zwischen 13:00 Uhr und 19:00 Uhr in ein Wohnhaus im Breitäcker in Obersulm-Willsbach ein, während der 16-jährige Sohn des Hauses in seinem Zimmer schlief. Die Polizei in Obersulm bittet um sachdienliche Zeugenhinweise an die Telefonnummer: 07130 7077.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.12898329999999,
+        "lon": 9.3579103
+    },
+    {
+        "date": "17.02.2014",
+        "city": "Bretzfeld",
+        "street": "Franz-Schulz-Straße",
+        "description": "Am Montagabend drang ein bislang Unbekannter in ein Firmengebäude in der Bretzfelder Franz-Schulz-Straße ein. Nachdem er ein Fenster eingeschlagen und hierdurch ins Gebäude eingestiegen war, löste die Alarmanlage aus. Der Täter flüchtete ohne Beute. Der angerichtete Sachschaden wird auf zirka 750 Euro beziffert. Wer zur Tatzeit im dortigen Bereich verdächtige Wahrnehmungen gemacht hat, sollte sich bei der Polizei in Öhringen, Telefon 07941/930-0, melden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1676733,
+        "lon": 9.4405663
+    },
+    {
+        "date": "17.02.2014",
+        "city": "Eppingen",
+        "street": "Scheuerlesstraße",
+        "description": "Zwischen Samstag und Montag versuchte ein bislang unbekannter Täter in das Jugendhaus in der Scheuerlesstraße in Eppingen einzubrechen. Der Einbrecher versuchte zunächst einen Rolladen hochzuschieben und dann das Fenster einzutreten. Offenbar da ihm dies nicht wunschgemäß gelungen war, ließ er von weiteren Tathandlungen ab. Der Sachschaden dürfte bei knapp 1.000 Euro liegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1405732,
+        "lon": 8.9209114
+    },
+    {
+        "date": "17.02.2014",
+        "city": "Hohebach",
+        "street": "Feuerwehrgerätehaus",
+        "description": "In der Zeit von Samstag 14:00 bis Montag 10:00 Uhr drangen unbekannte Täter durch ein Fenster in das Feuerwehrgerätehaus in Hohebach ein und entwendeten mehrere Gegenstände und einen geringen Betrag an Bargeld. Der Sachschaden beläuft sich auf zirka 300 Euro. Sachdienliche Angaben nimmt die Polizei in Krautheim, Telefon 06294 234, entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.3618010,
+        "lon": 9.7322750
+    },
+    {
+        "date": "18.02.2014",
+        "city": "Brackenheim",
+        "street": "Frankenbacher Straße",
+        "description": "An einer angrenzenden Autowerkstatt in der Frankenbacher Straße schlugen die Langfinger ein Kunststoffelement ein und kamen so in die Räume. Dort nahmen sie eine Ledermappe mit einem niederen Bargeldbetrag mit. Der angerichtete Sachschaden ist, wie so oft wesentlich höher, als der Wert der gestohlenen Gegenstände und wird auf über 1.000 Euro geschätzt. Die Brackenheimer Polizei bittet Zeugen, die sachdienliche Hinweise geben können, sich unter Telefon 07135 6095-0 zu melden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0924673,
+        "lon": 9.0822839
+    },
+    {
+        "date": "18.02.2014",
+        "city": "Bad Wimpfen",
+        "street": "",
+        "description": "Vermutlich in der Nacht zum Dienstag versuchte ein bislang unbekannter Einbrecher in ein Spielcasino in Bad Wimpfen einzubrechen. Über ein Vordach gelangte der Unbekannte an ein Fenster und machte sich daran, dieses aufzuhebeln. Ins Gebäude selbst gelangte er nicht. Ob das Fenster standhielt oder der Täter gestört wurde kann nicht gesagt werden. Am Fenster entstand Sachschaden in Höhe von etwa 1.500 Euro. Zeugen die verdächtige Beobachtungen gemacht haben, werden gebeten, diese der Wimpfener Polizei unter Telefon 07063 9334-0 mitzuteilen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.22850409999999,
+        "lon": 9.157138699999999
+    },
+    {
+        "date": "18.02.2014",
+        "city": "Brackenheim",
+        "street": "Theodoer-Heuss-Straße",
+        "description": "In insgesamt drei Brackenheimer Firmen verschaffte sich in der Nacht zum Dienstag ein bislang unbekannter Einbrecher gewaltsam Zutritt in die Räumlichkeiten. Eine Glasscheibe an der Türe einer Automobilfirma schlugen die Unbekannten ein und gelangten so in eine Abstellhalle. Da sie dort offenbar nichts Stehlenswertes fanden, führte ihr Weg weiter in einen nahegelegenen Metallverarbeitungsbetrieb, wo vermutlich außer einem Schlüssel nichts entwendet wurde.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.07333810000001,
+        "lon": 9.0645694
+    },
+    {
+        "date": "18.02.2014",
+        "city": "Dürrenzimmern",
+        "street": "Fleiner Straße",
+        "description": "In der Nacht auf Dienstag brachen bislang unbekannte Täter in ein Firmengebäude in der Fleiner Straße in Brackenheim-Dürrenzimmern ein. Offensichtlich gelangte der Täter durch ein eingeschlagenes Fenster ins Gebäudeinnere. Im Zuge seines Umschauens hinterließ er Sach- und Diebstahlsschäden in noch nicht bekannter Höhe. Zeugenhinweise nimmt die Polizei in Brackenheim unter der Telefonnummer: 07135 6096 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0922016,
+        "lon": 9.0838451
+    },
+    {
+        "date": "18.02.2014",
+        "city": "Gemmingen",
+        "street": "Rainastraße",
+        "description": "Die Anwesenheit der Hausbesitzer nutzten bislang unbekannte Diebe am Dienstagnachmittag in Gemmingen, Rainastraße, aus. In der Zeit zwischen 16.15 und 19.30 Uhr hebelten sie ein Fenster eines Wohnhauses auf und kamen so ins Gebäude. Gestohlen wurden zwei Laptops, zwei Fahrräder, zwei Kameras und Schmuck im Gesamtwert von einigen tausend Euro. Möglicherweise wurden die Täter vor der Tat oder danach mit zwei Fahrrädern im dortigen Bereich beobachtet. Hinweise bitte an die Eppinger Polizei unter Telefon 07262/6095-0.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1554376,
+        "lon": 8.976566100000001
+    },
+    {
+        "date": "18.02.2014",
+        "city": "Heilbronn",
+        "street": "Goethestraße",
+        "description": "Die Abwesenheit der Wohnungseigentümer nutzten bislang unbekannte Einbrecher am Dienstagabend in der Heilbronner Goethestraße aus. Zwischen 18.45 und 19.30 Uhr kamen sie über das Treppenhaus zur Wohnungstüre der Geschädigten. Diese hebelten sie auf und konnten so die Wohnung betreten. Sie durchwühlten Schränke und Schubladen und verschwanden mit einem kleineren Bargeldbetrag, Schmuck und einer Digitalkamera. Der angerichtete Sachschaden dürfte bei etwa 800 Euro liegen. Die Kriminalpolizei Heilbronn sucht Zeugen, die im Tatzeitraum verdächtige Personen im dortigen Bereich gesehen haben, Hinweise unter Telefon 07131/104-9.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.14368839999999,
+        "lon": 9.2317638
+    },
+    {
+        "date": "18.02.2014",
+        "city": "Öhringen",
+        "street": "Nussbaumweg",
+        "description": "Ein Mehrfamilienhaus im Öhringer Nussbaumweg war am Dienstag in der Zeit zwischen 8.45 und 15.30 Uhr das Angriffsziel bisher unbekannter Einbrecher. Sie drückten kurzerhand die Wohnungstüre ein. Mit einem geringen Bargeldbetrag und einer Sony Play Station 4 mit zwei Controllern suchten sie das Weite. Der angerichtete Sachschaden liegt bei rund 100 Euro. Die Polizei in Öhringen sucht Zeugen, die verdächtige Wahrnehmungen gemacht haben. Hinweise unter Telefon 07941/9300.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.19583660000001,
+        "lon": 9.509497099999999
+    },
+    {
+        "date": "19.02.2014",
+        "city": "Heilbronn",
+        "street": "Binderweg",
+        "description": "Am Mittwochnachmittag brach in Neckargartach ein bislang unbekannter Täter zwischen 17:20 und 19:20 Uhr in ein Wohnhaus im Binderweg ein. Er hatte die Terrassentüre an der Westseite des Gebäudes aufgebrochen und anschließend im Innenbereich diverse Türen, Schränke und Behältnisse durchwühlt. Den Gesamtwert des erlangten Diebesguts sowie den entstandenen Sachschaden konnten die Eigentümer noch nicht einschätzen. Die Polizei in Böckingen bittet um sachdienliche Zeugenhinweise an die Telefonnummer: 07131 20406-0.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.16852249999999,
+        "lon": 9.1926422
+    },
+    {
+        "date": "19.02.2014",
+        "city": "Lauffen",
+        "street": "Nordheimer Straße",
+        "description": "Ein bislang unbekannter Einbrecher suchte in der Nacht zum Mittwoch ein Fitnessstudio in der Nordheimer Straße in Lauffen heim. Vermutlich durch ein Fenster, das der Unbekannte zuvor eingeschlagen hatte, gelangte dieser ins Innere des Gebäudes. Im Thekenbereich durchstöberte er Schränke und Schubladen, als er von zwei Putzfrauen überrascht wurde. Diese betraten gegen 00.50 Uhr das Studio und verließen nach Erkennen des Einbrechers vor Schreck das Gebäude und alarmierten die Polizei. Die Lauffener Polizei rückte schnell mit drei Streifen sowie einer weiteren Streife der Hundestaffel an und durchsuchte die Räumlichkeiten. Der Langfinger hatte mit einem vierstelligen Bargeldbetrag aus einer Kasse des Studios bereits das Weite gesucht. Eine Sofortfahndung blieb ohne Erfolg. Bei dem Einbrecher soll es sich um einen etwa 1,80 Meter großen, schlanken Mann im Alter von 25-30 Jahren handeln. Er soll mit einer schwarzen Wollmütze und einer grauen Kapuzenweste bekleidet gewesen sein. Weitere Ermittlungen dauern an. Zeugenhinweise werden erbeten an die Lauffener Polizei, unter Telefon 07133 209-0.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0852991,
+        "lon": 9.146562699999999
+    },
+    {
+        "date": "20.02.2014",
+        "city": "Brackenheim",
+        "street": "Brackenheimer Weg",
+        "description": "Auf frischer Tat ertappt wurde am Donnerstag ein Einbrecher in Brackenheim. In der Zeit zwischen 10 und 11:45 Uhr hatte er sich zunächst gewaltsam über die Terrassentür eines Anwesens im Alten Brackenheimer Weg Zugang zu den Innenräumen verschafft. Anschließend durchsuchte der die Zimmer bis plötzlich der Hauseigentümer heimkam. Der Täter gab Fersengeld und verschwand zusammen mit einem offensichtlichen Komplizen in einem grau-braunen Kastenwagen. Der Geschädigte las das Teilkennzeichen BAD- ab. Die beiden Männer beschrieb er als etwa 30 Jahre alt mit kurzen, blonden Haaren. Ob etwas gestohlen wurde, muss noch ermittelt werden. Der angerichtete Sachschaden beträgt zirka 500 Euro. Zeugenhinweise nimmt die Polizei in Brackenheim, Telefon 07135 6096, entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.06951429999999,
+        "lon": 9.028668699999999
+    },
+    {
+        "date": "21.02.2014",
+        "city": "Eppingen",
+        "street": "Oststraße",
+        "description": "Einbrecher suchten Wohnhaus auf Die Abwesenheit der Hausbesitzerin nutzten Unbekannte Freitagabend und brachen in ein Wohnhaus in der Oststraße ein. Die Täter wuchteten ein Toilettenfenster im Erdgeschoss auf und gelangten auf diesem Weg in das Wohnhaus. Sämtliche Räumlichkeiten wurden durchsucht. Die Täter konnten dabei mehrere Schmuckstücke erbeuten. Der Wert des Diebesgutes kann momentan noch nicht beziffert werden. Hinweise bitte an das Polizeirevier Weinsberg, Tel.Nr. 07134/9920",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "Richen",
+        "lat": 49.173812,
+        "lon": 8.936628599999999
+    },
+    {
+        "date": "22.02.2014",
+        "city": "Gundelsheim",
+        "street": "Gottlieb-Daimer-Straße",
+        "description": "Einbruch in Firma Im Zeitraum Samstag, 18 Uhr, bis Sonntag, 7.30 Uhr, hebelte ein bislang noch unbekannter Einbrecher das Fenster einer Firma in der Gottlieb-Daimer-Straße auf. Hierdurch stieg er ein, hebelte im Innern noch eine verschlossene Bürotüre auf und entwendete eine Geldkassette mit einem geringeren Bargeldbetrag. Die Höhe des angerichteten Sachschadens ist noch nicht bekannt. Der Polizeiposten Gundelsheim, Telefon 06269/41041, nimmt Hinweise auf verdächtige Wahrnehmungen entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2741807,
+        "lon": 9.157128
+    },
+    {
+        "date": "22.02.2014",
+        "city": "Lauffen",
+        "street": "Breibachweg",
+        "description": "Am vergangenen Wochenende drang ein Unbekannter gewaltsam in das Nordheimer Sportheim im Breibachweg ein. In der Zeit zwischen Samstag, 21 Uhr, und Sonntag, 08.15 Uhr, schlug er eine Türverglasung ein und gelangte so in den Gastraum. Dort fand er zwei Bedienungsgeldbeutel mit Bargeld und diversen EC- und Kundenkarten und nahm sie mit. Der Sach- und Diebstahlschaden liegt bei über 2.000 Euro. Die Polizei in Lauffen nimmt unter Telefonnummer 07133 2090 sachdienliche Hinweise zu dem Einbruch entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "Nordheim",
+        "lat": 49.1055596,
+        "lon": 9.1356957
+    },
+    {
+        "date": "23.02.2014",
+        "city": "Bretzfeld",
+        "street": "Mühlstraße",
+        "description": "In Bretzfeld-Scheppach entwendeten bislang unbekannte Diebe in der Nacht zum Sonntag mehrere Autozubehörteile. Vermutlich zwischen 20 Uhr und 03.15 Uhr gelangten die Langfinger in eine Garage in der Mühlstraße und nahmen zwei Radkomplettsätze mit. Vier Reifen sollen auf schwarzlackierten 20\"- Barracudafelgen montiert sein. Beim zweiten Radsatz handelt es sich um Original Audi Felgen für einen A3. Zudem wurde ein Subwoofer sowie eine Endstufe GrunchV-Drive und ein DVD-Player der Marke Kenwood gestohlen. Der Wert der Gegenstände wird auf etwa 3.250 Euro geschätzt. Zeugen, die verdächtige Beobachtungen gemacht haben werden gebeten, diese der Bretzfelder Polizei unter Telefon 07946 940010 zu melden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "Scheppach",
+        "lat": 49.1610624,
+        "lon": 9.443081
+    },
+    {
+        "date": "24.02.2014",
+        "city": "Eppingen",
+        "street": "Frauenbrunner Straße",
+        "description": "In der Zeit zwischen Samstag 18:00 und Montag 08:30 Uhr gelangten unbekannte Täter in einen Markt für Tierbedarf in der Eppinger Frauenbrunner Straße. Die Täter benutzten wohl eine Holzpalette, um durch ein Fenster an der Rückseite des Marktes in das Gebäude einzusteigen. Ziel des Einbruchs war der Tresor des Marktes, der gewaltsam geöffnet und aus dem ein Betrag in noch unbekannter Höhe entwendet wurde. Sachdienliche Hinweise zur Tat nimmt die Polizei in Eppingen, Telefon: 07262 6095-0, entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1341349,
+        "lon": 8.9001016
+    },
+    {
+        "date": "24.02.2014",
+        "city": "Gundelsheim",
+        "street": "Gottlieb-Daimler-Straße",
+        "description": "Ein bislang unbekannter Täter stieg in der Zeit von Samstag 17:00 bis Montagmorgen 07:45 Uhr unbefugt in ein Fabrikgebäude in der Gundelsheimer Gottlieb-Daimler-Straße ein. Nachdem er eine Fensterscheibe mit einem Stein eingeschlagen und sich mit Hilfe des Besteigens einer Holzpalette in das Firmengebäude Zutritt verschaffte, durchwühlte er mehrere verschlossene Behältnisse. Etwas Stehlenswertes fand der Einbrecher offensichtlich jedoch nicht. Außer einem schwindend geringen Geldbetrag wurde nichts gestohlen. Er verursachte jedoch Sachschaden von rund 300 Euro. Sachdienliche Hinweise nimmt die Polizei in Gundelsheim, Telefon 06269 41041, entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2741807,
+        "lon": 9.157128
+    },
+    {
+        "date": "24.02.2014",
+        "city": "Heilbronn",
+        "street": "Sinsheimer Straße",
+        "description": "In der Zeit von Samstag 13:00 bis Montag 06:50 Uhr hebelten unbekannte Täter die Eingangstür eines Ladengeschäftes in der Sinsheimer Straße in Böckingen auf. Die Täter gelangten in den Verkaufsraum, hebelten mehrere verschlossene Behältnisse auf und entwendeten einen noch unbestimmten Geldbetrag. Zeugen werden gebeten, sich bei der Polizei in Heilbronn-Böckingen zu melden. Telefon: 07131 20406-0.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "Böckingen",
+        "lat": 49.1459357,
+        "lon": 9.1802349
+    },
+    {
+        "date": "24.02.2014",
+        "city": "Kirchardt",
+        "street": "Industriestraße",
+        "description": "Unbekannte Täter brachen in der Zeit von Montag 01:00 bis 08:30 Uhr in ein Kirchengebäude in der Kirchardter Industriestraße ein. Sie hatten ein Fenster im Erdgeschoss des Gebäudes aufgewuchtet und waren so ins Kircheninnere gelangt. Sie entwendeten dann kistenweise Getränke sowie diverse elektronische Geräte. Auch vor einem Zigarettenautomaten vor der Kirche machten sie nicht Halt, flexten Teile seiner Halterung ab und rissen ihn -vermutlich mit Hilfe eines Seils und ihres Fahrzeugs- aus der Wandbefestigung. Münzgeld und Zigaretten wurden in bislang unbekannter Höhe entwendet. Insgesamt entstand der Kirche ein Schaden von mindestens 5000 Euro. Die Polizei schließt einen Zusammenhang mit den jüngst begangenen Einbrüchen in die Sportheime in Kirchardt und Grombach nicht aus. Die Täter müssten zur Sicherung des Diebesgutes mindestens einen Kleintransporter benutzt haben. Zeugenangaben nimmt die Polizei in Bad Rappenau, Telefon: 07264 9590-0, entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2023586,
+        "lon": 8.9984042
+    },
+    {
+        "date": "24.02.2014",
+        "city": "Neckarsulm",
+        "street": "Gottlieb-Daimler-Straße",
+        "description": "Am Montagmorgen gegen 01:45 Uhr drangen unbekannte Täter in einen Imbiss in der Neckarsulmer Gottlieb-Daimler-Straße ein. Sie hebelten zunächst einen Rollladen und dann ein Fenster auf der Hofseite des Restaurants auf und entwendeten im Gastraum Münz- und Scheingeld aus zwei Geldspielautomaten in noch unbekannter Höhe. Der Sachschaden allein an den Automaten beträgt zirka 600 Euro. Sachdienliche Hinweise nimmt die Polizei in Neckarsulm, Telefon: 07132 9371-0, entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1924253,
+        "lon": 9.220992299999999
+    },
+    {
+        "date": "24.02.2014",
+        "city": "Neuenstadt",
+        "street": "Benzstraße",
+        "description": "Aus einer sich im Rohbau befindenden Kfz-Werkstatt entwendeten unbekannte Täter in der Zeit zwischen Samstag, 14.30 Uhr, und Montag, 6.50 Uhr, mehrere Elektrowerkzeuge. Der Rohbau befindet sich in der Benzstraße in Neuenstadt und war mit einer Metalltüre gesichert, die von den Tätern aufgehebelt wurde. Es entstand Sachschaden von ungefähr 300 Euro und Diebstahlschaden von rund 900 Euro. Zeugenhinweise nimmt die Polizei in Neuenstadt unter der Telefonnummer: 07139 4710-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2386053,
+        "lon": 9.3389326
+    },
+    {
+        "date": "25.02.2014",
+        "city": "Heilbronn",
+        "street": "Lutzstraße",
+        "description": "Unbekannte Täter versuchten in der Zeit von Samstagmorgen 08:00 Uhr und Dienstagmittag 12:30 Uhr in eine Wohnung in der Sontheimer Lutzstraße einzubrechen. Sie hebelten mehrfach an der Terrassentür, konnten jedoch nicht in die Wohnung gelangen. Sie verursachten Sachschaden von rund 400 Euro. Die Anwohner gehen davon aus, dass die Täter höchstwahrscheinlich in deren Abwesenheit am Samstag versucht haben, zuzuschlagen. Zeugenhinweise nimmt die Polizei in Heilbronn-Sontheim, Telefon: 07131 253093, entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "Sontheim",
+        "lat": 49.1180678,
+        "lon": 9.1862792
+    },
+    {
+        "date": "26.02.2014",
+        "city": "Heilbronn",
+        "street": "Lutzstraße",
+        "description": "Unbekannte Täter versuchten laut Polizei in der Zeit von Samstagmorgen 8 Uhr und Dienstagmittag 12:30 Uhr in eine Wohnung in der Sontheimer Lutzstraße einzubrechen. Sie hebelten mehrfach an der Terrassentür, konnten jedoch nicht in die Wohnung gelangen. Sie verursachten Sachschaden von rund 400 Euro. Die Anwohner gehen davon aus, dass die Täter höchstwahrscheinlich in deren Abwesenheit am Samstag versucht haben, zuzuschlagen. Zeugenhinweise nimmt die Polizei in Heilbronn-Sontheim, Telefon: 07131 253093, entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "Sontheim",
+        "lat": 49.1180678,
+        "lon": 9.1862792
+    },
+    {
+        "date": "26.02.2014",
+        "city": "Neckarwestheim",
+        "street": "Vogelsangstraße",
+        "description": "In der Zeit von Sonntagabend 23:30 und Montagmorgen 10 Uhr gelangten Diebe in einen Keller sowie einen Tiefgaragenstellplatz in der Neckarwestheimer Vogelsangstraße. Hier entwendeten sie nicht nur einen Satz Audi-Kompletträder und einen PC, sondern auch mehrere Deodorant Sprühdosen. Sie verursachten Diebstahlschaden von etwa 1.000 Euro. Sachdienliche Angaben nimmt die Polizei in Lauffen, Telefon: 07133 209-0, entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0501580,
+        "lon": 9.1849240
+    },
+    {
+        "date": "27.02.2014",
+        "city": "Heilbronn",
+        "street": "Innsbrucker Straße",
+        "description": "Beim Aufbrechen ihrer Wohnungstüre ertappte am Mittwoch in Heilbronn eine 30-jährige Frau zwei bislang unbekannte Einbrecher, worauf diese die Flucht ergriffen. Gegen 11.25 Uhr läutete es mehrfach an der Wohnungstüre im dritten Stock des Mehrfamilienhauses in der Innsbrucker Straße. Die 30-Jährige, die zu dieser Zeit zuhause war, ignorierte das Läuten, hörte aber wenige Minuten später seltsame Geräusche an der Tür. Nachdem sie durch den Türspion niemand erkannte, öffnete sie die Türe und stellte zwei Männer fest. Einer der beiden kniete vor der Eingangstüre und war vermutlich gerade dabei, am Schloss zu manipulieren. Der andere stand daneben. Die beiden mutmaßlichen Einbrecher ergriffen sofort die Flucht und rannten davon. Eine Sofortfahndung der Polizei blieb ohne Erfolg.Der kniende Täter soll etwa 22-35 Jahre alt und mindestens 1,85 Meter groß sein. Er hat eine muskulöse, sportliche Figur und trug eine dunkle Jogging-Jacke und eine Baseballmütze. Zeugen werden gebeten, sich bei der Heilbronner Polizei unter Telefon 07131 104-2500 zu melden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1362367,
+        "lon": 9.219176
+    },
+    {
+        "date": "27.02.2014",
+        "city": "Öhringen",
+        "street": "Rathausstraße",
+        "description": "Ein Einbrecher versuchte sich vermutlich am vergangenen Wochenende Zutritt in ein Geschäft in der Öhringer Rathausstraße zu verschaffen. Wahrscheinlich versuchte der Unbekannte eine Glasschiebetüre aufzudrücken und so in die Räumlichkeiten zu gelangen. Diese hielt jedoch Stand, sodass der Einbrecher nicht ins Gebäude gelangte. Hinweise nimmt die Öhringer Polizei unter Telefon 07941 930-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.200352,
+        "lon": 9.500473099999999
+    },
+    {
+        "date": "28.02.2014",
+        "city": "Heilbronn",
+        "street": "Olgastraße",
+        "description": "Am Donnerstagabend, zwischen 19.30 Uhr und 22.30 Uhr, drangen bislang unbekannte Täter in eine Wohnung in der Heilbronner Olgastraße ein. Zunächst verschafften sie sich Zugang zum Treppenhaus eines Mehrfamiliengebäudes. Gewaltsam drangen sie von dort aus in eine Mietwohnung ein und durchsuchten die Räume. Sie fanden zwei Laptops der Marken Apple und HP sowie Bargeld und Schmuck. Hinweise nimmt die Polizei Heilbronn unter Telefon 07131 104 2500 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1388242,
+        "lon": 9.2097191
+    },
+    {
+        "date": "05.03.2014",
+        "city": "Bad Rappenau",
+        "street": "Raiffeisenstraße",
+        "description": "Ein Vereinsgebäude in der Bad Rappenauer Raiffeisenstraße war in der Nacht zum Montag erneut das Ziel eines unbekannten Einbrechers. Nachdem sich der Täter gewaltsam Zutritt zu dem Gebäude verschafft hatte, ließ er von dort etwas Bargeld mitgehen. Der angerichtete Sachschaden beläuft sich auf mehrere hundert Euro. Sachdienliche Hinweise nimmt die Polizei Bad Rappenau unter Telefon 07264 9590-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.23558850000001,
+        "lon": 9.0936297
+    },
+    {
+        "date": "05.03.2014",
+        "city": "Gemmingen",
+        "street": "",
+        "description": "Nach einem Einbruch in ein Wohnhaus am vergangenen Wochenende in Gemmingen-Stebbach sucht die Eppinger Polizei Zeugen. Zwischen Freitag und Montag brach ein bislang unbekannter Täter ein Fenster am Gebäude auf und gelangte so ins Innere. Dort durchstöberte dieser sämtliche Schränke und Schubladen. Aus der Wohnung nahm er einen Flat-Screen Fernseher sowie ein Besteckset aus Silber und etwas Schmuck mit. Der Wert des Diebesgutes kann bislang nicht beziffert werden. Zeugenhinweise werden erbeten an die Eppinger Polizei unter Telefon 07262-60950.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "Stebbach",
+        "lat": 49.14554,
+        "lon": 8.964677
+    },
+    {
+        "date": "05.03.2014",
+        "city": "Heilbronn",
+        "street": "Rosenbergstraße",
+        "description": "Am Dienstag waren Einbrecher in einem Mehrfamilienhaus in der Heilbronner Rosenbergstraße aktiv. In der Zeit zwischen 8.30 und 18.30 Uhr drangen sie gewaltsam in eine Wohnung im zweiten Obergeschoss ein und durchsuchten alle Zimmer. Offenbar verließen sie den Tatort ohne Beute. Wer im Tatzeitraum etwas Verdächtiges im Bereich der Rosenbergstraße bemerkt hat, wird gebeten, sich bei der Polizei in Heilbronn, Telefon 07131 104 2500, zu melden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1361287,
+        "lon": 9.2143971
+    },
+    {
+        "date": "13.03.2014",
+        "city": "Heilbronn",
+        "street": "Werderstraße",
+        "description": "Auf eine Wohnung in der Heilbronner Werderstraße hatte es ein Unbekannter am Mittwoch in der Zeit zwischen 07.00 Uhr und 17.00 Uhr abgesehen. Während dieses Zeitraumes versuchte der Täter mit körperlicher Gewalt eine Wohnungstür aufzubrechen, was ihm jedoch nicht gelang. Die Holztür wurde dabei jedoch stark beschädigt. Über die Höhe des angerichteten Sachschaden liegen bisher keine weiteren Informationen vor. Hinweise nimmt die Polizei Heilbronn unter der Tel.Nr.: 07131 104-2500 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.13309659999999,
+        "lon": 9.220334
+    },
+    {
+        "date": "13.03.2014",
+        "city": "Kupferzell",
+        "street": "Gerberstraße",
+        "description": "Ein Schnell-Restaurant in der Kupferzeller Gerberstraße war am Mittwoch in der Zeit von 00.30 Uhr bis 09.45 Uhr das Ziel eines bislang Unbekannten. Der Täter drang durch eine Tür in das Restaurant ein und suchte offenbar gezielt nach Bargeld. Außer einem Sparschwein mit etwas Bargeld konnte der Einbrecher jedoch keine Beute machen. Der angerichtete Sachschaden beläuft sich auf mehrere hundert Euro. Hinweise nimmt die Polizei Künzelsau unter der Tel.Nr.: 07940 940-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.229419,
+        "lon": 9.685404199999999
+    },
+    {
+        "date": "14.03.2014",
+        "city": "Heilbronn",
+        "street": "Pfühlstraße",
+        "description": "Die Abwesenheit der Bewohner nutzte ein bislang Unbekannter aus, um am Donnerstag, in der Zeit zwischen 13.20 Uhr und 15.45 Uhr, in eine Wohnung in der Heilbronner Pfühlstraße einzubrechen. Der Täter hatte ein Fenster gewaltsam geöffnet und konnte so die Räume betreten. Vermutlich wurde nur ein I-Pad gestohlen. Die Höhe des angerichteten Sachschadens ist bislang noch nicht bekannt. Sachdienliche Hinweise nimmt die Polizei Heilbronn unter der Tel.Nr.: 07131 104-2500 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1448092,
+        "lon": 9.235480299999999
+    },
+    {
+        "date": "17.03.2014",
+        "city": "Eppingen",
+        "street": "Eisenbahnstraße",
+        "description": "Auf ein Geschäft in der Eppingen Eisenbahnstraße hatte es ein Unbekannter in der Nacht zum Sonntag abgesehen. Der Täter hatte offenbar ein Fenster aufgedrückt und konnte so in das Innere des Gebäudes gelangen. Dort wurden sämtliche Räume und Behältnisse durchsucht, wobei dem Einbrecher etwa 200 Euro Bargeld in die Hände fielen. Sachdienliche Hinweise nimmt die Polizei Eppingen unter der Telefonnummer 07262 60950 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1384848,
+        "lon": 8.919309199999999
+    },
+    {
+        "date": "17.03.2014",
+        "city": "Heilbronn",
+        "street": "Pestalozzistraße",
+        "description": "Auf eine Wohnung in der Heilbronner Pestalozzistraße hatte es ein bislang Unbekannter in der Zeit zwischen Mittwoch, 12. März und Sonntag, 16. März abgesehen. Der Täter hatte die Abwesenheit der Bewohnerin ausgenutzt, um gewaltsam in deren Wohnung einzudringen. Vermutlich ließ der Einbrecher ein Schmuckstück mitgehen. Ob noch weitere Gegenstände gestohlen wurden, steht bislang nicht fest. Sachdienliche Hinweise nimmt die Polizei Heilbronn unter der Telefonnummer 07131 104-2500 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1496039,
+        "lon": 9.224969399999999
+    },
+    {
+        "date": "18.03.2014",
+        "city": "Neckarsulm",
+        "street": "Harzstraße",
+        "description": "Der Kindergarten in der Neckarsulmer Harzstraße war in der Zeit von Freitag, 16.30 Uhr, bis Montag, 07.30 Uhr, das Ziel eines bislang noch Unbekannten. Der Täter hatte ein Fenster aufgehebelt und konnte so in das Innere des Gebäudes gelangen. Dort wurden mehrere Räume und Behältnisse durchsucht. Insgesamt fiel dem Einbrecher Bargeld in noch unbekannter Höhe in die Hände. Der angerichtete Sachschaden dürfte bei rund 3.000 Euro liegen. Sachdienliche Hinweise nimmt die Polizei Neckarsulm unter der Tel.Nr.: 07132 9371-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.204045,
+        "lon": 9.2463411
+    },
+    {
+        "date": "18.03.2014",
+        "city": "Nordheim",
+        "street": "Hauptstraße",
+        "description": "Bei ihrer Arbeit gestört wurden am frühen Dienstagmorgen offenbar vier bislang unbekannte Einbrecher in der Hauptstraße in Nordheim. Um kurz vor 2 Uhr hatten sie vergeblich versucht, Türen und Fenster eines Bistros aufzuwuchten und waren hierbei beobachtet worden. Den Tätern gelang vor Eintreffen der Polizei zu Fuß die Flucht. Zurück blieb ein Sachschaden in Höhe von circa 1000 Euro. Sachdienliche Zeugenhinweise nimmt die Polizei in Lauffen unter der Telefonnummer 07133 2090 gerne entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1080506,
+        "lon": 9.1302948
+    },
+    {
+        "date": "19.03.2014",
+        "city": "Eppingen",
+        "street": "Eisenbahnstraße",
+        "description": "Ohne Diebesgut floh gegen 2:50 Uhr in der Nacht auf Mittwoch ein bislang unbekannter Einbrecher, der versucht hatte in ein Sportstudio in der Eppinger Eisenbahnstraße einzubrechen. Der Unbekannte hatte an der Rückseite des Gebäudes einen Rollladen hochgeschoben, das darunterliegende Fenster aufgehebelt und war in das Gebäude eingestiegen. Als er dort eine Türe öffnete, nahm die Alarmanlage ihren lautstarken Betrieb auf. Der offensichtlich beeindruckte Einsteiger suchte daraufhin schnell das Weite. Sachdienliche Zeugenhinweise nimmt die Polizei in Eppingen unter der Telefonnummer 07262 6095-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1384848,
+        "lon": 8.919309199999999
+    },
+    {
+        "date": "19.03.2014",
+        "city": "Kirchensall",
+        "street": "Schützenhaus",
+        "description": "In das Vereinsheim des Schützenvereins Kirchensall brachen in der Zeit zwischen Montag, 20 Uhr, und Dienstagabend, 18 Uhr, unbekannte Täter ein. Sie hebelten ein Fenster zum Gastraum auf und gelangten so ins Gebäudeinnere. Dort durchsuchten sie zunächst die Schränke im Thekenbereich und nahmen von dort einen Geldbeutel mit wenig Bargeld mit. Die Stahltür zu einem weiteren Raum überwanden die Täter ebenfalls mit Brachialgewalt und erbeuteten dort ein Sparschwein mit Spendengeld. Waffen und Munition fanden nicht das Interesse der Einbrecher und wurden nicht entwendet. Der Sachschaden übertrifft mit etwa 5.000 Euro den Wert der Beute um ein Vielfaches. Personen, denen in der Tatnacht im Bereich des Schützenhauses in der Hauptstraße etwas Verdächtiges aufgefallen ist, sollten sich bei der Öhringer Polizei, Telefon 07941 9300, melden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2377410,
+        "lon": 9.6013850
+    },
+    {
+        "date": "20.03.2014",
+        "city": "Lauffen",
+        "street": "Körnerstraße",
+        "description": "Ein türkischer Imbiss in der Lauffener Körnerstraße war am Mittwoch, in der Zeit von 1 Uhr bis 7 Uhr, das Ziel eines Unbekannten. Der Täter hatte die Eingangstür des Gastraumes aufgewuchtet und konnte so in das Innere des Gebäudes gelangen. Dort wurden drei Geldspielautomaten aufgebrochen und das darin befindliche Bargeld gestohlen. Der angerichtete Sachschaden dürfte bei mindestens 5.000 Euro liegen. Sachdienliche Hinweise nimmt die Polizei Lauffen unter der Telefonnummer 07133 209-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.072544,
+        "lon": 9.152748899999999
+    },
+    {
+        "date": "21.03.2014",
+        "city": "Heilbronn",
+        "street": "Allee",
+        "description": "In das Lager einer Gaststätte in der Heilbronner Allee stiegen vermutlich zwischen Dienstag und Donnerstag Unbekannte ein. Die Eindringlinge hatten sich vermutlich über ein Oberlichtfenster Einlass verschafft. Nachdem sie die Räume durchsucht hatten, erbeuteten sie schließlich drei Geldtaschen mit Bargeld. Wer im Tatzeitraum verdächtige Wahrnehmungen gemacht hat, sollte sich bei der Polizei in Heilbronn, Telefon 07131 104 2500, melden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.140728,
+        "lon": 9.221755
+    },
+    {
+        "date": "22.03.2014",
+        "city": "Eberstadt",
+        "street": "Turmstraße",
+        "description": "Unbekannte Täter sind am Freitag, 21. März, in der Zeit zwischen 18.45 und 21.25 Uhr in der Turmstraße in ein Einfamilienhaus eingebrochen. Laut Polizei sind sie über das frei zugängliche Grundstück auf den Balkon gelangt und hebelten mit einem Werkezeug, vermutlich einem größeren Schraubenzieher oder einem kleinen Stemmeisen, die Balkontüre auf. Im Inneren fanden sie zunächst eine Geldbörse und darin einen dreistelligen Bargeldbetrag. In den Büroräumlichkeiten im Obergeschoss entwenden sie eine Münzsammlung mit einem Wert im vierstelligen Bereich. Es handelt sich dabei hauptsächlich um Silbermünzen und Medaillen. Der Sachschaden beläuft sich auf etwa 1000 Euro. Sachdienliche Hinweise nimmt das Polizeirevier Weinsberg unter Tel.: 07134/9920 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1781631,
+        "lon": 9.3457136
+    },
+    {
+        "date": "23.03.2014",
+        "city": "Bad Rappenau",
+        "street": "Schwalbenstraße",
+        "description": "Mit der Bearbeitung eines Einbruchs sind derzeit die Beamten der Bad Rappenauer Polizei beschäftigt. So wurde in der Nacht zum Sonntag das Fenster eines Hauses in der Schwalbenstraße aufgebrochen, wodurch der Täter in das Innere des Gebäudes gelangen konnte. Dort wurden sämtliche Schubladen und Schränke durchwühlt. Ob etwas gestohlen wurde, steht bisher noch nicht fest. Der angerichtete Sachschaden ist laut Polizei relativ gering. Hinweise nimmt die Polizei Bad Rappenau unter Telefon 07264 9590-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.24403359999999,
+        "lon": 9.0951275
+    },
+    {
+        "date": "23.03.2014",
+        "city": "Öhringen",
+        "street": "Pfaffenmühlenweg",
+        "description": "In der Nacht von Freitag auf Samstag wurde laut Polizei in einen Kiosk im Pfaffenmühlweg eingebrochen. Der Kiosk befindet sich in der Halle Hohenlohe. Vermutlich hatten der oder die Täter bereits während der regulären Öffnungszeiten der Halle einen Sicherungsstift am Fenster entfernt, um dann zu einem späteren Zeitpunkt einzusteigen. So weit bekannt, wurden mehrere Getränkekisten entwendet. Hinweise an das Polizeirevier Öhringen, Telefon 07941/9300.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.199931,
+        "lon": 9.5029492
+    },
+    {
+        "date": "24.03.2014",
+        "city": "Untergruppenbach",
+        "street": "Siegfried-Levi-Straße",
+        "description": "Ein Getränkemarkt in der Untergruppenbacher Siegfried-Levi-Straße wurde am Montagmorgen gegen 4 Uhr von einem Einbrecher heimgesucht. Der Täter war laut Polizeibericht über eine aufgebrochene Türe in den Verkaufsraum gelangt. Ein Anwohner hatte verdächtige Geräusche vernommen und die Polizei verständigt. Trotz einer sofort eingeleiteten Fahndung gelang dem Einbrecher die Flucht. Ob etwas gestohlen wurde, ist bisher noch nicht bekannt, ebenso stand die Höhe des angerichteten Sachschadens zunächst nicht fest. Hinweise nimmt die Polizei Weinsberg unter Telefon 07134 992-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.08588080000001,
+        "lon": 9.2881533
+    },
+    {
+        "date": "25.03.2014",
+        "city": "Cleebronn",
+        "street": "Treffentrill",
+        "description": "Der Verwaltungsbau eines Freizeitparkes in Cleebronn-Treffentrill war in der Zeit von Freitag bis Sonntag, das Ziel eines bislang Unbekannten. Nachdem der Täter gewaltsam in das Gebäude eingedrungen war, brach er im Innern mehrere Türen auf und öffnete sämtliche Behältnisse. Nach dem bisherigen Kenntnisstand wurde nichts gestohlen. Hinweise nimmt die Polizei Brackenheim unter Telefon 07135 6096 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0365120,
+        "lon": 9.0506820
+    },
+    {
+        "date": "27.03.2014",
+        "city": "Öhringen",
+        "street": "Zeilbaumweg",
+        "description": "Ein Reifenlager im Öhringer Zeilbaumweg war in der Zeit von Donnerstag, 27. März, bis Dienstag, 14.15 Uhr, das Ziel von bislang unbekannten Dieben. Vermutlich mehrere Täter hatten dort zunächst eine Tür aufgebrochen und stahlen wahrscheinlich zielgerichtet Reifen für Lkw-Anhänger. Sage und schreibe 170 Reifen im Gesamtwert von knapp 40.000 Euro wurden aus dem Gebäude gerollt und verladen. Hinweise zu den Tätern oder dem Verbleib der immensen Reifenmenge nimmt die Polizei Öhringen unter der Tel.Nr.: 07941 930-0 entgegen.",
+        "damage": "40000",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.19758179999999,
+        "lon": 9.489059300000001
+    },
+    {
+        "date": "27.03.2014",
+        "city": "Heilbronn",
+        "street": "Kirchbrunnenstraße",
+        "description": "Am frühen Mittwochmorgen bemerkte der Zulieferer einer Bäckerei in der Heilbronner Kirchbrunnenstraße, dass Unbekannte in das Geschäft eingedrungen waren. Die Täter hatten in der Zeit zwischen Dienstagabend, 19.30 Uhr, und Mittwoch, 5.15 Uhr, die Tür aufgebrochen und anschließend die Innenräume durchsucht. Sach- und Diebstahlschaden müssen noch ermittelt werden. Hinweise zu der Tat nimmt die Polizei in Heilbronn, Telefon 07131 104 2500, entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1415002,
+        "lon": 9.217878899999999
+    },
+    {
+        "date": "27.03.2014",
+        "city": "Neuenstadt",
+        "street": "Wilhelm-Maybach-Straße",
+        "description": "In der Zeit zwischen Samstagmittag und Mittwochmorgen wollte ein Unbekannter in den Lagerraum einer Firma in der Neuenstadter Wilhelm-Maybach-Straße einbrechen. Hierzu versuchte er die Brandschutztür der Halle aufzuhebeln. Diese hielt jedoch den Bemühungen des Täters stand. Es entstand dennoch ein Sachschaden in Höhe von 500 Euro. Hinweise zu dem geplanten Einbruch nimmt die Polizei in Neuenstadt, Telefon 07139 47100, entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.23238079999999,
+        "lon": 9.3546213
+    },
+    {
+        "date": "28.03.2014",
+        "city": "Bad Friedrichshall",
+        "street": "Yorkstraße",
+        "description": "In Bad Friedrichshall war in der Zeit zwischen Mittwoch, 10 Uhr, und Donnerstagmorgen ein Einbrecher unterwegs. Er versuchte durch ein zuvor aufgehebeltes Fenster im Untergeschoss eines Wohnhauses in der Yorkstraße in die Innenräume zu gelangen. Sein Vorhaben scheiterte jedoch. Möglicherweise haben Passanten die Aktivitäten des Unbekannten bemerkt oder können Angaben machen. Die Polizei nimmt Hinweise zu der Tat unter der Telefonnummer 07136 98030 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.23066960000001,
+        "lon": 9.2216366
+    },
+    {
+        "date": "29.03.2014",
+        "city": "Bad Friedrichshall",
+        "street": "Bergrat-Bilfinger-Straße",
+        "description": "Äußerst hartnäckig hat ein Unbekannter am vergangenen Wochenende in Bad Friedrichshall-Kochendorf sein kriminelles Vorhaben verfolgt. In der Zeit zwischen Samstag, 19 Uhr, und Montag, 6.40 Uhr, suchte er einen Baustoffhandel in der Bergrat-Bilfinger-Straße heim. Er versuchte dort zunächst eine gemauerte Außenwand aufzubrechen, was ihm jedoch nicht gelang. Stattdessen kletterte er nun auf das Dach und gelangte über ein zuvor zertrümmertes Oberlicht ins Innere des Firmengebäudes. Hier schlug er eine weitere Glasscheibe ein und kam so schließlich in einen weiteren Raum. Der Täter öffnete nun gewaltsam einen vorgefundenen Tresor und entnahm das darin deponierte Bargeld. Schließlich flüchtete er über den Verkaufsraum. Der bei der Tat entstandene Sach- und Diebstahlschaden ist fünfstellig. Wer im Tatzeitraum etwas Verdächtiges im Bereich der geschädigten Baustofffirma bemerkt hat, sollte sich mit der Polizei in Bad Friedrichshall, Telefon 07136 98030, in Verbindung setzen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "Kochendorf",
+        "lat": 49.2157035,
+        "lon": 9.2118601
+    },
+    {
+        "date": "30.03.2014",
+        "city": "Brackenheim",
+        "street": "Fleiner Straße",
+        "description": "Einen Sachschaden von mehreren hundert Euro hinterließen Einbrecher in der Zeit von Sonntag, 20 Uhr, bis Montag, 6.45 Uhr, in einem Firmengebäude in der Fleiner Straße in Brackenheim. Sie hebelten ein Fenster auf und gelangten so in die Räumlichkeiten. Dort brachen sie die Spinde der Mitarbeiter auf. Möglicherweise wurden sie dann aber durch den Hund des Firmeninhabers in ihrem weiteren Vorhaben gebremst und flüchteten ohne Beute. Hinweise zu der Tat nimmt die Polizei in Brackenheim, Telefon 07135 6096, entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0922016,
+        "lon": 9.0838451
+    },
+    {
+        "date": "31.03.2014",
+        "city": "Heilbronn",
+        "street": "Mozartstraße",
+        "description": "Auf ein Mehrfamilienhaus in der Heilbronner Mozartstraße hatte es in der Nacht zum Sonntag ein bislang Unbekannter abgesehen. Der Täter brach zunächst die Eingangstür auf und gelangte danach über das Treppenhaus an eine Wohnungstür im Erdgeschoss. Nachdem diese ebenfalls gewaltsam geöffnet worden war, durchwühlte der Einbrecher in der Wohnung sämtliche Schränke und andere Behältnisse. Ob etwas gestohlen wurde, steht bisher noch nicht fest.  Hinweise nimmt die Polizei Heilbronn unter Telefon 07131 104-2500 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.141057,
+        "lon": 9.2095018
+    },
+    {
+        "date": "31.03.2014",
+        "city": "Heilbronn",
+        "street": "Gymnasiumstraße",
+        "description": "Mit der Aufklärung eines Einbruchs sind derzeit die Beamten des Heilbronner Polizeireviers befasst. Ein bislang Unbekannter gelangte am Montag, in der Zeit von 08.00 Uhr bis 14.00 Uhr auf nicht bekannte Weise in das Treppenhaus eines Mehrfamilienhauses in der Heilbronner Gymnasiumstraße und machte sich anschließend an einer Wohnungstür zu schaffen. Ohne die Tür zu öffnen ließ der Täter von seinem weiteren Vorhaben ab und verschwand unerkannt. Sachdienliche Hinweise nimmt die Polizei Heilbronn unter der Tel.Nr.: 07131 104-2500 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1413971,
+        "lon": 9.2252171
+    },
+    {
+        "date": "01.04.2014",
+        "city": "Heilbronn",
+        "street": "Goethestraße",
+        "description": "Auch die Räumlichkeiten einer Kirchengemeinde waren in derselben Nacht das Ziel eines bislang unbekannten Einbrechers. Über ein gewaltsam geöffnetes Fenster gelangte der Täter in das Gebäude in der Heilbronner Goethestraße. Um an einen Tresor zu gelangen zerstörte der Langfinger einen Einbauschrank. Der Tresor wurde ebenfalls aus seiner Verankerung gerissen und umgeworfen. Öffnen konnte der Täter diesen aber nicht. Ob etwas gestohlen wurde ist bislang nicht bekannt. In beiden Fällen melden sich Zeugen bitte bei der Heilbronner Polizei unter Telefon 07131 104-2500.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.14368839999999,
+        "lon": 9.2317638
+    },
+    {
+        "date": "01.04.2014",
+        "city": "Heilbronn",
+        "street": "Pfühlstraße",
+        "description": "Eine Spiegelreflexkamera sowie mehrere Notebooks entwendete ein bislang unbekannter Täter bei einem Wohnungseinbruch in der Heilbronner Pfühlstraße. Vermutlich in der Zeit zwischen Montagabend 21.30 Uhr und Dienstagmorgen 8.15 Uhr versuchte der Einbrecher zunächst zwei Türen in einem Mehrfamilienhaus aufzubrechen, was aber misslang. Letztendlich gelangte er über ein gekipptes Toilettenfenster in die Wohnung und durchwühlte dort sämtliches Inventar, aus denen er die Gegenstände entwendete. Der Sachschaden kann derzeit noch nicht beziffert werden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1448092,
+        "lon": 9.235480299999999
+    },
+    {
+        "date": "01.04.2014",
+        "city": "Niedernhall",
+        "street": "Schulstraße",
+        "description": "Auf ein Mehrfamilienhaus in der Niedernhaller Schulstraße hatte es in der Nacht zum Dienstag ein bislang Unbekannter abgesehen. Der Täter hatte versucht die Außentür aufzubrechen, was jedoch misslang. Die Höhe des angerichteten Sachschadens ist nicht bekannt. Sachdienliche Hinweise nimmt die Polizei Niedernhall unter der Tel.Nr.: 07940 8294 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2961032,
+        "lon": 9.6179128
+    },
+    {
+        "date": "02.04.2014",
+        "city": "Offenau",
+        "street": "Hauptstraße",
+        "description": "Auf einen Discounter in der Bad Friedrichshall-Jagstfelder Heuchlinger Straße, hatte es in der Nacht zum Mittwoch ein bislang Unbekannter abgesehen. Der Täter hatte eine Tür aufgehebelt und konnte so in den Bereich eines Bäckereiverkaufsraumes eindringen. Aus einer Kasse ließ er etwas Bargeld mitgehen. Der angerichtete Sachschaden beläuft sich auf mehrere hundert Euro. In der gleichen Nacht wurde eine Bäckerei in der Offenauer Hauptstraße von einem Einbrecher heimgesucht. Auch hier hatte der Täter eine Tür aufgebrochen. Vermutlich wurde er bei seiner Tat gestört und flüchtete unerkannt. Gestohlen wurde nichts. Sachdienliche Hinweise nimmt die Polizei Bad Friedrichshall unter der Tel.Nr.: 07136 9803-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2476043,
+        "lon": 9.1630399
+    },
+    {
+        "date": "02.04.2014",
+        "city": "Bad Friedrichshall",
+        "street": "Heuchlinger Straße",
+        "description": "Auf einen Discounter in der Bad Friedrichshall-Jagstfelder Heuchlinger Straße, hatte es in der Nacht zum Mittwoch ein bislang Unbekannter abgesehen. Der Täter hatte eine Tür aufgehebelt und konnte so in den Bereich eines Bäckereiverkaufsraumes eindringen. Aus einer Kasse ließ er etwas Bargeld mitgehen. Der angerichtete Sachschaden beläuft sich auf mehrere hundert Euro. In der gleichen Nacht wurde eine Bäckerei in der Offenauer Hauptstraße von einem Einbrecher heimgesucht. Auch hier hatte der Täter eine Tür aufgebrochen. Vermutlich wurde er bei seiner Tat gestört und flüchtete unerkannt. Gestohlen wurde nichts. Sachdienliche Hinweise nimmt die Polizei Bad Friedrichshall unter der Tel.Nr.: 07136 9803-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "Jagstfeld",
+        "lat": 49.2393301,
+        "lon": 9.194293799999999
+    },
+    {
+        "date": "02.04.2014",
+        "city": "Heilbronn",
+        "street": "Gartenstraße",
+        "description": "In eine Wohnung in der Heilbronner Gartenstraße zu gelangen, versuchte ein bislang unbekannter Einbrecher am Mittwoch in Heilbronn. Gegen 21.20 Uhr kam der Bewohner der im ersten Obergeschoss eines Mehrfamilienhauses gelegenen Wohnung zurück. Er stellte fest, dass seine Wohnungstüre beschädigt wurde und alarmierte die Polizei. In die Räumlichkeiten gelangte der Täter glücklicherweise nicht, hinterließ aber Sachschaden in noch unbekannter Höhe. Zeugen melden sich bitte bei der Heilbronner Polizei unter Telefon 07131 104-2500.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1461768,
+        "lon": 9.2253926
+    },
+    {
+        "date": "02.04.2014",
+        "city": "Offenau",
+        "street": "Hauptstraße",
+        "description": "Am Mittwochmorgen suchte ein bislang unbekannter Einbrecher gegen 02:10 Uhr eine Bäckerei in der Hauptstraße in Offenau heim. Offensichtlich war er nach dem Aufbrechen einer Seiteneingangstüre gestört worden und ließ von seinem Vorhaben ab. Sachdienliche Zeugenhinweise nimmt die Polizei in Neckarsulm unter der Telefonnummer: 07132 9371-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2476043,
+        "lon": 9.1630399
+    },
+    {
+        "date": "03.04.2014",
+        "city": "Erlenbach",
+        "street": "Ruländerstraße",
+        "description": "Mit der Bearbeitung eines Einbruchsdeliktes sind derzeit die Beamten der Neckarsulmer Polizeirevier beschäftigt. Ein Unbekannter war am Donnerstag, in der Zeit von 08.00 Uhr bis 17.00 Uhr, auf bislang ungeklärte Weise in die Wohnung eines Mehrfamilienhauses in der Erlenbacher Ruländerstraße eingedrungen. Sämtliche Schränke und Behältnisse wurden durchwühlt. Dem Einbrecher fiel dabei Bargeld in noch unbekannter Höhe, Schmuck und drei Tablet-PCs in die Hände. Sachdienliche Hinweise nimmt die Polizei Neckarsulm unter der Tel.Nr.: 07132 9371-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1766342,
+        "lon": 9.2654611
+    },
+    {
+        "date": "06.04.2014",
+        "city": "Heilbronn",
+        "street": "Charlottenstraße",
+        "description": "Auf den im Schulhof aufgestellten Container, in der Heilbronner Charlottenstraße, hatte es ein Unbekannter am Sonntag, in der Zeit von 17.30 Uhr bis 21.00 Uhr, abgesehen. Nachdem der Täter den Container gewaltsam geöffnet hatte, ließ er einen Hüpfstand, einen Handball, zwei oder drei Fußbälle und ein Boccia-Spiel im Gesamtwert von etwa 200 Euro mitgehen. Die Höhe des angeri hteten Sachschadens ist nicht bekannt. Sachdienliche Hinweise nimmt die Polizei Heilbronn unter der Tel.N r.: 07131 104-2500 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1215743,
+        "lon": 9.2166087
+    },
+    {
+        "date": "06.04.2014",
+        "city": "Brackenheim",
+        "street": "Obere Sehellenmühle",
+        "description": "Auf die Teichanlage in Brackenheim-Meimsheim , Straße \"Obere Sehellenmühle \", hatte es in der Zeit von Samstag, 16.30 Uhr bis Sonntag, 18.30 Uhr, ein bislang Unbekannter abgesehen. Der Täter hatte den dortigen Zaun aufgeschnitten und eine der beiden Hütten durchsucht. Vermutlich wurde daraus nichts gestohlen. Aus einem der drei Teiche fischte der Eindringling mit einem nicht bekannten Hilfsmittel etwa 100 Forellen im Gesamtwert von mehreren hundert Euro heraus. Sachdienliche Hinweise nimmt die Polizei Brackenheim unter der Tel.Nr.: 07135 6096 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "Meimsheim",
+        "lat": 49.0808636,
+        "lon": 9.0703137
+    },
+    {
+        "date": "06.04.2014",
+        "city": "Heilbronn",
+        "street": "Bahnhofstraße",
+        "description": "In der Zeit von Freitag bis Sonntag, hatte es ein Unbekannter auf ein Gebäude in der Heilbronner Bahnhofstraße abgesehen. Der Einbrecher drang auf noch nicht bekannte Weise in die Räume der Caritas ein und wuchtete dort einige Türen auf. Ob etwas gestohlen wurde, steht bislang noch nicht fest. Der angerichtete Sachschaden dürfte jedoch bei rund 10.000 Euro liegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1427164,
+        "lon": 9.209709
+    },
+    {
+        "date": "06.04.2014",
+        "city": "Heilbronn",
+        "street": "Bahnhofstraße",
+        "description": "Im gleichen Zeitraum drangen Unbekannte nur wenige Häuser entfernt, in ein mehrstöckiges Büro- und Geschäftshaus ein. Im zweiten und dritten Oberschoss wurden ebenfalls mehrere Türen und Schränke aufgebrochen. Der angerichtete Sachschaden ist mit etwa 15.000 Euro beträchtlich. Ob etwas entwendet wurde, steht momentan noch nicht fest.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1427164,
+        "lon": 9.209709
+    },
+    {
+        "date": "06.04.2014",
+        "city": "Heilbronn",
+        "street": "Olgastraße",
+        "description": "In der Nacht auf Sonntag wurden Büros und Geschäftsräume in der Heilbronner Olgastraße von einem Einbrecher heimgesucht. Nachdem der Täter in das Gebäude eingedrungen war, brach er dort mit brachialer Gewalt mehrere Türen auf. Vermutlich wurde nichts gestohlen. Über die Höhe des angerichteten Sachschadens liegen keine Erkenntnisse vor. Personen die sachdienliche Hinweise geben können oder am Wochenende im Bereich der Tatorte verdächtige Wahrnehmungen machen konnten werden gebeten, sich unter der Tel.Nr.: 07131 104-2500 mit der Polizei Heilbronn in Verbindung zu setzen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1388242,
+        "lon": 9.2097191
+    },
+    {
+        "date": "06.04.2014",
+        "city": "Ingelfingen",
+        "street": "Mariannenstraße",
+        "description": "Die Bemühungen eines Einbrechers in Ingelfingen liefen in der Nacht zum Sonntag für ihn ins Leere. In der Zeit zwischen Samstag, 18 Uhr, und Sonntag, 10.45 Uhr, verschaffte sich der Unbekannte gewaltsam Zugang zu einem Raumausstattungsbetrieb in der Mariannenstraße. Er drang über die Südseite in das Gebäude ein und brach schließlich eine im Verkaufsraum vorgefundene Kasse auf. Diese war jedoch leer. Der Täter musste schließlich ohne Beute abziehen, hatte bei dem Einbruch aber einen Sachschaden in Höhe von 1.500 Euro hinterlassen. Wer im Tatzeitraum im Bereich der Mariannenstraße etwas Verdächtiges bemerkt hat, sollte sich bei der Polizei in Niedernhall, Telefon 07940 8294, melden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2995273,
+        "lon": 9.656560899999999
+    },
+    {
+        "date": "07.04.2014",
+        "city": "Brackenheim",
+        "street": "Georg-Kohl-Straße",
+        "description": "Eine Apotheke in der Brackenheimer Georg-Kohl-Straße war in der Zeit von Samstag bis Montag das Ziel eines bislang Unbekannten. Der Täter versuchte eine Tür aufzuwuchten, was jedoch glücklicherweise nicht gelang. Welches Werkzeug für den Einbruchsversuch benutzt wurde, steht nicht fest. Sachdienliche Hinweise nimmt die Polizei Brackenheim unter der Tel.Nr.: 07135 6096 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0785081,
+        "lon": 9.067535099999999
+    },
+    {
+        "date": "07.04.2014",
+        "city": "Heilbronn",
+        "street": "Georg-Vogel-Straße",
+        "description": "Ein Autohaus in der Heilbronner Georg-Vogel-Straße war in der Zeit von Samstag bis Montag das Ziel eines bislang Unbekannten. Der Täter hatte dort zunächst ein Fenster gewaltsam geöffnet und konnte so in das Innere der Räumlichkeiten gelangen. Dort durchsuchte der Einbrecher sämtliche Schränke und andere Behältnisse. Insgesamt fielen dem Unbekannten mehrere Fahrzeugschlüssel und Bargeld in noch nicht bekannter Höhe in die Hände. Über die Höhe des angerichteten Sachschadens liegen bisher keine weiteren Erkenntnisse vor. Sachdienliche Hinweise nimmt die Polizei Heilbronn-Böckingen unter der Tel.Nr.: 07131 20406-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1473545,
+        "lon": 9.200461299999999
+    },
+    {
+        "date": "08.04.2014",
+        "city": "Gemmingen",
+        "street": "Bahnhofstraße",
+        "description": "Am gestrigen Dienstag suchte ein bislang unbekannter Einbrecher in der Zeit zwischen 11:30 und 15:30 Uhr das Gelände des Raiffeisen Lagerhauses in Gemmingen, Bahnhofstraße, auf. Auf der Rückseite des Silogebäudes, bei den dortigen Bahngleisen, trat er ein Kellerfenster ein und kam so ins Gebäude. Er stahl mehrere Schlüssel sowie einen PC im Gesamtwert von rund 500 Euro. Eventuell hatte der Täter einen Hund dabei. Die Polizei in Eppingen, Telefon 07262 6095-0, sucht Zeugen, die verdächtige Wahrnehmungen gemacht haben.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1516557,
+        "lon": 8.9843783
+    },
+    {
+        "date": "08.04.2014",
+        "city": "Neckarsulm",
+        "street": "Paulinenstraße",
+        "description": "Unbekannte suchten am Dienstagabend während der Abwesenheit der Wohnungsinhaber in der Zeit zwischen 17:00 und 20:00 Uhr ein Wohnhaus in der Neckarsulmer Paulinenstraße auf. Sie gelangten auf bislang noch nicht bekannte Weise ins Haus und entwendeten Bargeld. Vermutlich verließen sie das Objekt durch die Balkontüre. Hinweise auf verdächtige Personen nimmt die Polizei in Neckarsulm unter Telefon 07132 9371-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.18701859999999,
+        "lon": 9.220894699999999
+    },
+    {
+        "date": "08.04.2014",
+        "city": "Künzelsau",
+        "street": "Garnberger Straße",
+        "description": "In ein Einfamilienwohnhaus in der Garnberger Straße in Künzelsau wollte sich ein Unbekannter irgendwann innerhalb der vergangenen zwei Wochen gewaltsam Zutritt verschaffen. Er hebelte an der Kellereingangstür herum, verursachte dabei auch einen Sachschaden in Höhe von etwa 200 Euro, drang jedoch nicht in die Innenräume vor. Hinweise zu dem Einbruchsversuch nimmt die Polizei in Künzelsau, Telefon 07940 9400 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.2841494,
+        "lon": 9.690929599999999
+    },
+    {
+        "date": "09.04.2014",
+        "city": "Ingelfingen",
+        "street": "Criesbacher Straße",
+        "description": "Die Georg-Fahrbach-Schule in der Criesbacher Straße in Ingelfingen war in der Nacht zum Mittwoch das Ziel eines bislang Unbekannten. Der Täter hatte ein Fenster aufgebrochen, konnte so in das Gebäudeinnere gelangen und brach dort mehrere Türen auf. Bei seinem Beutezug fiel dem Täter etwas Bargeld in die Hände. Der angerichtete Sachschaden wird auf mindestens 2.000 Euro geschätzt. Personen, die in der Nacht zum Mittwoch im Bereich der Schule verdächtige Wahrnehmungen machen konnten werden gebeten, sich unter der Tel.Nr.: 07940 8294 mit der Polizei Niedernhall in Verbindung zu setzen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.3016823,
+        "lon": 9.645856499999999
+    },
+    {
+        "date": "09.04.2014",
+        "city": "Bretzfeld",
+        "street": "Moosbachstraße",
+        "description": "Unbekannte versuchten am Mittwoch, kurz nach 02.00 Uhr, in den Technikraum einer Waschanlage in der Bretzfeld-Schwabbacher Moosbachstraße einzubrechen. Beim Aufbrechen der Tür setzte jedoch die akustische Alarmanlage ein, was die Täter offenbar dazu veranlasste, von ihrem weiteren Vorhaben abzusehen. Sachdienliche Hinweise nimmt die Polizei Bretzfeld unter der Tel.Nr.: 07946 94001-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "Schwabbach",
+        "lat": 49.1834034,
+        "lon": 9.4110608
+    },
+    {
+        "date": "09.04.2014",
+        "city": "Flein",
+        "street": "Bildstraße",
+        "description": "In der Zeit von Dienstag, 22.30 Uhr, bis Mittwoch, 06.40 Uhr, hatte ein bislang Unbekannter versucht, in ein Haus in der Fleiner Bildstraße einzubrechen. Offenbar scheiterte der Täter an der Tür, denn er musste den Tatort verlassen, ohne in das Haus gelangen zu können. Sachdienliche Hinweise nimmt die Polizei Weinsberg unter der Tel.Nr.: 07134 992-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.10583219999999,
+        "lon": 9.2148328
+    },
+    {
+        "date": "10.04.2014",
+        "city": "Neckarwestheim",
+        "street": "Reblandstraße",
+        "description": "Der Kindergarten in der Neckarwestheimer Reblandstraße war in der Nacht zum Mittwoch das Ziel eines bislang Unbekannten. Der Täter stieg durch ein zuvor aufgebrochenes Fenster in das Gebäude ein und hebelte dort eine weitere Tür und andere Behältnisse auf. Bei seinem Beutezug fiel dem Einbrecher etwas Bargeld in die Hände. Der angerichtete Sachschaden steht noch nicht fest; er dürfte jedoch beträchtlich sein.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0447134,
+        "lon": 9.189921799999999
+    },
+    {
+        "date": "10.04.2014",
+        "city": "Neckarwestheim",
+        "street": "Sperlingweg",
+        "description": "In der gleichen Nacht wurden auch noch die Kindergärten im Sperlingweg und in der Wiesenstraße von einem Einbrecher heimgesucht. Den ersten Erkenntnissen nach, könnten die drei Einbrüche einer Person zuzuschreiben sein.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0499229,
+        "lon": 9.186142499999999
+    },
+    {
+        "date": "10.04.2014",
+        "city": "Neckarwestheim",
+        "street": "Wiesenstraße",
+        "description": "In der gleichen Nacht wurden auch noch die Kindergärten im Sperlingweg und in der Wiesenstraße von einem Einbrecher heimgesucht. Den ersten Erkenntnissen nach, könnten die drei Einbrüche einer Person zuzuschreiben sein.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.04658320000001,
+        "lon": 9.186619499999999
+    },
+    {
+        "date": "10.04.2014",
+        "city": "Heilbronn",
+        "street": "Stuttgarter Straße",
+        "description": "Der Reifencontainer eines Autohauses in der Stuttgarter Straße in Heilbronn war in der Nacht zum Donnerstag das Ziel eines Unbekannten. Der Täter hatte versucht, mit einem Schweißgerät eine Einstiegsluke herauszuschweißen. Dabei wurden die im Innenraum des Containers gelagerten Reifen so erhitzt, dass es vermutlich zu einer starken Rauchentwicklung kam, was den Unbekannten offensichtlich veranlasste, von seinem weiteren Vorhaben abzulassen. Der angerichtete Sachaschaden an Container und Reifen dürfte bei rund 2.500 Euro liegen. Sachdienliche Hinweise nimmt die Polizei Heilbronn unter der Tel.Nr.: 07131 104-2500 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1239966,
+        "lon": 9.2225668
+    },
+    {
+        "date": "10.04.2014",
+        "city": "Heilbronn",
+        "street": "Schongauer Straße",
+        "description": "In Heilbronn brachen am Mittwochabend Unbekannte in ein Einfamilienhaus in der Schongauer Straße ein. In der Zeit zwischen 18.45 und 22.30 Uhr hebelten sie die Terrassentür auf und durchsuchten anschließend die Räumlichkeiten. Sie verließen das Haus offensichtlich ohne Beute, richteten jedoch einen Sachschaden in Höhe von 1.000 Euro an.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1652626,
+        "lon": 9.203237099999999
+    },
+    {
+        "date": "10.04.2014",
+        "city": "Heilbronn",
+        "street": "Hirschstraße",
+        "description": "Möglicherweise steht die Tat im Zusammenhang mit einem Einbruchsversuch in ein Wohnhaus in der Hirschstraße. Gegen 20.45 Uhr machten sich kriminelle Zeitgenossen an der Außentür zur Küche zu schaffen, als der anwesende Hausbesitzer auf die Geräusche aufmerksam wurde. Er ging in den Küchenraum und betätigte den Lichtschalter. Die Einbrecher reagierten verständlicherweise prompt und suchten ihr Heil in der Flucht. Der Eigentümer verfolgte die beiden Täter in Richtung Wimpfener Straße bis in die Schultheiß-Pfau-Straße. Dort entkamen sie schließlich unerkannt. Einer der Männer war etwa 25 Jahre alt und hatte kurze, blonde Haare. Er war - wie sein Kompagnon - dunkel gekleidet. Sachdienliche Hinweise zu den beiden Taten nimmt die Polizei in Heilbronn-Böckingen, Telefon 07131 204060, entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1702984,
+        "lon": 9.2015649
+    },
+    {
+        "date": "10.04.2014",
+        "city": "Heilbronn",
+        "street": "Karmeliterstraße",
+        "description": "Unbekannte Einbrecher versuchten am Donnerstagnachmittag, in der Zeit zwischen 16:10 und 17:45 Uhr, in eine Erdgeschoßwohnung eines Mehrfamilienhauses in der Heilbronner Karmeliterstraße einzubrechen. Offensichtlich hielt jedoch der Schließzylinder ihrem Angriff stand, weshalb der Einbruch letztlich scheiterte. Im Haus wurden durch eine Zeugin zur Tatzeit zwei junge Männer, zirka 20 - 22 Jahre alt, bekleidet mit Jeans und Turnschuhen, einer trug eine braune Daunenjacke und hatte die Kapuze übergestülpt, beobachtet Die Heilbronner Polizei, Telefon 07131 104-2500, sucht weitere Zeugen, die zur Tatzeit im dortigen Bereich verdächtige Personen gesehen haben.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1445346,
+        "lon": 9.2287726
+    },
+    {
+        "date": "10.04.2014",
+        "city": "Heilbronn",
+        "street": "Pfühlstraße",
+        "description": "Zwei bislang unbekannte Einbrecher machten sich am Donnerstagabend gegen 21:30 Uhr an einem Zwei-Familien-Haus in der Pfühlstraße, Heilbronn, zu schaffen. Eine aufmerksame Zeugin wurde auf verdächtige Geräusche aufmerksam. Sie schaute von ihrem Balkon aus nach unten und sah zwei Personen, die vom dortigen Balkon sprangen und in Richtung Pfühlstraße flüchteten. Der alarmierte Hausbesitzer und die Polizei stellten später fest, dass an der Balkontüre entsprechende Aufbruchsversuche gestartet wurden. Die beiden mutmaßlichen Einbrecher wurden wie folgt beschrieben: sportlich schlank, dunkle Haare, dunkler Teint, dunkel bekleidet. Zeugen, die verdächtige Wahrnehmungen gemacht haben, werden gebeten, sich mit der Polizei Heilbronn unter Telefon 07131 104-2500 in Verbindung zu setzen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1448092,
+        "lon": 9.235480299999999
+    },
+    {
+        "date": "10.04.2014",
+        "city": "Obrigheim",
+        "street": "Hauptstraße",
+        "description": "Mit der Bearbeitung einer ganzen Serie von Einbrüchen ist derzeit die Polizei Mosbach-Diedesheim beschäftigt. In der Nacht zum Donnerstag, waren mehrere Gebäude in der Obrigheimer Hauptstraße das Ziel eines bislang unbekannten Täters. Die Tatzeit lässt sich auf den Zeitraum von 01.00 Uhr bis 02.30 Uhr am Donnerstag eingrenzen. Im Folgenden versuchte der Täter die Tür eines Büros aufzubrechen, was jedoch glücklicherweise misslang, denn die Tür hielt den Einbruchsversuchen stand. Das Bürgermeisteramt ließ der Unbekannte ebenfalls nicht unverschont. Hier drang der Einbrecher gewaltsam durch eine Tür in das Innere des Gebäudes und ließ etwas Bargeld mitgehen. Drei weitere Einbrüche in ein Friseurgeschäft, ein Büro für Versicherungen und Finanzen und in eine Gaststätte, scheiterten. Das Eindringen in ein Obst- und Gemüsegeschäft gelang dem Unbekannten jedoch. Von dort ließ er aus einer Kasse etwas Bargeld mitgehen. Der angerichtete Sachschaden ist beträchtlich und dürfte bei nahezu 2.000 Euro liegen. Eine am Donnerstagmorgen durchgeführte Befragung der Anwohner brachte bisher noch nicht den entscheidenden Hinweis für die Ermittler. In diesem Zusammenhang bittet die Mosbacher Polizei die Bevölkerung um Mithilfe bei den Ermittlungen. Personen, die in der Nacht zum Donnerstag im Bereich der Obrigheimer Hauptstraße verdächtige Wahrnehmungen machen konnten oder sachdienliche Hinweise zur Identität des oder der Täter geben können werden dringend gebeten, sich unter der Tel.Nr.: 06261 6757-0 mit der Polizei in Mosbach-Diedesheim in Verbindung zu setzen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.3530740,
+        "lon": 9.0906200
+    },
+    {
+        "date": "11.04.2014",
+        "city": "Heilbronn",
+        "street": "Großgartacher Straße",
+        "description": "Während die Bewohnerin im Schlafzimmer schlief, drang ein Unbekannter in der Nacht von Donnerstag auf Freitag gewaltsam in die Wohnung in einem Mehrfamili-enhaus in der Großgartacher Straße ein. Der Täter verschwand mit mehreren Schmuckgegenständen sowie einem kleinen Bargeldbetrag.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1406934,
+        "lon": 9.1824899
+    },
+    {
+        "date": "11.04.2014",
+        "city": "Pfedelbach",
+        "street": "Hauptstraße",
+        "description": "Ein unbekannter Täter hebelte in der Nacht von Donnerstag auf Freitag die Eingangstür einer Metzgerei auf. Aus einer Kasse der Ladentheke wurde ein kleiner dreistelliger Geldbetrag entwendet. Der Unbekannte flüchtete über die Wurstküche ins Freie. Der angerichtete Schaden beträgt ca. 200 Euro. Hinweise über verdächtige Wahrnehmungen an das Polizeirevier Öhringen unter Telefon 07941 9300.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1739014,
+        "lon": 9.503194
+    },
+    {
+        "date": "11.04.2014",
+        "city": "Heilbronn",
+        "street": "Gymnasiumstraße",
+        "description": "Mit mehreren Einbrüchen sind derzeit die Beamten des Heilbronner Polizeireviers befasst. In der Zeit von 11. April bis 14. April 2014, brach ein bislang Unbekannter in die Büroräume und eine Werkstatt in der Heilbronner Gymnasiumstraße ein. Offenbar suche der Einbrecher zielgerichtet nach Bargeld. Dem Täter fiel bei seinem Beutezug rund 1.000 Euro in die Hände. Der angerichtete Sachschaden liegt bei etwa 2.000 Euro. In der Zeit von Freitag bis Montag, war ein Geschäft für Tierfutter und Tierbedarf in der Heilbronner David-Friedrich-Strauß-Straße das Ziel eines Unbekannten. Nach dem Täter ein Fenster gewaltsam geöffnet hatte und so in das Innere des Gebäude gelangen konnte, durch er sämtliche Behältnisse. Insgesamt für dem Einbrecher über 1.000 Euro Bargeld in die Hände gefallen sein. Der angerichtete Sachschaden ist beträchtlich; er liegt bei etwa 4.500 Euro. Selbst ein Kindergarten blieb von einem Einbruch nicht verschont. In der Zeit von Freitag, 16.30 Uhr, bis Montag, 07.00 Uhr, hebelte ein Unbekannter das Fenster des Kindergartens in der Nürnberger Straße in Heilbronn auf und konnte so in das Innere der Räume gelangen. Der Einbrecher fand nur wenig Bargeld vor, richtete jedoch einen Sachschaden von zirka 2.000 Euro an. Personen, die rund um die Tatorte während der Tatzeiten am Wochenende verdächtige Wahrnehmungen machen konnten oder sonstige sachdienliche Hinweise geben können werden gebeten, sich unter der Tel.Nr.: 07131 104-2500 mit der Heilbronner Polizei in Verbindung zu setzen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1413971,
+        "lon": 9.2252171
+    },
+    {
+        "date": "12.04.2014",
+        "city": "Heilbronn",
+        "street": "Leinbachstraße",
+        "description": "Am Samstagabend, 12.04., versuchte ein unbekannter Täter in der Zeit zwischen 20.15 und 22.30 Uhr die Hauseingangstüre eines Mehrfamiliengebäudes in der Leinbachstraße aufzuhebeln. Nachdem es ihm jedoch nicht gelang, in das Treppenhaus des Gebäudes einzudringen, ließ der Unbekannte von seinem Vorhaben ab. Der hierbei verursachte Schaden beträgt ca. 1.000 Euro. Hinweise zum Sachverhalt erbittet das Polizeirevier Heilbronn-Böckingen unter der Rufnummer 07131-20406-0.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.16581009999999,
+        "lon": 9.200991
+    },
+    {
+        "date": "12.04.2014",
+        "city": "Heilbronn",
+        "street": "David-Friedrich-Straß-Straße",
+        "description": "Mit mehreren Einbrüchen sind derzeit die Beamten des Heilbronner Polizeireviers befasst. In der Zeit von 11. April bis 14. April 2014, brach ein bislang Unbekannter in die Büroräume und eine Werkstatt in der Heilbronner Gymnasiumstraße ein. Offenbar suche der Einbrecher zielgerichtet nach Bargeld. Dem Täter fiel bei seinem Beutezug rund 1.000 Euro in die Hände. Der angerichtete Sachschaden liegt bei etwa 2.000 Euro. In der Zeit von Freitag bis Montag, war ein Geschäft für Tierfutter und Tierbedarf in der Heilbronner David-Friedrich-Strauß-Straße das Ziel eines Unbekannten. Nach dem Täter ein Fenster gewaltsam geöffnet hatte und so in das Innere des Gebäude gelangen konnte, durch er sämtliche Behältnisse. Insgesamt für dem Einbrecher über 1.000 Euro Bargeld in die Hände gefallen sein. Der angerichtete Sachschaden ist beträchtlich; er liegt bei etwa 4.500 Euro. Selbst ein Kindergarten blieb von einem Einbruch nicht verschont. In der Zeit von Freitag, 16.30 Uhr, bis Montag, 07.00 Uhr, hebelte ein Unbekannter das Fenster des Kindergartens in der Nürnberger Straße in Heilbronn auf und konnte so in das Innere der Räume gelangen. Der Einbrecher fand nur wenig Bargeld vor, richtete jedoch einen Sachschaden von zirka 2.000 Euro an. Personen, die rund um die Tatorte während der Tatzeiten am Wochenende verdächtige Wahrnehmungen machen konnten oder sonstige sachdienliche Hinweise geben können werden gebeten, sich unter der Tel.Nr.: 07131 104-2500 mit der Heilbronner Polizei in Verbindung zu setzen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1246294,
+        "lon": 9.2006845
+    },
+    {
+        "date": "12.04.2014",
+        "city": "Heilbronn",
+        "street": "Nürnberger Straße",
+        "description": "Mit mehreren Einbrüchen sind derzeit die Beamten des Heilbronner Polizeireviers befasst. In der Zeit von 11. April bis 14. April 2014, brach ein bislang Unbekannter in die Büroräume und eine Werkstatt in der Heilbronner Gymnasiumstraße ein. Offenbar suche der Einbrecher zielgerichtet nach Bargeld. Dem Täter fiel bei seinem Beutezug rund 1.000 Euro in die Hände. Der angerichtete Sachschaden liegt bei etwa 2.000 Euro. In der Zeit von Freitag bis Montag, war ein Geschäft für Tierfutter und Tierbedarf in der Heilbronner David-Friedrich-Strauß-Straße das Ziel eines Unbekannten. Nach dem Täter ein Fenster gewaltsam geöffnet hatte und so in das Innere des Gebäude gelangen konnte, durch er sämtliche Behältnisse. Insgesamt für dem Einbrecher über 1.000 Euro Bargeld in die Hände gefallen sein. Der angerichtete Sachschaden ist beträchtlich; er liegt bei etwa 4.500 Euro. Selbst ein Kindergarten blieb von einem Einbruch nicht verschont. In der Zeit von Freitag, 16.30 Uhr, bis Montag, 07.00 Uhr, hebelte ein Unbekannter das Fenster des Kindergartens in der Nürnberger Straße in Heilbronn auf und konnte so in das Innere der Räume gelangen. Der Einbrecher fand nur wenig Bargeld vor, richtete jedoch einen Sachschaden von zirka 2.000 Euro an. Personen, die rund um die Tatorte während der Tatzeiten am Wochenende verdächtige Wahrnehmungen machen konnten oder sonstige sachdienliche Hinweise geben können werden gebeten, sich unter der Tel.Nr.: 07131 104-2500 mit der Heilbronner Polizei in Verbindung zu setzen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1318097,
+        "lon": 9.2438138
+    },
+    {
+        "date": "12.04.2014",
+        "city": "Heilbronn",
+        "street": "Entenstraße",
+        "description": "Ein Einfamilienhaus in der Heilbronner Entenstraße war bereits am Samstag, gegen 21.30 Uhr, das Ziel eines bislang unbekannten Einbrechers. Der Täter hatte ein Fenster aufgebrochen und konnte so in das Innere des Gebäudes gelangen. Da der Unbekannte offenbar gestört wurde, ließ er von seinem weiteren Vorhaben ab und suchte das Weite. Dass es sich um einen Einbruch handelte, wurde erst am Montag festgestellt. Als tatverdächtig gilt in diesem Zusammenhang ein etwa 25 Jahre alter Mann, welcher nach der Tat mit einem Fahrrad in Richtung zur Böckinger Straße weggefahren ist. Sachdienliche Hinweise nimmt die Polizei Heilbronn-Neckargartach unter der Tel.Nr.: 07131 2833-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1674444,
+        "lon": 9.2034515
+    },
+    {
+        "date": "13.04.2014",
+        "city": "Heilbronn",
+        "street": "Breslauer Straße",
+        "description": "Eine Wohnung in der Breslauer Straße in Heilbronn war in der Nacht zum Sonntag das Ziel eines bislang Unbekannten. Der Einbrecher hatte die Tür aufgebrochen und konnte so in das Innere gelangen. Insgesamt fielen dem Täter Bargeld in noch unbekannter Höhe und etwas Schmuck in die Hände. Wie hoch der angerichtete Sachschaden ist, steht derzeit noch nicht fest. Sachdienliche Hinweise nimmt die Polizei Heilbronn-Böckingen unter der Tel.Nr.: 07131 20406-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1622745,
+        "lon": 9.1989293
+    },
+    {
+        "date": "13.04.2014",
+        "city": "Pfedelbach",
+        "street": "",
+        "description": "Vier Gartenhäuser, welche an der Landstraße 1050, etwa 100 Meter vor Pfedelbach, von Öhringen her kommend, aufgestellt sind, wurden in der Zeit von Samstag, 19.00 Uhr, bis Sonntag, 06.45 Uhr, von einem bislang unbekannten Täter heimgesucht. Der Einbrecher schlug entweder die Fensterscheiben ein oder brach die Türen auf, um so in das Innere der Häuschen zu langen. Mit zwei vorgefundenen Spraydosen wurden im dortigen Bereich mehrere Gartenhäuser verunziert. Der angerichtete Sachschaden dürfte bei etwa 2.500 Euro liegen. Sachdienliche Hinweise nimmt die Polizei Öhringen unter der Tel.Nr.: 07941 930-0 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1783423,
+        "lon": 9.507019099999999
+    },
+    {
+        "date": "13.04.2014",
+        "city": "Abstatt",
+        "street": "",
+        "description": "Abstatt: Supermarkt-Einbruch in Abstatt - Fluchtfahrzeug bei Geschwindigkeitskontrolle in Hessen kontrolliert Am frühen Sonntagmorgen, gegen 02:00 Uhr, brachen zunächst Unbekannte über das Dach in einen Abstatter Supermarkt ein. Sie flexten danach einen vorgefundenen Tresor auf und verschwanden mit den erbeuteten Tageseinnahmen im unteren fünfstelligen Bereich. Danach flüchteten sie in zunächst unbekannte Richtung. Auf ihrer Flucht wurden sie noch am Morgen gegen 10 Uhr auf der BAB 45 im Bereich Haiger/Hessen wegen einer Geschwindigkeitsüberschreitung von einer Streife der dortigen Autobahnpolizei Mittelhessen angehalten. Bei der Kontrolle der Personen gelang zunächst zwei Tätern die Flucht. Ein 44 Jahre alter mazedonischer Staatsangehöriger wurde vorläufig festgenommen. Die Beamten staunten nicht schlecht, als sie im Fahrzeug einen größeren Bargeldbetrag und umfangreiches Einbruchswerkzeug auffanden, das mit sehr hoher Wahrscheinlichkeit aus dem Abstatter Einbruch stammte. Einen der beiden Flüchtigen, einen 40 Jahre alten Albaner, konnten die Beamten bei der sofort eingeleiteten Fahndung noch in unmittelbarer Nähe festnehmen. Von der dritten Person, einem 33-jährigen Bulgaren, fehlt bislang noch jede Spur. Die beiden vorläufig Festgenommenen wurden am Montagnachmittag dem Haftrichter beim Amtsgericht Dillenburg vorgeführt. Dieser erließ gegen den 40-Jährigen Haftbefehl und wies ihn in eine hessische Vollzugsanstalt ein; der Haftbefehl gegen seinen 44 Jahre alten Mittäter wurde gegen Meldeauflage außer Vollzug gesetzt. Die Fahndung nach dem noch flüchtigen Bulgaren sowie die weiteren Ermittlungen laufen auf Hochtouren.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.0688071,
+        "lon": 9.2886712
+    },
+    {
+        "date": "13.04.2014",
+        "city": "Heilbronn",
+        "street": "Moltkestraße 40",
+        "description": "Vermutlich in der Nacht zum Sonntag drangen Unbekannte in ein Rechtsanwaltsbüro in der Moltkestraße 40 ein. Über Umwege gelangten die Täter zunächst ins Treppenhaus des Gebäudes und brachen die Haupteingangstür zu der Kanzlei auf. In den Büroräumen fanden sie schließlich zwei Kassen, aus denen sie Bargeld entwendeten. Der genaue Sach- und Diebstahlschaden muss noch ermittelt werden. Wem in der Zeit zwischen Samstag, 23.30 Uhr, und Sonntag, 14.30 Uhr, etwas Verdächtiges im Bereich des Tatortes aufgefallen ist, sollte sich bei der Polizei in Heilbronn, Telefon 07131 104 2500, melden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1411289,
+        "lon": 9.2284151
+    },
+    {
+        "date": "14.04.2014",
+        "city": "Schöntal",
+        "street": "",
+        "description": "Unbekannte suchten in der Nacht zum Montag einen Jugendtreff in Schöntal-Bieringen heim. In der Zeit zwischen Sonntag, 23 Uhr und Montag, 9 Uhr, drangen die Täter gewaltsam in einen Bauwagen beim Sägewerk ein, wuchteten dort mehrere Schränke auf und erbeuteten etwas Bargeld. Der von den Einbrechern angerichtete Sachschaden in Höhe von etwa 500 Euro übertrifft den Wert ihrer Beute bei Weitem. Wer im Tatzeitraum in der Gegend um das Sägewerk verdächtige Wahrnehmungen gemacht hat, sollte sich beim Polizeiposten Krautheim, Telefon 06294 234, melden.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "Bieringen",
+        "lat": 49.3438889,
+        "lon": 9.5261111
+    },
+    {
+        "date": "14.04.2014",
+        "city": "Schöntal",
+        "street": "Gewann Mühlrain",
+        "description": "In der Zeit zwischen Sonntag, 23 Uhr, und Montag, 9:00 Uhr, hat ein Unbekannter in Schöntal-Bieringen, im Gewann \"Mühlrain\" einen Gerätschuppen aufgebrochen. Nachdem er das Vorhängeschloss des Schiebetors überwunden hatte, machte er sich augenscheinlich an einer Geldkassette zu schaffen, die er zuvor aus dem nahegelegenen \"Sägewagen\", einem als Jugendtreff genutzten Bauwagen, gestohlen hatte (siehe Pressebericht vom 15.04.2014). In der Scheune selbst entwendete der Täter nichts. Allerdings entstand Sachschaden. Hinweise zu den beiden Einbrüchen nimmt der Polizeiposten Krautheim, Telefon 06294 234, entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.3438890,
+        "lon": 9.5261110
+    },
+    {
+        "date": "15.04.2014",
+        "city": "Heilbronn",
+        "street": "Sülmerstraße",
+        "description": "Mit der Aufklärung eines versuchten Einbruchs ist seit Dienstagmorgen die Polizei befasst. Gegen 06.00 Uhr wurde gemeldet, dass soeben versucht wurde, in ein Juweliergeschäft der Sülmerstraße in Heilbronn einzubrechen. Die Täter hatten dabei beabsichtigt, mit einem Pkw das Rolltor einzurammen. Allerdings hielt das Tor stand und die Einbrecher, vermutlich zwei männliche Personen, suchten das Weite, nachdem andere Personen in die Nähe kamen. Im Zuge der sofort eingeleiteten Fahndung, bei welcher rund 20 Streifenwagenbesatzungen eingesetzt waren, kam auch der Polizeihubschrauber zum Einsatz. Am Tatort und in Tatortnähe wurden ein Pkw und Motorrad aufgefunden. Wie die bisherigen Ermittlungen ergaben, waren diese kurze Zeit zuvor gestohlen worden und wurden zur Tatausführung mit großer Wahrscheinlichkeit von den Tätern benutzt. Derzeit sind noch umfangreiche Spurensicherungsmaßnahmen im Gange. Eine heiße Spur gibt es bis zum jetzigen Zeitpunkt (Stand: 09.30 Uhr) nicht. Sachdienliche Hinweise nimmt die Kriminalpolizei Heilbronn unter der Tel.Nr.: 07131 104-4444 entgegen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1438314,
+        "lon": 9.220760499999999
+    },
+    {
+        "date": "15.04.2014",
+        "city": "Heilbronn",
+        "street": "Marktplatz",
+        "description": "Ein Café am Heilbronner Marktplatz war am Dienstag, gegen 02.00 Uhr, das Ziel eines bislang Unbekannten. Der Täter drang durch ein Fenster in das Innere der Geschäftsräume, wurde aus nicht bekanntem Grund in seiner weiteren Tatausführung gestört und suchte danach das Weite. Vermutlich wurde nichts gestohlen. Personen, welche während der Tatzeit am oder in der Umgebung des Marktplatzes verdächtige Wahrnehmungen gemacht haben werden gebeten, sich unter der Tel.Nr.: 07131 104-2500 mit der Polizei Heilbronn in Verbindung zu setzen.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.142444,
+        "lon": 9.2190421
+    },
+    {
+        "date": "15.04.2014",
+        "city": "Öhringen",
+        "street": "Tiele-Winckler-Straße",
+        "description": "Am Dienstag, zwischen 17 und 19.45 Uhr, versuchten Unbekannte in den Kellerraum eines Wohngebäudes in der Tiele-Winckler-Straße in Öhringen einzudringen. Dabei wurde die Tür zu dem Keller beschädigt, hielt aber dem Einbruchsversuch stand. Der entstandene Sachschaden beläuft sich auf 300 Euro.",
+        "damage": "",
+        "type": "Einbruch",
+        "district": "",
+        "lat": 49.1953167,
+        "lon": 9.5165202
+    },
+    {
+        "date": "06.04.2013",
+        "city": "Heilbronn",
+        "street": "Olgastraße",
+        "description": "Auf einen schwarzen Audi A 5 hatten es Unbekannte in der Zeit von Freitag, 16.30 Uhr, bis Samstag, 16.00 Uhr abgesehen. Der Pkw war in der Heilbronner Olgastraße geparkt und wurde in dem benannten Tatzeitraum gestohlen. Der Wert des Fahrzeugs dürfte bei rund 30.000 Euro liegen. Sachdienliche Hinweise nimmt die Kriminalpolizei Heilbronn unter der Tel.Nr.: 07131 104-4444 entgegen.",
+        "damage": "30.000",
+        "type": "Autoaufbruch",
+        "lat": 49.1388242,
+        "lon": 9.2097191
+    },
+    {
+        "date": "03.11.2013",
+        "city": "Bad Friedrichshall",
+        "street": "Resedenweg",
+        "description": "Einen lauten Schlag hörte der Besitzer eines PKW am Sonntagnachmittag, kurz nach 15 Uhr, im Bad Friedrichshaller Resedenweg. Als er aus dem Fenster schaute, sah er zwei junge Männer wegrennen. Die beiden Unbekannten hatten offensichtlich mit einem Stein beide Scheiben am Fahrzeug des Kochendorfers eingeschlagen und eine im Innern liegende Handtasche gestohlen. Einer des Duos wird auf 25 Jahre geschätzt, ist etwa 1,90 Meter groß und soll auffallend schlank sein. Sein Komplize ist unter 20 Jahre alt und nur 1,60 bis 1,65 Meter groß. Er hat eine normale Statur, ist eventuell Südländer, hat ein rundes Gesicht und zur Tatzeit einen leichten Bartwuchs. Ob diese Tat im Zusammenhang steht mit inzwischen über 30 PKW-Aufbrüchen in Bad Friedrichshall in den vergangenen Wochen, ist unklar. Zeugen werden gebeten, sich mit der Kriminalpolizei Heilbronn, Telefon 07131 104-4444, in Verbindung zu setzen.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.2318407,
+        "lon": 9.2188851
+    },
+    {
+        "date": "03.11.2013",
+        "city": "Beilstein",
+        "street": "",
+        "description": "PKW-Aufbrecher waren in der Nacht zum Sonntag in Beilstein unterwegs. An mindestens sechs geparkten PKW schlugen die Unbekannten die Scheiben ein oder wuchteten die Türen auf, um ins Innere zu gelangen. Die Täter erbeuteten verschiedene Gegenstände aus den Fahrzeugen, der entstandene Sachschaden wird von der Polizei auf rund 6.000 Euro geschätzt. Hinweise auf die Automarder haben die Ermittler keine.",
+        "damage": "6.000",
+        "type": "Autoaufbruch",
+        "lat": 49.0409020,
+        "lon": 9.3158690
+    },
+    {
+        "date": "03.11.2013",
+        "city": "Beilstein",
+        "street": "Hauptstraße",
+        "description": "In der Nacht von Samstag, 02.11.2013 auf Sonntag, 03.11.2013, wurden in der Stadt Beilstein mehrere Fahrzeuge Angriffspunkt von Beschädigungen und Diebstählen aus den Pkw. An einem Pkw waren mutwillig zwei Reifen zerstochen worden, an einem weiteren ein Kennzeichen mitgenommen. An bisher mindestens 5 bekannt gewordenen Fahrzeugen im Bereich der Hauptstraße, Schmidhausener Straße und Gartenstraße wurden die Scheiben eingeschlagen. Teilweise wurde ein weniges an Bargeld oder auch ein Navigationsgerät aus dem Pkw entwendet. Die Höhe des Gesamtschadens lässt sich noch nicht genau beziffern. Anwohner oder Passanten, die in der Nacht etwas Verdächtiges wahrgenommen haben, werden gebeten sich Telefonisch mit dem Polizeirevier Weinsberg, 07134/9920, in Verbindung zu setzen.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.0404215,
+        "lon": 9.3145627
+    },
+    {
+        "date": "04.11.2013",
+        "city": "Kupferzell",
+        "street": "",
+        "description": "Einen auf dem P&R-Parkplatz bei Westernach abgestellten Opel Combo brachen Unbekannte in der Nacht zum Montag auf. Offenbar hatten es die Autoknacker auf Werkzeugmaschinen abgesehen, die sie in dem Firmenkleintransporter vermuteten. Sie entwendeten einen vorgefundenen Hilti-Akkuschrauber, einen Hilti-Schlagschrauber, eine Flex der Marke Bosch sowie zwei Wasserwaagen im Gesamtwert von 1.000 Euro. Zeugen, die eine verdächtige Beobachtung gemacht haben, sollten sich unter Tel. 07940/9400 bei der Künzelsauer Polizei melden.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.227277,
+        "lon": 9.6904557
+    },
+    {
+        "date": "06.11.2013",
+        "city": "Neuenstein",
+        "street": "",
+        "description": "Ein Ersatzrad eines Sattelzuges entwendete in der Nacht zum Mittwoch ein Unbekannter. Der Sattelzug war auf der Rastanlage Hohenlohe Nord neben der A 6 abgestellt. Das Rad hat einen Wert von 800 Euro und war mit einem Bügelschoss besonders gesichert.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.2065257,
+        "lon": 9.5816221
+    },
+    {
+        "date": "07.11.2013",
+        "city": "Bretzfeld",
+        "street": "",
+        "description": "Unbekannte knackten in der Nacht zum Donnerstag das Tankdeckelschloss eines Lasters. Jetzt fehlen rund 200 Liter Diesel. Der Laster stand auf einem Autobahnparkplatz zwischen Öhringen und Bretzfeld.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.1944655,
+        "lon": 9.4301319
+    },
+    {
+        "date": "07.11.2013",
+        "city": "Abstatt",
+        "street": "Schozachstraße",
+        "description": "Auf PKW der Marke BMW hatten es Unbekannte in der Nacht zum Donnerstag in der Abstatter Schozachstraße abgesehen. Sie stahlen einen 3er BMW im Wert von 25.000 Euro. In der Roßschinderstraße war am Morgen des Donnerstags ein auf einem Privatparkplatz abgestellter 1er verschwunden. Der 3er konnte noch am Donnerstag in Polen geortet werden. Als die dortige Polizei an dem durchgegebenen Ort eintraf, fanden die Beamten jedoch nicht dieses Fahrzeug, sondern den 1er BMW. Der größere Wagen blieb verschwunden. Im Zusammenhang mit anderen PKW-Diebstählen, die insbesondere die Marken BMW und Audi betrafen, ergaben die Ermittlungen der Kriminalpolizei Heilbronn, dass Zeugen vor dem Entwenden eines Audi RS4 in Neuenstadt einen am späteren Tatort langsam vorbei fahrenden schwarzen Audi Avant mit einem polnischen Kennzeichen gesehen hatte. Die beiden Insassen hatten sich den später gestohlenen Wagen offenbar genau angesehen. An der gleichen Stelle wurde kurze Zeit später ein dunkler Mercedes E-Klasse gesehen. Auch die beiden Insassen dieses Autos schauten sich das Fahrzeug an. Die Kriminalpolizei schließt nicht aus, dass die Täter stets auf dieselbe Weise vorgehen und bittet deshalb Zeugen, die ein verdächtiges Fahrzeug sehen, das Kennzeichen aufzuschreiben und umgehend die Polizei zu verständigen.",
+        "damage": "25.000",
+        "type": "Autoaufbruch",
+        "lat": 49.0673288,
+        "lon": 9.2959893
+    },
+    {
+        "date": "07.11.2013",
+        "city": "Untereisesheim",
+        "street": "Donnerstag",
+        "description": "In mindestens acht PKW drang ein Unbekannter in der Nacht zum Donnerstag in Untereisesheim ein. Wie schon in Bad Friedrichshall und Oedheim fiel auch in diesen Fällen auf, dass der Täter nur wenig Schaden anrichtete. Ob er sich Fahrzeuge aussucht, die nicht verschlossen sind oder ob er eine besondere Art des Öffnens beherrscht, ist bislang unklar. Falls es sich um denselben Unbekannten handelt wie in den anderen Orten, gehen inzwischen fast 40 PKW-Aufbrüche auf sein Konto. Interessant für die Polizei ist die Tatsache, dass der Täter immer wieder teure Gegenstände oder sogar Bargeld in den Fahrzeugen findet. Die Kriminalpolizei Heilbronn schließt nicht aus, dass der Aufbrecher sein „Tätigkeitsgebiet“ ausweitet und auch in weiteren Orten sein Unwesen treiben könnte. Zur Ermittlung des Langfingers ist die Mitarbeit der Bevölkerung ungemein wichtig. Falls irgendwo Personen gesehen werden, die offensichtlich etwas ausspähen oder nachts verdächtige Unbekannte und Fahrzeuge in ihrem Wohnbereich auffallen, wird gebeten, sich Kennzeichen zu notieren und unverzüglich die nächste Polizeidienststelle, auch über den Notruf 110, zu verständigen. Wer konkrete Hinweise zu einem der aktuellen PKW-Aufbrüche geben kann, möge sich mit der Kripo Heilbronn, Telefon 07131 104-4444, in Verbindung zu setzen.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.2096952,
+        "lon": 9.200001499999999
+    },
+    {
+        "date": "09.11.2013",
+        "city": "Öhringen",
+        "street": "",
+        "description": "Auf dem Parkplatz zwischen den Anschlussstellen Neuenstein und Öhringen entwendeten sie von einem spanischen Sattelzug, Marke Volvo, aus dem Tank mehrere hundert Liter Diesel. Vermutlich wurde hierzu eine Pumpe verwendet, da der Tankdeckel aufgestochen war.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.2117352,
+        "lon": 9.5325177
+    },
+    {
+        "date": "10.11.2013",
+        "city": "Bad Rappenau",
+        "street": "Kärlegartenstraße",
+        "description": "In der Bad Rappenauer Kärlegartenstraße schlugen Unbekannte mit einem Stein die Scheibe eines VW Golf ein. Aus einer Geldbörse, die auf dem Beifahrersitz vergessen worden war, nahmen sie das Bargeld heraus und legten den Geldbeutel wieder auf den Sitz.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.2123705,
+        "lon": 9.0993943
+    },
+    {
+        "date": "10.11.2013",
+        "city": "Güglingen",
+        "street": "Tannenstraße",
+        "description": "In Güglingen brachten Unbekannte an einem in der Tannenstraße stehenden VW-Bus mit einem Werkzeug eine Fensterscheibe zum Bersten. Aus dem Handschuhfach ließen sie ein Navigationsgerät mitgehen.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.0499942,
+        "lon": 8.9988525
+    },
+    {
+        "date": "10.11.2013",
+        "city": "Heilbronn",
+        "street": "Theresienstraße",
+        "description": "Zu zahlreichen aufgebrochenen Fahrzeugen wurde die Unterländer Polizei am vergangenen Wochenende gerufen. In Heilbronn stellte eine 54-Jährige ihren PKW um 18 Uhr in der Theresienstraße ab. Als sie um 22:30 Uhr zurückkehrte war die Scheibe der Beifahrertüre eingeschlagen und die im Fahrzeug zurückgelassene Handtasche samt Inhalt fehlte. In der Haller Straße schlitzten Diebe an vier Cabrios das Verdeck auf, um in die Fahrzeug zu gelangen. Der Wert der Beute liegt weit unter dem angerichteten Schaden, der mit mehreren Tausend Euro beziffert wurde.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.137423,
+        "lon": 9.2042527
+    },
+    {
+        "date": "10.11.2013",
+        "city": "Heilbronn",
+        "street": "Rauchstraße",
+        "description": "Zu zahlreichen aufgebrochenen Fahrzeugen wurde die Unterländer Polizei am vergangenen Wochenende gerufen. Auch in einer Tiefgarage in der Heilbronner Rauchstraße hatten es die Langfinger auf Cabrios abgesehen. An einem Mazda schlitzten sie das Verdeck auf, an einem Fiat reichte ihnen ein nicht vollständig geschlossenes Fenster. In das Verdeck eines Porsches wurde eingestochen, eindringen ins Innere des Wagens konnten die Täter jedoch nicht.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.153077,
+        "lon": 9.2280265
+    },
+    {
+        "date": "10.11.2013",
+        "city": "Möckmühl",
+        "street": "Unteren Gasse",
+        "description": "In Möckmühl brachen Täter einen Mercedes auf, der im Parkhaus in der Unteren Gasse abgestellt war. Auch aus diesem Auto wurde ein Navigationsgerät gestohlen. Außerdem rissen die Diebe den Mercedesstern ab, schlugen den Scheinwerfer ein und traten Dellen in den Kotflügel sowie die Fahrertüre.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.32261399999999,
+        "lon": 9.36024
+    },
+    {
+        "date": "10.11.2013",
+        "city": "Neckarsulm",
+        "street": "",
+        "description": "Auch in Neckarsulm-Amorbach waren mehrere Autos Ziel von Aufbrechern. Mindestens sechs Fahrzeuge wurden aufgebrochen. Die Diebe hatten es insbesondere auf im Fahrzeug liegende Gegenstände und auf Navigationsgeräte abgesehen. Es wurden aber auch mehrere Airbags ausgebaut. Die Polizei geht davon aus, dass verschiedene Tätergruppen unabhängig voneinander unterwegs waren und hofft, dass es Zeugen gibt, die Hinweise an die jeweils zuständige Dienststelle geben können. Außerdem weist die Kriminalprävention der Heilbronner Polizeidirektion ausdrücklich darauf hin, dass offen im Fahrzeug liegende Gegenstände wie Handtaschen, Lederbeutel, Geldbeutel oder mobile Navigationsgeräte Autoaufbrecher regelrecht zu einem Aufbruch auffordern.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.2090200,
+        "lon": 9.2504110
+    },
+    {
+        "date": "12.11.2013",
+        "city": "Beilstein",
+        "street": "",
+        "description": "Die Serie von PKW-Aufbrüchen geht weiter. In Beilstein wurden in vergangenen Tagen insgesamt zehn Taten angezeigt. Bei sieben war es allerdings bei einem Versuch geblieben. Die Täter hatten es insbesondere auf im Fahrzeug liegende Gegenstände abgesehen.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.0409024,
+        "lon": 9.315868799999999
+    },
+    {
+        "date": "12.11.2013",
+        "city": "Eppingen",
+        "street": "Entengasse",
+        "description": "In Eppingen-Kleingartach parkte eine 55-Jährige ihren Toyota am Montagabend in der Entengasse. Als sie am Dienstagmorgen zurückkam war die Scheibe der Fahrertüre eingeschlagen. Aus dem Wagen stahlen die Automarder ein mobiles Navigationsgerät. In derselben Nacht montierten Unbekannte an einem in der Großen Hohle in Schluchtern stehenden BMW die roten Kennzeichen ab.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.0990668,
+        "lon": 8.9734436
+    },
+    {
+        "date": "13.11.2013",
+        "city": "Gaisbach",
+        "street": "Nelkenstraße",
+        "description": "Auf laute Geräusche wurden Anwohner in der Gaisbacher Nelkenstraße am Mittwoch um 4 Uhr aufmerksam. Als sie nach draußen schauten, entdeckten sie zwei Personen, die sich gerade an einem vor dem Wohnhauses abgestellten Mercedes zu schaffen machten. Sie alarmierten sofort die Polizei. Beim Eintreffen der Ordnungshüter hatten die Täter bereits das Weite gesucht. Die Unbekannten hatten die beiden Türen auf der Beifahrerseite des PKW gewaltsam geöffnet und einen darin abgelegten Geldbeutel, in dem sich etwa 100 Euro, Ausweispapiere und Bankkarten des Geschädigten befanden, entwendet. Damit nicht genug. Dieselben Täter hatten auch noch einen schwarzen Roller im Asternweg geklaut, diesen in Richtung Grundschule geschoben und dort liegen gelassen. Dabei wurde die Frontverkleidung beschädigt. Die Täter durchwühlten das Sitzfach und warfen ein T-Shirt sowie eine Handytasche auf den Boden. Nach derzeitigen Erkenntnissen dürfte sich ein Täter eine blutende Verletzung zugezogen haben. Sachdienliche Hinweise nimmt das Polizeirevier Künzelsau unter Tel. 07940/9400 entgegen.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.2603662,
+        "lon": 9.688882099999999
+    },
+    {
+        "date": "13.11.2013",
+        "city": "Heilbronn",
+        "street": "Stockportstraße",
+        "description": "Rund 30 Einzelgaragen befinden sich in einer Tiefgarage in der Heilbronn-Sontheimer Stockportstraße beim Gebäude 44. In einer davon hatte ein 41-Jähriger seinen 24 Jahre alten Porsche abgestellt. Auf diesen hatten es Diebe abgesehen. Die Unbekannten öffneten in der Zeit zwischen Dienstagnachmittag und Donnerstagmorgen gewaltsam das Tor der Einzelgarage und transportierten den Wagen auf eine unbekannte Weise ab. Der Wagen, der aufgrund diverser Zubehörteile als Sammlerstück gilt, hat einen Wert von über 40.000 Euro. Es handelt sich um einen Porsche Carrera 911-Cabrio. Sowohl die Karosserie als auch das Stoffverdeck sind dunkelblau. Das im Jahr 1988 erstmals zugelassene Fahrzeug hat weiße Ledersitze und einen Heckflügel. Das Kennzeichen lautet HN E 6319. Da die Ausfahrt der Tiefgarage nur 2,20 Meter hoch ist, konnten die Diebe sicherlich nicht mit einem größeren Transporter anfahren. Die Ausfahrt ist ansteigend, so dass der Porsche wohl auch nicht hinaus geschoben werdenkonnte. Deshalb hofft die Polizei, dass andere Garagenbenutzer die Verladeaktion beobachtet haben, sie aber nicht mit einer Straftat in Verbindung brachten. Diese und Zeugen, die Hinweise auf den Verbleib des Fahrzeugs geben können, werden gebeten, sich mit der Kriminalpolizei Heilbronn, Telefon 07131 104-4444, in Verbindung zu setzen.",
+        "damage": "40.000",
+        "type": "Autoaufbruch",
+        "lat": 49.1191037,
+        "lon": 9.2082876
+    },
+    {
+        "date": "14.11.2013",
+        "city": "Flein",
+        "street": "Sontheimer Straße",
+        "description": "Bislang neun Anzeigen wurden am Morgen bei der Untergruppenbacher Polizei erstattet, bei denen Unbekannte in der Nacht zum Donnerstag an mehreren Cabrios die Verdecke aufgeschnitten und aus diesen teilweise Gegenstände entwendet hatten. Die bislang unbekannten Täter gelangten auf noch nicht bekannte Art in die Tiefgaragen verschiedener Mehrfamilienhäuser in der  Sontheimer Straße und Talheimer Straße, der Schillerstraße sowie  in den Hofwiesen und schnitten dort die Verdecke auf. Aus manchen Fahrzeugen wurden Gegenstände, die teilweise nur minimalen Wert haben, entwendet. Aus anderen Pkw nahmen die Langfinger nichts mit. Der Sachschaden beläuft sich nach Schätzungen der Polizei auf etwa 15.000 Euro. Möglicherweise besteht ein Tatzusammenhang mit ähnlichen Vorfällen, die sich in den vergangenen Nächten in Heilbronn zugetragen haben. Personen, die verdächtige Wahrnehmungen gemacht haben werden gebeten, sich mit der Polizei in Untergruppenbach unter 07131/64463-0, in Verbindung zu setzen.",
+        "damage": "15.000",
+        "type": "Autoaufbruch",
+        "lat": 49.10550540000001,
+        "lon": 9.2055014
+    },
+    {
+        "date": "16.11.2013",
+        "city": "Heilbronn",
+        "street": "Lichtenberger Straße",
+        "description": "Im Laufe der Nacht von Freitag, 15.11.2013 auf Samstag, 16.11.2013,  wurden in Heilbronn bisher 3 aufgebrochene Fahrzeuge bekannt. In der Lichtenberger Straße wurde an einem geparkten Pkw die Scheibe der Beifahrertüre eingeworfen, aus dem Innenraum dann eine Handtasche mit Geldbeutel und diversen Ausweiskarten gestohlen. Bei einem VW UP, der in der Charlottenstraße geparkt war, wurde die hintere rechte Seitenscheibe eingeschlagen und eine Lederjacke daraus entwendet. Ein weiterer aufgebrochener Pkw, VW Polo, wurde durch seinen Besitzer in der Ferdinand-Braun-Straße entdeckt. Auch hier war die hintere Seitenscheibe eingeschlagen und aus dem Fahrzeuginnern eine Handtasche entwendet worden. Der Schaden des Diebesgutes und der angerichtete Sachschaden belaufen sich bei den 3 Fällen auf mehrere hundert Euro.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.1748981,
+        "lon": 9.209971399999999
+    },
+    {
+        "date": "17.11.2013",
+        "city": "Bad Friedrichsall",
+        "street": "Seelachstraße",
+        "description": "16 zum Teil neuwertige und auf Felgen montierte Reifen stahlen Unbekannte in der Nacht zum Sonntag in Bad Friedrichshall-Kochendorf. Die Diebe überstiegen einen Maschendrahtzaun, um auf das Gelände der Kfz.-Service-Firma in der Seelachstraße zu gelangen. Wahrscheinlich hoben sie die Reifen über den Zaun und verluden sie dort in ein Fahrzeug oder auf einen Anhänger. Falls es Zeugen gibt, die diese Aktion gesehen haben, aber sie eventuell nicht mit einer Straftat in Verbindung brachten, mögen sich diese beim Polizeiposten Bad Friedrichshall, Telefon 07136 98030, melden.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.2360888,
+        "lon": 9.2189563
+    },
+    {
+        "date": "19.11.2013",
+        "city": "Bretzfeld",
+        "street": "Moosbachstraße",
+        "description": "Ein komplettes Zaunelement montierten Einbrecher in der Nacht zum Dienstag ab, um auf das Gelände einer Firma für Agrargeräte in der Schwabbacher Moosbachstraße zu gelangen. Anschließend klauten sie aus einem neuen Traktor die Batterie. Aus zwei Transportern wurden verschiedene Werkzeugmaschinen und Werkzeuge im Gesamtwert von rund 5.000 Euro entwendet. Zeugen, die in der Tatnacht etwas Verdächtiges beobachtet haben, sollten sich unter Tel. 07946/940010 beim Polizeiposten Bretzfeld melden.",
+        "damage": "5.000",
+        "type": "Autoaufbruch",
+        "lat": 49.1834034,
+        "lon": 9.4110608
+    },
+    {
+        "date": "21.11.2013",
+        "city": "Erlenbach",
+        "street": "Trollingerstraße",
+        "description": "Zwei Audis stahlen Unbekannte in der Nacht zum Donnerstag in Erlenbach. In der Trollingerstraße stand der Geschäftswagen eines 46-Jährigen auf einem Autoabstellplatz vor dem Gebäude 36. Als dieser morgens kurz nach 5 Uhr wegfahren wollte, stellte er fest, dass der schwarze Audi A 4 Avant nicht mehr da stand. Das Fahrzeug ist rund 45.000 Euro wert und hat das Kennzeichen NE BU 1966. In der Viertelsteige verschwand ein graue Audi A 5, der vor der Garageneinfahrt des Gebäudes Nummer 47 geparkt war. Dieses Auto eines 27-Jährigen hat das Kennzeichen HN MJ 3112. Der Wert des Wagens wird auf 37.000 Euro geschätzt. Die Polizei geht davon aus, dass ein Zusammenhang zwischen den Taten besteht. Zeugen, die in der Trollingerstraße oder der Viertelsteige verdächtige Beobachtungen gemacht haben oder etwas über den Verbleib der beiden Audis wissen, werden gebeten, sich mit der Kriminalpolizei Heilbronn, Telefon 07131 104-4444, in Verbindung zu setzen. Da sich abzeichnet, dass im laufenden Jahr mit jetzt schon über 40 gestohlenen PKW im Unterland ein Höchstwert angesteuert wird (zum Vergleich: 2012 waren es 26), bittet die Polizei die Bevölkerung um Mitarbeit. Verdächtige Personen und sollten umgehend an die nächste Polizeidienststelle gemeldet werden. Die Kennzeichen von verdächtigen Fahrzeugen sollte man notieren und ebenfalls sofort an die Polizei weitergeben.",
+        "damage": "72.000",
+        "type": "Autoaufbruch",
+        "lat": 49.1770387,
+        "lon": 9.2671934
+    },
+    {
+        "date": "23.11.2013",
+        "city": "Öhringen",
+        "street": "Steinsfeldle",
+        "description": "Ein bislang unbekannter Täter entwendete am Samstag gegen 11.40 Uhr von einem Firmengelände in der Straße Steinsfeldle in Öhringen einen weißen Mercedes-Sprinter. Der Unbekannte, der gegenüber dem Firmeninhaber zunächst Interesse an dem zum Verkauf stehenden Transporter bekundete, nutzte dessen kurzzeitige Abwesenheit aus und flüchtete mit dem Fahrzeug im Wert von über 15000 Euro vom Hof des Händlers. An dem Sprinter waren zur Tatzeit die roten Kennzeichen KÜN-06055 angebracht. Die sofort eingeleitete Fahndung der Öhringer Polizei blieb bislang ohne Erfolg.",
+        "damage": "15.000",
+        "type": "Autoaufbruch",
+        "lat": 49.18864869999999,
+        "lon": 9.495760599999999
+    },
+    {
+        "date": "23.11.2013",
+        "city": "Waldenburg",
+        "street": "Gebhardtstraße",
+        "description": "Vier Winterkompletträder entwendete ein Unbekannter aus einem Audi, der auf einem Firmengelände in der Gebhardtstraße abgestellt war, in der Nacht zum Samstag. Die Räder der Marke Dunlop 225/50 R18 waren in den unverschlossenen PKW gelagert. Offenbar entdeckte dies ein Dieb und nutzte die Gelegenheit. Sachdienliche Hinweise nimmt das Polizeirevier in Öhringen unter Tel. 07941/9300 entgegen.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.1982392,
+        "lon": 9.6567477
+    },
+    {
+        "date": "24.11.2013",
+        "city": "Heilbronn",
+        "street": "Charlottenstraße",
+        "description": "Obwohl die Polizei immer wieder betont keine Wertsachen im Auto zurückzulassen werden immer wieder Fahrzeuge genau aus diesem Grund aufgebrochen. So auch in der Nacht von Samstag, 23.11.2013 auf Sonntag 24.11.2013. Bisher bekannte Tatorte waren in Heilbronn in der Charlottenstraße und  Viehweide und in Leingarten in der Benzstraße. Unbekannte Täter zerbrachen auf bisher nicht bekannte Weise die Seitenscheiben der jeweiligen Pkw. Ziel waren im Beifahrerbereich abgelegte Handtaschen oder Taschen in denen Wertgegenstände vermutet wurden. Die Taschen samt Inhalt nahmen die Täter mit. Wie hoch der Sachschaden ist oder was genau entwendet wurde ist noch nicht bekannt.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.1215743,
+        "lon": 9.2166087
+    },
+    {
+        "date": "30.11.2013",
+        "city": "Öhringen",
+        "street": "Pfaffenmühlweg",
+        "description": "Seinen Audi A3 hatte ein Mann am Freitag um 15 Uhr auf dem Parkplatz an der Römerbadhalle abgestellt. Als der 29-Jährige am Samstag gegen 12 Uhr wieder wegfahren wollte, musste er feststellen, dass ein Unbekannter seinen PKW aufgebrochen hatte. Der Autoknacker fand jedoch lediglich eine Ein-Mark-Münze, die er mitnahm. Zeugenhinweise nimmt das Polizeirevier unter Tel. 07941/9300 entgegen.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.1984575,
+        "lon": 9.511029299999999
+    },
+    {
+        "date": "01.12.2013",
+        "city": "Öhringen",
+        "street": "Im Brenntenstock",
+        "description": "Auf dem Gelände eines Autohauses im Brenntenstock machten sich Diebe am vergangenen Wochenende an dort ausgestellten Fahrzeugen zu schaffen. Von zwei X5 montierten sie jeweils die beiden Außenspiegel ab. An neun weiteren PKW wurden die vorderen bzw. die hinteren BMW-Embleme entwendet. Zudem klauten die Täter 16 Embleme von den Alufelgen der Fahrzeuge. Der Wert der Beute wurde auf über 1.500 Euro beziffert. Bereits in der Nacht zum Freitag hatte zudem ein Unbekannter die linke Heckscheibe eines BMW 116d eingeschlagen und dadurch einen Schaden von 600 Euro hinterlassen. Zeugen, die in den Tatzeiträumen etwas Verdächtiges beobachtet haben, sollten sich unter Tel. 07941/9300 beim Polizeirevier melden.",
+        "damage": "1.500",
+        "type": "Autoaufbruch",
+        "lat": 49.2033292,
+        "lon": 9.4877302
+    },
+    {
+        "date": "03.12.2013",
+        "city": "Bretzfeld",
+        "street": "Maybachstraße",
+        "description": "Von zwei Seat-Neuwagen, die auf dem Gelände eines Autohauses in der Schwabbacher Maybachstraße ausgestellt waren, entwendeten Unbekannte in der Nacht zum Dienstag acht 16-Zoll Alu-Räder mit Sommerreifen 205/55R16 im Wert von 2.000 Euro. Zeugen, die etwas Verdächtiges beobachtet haben, sollten sich unter Tel. 07946/940010 beim Polizeiposten Bretzfeld melden.",
+        "damage": "2.000",
+        "type": "Autoaufbruch",
+        "lat": 49.1848637,
+        "lon": 9.4114474
+    },
+    {
+        "date": "07.12.2013",
+        "city": "Heilbronn",
+        "street": "Schönbeinstraße",
+        "description": "Drei Lkw, welche auf dem Firmengelände einer Speditionsfirma in der Heilbronner Schönbeinstraße standen, wurden durch Unbekannte aufgebrochen. Die Täter brachen die Schlösser der Türen auf und gelangten so in das Innere der Fahrerkabine, aus der sie Bargeld und Elektronilartikel stahlen. Die Tat hat sich vermutlich bereits in der Nacht von Freitag auf Samstag ereignet. Über die Höhe des entstandenen Sachschadens können bislang keine Angaben gemacht werden. Sachdienliche Hinweise nimmt die Polizei Heilbronn unter Tel.Nr.: 07131/1042500 entgegen.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.1697916,
+        "lon": 9.221636
+    },
+    {
+        "date": "07.12.2013",
+        "city": "Heilbronn",
+        "street": "Lichtenbergerstraße",
+        "description": "Am Samstag, 07.12.2013, zwischen Mitternacht und 04.00 Uhr, wurden im Stadtbereich Heilbronn 4 Autos aufgebrochen. In der Lichtenbergerstraße schlug der Täter an 2 Pkw Seitenscheiben ein und ließ aus dem Fahrzeuginnern Taschen, ein Handy und eine Geldbörse mitgehen. In der Charlottenstraße wurden in der Nähe einer Disco ebenfalls 2 Autos aufgebrochen. Nach dem Einschlagen einer Seitenscheibe und dem Aufwuchten einer Türe konnte der Täter lediglich eine Schminktasche finden. An allen 4 Autos wurde erheblicher Sachschaden hinterlassen. Hinweise werden an das Polizeirevier Heilbronn, Telefon 07131 1042500, erbeten.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.1748981,
+        "lon": 9.209971399999999
+    },
+    {
+        "date": "13.12.2013",
+        "city": "Heilbronn",
+        "street": "Westfriedhof",
+        "description": "Am Freitag, 13.12.2013 zwischen 12.45 Uhr – 13.55 Uhr brachen Unbekannte einen Opel Corsa auf dem Parkplatz des Westfriedhofes auf. Hierbei versuchten sie die Fensterscheibe an der Fahrertüre aufzuhebeln, die jedoch hierbei zu Bruch ging. Der oder die Täter gelangten daraufhin ins Wageninnere und entwendeten daraus die Handtasche der Geschädigten. In der Handtasche befanden sich Bargeld und diverse Papiere. Sachdienliche Hinweise nimmt das Polizeirevier Böckingen unter Telefon 07131/204060 entgegen.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.1293830,
+        "lon": 9.1653610
+    },
+    {
+        "date": "17.12.2013",
+        "city": "Schwaigern",
+        "street": "",
+        "description": "Einen doppelten Schaden verursachten am Dienstagnachmittag, in der Zeit zwischen 15.30 Uhr bis 16.00 Uhr, unbekannte Täter auf einem Waldparkplatz beim Friedwald zwischen Schwaigern und Gemmingen. Sie schlugen die Fensterscheiben von zwei geparkten Autos auf und entwendeten die auf den vorderen Sitzplätzen zurück gelassenen Handtaschen. Die Besitzer haben dadurch doppelten Schaden. Die geklauten Gegenstände, darunter ein Handy, Bargeld und diverse persönliche Papiere sowie der Schaden von jeweils etwa 500 Euro an den Fahrzeugen selbst.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.14184239999999,
+        "lon": 9.0589523
+    },
+    {
+        "date": "18.12.2013",
+        "city": "Öhringen",
+        "street": "",
+        "description": "Nach Spritdieben fahndete eine Zivilstreife der Schwäbisch Haller Verkehrspolizei in der Nacht zum Mittwoch auf der Autobahn 6. Dabei fielen den Beamten zwei Lastzüge mit rumänischen Kennzeichen auf, deren Fahrer die gezielt die Parkplätze entlang der Autobahn ansteuerten und offensichtlich auf der Suche nach Beute waren. Auf einem Parkplatz bei Öhringen stoppten sie. Danach machten sich die insgesamt fünf Verdächtigen zunächst an dem Tank eines dort geparkten slowakischen Sattelzugs zu schaffen. Die Polizisten konnten weiter beobachten, wie die Täter dann die Tanks von zwei weiteren LKW angingen. Nachdem die Ordnungshüter Verstärkung beim Öhringer Polizeirevier angefordert hatten, wurden die fünf tatverdächtigen Rumänen im Alter zwischen 24 und 49 Jahren festgenommen und der Künzelsauer Kriminalpolizei übergeben. Die Ermittlungen dauern noch an.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.2117072,
+        "lon": 9.5196002
+    },
+    {
+        "date": "19.12.2013",
+        "city": "Neuenstein",
+        "street": "",
+        "description": "In der Zeit von Mittwoch (14.50 Uhr) bis Donnerstag (2.50 Uhr) schlitzten Unbekannte die Plane eines Lasters auf der Autobahnrastanlage Hohenlohe auf. Jetzt fehlen zwei Kleidungsstücke von geringem Wert. Der angerichtete Sachschaden schlägt mit 500 Euro zu Buche.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.2065484,
+        "lon": 9.6383898
+    },
+    {
+        "date": "19.12.2013",
+        "city": "Waldenburg",
+        "street": "Max-Eyth-Straße",
+        "description": "Unbekannte Spritdiebe machten sich am Donnerstag zwischen 17 und 23.30 Uhr beim Lidl-Zentrallager in der Max-Eyth-Straße an den Tanks von zwei dort abgestellten Sattelzügen zu schaffen. Die Täter schläuchelten etwa 750 Liter Diesel ab und verschwanden mit ihrer Beute. Sachdienliche Hinweise nimmt das Polizeirevier Öhringen unter Tel. 07941/9300 entgegen.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.1962504,
+        "lon": 9.6662774
+    },
+    {
+        "date": "21.12.2013",
+        "city": "Heilbronn",
+        "street": "Salzstraße",
+        "description": "Nachdem am Sonntagmorgen ein mit Backwaren beladener Pkw in Heilbronn gestohlen worden war, wurde von der Geschäftsleitung eines Brötchen-bring-Dienstes eine Belohnung in Höhe von 500 Euro ausgesetzt, die zur Ermittlung oder Ergreifung der Täter führen. Gegen 5 Uhr war der dunkelblaue Fiat Cinquecento im Hofraum einer Bäckerei in der Salzstraße geparkt. Angestellte der Bäckerei waren gerade dabei, das Fahrzeug zu beladen, als ihnen zwei junge Frauen auffielen, die im Bereich einer nahegelegenen Diskothek standen. Die beiden nutzten offensichtlich einen Moment aus, in dem die Angestellten weitere Waren aus der Bäckerei holten, stiegen in den Fiat ein und fuhren in Richtung Goppeltstraße davon. Der Fahrzeugschlüssel steckte zu diesem Zeitpunkt. Bislang fehlt noch jede Spur von dem Cinquecento mit Kennzeichen HN-CV 247. Zeugen werden gebeten, sich bei der Heilbronner Polizei unter Telefon 07131/104-2500 zu melden.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.1610418,
+        "lon": 9.2151914
+    },
+    {
+        "date": "25.12.2013",
+        "city": "Waldenburg",
+        "street": "Tommelhardt",
+        "description": "Im Zeitraum zwischen Dienstag und Mittwoch wurden in Waldenburg-Tommelhardt einem 23-jährigen Mann vier Lautsprecherboxen aus dem unverschlossenen Auto entwendet. Vorausgegangen war dem Diebstahl die Trennung von seiner Freundin, die tags zuvor mit Freunden aus dem genannten Fahrzeug, in Abwesenheit des Besitzers, persönliche Gegenstände abholte. Bei einem ihrer Begleiter konnte schließlich auch eine der Boxen aufgefunden werden. Der Verbleib der drei anderen Lautsprecher ist nicht bekannt. Die Polizei Öhringen ermittelt.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.1634127,
+        "lon": 9.6421756
+    },
+    {
+        "date": "30.12.2013",
+        "city": "Möckmühl",
+        "street": "Domenecker Straße",
+        "description": "Im Zeitraum vom 23.12.13 - 30.12.13 wurde von bislang unbekannten Tätern der Tankdeckel eines LKW aufgebrochen. Dieser stand auf einem Parkplatz, in der Domenecker Straße, in Möckmühl. Es wurden 160 Liter Dieselkraftstoff im Wert von circa 240 Euro aus dem Tank entwendet. Sachdienliche Hinweise nimmt der Polizeiposten Möckmühl unter der Nummer 06298 92000 entgegen.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.3138643,
+        "lon": 9.358590399999999
+    },
+    {
+        "date": "30.12.2013",
+        "city": "Neuenstein",
+        "street": "",
+        "description": "Unbekannte Täter entwendeten in der Nacht von Sonntag auf Montag auf einer Rastanlage der Autobahn 6 die Seitenverkleidung eines Lkws. Der Schaden beläuft sich auf ca. 500 Euro.",
+        "damage": "500",
+        "type": "Autoaufbruch",
+        "lat": 49.2065484,
+        "lon": 9.6383898
+    },
+    {
+        "date": "07.01.2014",
+        "city": "Heilbronn",
+        "street": "Wollhausstraße",
+        "description": "Bislang unbekannte Täter brachen im Zeitraum vom 04.01.-07.01.2014 in einer Tiefgarage einer Wohnanlage in der Heilbronner Wollhausstraße zwei PKW auf und durchsuchten diese nach Beute. Wie die Täter in die Tiefgarage gelangten, und ob etwas entwendet wurde, ist bislang noch unklar. Es entstand ein Sachschaden in Höhe von circa 1500 Euro. Sachdienliche Hinweise nimmt das Polizeirevier Heilbronn unter der Nummer 07131 104 2500 entgegen.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.1387516,
+        "lon": 9.2295375
+    },
+    {
+        "date": "14.01.2014",
+        "city": "Ellhofen",
+        "street": "Weinsberger Straße",
+        "description": "Audi A 6 gestohlen Auf einen Audi A 6 hatte es ein bislang Unbekannter abgesehen. Das in der Weinsberger Straße in Ellhofen abgestellte Auto wurde in der Zeit von Montag, 21.00 Uhr, bis Dienstag, 06.40 Uhr gestohlen. Der Audi hat einen Zeitwert von rund 10.000 Euro, ist mit einem HN-Kennzeichen versehen und hat eine silbergraue Lackierung. Sachdienliche Hinweise nimmt die Kriminalpolizei Heilbronn unter der Tel.Nr.: 07131/104-4444 entgegen",
+        "damage": "10.000",
+        "type": "Autoaufbruch",
+        "lat": 49.148865,
+        "lon": 9.3175847
+    },
+    {
+        "date": "21.01.2014",
+        "city": "Bad Rappenau",
+        "street": "Schwalbenstraße",
+        "description": "Am Dienstagvormittag wurde in Bad Rappenau zwischen 6:45 und 13:00 Uhr in der Schwalbenstraße die Beifahrerscheibe eines Peugeot eingeschlagen und eine Handtasche samt Inhalt aus dem Innenraum des Fahrzeugs entwendet. Der Wert des entwendeten Gutes beträgt zirka 250 Euro. Der Schaden an der Seitenscheibe ebenfalls knapp 250 Euro. Sachdienliche Hinweise nimmt die Polizei in Bad-Rappenau unter der Telefonnummer 07264 9590-0 entgegen.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.24403359999999,
+        "lon": 9.0951275
+    },
+    {
+        "date": "22.01.2014",
+        "city": "Bad Wimpfen",
+        "street": "Servianstraße",
+        "description": "Einen BMW X5 entwendeten bislang unbekannte Diebe in der Nacht zum Mittwoch in Bad Wimpfen. Der Pkw war zwischen 21.15 Uhr und 7.10 Uhr in der Servianstraße geparkt. Der Pkw ist weiß und hat eine Künzelsauer Zulassung. Der Wert des Pkw kann bislang nicht beziffert werden. Zeugen, die sachdienliche Hinweise geben können werden gebeten, sich mit der Kripo Heilbronn unter Telefon 07131/104-4444, in Verbindung zu setzen.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.2260153,
+        "lon": 9.1513841
+    },
+    {
+        "date": "22.01.2014",
+        "city": "Bad Wimpfen",
+        "street": "Servianstraße",
+        "description": "Einen Tatzusammenhang zwischen den Diebstählen zweier Pkw vermutet die Polizei in Bad Wimpfen. Wie bereits berichtet wurde in der Nacht zum Mittwoch in der Servianstraße ein neuwertiger BMW X5 mit Künzelsauer Zulassung gestohlen. Nun wurde der Polizei ein weiterer Diebstahl eines BMW des gleichen Typs gemeldet. Dieser war im selben Tatzeitraum, zwischen Dienstag, 20.30 und Mittwoch 07.00 Uhr, in der Schillerstraße auf dem Stellplatz vor Gebäude Nr. 17 abgestellt. An dem X5 waren Heilbronner Kennzeichen angebracht. Beide Fahrzeuge waren weiß lackiert und haben einen Gesamtwert von etwa 150.000 Euro. Sachdienliche Hinweise zu den Straftaten nimmt die Kripo Heilbronn unter der Telefonnummer 07131 104-4444, entgegen.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.2260153,
+        "lon": 9.1513841
+    },
+    {
+        "date": "22.01.2014",
+        "city": "Öhringen",
+        "street": "",
+        "description": "In Öhringen-Michelbach versuchten Unbekannte vermutlich in der Nacht zu Mittwoch ein Auto aufzubrechen. In der Zeit zwischen Dienstag, 19 Uhr, und Mittwoch, 6 Uhr, machten sie sich an der Fahrertür eines in der Straße Unterer Kirchberg abgestellten Mitsubishi Pajero zu schaffen und versuchten diese aufzuwuchten. Dies misslang zwar gründlich, allerdings richteten die verhinderten Autoaufbrecher einen Sachschaden in Höhe von 500 Euro an. Wer zur Tatzeit im Bereich des Unteren Kirchwegs etwas Verdächtiges beobachtet oder gehört hat, sollte sich bei der Öhringer Polizei, Telefon 07941 9300, melden.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.1774960,
+        "lon": 9.5535510
+    },
+    {
+        "date": "28.01.2014",
+        "city": "Bad Rappenau",
+        "street": "",
+        "description": "In der Nacht zum Dienstag kam es auf dem Parkplatz Bauernwald-Nord entlang der BAB 6 in Fahrtrichtung Mannheim zu zwei Dieseldiebstählen aus Kraftfahrzeugstanks. Insgesamt wurden zirka 750 Liter Diesel entwendet. Um sachdienliche Hinweise bittet die Verkehrspolizei in Weinsberg unter der Telefonnummer: 07134 513-0.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.2149455,
+        "lon": 9.0594430
+    },
+    {
+        "date": "30.01.2014",
+        "city": "Öhringen",
+        "street": "",
+        "description": "Beim Abzapfen von Dieselkraftstoff wurden am frühen Donnerstag zwei Männer im Alter von 27 und 29 Jahren angetroffen und festgenommen. Gegen 4 Uhr fiel einer Zivilstreife der Verkehrspolizei auf der BAB 6 in Fahrtrichtung Mannheim ein Sattelzug mit rumänischer Zulassung auf, der zuvor durch verschiedene Parkplätze gefahren war, ohne parken zu wollen. Auf einem Parkplatz zwischen den Anschlussstellen Öhringen und Bretzfeld konnten die Ordnungshüter beobachten, wie sich die beiden Tatverdächtigen am Tank eines geparkten LKW zu schaffen machten und Dieselkraftstoff herauspumpten, weshalb die Männer festgenommen wurden. Da die mutmaßlichen Diebe in Rumänien wohnhaft sind, mussten sei eine Sicherheitsleistung in dreistelliger Höhe bezahlen. Im Anschluss wurden sie auf freien Fuß entlassen.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.2010527,
+        "lon": 9.4638102
+    },
+    {
+        "date": "04.02.2014",
+        "city": "Erlenbach",
+        "street": "Autobahn-Parkplatz Sulmtal",
+        "description": "Reichlich Beute machte ein bislang Unbekannter in der Nacht zum Dienstag. Der Täter schlitzte die Plane eines Aufliegers auf, welcher auf dem Parkplatz Sulmtal, der BAB 6, Gemarkung Erlenbach, Fahrtrichtung Nürnberg, abgestellt war. Aus dem Lkw-Anhänger ließ der Dieb mehrere hundert Akku-Schrauber im Gesamtwert von einigen zehntausend Euro mitgehen. Sachdienliche Hinweise nimmt die Verkehrspolizeidirektion unter der Tel.Nr.: 07134 513-0 entgegen.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.1680342,
+        "lon": 9.2589643
+    },
+    {
+        "date": "05.02.2014",
+        "city": "Bad Rappenau",
+        "street": "",
+        "description": "Rund 800 Liter Dieselkraftstoff stahlen bislang Unbekannte aus den Tanks eines Lkw. Der Lastwagen war in der Nacht zum Mittwoch im Industriegebiet im Bad Rappenau-Bonfelder Buckäckering abgestellt. Der oder die Diebe hatten die Verriegelung der beiden Kraftstofftanks aufgebrochen und den Dieselvorrat auf unbekannte Art herausgeholt. Hinweise dazu nimmt die Polizei Eppingen unter der Tel.Nr.: 07262 6095-0 entgegen.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.2142260,
+        "lon": 9.0941190
+    },
+    {
+        "date": "05.02.2014",
+        "city": "Eberstadt",
+        "street": "",
+        "description": "Rund 650 Liter Dieselkraftstoff zapften bislang Unbekannte in der Nacht zum Mittwoch aus dem Tank eines Lkws. Der Lastwagen war auf dem Parkplatz Eberbachtal, an der A 81, Fahrtrichtung Würzburg abgestellt. Wie die Diebe an den Kraftstoff im Tank gelangten, ist derzeit noch nicht bekannt. Sachdienliche Hinweise nimmt die Verkehrspolizei unter der Tel.Nr.: 07134 513-0 entgegen.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.1808538,
+        "lon": 9.3403882
+    },
+    {
+        "date": "07.02.2014",
+        "city": "Heilbronn",
+        "street": "Heisenbergstraße",
+        "description": "In der Zeit zwischen 01. und 07.02, 18.00/15.00 Uhr, wurde eine Feldscheune, welche sich entlang der Heisenbergstraße, ca. 100 Meter nach dem dortigen Industriegebiet befindet, durch einen Unbekannten aufgebrochen. Aus der Scheune wurde ein Muldenkipper (Bezeichnung Mini-Truck 709) im Wert von ca. 2.500 Euro entwendet. Die selbstfahrende Arbeitsmaschine ist mit einem 7 PS starken Rasenmähermotor ausgestattet und lässt sich mit einem Seilzug starten. Darüber hinaus entwendete der Täter eine ca. 80 kg schwere Rundholzgreifzange aus Stahl, an der sich Hydraulikanschlüsse befinden. Diese hat einen Wert von ca. 1.000 Euro. Aufgrund der Beschaffenheit der Diebesbeute muss der Täter zum Abtransport einen Pkw-Anhänger oder möglicherweise auch einen Kastenwagen benutzt haben.",
+        "damage": "3.500",
+        "type": "Autoaufbruch",
+        "lat": 49.18985259999999,
+        "lon": 9.149724899999999
+    },
+    {
+        "date": "11.02.2014",
+        "city": "Obersulm",
+        "street": "Obersulm-Sülzbacher Straße",
+        "description": "Mehrere hundert Euro dürfte der Schaden betragen, welcher ein bislang Unbekannter in der Zeit von Sonntag, 20.00 Uhr, bis Dienstag, 09.00 Uhr, an einem in der Obersulm-Sülzbacher Straße \"Im Gänsbühl\" anrichtete. Der Täter hatte offenbar versucht, einen BMW X6 aufzubrechen und baute dazu das komplette Schloss der Fahrertür aus. Sachdienliche Hinweise nimmt die Polizei Obersulm unter der Tel.Nr.: 07130 7077 entgegen.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.161411,
+        "lon": 9.3524459
+    },
+    {
+        "date": "16.02.2014",
+        "city": "Leingarten",
+        "street": "Daimlerstraße",
+        "description": "In der Nacht auf Sonntag wurde zwischen 23:05 und 04:45 Uhr durch unbekannte Täter die Scheibe der Beifahrertüre eines in der Daimlerstraße abgestellten PKWs eingeschlagen und diverse Gegenstände aus dem PKW gestohlen. Über die Höhe des Sachschadens ist bislang nichts bekannt. Sachdienliche Hinweise nimmt die Polizei in Lauffen, Tel: 07133 209-0, entgegen.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.1500513,
+        "lon": 9.128204799999999
+    },
+    {
+        "date": "16.02.2014",
+        "city": "Öhringen",
+        "street": "Heilbronner Straße",
+        "description": "Am Sonntag, zwischen 15 und 18.30 Uhr, drang ein Unbekannter in einen in der Heilbronner Straße in Öhringen abgestellten VW Passat gewaltsam ein. Aus dem Fahrzeug entwendete er einen I-Pod Touch. Der entstandene Sach- und Diebstahlschaden beträgt etwa 100 Euro. Hinweise zu der Tat nimmt die Polizei in Öhringen, Telefon 07941 9300, entgegen.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.2009408,
+        "lon": 9.4876233
+    },
+    {
+        "date": "17.02.2014",
+        "city": "Leingarten",
+        "street": "Eppinger Straße",
+        "description": "Zwischen Freitag und Montag entwendeten bislang unbekannte Täter auf einer Großbaustelle in der Eppinger Straße aus dem Dieseltank eines MAN LKWs zirka 100 Liter Diesel. Aus seinem Autokran der Marke Liebherr entwendeten die Täter knapp 200 Liter Diesel. Des Weiteren wurde eine neuwertige Schubkarre entwendet, mit der vermutlich der Dieselkraftstoff von der Baustelle abtransportiert wurde. Der Wert des entwendeten Diesels beläuft sich auf ungefähr 420 Euro. Die Schubkarre hatte einen Wert von zirka 100 Euro. Der entstandene Sachschaden an den beiden Tankdeckeln beläuft sich auf knapp 80 Euro. Die Polizei in Leintal bittet um sachdienliche Zeugenhinweise an die Telefonnummer 07138 81063-0.",
+        "damage": "600",
+        "type": "Autoaufbruch",
+        "lat": 49.1479418,
+        "lon": 9.1094336
+    },
+    {
+        "date": "18.02.2014",
+        "city": "Heilbronn",
+        "street": "Staufenbergstraße",
+        "description": "Zwischen Sonntag und Dienstag schlug ein bislang unbekannter Täter die hintere rechte Seitenscheibe eines in der Staufenbergstraße in Heilbronn geparkten Nissans ein. Offensichtlich entriegelte der Täter im Anschluss den PKW und entwendete aus dessen Innerem ein Auto-CD-Radio im Wert von zirka 50 Euro. Am PKW hinterließ der Täter einen Schaden in Höhe von knapp 100 Euro. Täterhinweise nimmt die Polizei in Heilbronn unter der Telefonnummer: 07131 253093 entgegen.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.1174465,
+        "lon": 9.2027284
+    },
+    {
+        "date": "23.02.2014",
+        "city": "Bad Rappenau",
+        "street": "Parkplatz bei der Mühltalhalle",
+        "description": "Bislang unbekannte Täter brachen in der Nacht zum Sonntag einen auf dem Parkplatz bei der Mühltalhalle in Bad Rappenau einen abgestellten Fiat Ducato auf und ließen ihrer Zerstörungswut im Inneren des Fahrzeugs offensichtlich freien Lauf. Auf nicht bekannte Art und Weise gelangten die Täter in den Lieferwagen, öffneten beide Türen sowie die Motorhaube und rissen dort sämtliche Kabel heraus. Zudem wurden zahlreiche Gegenstände, die im Fahrzeug aufbewahrt worden waren, auf dem Boden um den Pkw verstreut. Ob etwas gestohlen wurde, kann bislang nicht gesagt werden. Zeugen, die verdächtige Beobachtungen gemacht haben, mögen sich bei der Polizei Bad Rappenau, Telefon 07264 9590-0 melden.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.24016899999999,
+        "lon": 9.1020153
+    },
+    {
+        "date": "23.02.2014",
+        "city": "Heilbronn",
+        "street": "Sichererstraße",
+        "description": "Zwischen Freitag 17:00 und Sonntag 21:00 Uhr wurden in der Heilbronner Sichererstraße ein Scanner aus einem abgestellten LKW einer Spedition entwendet. Zeugen werden gebeten, sich bei der Polizei in Heilbronn, Telefon: 07131 104-2500 zu melden.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.14821269999999,
+        "lon": 9.2247699
+    },
+    {
+        "date": "24.02.2014",
+        "city": "Neuenstadt",
+        "street": "Daimlerstraße",
+        "description": "In Neuenstadt schlug ein unbekannter Täter in der Zeit von Samstag, 18 Uhr, bis Montag, 8 Uhr, die Seitenscheibe der Fahrertür eines zum Verkauf angebotenen BMW in der Daimlerstraße ein. Da er das Fahrzeug jedoch offensichtlich nicht öffnen konnte, ließ er von der weiteren Tatausführung ab. Zeugen werden gebeten, sich bei der Polizei in Neuenstadt zu melden. Telefon: 07139 4710-0.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.238398,
+        "lon": 9.3429342
+    },
+    {
+        "date": "3.12.2014",
+        "city": "Heilbronn",
+        "street": "Olgastraße",
+        "description": "Ein bislang unbekannter Täter versuchte zwischen Montag und Dienstag mit brachialer Gewalt, aber vergeblich die Fahrertüre eines roten Citroen C1 aufzubrechen, der in der Heilbronner Olgastraße geparkt war. Der Schaden am Pkw wird auf 1.800 Euro geschätzt. Sachdienliche Zeugenhinweise nimmt die Polizei in Heilbronn unter der Tele-fonnummer 07131 104-2500 entgegen.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.1388242,
+        "lon": 9.2097191
+    },
+    {
+        "date": "27.03.2014",
+        "city": "Brackenheim",
+        "street": "Austraße",
+        "description": "Nach einem Autodiebstahl am hellichten Tag hat die Brackenheimer Polizei Ermittlungen eingeleitet.  Ein 65-Jähriger hatte seinen blauen Mitsubishi Colt mit dem Kennzeichen HN-A 2683 am Mittwoch gegen 14.25 Uhr auf dem Parkplatz eines Discounters in der Brackenheimer Austraße abgestellt. Als der Besitzer nach 15 Minuten wieder zu seinem Fahrzeug wollte, stellte er fest, dass das Auto gestohlen worden war. Nach den ersten Erkenntnissen stand während des Tatzeitraums ein BMW längere Zeit auf dem Parkplatz. In diesem Auto, das in der Nähe des Mitsubishi geparkt war, befanden sich zwei jüngere Männer mit dunklem Teint. Einer hatte einen Bart, der andere trug eine Schildmütze. Ob die Unbekannten etwas mit dem Fahrzeugdiebstahl zu tun haben oder ob es sich um mögliche Tatzeugen handelt, war zunächst unklar. Der Mitsubishi hat einen Wert von rund 6.000 Euro.  Hinweise nimmt die Polizei Brackenheim unter Telefon 07135 6096 entgegen. red",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.0745215,
+        "lon": 9.068461
+    },
+    {
+        "date": "07.04.2014",
+        "city": "Bad Friedrichshall",
+        "street": "Grabenäcker",
+        "description": "Mehrere hundert Euro dürfte der Schaden betragen, den ein Unbekannter in der Zeit von Freitag bis Montag an einem, im Bad Friedrichshaller Gewann \"Grabenäcker\", Baustelle bei der Mühle Heuchlingen, abgestellten Bagger anrichtete. Der Täter hatte die Glasscheibe mit hohem Aufwand zerschlagen und aus dem Rahmen gewuchtet. Auch der rechte Außenspiegel wurde beschädigt. Sachdienliche Hinweise nimmt die Polizei Bad Friedrichshall unter der Tel.Nr .: 07136 9803-0 entgegen.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.23439440000001,
+        "lon": 9.2079738
+    },
+    {
+        "date": "07.04.2014",
+        "city": "Neuenstein",
+        "street": "Maybachstraße",
+        "description": "In der Zeit von Samstag, 12.00 Uhr, bis Montag, 08.30 Uhr, grub sich ein bislang Unbekannter unter einem Gitterzaun eines Geländes in der Neuensteiner Maybachstraße durch. Dort baute der Täter an drei Lkw die Batteriesätze aus und schläuchelte an mindestens zehn Lastwagen rund 1.500 Liter Dieselkraftstoff aus den Tanks. Der gesamte Wert des Diebesgutes dürfte sich auf deutlich über 3.000 Euro belaufen. Sachdienliche Hinweise nimmt die Polizei Öhringen unter der Tel.Nr .: 07941 930-0 entgegen.",
+        "damage": "3.000",
+        "type": "Autoaufbruch",
+        "lat": 49.2135155,
+        "lon": 9.5878617
+    },
+    {
+        "date": "07.04.2014",
+        "city": "Zweiflingen",
+        "street": "Heiligenwald",
+        "description": "Auf dem Parkplatz an der Sall beim Heiligenwald bei Zweiflingen hat ein Unbekannter am Montagabend ein Auto aufgebrochen. Eine Frau hatte ihr Fahrzeug kurz nach 18 Uhr dort abgestellt, um auf der gegenüberliegenden Sallseite, nur wenige Meter entfernt, Kräuter zu pflücken. Sie beobachtete von dort aus, wie ein silbern oder weiß lackierter Kombi auf den Parkplatz einbog und kurze Zeit neben ihrem Pkw stand. Als dieser dann wenig später wieder wegfuhr und die 61-Jährige zurückkam, stellte sie fest, dass die linke, hintere Seitenscheibe an ihrem Auto eingeschlagen war und ihre zuvor auf dem Rücksitz abgelegte Handtasche fehlte. Der unbekannte Fahrzeugführer hatte dichtes, weißes bis gelbstichiges Haar und ein breites Gesicht. Er war eher mittleren bis fortgeschrittenen Alters. Wer Hinweise zu dem Autoaufbruch geben kann, sollte sich bei der Polizei in Öhringen, Telefon 07941 9300, melden.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.2559580,
+        "lon": 9.5183030
+    },
+    {
+        "date": "",
+        "city": "Heilbronn",
+        "street": "Gartenstraße",
+        "description": "In Heilbronn waren wie schon am Wochenende auch in den Nächten zum Montag und zum Dienstag die Autoaufbrecher unterwegs, die sich offensichtlich auf Tiefgaragen „spezialisiert“ haben. In der Gartenstraße waren sie am frühen Montagmorgen, kurz nach 3 Uhr, gerade dabei das Rolltor einer Tiefgarage aufzuhebeln, als ein Hausbewohner zufällig vorbei kam. Die Unbekannten flüchteten unerkannt. In der Max-Planck-Straße gelang der Einbruch in eine Tiefgarage in der Nacht zum Dienstag. Dort schlitzten die Langfinger an zwei Cabrios das Verdeck auf. Es gelang ihnen jedoch nur bei einem der Fahrzeuge, ins Innere zu kommen. Dort fanden sie immerhin zwei Euro Bargeld. Der angerichtete Sachschaden liegt weit im vierstelligen Bereich. In einer anderen Tiefgarage in derselben Straße schnitten sie das Faltdach eines VW Golf-Cabrio auf. Entwendet wurde nichts. Auch in der Agnese-Schebest-Straße waren zwei Cabrios das Ziel der Aufschlitzer, nachdem sie das Tor der Tiefgarage aufgebrochen hatten. Am Jörg-Rathgeb-Platz kam ein Renault Twingo-Cabrio unter das Messer der Unbekannten. Auch hier entstand ein hoher Schaden, gestohlen wurde nichts. Die Kriminalpolizei geht davon aus, dass die Täter weiterhin unterwegs sein werden und bittet die Anwohner von Tiefgaragen, wachsam zu sein und verdächtige Personen oder Fahrzeuge umgehend der nächsten Polizeidienststelle, auch über den Notruf 110, zu melden.",
+        "damage": "",
+        "type": "Autoaufbruch",
+        "lat": 49.1461768,
+        "lon": 9.2253926
+    }
+];
