@@ -8,22 +8,6 @@
     var colorScheme = ["#fff5f0", "#fee0d2", "#fcbba1", "#fc9272", "#fb6a4a", "#ef3b2c", "#cb181d", "#a50f15", "#67000d"];
     var info = [];
 
-    var isInside = function (point, vs) {
-        var x = point[0], y = point[1];
-
-        var inside = false;
-        for (var i = 0, j = vs.length - 1; i < vs.length; j = i++) {
-            var xi = vs[i][0], yi = vs[i][1];
-            var xj = vs[j][0], yj = vs[j][1];
-
-            var intersect = ((yi > y) != (yj > y)) && (x < (xj - xi) * (y - yi) / (yj - yi) + xi);
-            if (intersect)
-                inside = !inside;
-        }
-
-        return inside;
-    };
-
     var formatNumber = function (n) {
         var rx = /(\d+)(\d{3})/;
         return String(n).replace(/^\d+/, function (w) {
@@ -96,7 +80,7 @@
     var createInfoControl = function () {
         info = L.control();
 
-        info.onAdd = function (map) {
+        info.onAdd = function () {
             this._div = L.DomUtil.create('div', 'info');
             this.update();
             return this._div;
@@ -164,14 +148,14 @@
                         'layer': layer
                     });
 
-                    layer.on("mouseover", function (e) {
+                    layer.on("mouseover", function () {
                         info.update(feature);
                     });
-                    layer.on("click", function (e) {
+                    layer.on("click", function () {
                         info.update(feature);
                     });
 
-                    layer.on("mouseout", function (e) {
+                    layer.on("mouseout", function () {
                         info.update();
                     });
                 }
@@ -238,7 +222,7 @@
     };
 
     var addTileLayer = function () {
-        var attribution = '<a href="http://www.mapbox.com/about/maps/" target="_blank">Terms &amp; Feedback</a> | <a href="http://www.stimme.de/meta/ueberuns/impressum/Impressum;art5015,1284151">Impressum</a> | <strong>Datengrundlage: Veröffentlichte Polizeiberichte (Polizeidirektion Heilbronn) des vergangenen halben Jahres</strong> | Alle Angaben ohne Gewähr!';
+        var attribution = '<a href="http://www.mapbox.com/about/maps/" target="_blank">Terms &amp; Feedback</a> | <a href="http://www.stimme.de/meta/ueberuns/impressum/Impressum;art5015,1284151">Impressum</a> | Datengrundlage: Veröffentlichte Polizeiberichte Nov. 13 - Apr. 14 | Alle Angaben ohne Gewähr!';
         L.tileLayer('https://{s}.tiles.mapbox.com/v3/felix-ebert.i288cb1g/{z}/{x}/{y}.png', {
             'maxZoom': 18,
             'attribution': attribution
