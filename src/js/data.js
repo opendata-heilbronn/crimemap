@@ -3818,8 +3818,8 @@ cm.data = [
         "description": "Ein Ersatzrad eines Sattelzuges entwendete in der Nacht zum Mittwoch ein Unbekannter. Der Sattelzug war auf der Rastanlage Hohenlohe Nord neben der A 6 abgestellt. Das Rad hat einen Wert von 800 Euro und war mit einem Bügelschoss besonders gesichert.",
         "damage": "",
         "type": "Autoaufbruch",
-        "lat": 49.2065257,
-        "lon": 9.5816221
+        "lat": 49.2065484,
+        "lon": 9.6383898
     },
     {
         "date": "07.11.2013",

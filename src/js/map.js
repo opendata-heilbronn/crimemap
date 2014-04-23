@@ -58,10 +58,14 @@
         var icons = {
             'Einbruch': L.AwesomeMarkers.icon({
                 icon: 'home',
+                prefix: 'glyphicons',
+                extraClasses: 'glyphicons glyphicons-white',
                 markerColor: 'darkblue'
             }),
             'Autoaufbruch': L.AwesomeMarkers.icon({
-                icon: 'road',
+                icon: 'car',
+                prefix: 'glyphicons',
+                extraClasses: 'glyphicons glyphicons-white',
                 markerColor: 'blue'
             })
         };
@@ -121,15 +125,20 @@
 
                 html += '<h4>' + feature.properties.GEN + '</h4>';
                 html += '<strong>Einwohner:</strong> ' + formatNumber(feature.properties.citizens);
-                html += '<br /><strong>Diebstähle:</strong> ' + feature.properties.numberOfCrimes;
-                html += '<br /><strong>Diebstähle je 1000 Einwohner:</strong> ' + cValue + '<br /><small>(maßgeblich für die Einfärbung)</small><br />';
-                Object.keys(crimeTypes).forEach(function (key) {
-                    var crimeType = crimeTypes[key];
-                    html += '<br />' + crimeType.label + ': ' + crimeType.count;
-                });
+                html += '<br /><strong>Einbrüche / Autoaufbrüche:</strong> ' + feature.properties.numberOfCrimes;
+                html += '<br /><strong>je 1.000 Einwohner:</strong> ' + cValue + '<br /><small>(maßgeblich für die Einfärbung)</small><br />';
+                if(!L.Browser.mobile) {
+                    Object.keys(crimeTypes).forEach(function (key) {
+                        var crimeType = crimeTypes[key];
+                        html += '<br />' + crimeType.label + ': ' + crimeType.count;
+                    });
+                }
             } else {
                 if (!this._div.innerHTML) {
-                    html += '<h4>Gemeinde</h4>Mit der Maus auswählen';
+                    html += '<h4>Gemeinde</h4>';
+                    if(!L.Browser.mobile) {
+                        html += 'Mit der Maus auswählen';
+                    }
                 }
             }
             if (html) {
@@ -156,6 +165,9 @@
                     });
 
                     layer.on("mouseover", function (e) {
+                        info.update(feature);
+                    });
+                    layer.on("click", function (e) {
                         info.update(feature);
                     });
 
@@ -208,9 +220,6 @@
         }
 
         var citizens = feature.properties['EWZ_M'] + feature.properties['EWZ_W'];
-        if (feature.properties.GEN == 'Lauffen am Neckar') {
-            console.log(layer.getLatLngs());
-        }
         var crimes = [];
         markers.forEach(function (marker) {
             if (leafletPip.pointInLayer(marker.marker.getLatLng(), layer)) {
@@ -229,8 +238,8 @@
     };
 
     var addTileLayer = function () {
-        var attribution = '© 2013 CloudMade – Map data <a href="http://creativecommons.org/licenses/by-sa/2.0/">CCBYSA</a> 2013 <a href="http://www.openstreetmap.org/">OpenStreetMap.org</a> contributors – <a href="http://cloudmade.com/terms_conditions">Terms of Use</a> | <a href="http://www.stimme.de/meta/ueberuns/impressum/Impressum;art5015,1284151">Impressum</a>';
-        L.tileLayer('http://{s}.tile.cloudmade.com/036a729cf53d4388a8ec345e1543ef53/123058/256/{z}/{x}/{y}.png', {
+        var attribution = '<a href="http://www.mapbox.com/about/maps/" target="_blank">Terms &amp; Feedback</a> | <a href="http://www.stimme.de/meta/ueberuns/impressum/Impressum;art5015,1284151">Impressum</a> | <strong>Datengrundlage: Veröffentlichte Polizeiberichte (Polizeidirektion Heilbronn) des vergangenen halben Jahres</strong> | Alle Angaben ohne Gewähr!';
+        L.tileLayer('https://{s}.tiles.mapbox.com/v3/felix-ebert.i288cb1g/{z}/{x}/{y}.png', {
             'maxZoom': 18,
             'attribution': attribution
         }).addTo(leafletMap);
