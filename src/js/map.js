@@ -22,7 +22,7 @@
         L.Icon.Default.imagePath = 'img/';
         leafletMap = L.map('map', {
             center: [49.15, 9.2],
-            zoom: 11,
+            zoom: 10,
             minZoom: 5,
             maxZoom: 16
         });
@@ -64,7 +64,7 @@
                     address += ', ' + crime.street;
                 }
                 var marker = new L.Marker([crime.lat, crime.lon], {icon: icons[crime.type]});
-                marker.bindPopup('<p><strong>' + crime.type + ' am ' + crime.date + '</strong></p><p>' + address + '</p><p><em>Polizeimeldung:</em> ' + crime.description + '</p>');
+                marker.bindPopup('<p><strong>' + crime.type + ' am ' + crime.date + '</strong></p><p>' + address + '</p><p style="font-size:12px"><em>Polizeimeldung:</em> ' + crime.description + '</p>');
 
                 markerCluster.addLayer(marker);
                 markers.push({
@@ -73,6 +73,7 @@
                 });
             }
         });
+        markerCluster.bringToFront();
 
         leafletMap.addLayer(markerCluster);
     };
@@ -110,13 +111,12 @@
                 html += '<h4>' + feature.properties.GEN + '</h4>';
                 html += '<strong>Einwohner:</strong> ' + formatNumber(feature.properties.citizens);
                 html += '<br /><strong>Einbrüche / Autoaufbrüche:</strong> ' + feature.properties.numberOfCrimes;
-                html += '<br /><strong>je 1.000 Einwohner:</strong> ' + cValue + '<br /><small>(maßgeblich für die Einfärbung)</small><br />';
-                if(!L.Browser.mobile) {
-                    Object.keys(crimeTypes).forEach(function (key) {
-                        var crimeType = crimeTypes[key];
-                        html += '<br />' + crimeType.label + ': ' + crimeType.count;
-                    });
-                }
+                html += '<br /><strong>je 1.000 Einwohner:</strong> ' + cValue + '<br /><small>(maßgeblich für die Einfärbung)</small><br /><span class="hidden-xs">';
+                Object.keys(crimeTypes).forEach(function (key) {
+                    var crimeType = crimeTypes[key];
+                    html += '<br />' + crimeType.label + ': ' + crimeType.count;
+                });
+                html += '</span>';
             } else {
                 if (!this._div.innerHTML) {
                     html += '<h4>Gemeinde</h4>';
@@ -129,6 +129,20 @@
                 this._div.innerHTML = html;
             }
         };
+
+        info.hide = function() {
+            this._div.style.display = 'none';
+        };
+        info.show = function() {
+            this._div.style.display = 'block';
+        };
+
+        leafletMap.on('popupopen', function() {
+            info.hide();
+        });
+        leafletMap.on('popupclose', function() {
+            info.show();
+        });
 
         info.addTo(leafletMap);
     };
@@ -222,8 +236,8 @@
     };
 
     var addTileLayer = function () {
-        var attribution = '<a href="http://www.mapbox.com/about/maps/" target="_blank">Terms &amp; Feedback</a> | <a href="http://www.stimme.de/meta/ueberuns/impressum/Impressum;art5015,1284151">Impressum</a> | Datengrundlage: Veröffentlichte Polizeiberichte Nov. 13 - Apr. 14 | Alle Angaben ohne Gewähr!';
-        L.tileLayer('https://{s}.tiles.mapbox.com/v3/felix-ebert.i288cb1g/{z}/{x}/{y}.png', {
+        var attribution = '<a href="http://www.mapbox.com/about/maps/" target="_blank">Terms &amp; Feedback</a> | <a href="http://www.stimme.de/meta/ueberuns/impressum/Impressum;art5015,1284151">Impressum</a> | Polizeiberichte Nov. 13 - Apr. 14 | Alle Angaben ohne Gewähr!';
+        L.tileLayer('https://{s}.tiles.mapbox.com/v3/codeforheilbronn.i4f96icg/{z}/{x}/{y}.png', {
             'maxZoom': 18,
             'attribution': attribution
         }).addTo(leafletMap);
