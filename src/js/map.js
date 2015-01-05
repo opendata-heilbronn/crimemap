@@ -42,14 +42,14 @@
         var icons = {
             'Einbruch': L.AwesomeMarkers.icon({
                 icon: 'home',
-                prefix: 'glyphicons',
-                extraClasses: 'glyphicons glyphicons-white',
+                prefix: 'icon',
+                extraClasses: 'icon',
                 markerColor: 'darkblue'
             }),
             'Autoaufbruch': L.AwesomeMarkers.icon({
-                icon: 'car',
-                prefix: 'glyphicons',
-                extraClasses: 'glyphicons glyphicons-white',
+                icon: 'cab',
+                prefix: 'icon',
+                extraClasses: 'icon',
                 markerColor: 'blue'
             })
         };
