@@ -2,37 +2,48 @@ var fs = require('fs'), csv = require('csv'), async = require('async');
 var argv = require('optimist').usage('Convert csv file of crimes\nUsage: $0 [csvfile] [type]').demand(2).argv;
 var gm = require('googlemaps');
 
-var dateIndex = 0;
-var cityIndex = 1;
-var districtIndex = argv._[1] === 'Einbruch' ? 2 : null;
-var streetIndex = argv._[1] === 'Einbruch' ? 3 : 2;
-var descIndex = argv._[1] === 'Einbruch' ? 9 : 7;
-var damageIndex = argv._[1] === 'Einbruch' ? 4 : 6;
+var columnLabelMapping = {
+    'date': ['Wann?', 'Datum'],
+    'city': ['Ort', 'Gemeinde'],
+    'district': ['Ortsteil'],
+    'street': ['Strasse', 'Straße'],
+    'description': ['Meldung', 'ganze Polizei-Meldung'],
+    'damage': ['Schaden?']
+};
 
 var input = csv().from(argv._[0]).to.array(function (data) {
+    var column = {};
+    Object.keys(columnLabelMapping).forEach(function (columnId) {
+        var columnIndex = null;
+        data[0].forEach(function (columnValue, index) {
+            if (columnLabelMapping[columnId].indexOf(columnValue) >= 0) {
+                if (columnIndex != null) {
+                    console.warn('duplicate index for ' + columnId);
+                }
+                columnIndex = index;
+            }
+        });
+        column[columnId] = columnIndex;
+    });
     delete data[0];
 
     var result = [];
     async.eachLimit(data, 1, function (line, callback) {
-        if (line && line[cityIndex]) {
-            var address = line[cityIndex];
-            if (line[streetIndex]) {
-                address += ', ' + line[streetIndex];
-            } else if (districtIndex != null && line[districtIndex]) {
-                address += ', ' + line[districtIndex];
+        if (line && line[column.city]) {
+            var address = line[column.city];
+            if (line[column.street]) {
+                address += ', ' + line[column.street];
+            } else if (column.district != null && line[column.district]) {
+                address += ', ' + line[column.district];
             }
 
-            var entry = {
-                'date': line[dateIndex],
-                'city': line[cityIndex],
-                'street': line[streetIndex],
-                'description': line[descIndex],
-                'damage': line[damageIndex],
-                'type': argv._[1]
-            };
-            if (districtIndex != null) {
-                entry.district = line[districtIndex];
-            }
+            var entry = {};
+            Object.keys(column).forEach(function (columnId) {
+                if (column[columnId] !== null) {
+                    entry[columnId] = line[column[columnId]];
+                }
+            });
+            entry.type = argv._[1];
 
             result.push(entry);
             gm.geocode(address,
@@ -49,7 +60,7 @@ var input = csv().from(argv._[0]).to.array(function (data) {
         } else {
             callback();
         }
-    }, function (err) {
+    }, function () {
         console.log('cm.data = ' + JSON.stringify(result, null, '\t') + ';');
     });
 });
