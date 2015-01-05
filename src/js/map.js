@@ -158,43 +158,40 @@
         var request = new XMLHttpRequest();
         request.open('GET', 'data/gemeinden.geojson', true);
 
-        request.onreadystatechange = function () {
-            if (this.readyState === 4) {
-                if (this.status >= 200 && this.status < 400) {
-                    var geojson = JSON.parse(this.responseText);
-                    L.geoJson(geojson.features, {
-                        style: {
-                            'opacity': 0.5,
-                            'weight': 1,
-                            'color': '#666',
-                            'fillOpacity': 0.6
-                        },
-                        onEachFeature: function (feature, layer) {
-                            areas.push({
-                                'feature': feature,
-                                'layer': layer
-                            });
+        request.onload = function () {
+            if (request.status >= 200 && request.status < 400) {
+                var geojson = JSON.parse(this.responseText);
+                L.geoJson(geojson.features, {
+                    style: {
+                        'opacity': 0.5,
+                        'weight': 1,
+                        'color': '#666',
+                        'fillOpacity': 0.6
+                    },
+                    onEachFeature: function (feature, layer) {
+                        areas.push({
+                            'feature': feature,
+                            'layer': layer
+                        });
 
-                            layer.on("mouseover", function () {
-                                info.update(feature);
-                            });
-                            layer.on("click", function () {
-                                info.update(feature);
-                            });
+                        layer.on("mouseover", function () {
+                            info.update(feature);
+                        });
+                        layer.on("click", function () {
+                            info.update(feature);
+                        });
 
-                            layer.on("mouseout", function () {
-                                info.update();
-                            });
-                        }
-                    }).addTo(leafletMap);
+                        layer.on("mouseout", function () {
+                            info.update();
+                        });
+                    }
+                }).addTo(leafletMap);
 
-                    setAreaStyles();
-                }
+                setAreaStyles();
             }
         };
 
         request.send();
-        request = null;
     };
 
     var setAreaStyles = function () {
