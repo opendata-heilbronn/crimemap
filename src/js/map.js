@@ -155,35 +155,46 @@
     };
 
     var addAreaLayers = function () {
-        $.getJSON('data/gemeinden.geojson', function (geojson) {
-            L.geoJson(geojson.features, {
-                style: {
-                    'opacity': 0.5,
-                    'weight': 1,
-                    'color': '#666',
-                    'fillOpacity': 0.6
-                },
-                onEachFeature: function (feature, layer) {
-                    areas.push({
-                        'feature': feature,
-                        'layer': layer
-                    });
+        var request = new XMLHttpRequest();
+        request.open('GET', 'data/gemeinden.geojson', true);
 
-                    layer.on("mouseover", function () {
-                        info.update(feature);
-                    });
-                    layer.on("click", function () {
-                        info.update(feature);
-                    });
+        request.onreadystatechange = function () {
+            if (this.readyState === 4) {
+                if (this.status >= 200 && this.status < 400) {
+                    var geojson = JSON.parse(this.responseText);
+                    L.geoJson(geojson.features, {
+                        style: {
+                            'opacity': 0.5,
+                            'weight': 1,
+                            'color': '#666',
+                            'fillOpacity': 0.6
+                        },
+                        onEachFeature: function (feature, layer) {
+                            areas.push({
+                                'feature': feature,
+                                'layer': layer
+                            });
 
-                    layer.on("mouseout", function () {
-                        info.update();
-                    });
+                            layer.on("mouseover", function () {
+                                info.update(feature);
+                            });
+                            layer.on("click", function () {
+                                info.update(feature);
+                            });
+
+                            layer.on("mouseout", function () {
+                                info.update();
+                            });
+                        }
+                    }).addTo(leafletMap);
+
+                    setAreaStyles();
                 }
-            }).addTo(leafletMap);
+            }
+        };
 
-            setAreaStyles();
-        });
+        request.send();
+        request = null;
     };
 
     var setAreaStyles = function () {
