@@ -19,7 +19,6 @@
     };
 
     var init = function () {
-        L.Icon.Default.imagePath = 'img/';
         leafletMap = L.map('map', {
             center: [49.15, 9.2],
             zoom: 10,
@@ -31,6 +30,14 @@
         addMarkers();
         addAreaLayers();
         createInfoControl();
+    };
+
+    var addTileLayer = function () {
+        var attribution = '<a href="http://www.openstreetmap.org/copyright">&copy; OpenStreetMap contributors</a> | <a href="http://www.mapbox.com/about/maps/" target="_blank">Mapbox Terms &amp; Feedback</a> | <a href="http://www.stimme.de/meta/ueberuns/impressum/Impressum;art5015,1284151">Impressum</a> | Polizeiberichte Nov. 13 - Apr. 14 | Alle Angaben ohne Gewähr!';
+        L.tileLayer('https://{s}.tiles.mapbox.com/v3/codeforheilbronn.i4f96icg/{z}/{x}/{y}.png', {
+            'maxZoom': 18,
+            'attribution': attribution
+        }).addTo(leafletMap);
     };
 
     var addMarkers = function () {
@@ -57,10 +64,10 @@
         cm.data.forEach(function (crime) {
             if (crime.lat) {
                 var address = crime.city;
-                if(crime.district) {
+                if (crime.district) {
                     address += ', ' + crime.district;
                 }
-                if(crime.street) {
+                if (crime.street) {
                     address += ', ' + crime.street;
                 }
                 var marker = new L.Marker([crime.lat, crime.lon], {icon: icons[crime.type]});
@@ -120,7 +127,7 @@
             } else {
                 if (!this._div.innerHTML) {
                     html += '<h4>Gemeinde</h4>';
-                    if(!L.Browser.mobile) {
+                    if (!L.Browser.mobile) {
                         html += 'Mit der Maus auswählen';
                     }
                 }
@@ -130,17 +137,17 @@
             }
         };
 
-        info.hide = function() {
+        info.hide = function () {
             this._div.style.display = 'none';
         };
-        info.show = function() {
+        info.show = function () {
             this._div.style.display = 'block';
         };
 
-        leafletMap.on('popupopen', function() {
+        leafletMap.on('popupopen', function () {
             info.hide();
         });
-        leafletMap.on('popupclose', function() {
+        leafletMap.on('popupclose', function () {
             info.show();
         });
 
@@ -233,14 +240,6 @@
         feature.properties.comparisonValue = comparisonValue;
 
         return comparisonValue;
-    };
-
-    var addTileLayer = function () {
-        var attribution = '<a href="http://www.openstreetmap.org/copyright">&copy; OpenStreetMap contributors</a> | <a href="http://www.mapbox.com/about/maps/" target="_blank">Mapbox Terms &amp; Feedback</a> | <a href="http://www.stimme.de/meta/ueberuns/impressum/Impressum;art5015,1284151">Impressum</a> | Polizeiberichte Nov. 13 - Apr. 14 | Alle Angaben ohne Gewähr!';
-        L.tileLayer('https://{s}.tiles.mapbox.com/v3/codeforheilbronn.i4f96icg/{z}/{x}/{y}.png', {
-            'maxZoom': 18,
-            'attribution': attribution
-        }).addTo(leafletMap);
     };
 
     cm.map = {
