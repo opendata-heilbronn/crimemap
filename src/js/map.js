@@ -2,7 +2,6 @@
     'use strict';
 
     var leafletMap = null;
-    var markers = [];
     var areas = [];
     var colorScheme = ["#fff5f0", "#fee0d2", "#fcbba1", "#fc9272", "#fb6a4a", "#ef3b2c", "#cb181d", "#a50f15", "#67000d"];
     var info = [];
@@ -26,10 +25,16 @@
         });
 
         addTileLayer();
-        var markersInstance = new cm.map.markers(leafletMap, markers);
-        markersInstance.update(cm.data);
-        addAreaLayers();
+        var markersInstance = new cm.map.markers(leafletMap);
+        cm.data.addListener(function () {
+            markersInstance.update(cm.data.crimes);
+        });
+        cm.data.addListener(function () {
+            updateAreaLayers(cm.data.areas);
+        });
         createInfoControl();
+
+        cm.data.update('13-11_14-04', null, 8);
     };
 
     var addTileLayer = function () {
@@ -109,100 +114,28 @@
         info.addTo(leafletMap);
     };
 
-    var addAreaLayers = function () {
-        var request = new XMLHttpRequest();
-        request.open('GET', 'data/gemeinden.geojson', true);
+    var updateAreaLayers = function (areas) {
+        areas.getLayers().forEach(function (layer) {
+            var area = layer.feature;
+            layer.setStyle({
+                'opacity': 0.5,
+                'weight': 1,
+                'color': '#666',
+                'fillOpacity': 0.6,
+                'fillColor': colorScheme[area.properties.graduation]
+            });
 
-        request.onload = function () {
-            if (request.status >= 200 && request.status < 400) {
-                var geojson = JSON.parse(this.responseText);
-                L.geoJson(geojson.features, {
-                    style: {
-                        'opacity': 0.5,
-                        'weight': 1,
-                        'color': '#666',
-                        'fillOpacity': 0.6
-                    },
-                    onEachFeature: function (feature, layer) {
-                        areas.push({
-                            'feature': feature,
-                            'layer': layer
-                        });
-
-                        layer.on("mouseover", function () {
-                            info.update(feature);
-                        });
-                        layer.on("click", function () {
-                            info.update(feature);
-                        });
-
-                        layer.on("mouseout", function () {
-                            info.update();
-                        });
-                    }
-                }).addTo(leafletMap);
-
-                setAreaStyles();
-            }
-        };
-
-        request.send();
-    };
-
-    var setAreaStyles = function () {
-        var minMax = getMinMax();
-
-        areas.forEach(function (area) {
-            setAreaStyle(area.feature, area.layer, minMax);
+            layer.on("mouseover", function () {
+                info.update(area);
+            });
+            layer.on("click", function () {
+                info.update(area);
+            });
+            layer.on("mouseout", function () {
+                info.update();
+            });
         });
-    };
-
-    var setAreaStyle = function (feature, layer, minMax) {
-        var comparisonValue = getComparisonValue(feature, layer);
-        var percent = comparisonValue > 0 ? comparisonValue / minMax[1] : 0;
-        var colorIndex = Math.round(percent * 8);
-
-        layer.setStyle({
-            'fillColor': colorScheme[colorIndex]
-        });
-    };
-
-    var getMinMax = function () {
-        var min = 1000;
-        var max = 0;
-        areas.forEach(function (area) {
-            var comparisonValue = getComparisonValue(area.feature, area.layer);
-            if (comparisonValue < min) {
-                min = comparisonValue;
-            }
-            if (comparisonValue > max) {
-                max = comparisonValue;
-            }
-        });
-        return [min, max];
-    };
-
-    var getComparisonValue = function (feature, layer) {
-        if (feature.properties.comparisonValue) {
-            return feature.properties.comparisonValue;
-        }
-
-        var citizens = feature.properties['EWZ_M'] + feature.properties['EWZ_W'];
-        var crimes = [];
-        markers.forEach(function (marker) {
-            if (leafletPip.pointInLayer(marker.marker.getLatLng(), layer)) {
-                crimes.push(marker.crime);
-            }
-        });
-        var numberOfCrimes = crimes.length;
-
-        var comparisonValue = numberOfCrimes ? numberOfCrimes / citizens : 0;
-        feature.properties.citizens = citizens;
-        feature.properties.numberOfCrimes = numberOfCrimes;
-        feature.properties.crimes = crimes;
-        feature.properties.comparisonValue = comparisonValue;
-
-        return comparisonValue;
+        leafletMap.addLayer(areas);
     };
 
     cm.map = {

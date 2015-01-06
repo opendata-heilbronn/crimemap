@@ -27,7 +27,7 @@
         return address;
     };
 
-    cm.map.markers = function (mapInstance, legacyMarkersArray) {
+    cm.map.markers = function (mapInstance) {
         var cluster = new L.MarkerClusterGroup({
             maxClusterRadius: 50,
             animateAddingMarkers: false
@@ -41,11 +41,6 @@
                 var marker = new L.Marker([crime.lat, crime.lon], {icon: icons[crime.type]});
                 marker.bindPopup('<p><strong>' + crime.type + ' am ' + crime.date + '</strong></p><p>' + generateAddress(crime) + '</p><p style="font-size:12px"><em>Polizeimeldung:</em> ' + crime.description + '</p>');
                 markers.push(marker);
-                // TODO remove after refactoring - backwards-compatibility
-                legacyMarkersArray.push({
-                    'crime': crime,
-                    'marker': marker
-                });
             });
             cluster.addLayers(markers);
         };
