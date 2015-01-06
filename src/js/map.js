@@ -77,12 +77,8 @@
 
                 html += '<h4>' + feature.properties.GEN + '</h4>';
                 html += '<strong>Einwohner:</strong> ' + formatNumber(feature.properties.citizens);
-                html += '<br /><strong>Einbrüche / Autoaufbrüche:</strong> ' + feature.properties.numberOfCrimes;
-                html += '<br /><strong>je 1.000 Einwohner:</strong> ' + cValue + '<br /><small>(maßgeblich für die Einfärbung)</small><br /><span class="hidden-xs">';
-                Object.keys(crimeTypes).forEach(function (key) {
-                    var crimeType = crimeTypes[key];
-                    html += '<br />' + crimeType.label + ': ' + crimeType.count;
-                });
+                html += '<br /><strong>Einbrüche:</strong> ' + feature.properties.numberOfCrimes;
+                html += '<br /><strong>je 1.000 Einwohner:</strong> ' + cValue + '<br /><span class="hidden-xs">';
                 html += '</span>';
             } else {
                 if (!this._div.innerHTML) {
