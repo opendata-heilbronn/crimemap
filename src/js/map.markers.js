@@ -22,7 +22,11 @@
             address += ', ' + crime.district;
         }
         if (crime.street) {
-            address += ', ' + crime.street;
+            var street = crime.street.trim()
+            if (!isNaN(street.slice(-1))) {
+                street = street.substring(0, street.lastIndexOf(" ")).trim();
+            }
+            address += ', ' + street;
         }
         return address;
     };
