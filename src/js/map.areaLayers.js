@@ -2,6 +2,7 @@
     'use strict';
 
     var leafletMap = null;
+    var markerCluster = null;
     var markers = [];
     var areas = [];
     var colorScheme = ["#fff5f0", "#fee0d2", "#fcbba1", "#fc9272", "#fb6a4a", "#ef3b2c", "#cb181d", "#a50f15", "#67000d"];
@@ -26,8 +27,7 @@
         });
 
         addTileLayer();
-        var markersInstance = new cm.map.markers(leafletMap, markers);
-        markersInstance.update(cm.data);
+        addMarkers();
         addAreaLayers();
         createInfoControl();
     };
@@ -38,6 +38,51 @@
             'maxZoom': 18,
             'attribution': attribution
         }).addTo(leafletMap);
+    };
+
+    var addMarkers = function () {
+        markerCluster = new L.MarkerClusterGroup({
+            maxClusterRadius: 50,
+            animateAddingMarkers: false
+        });
+
+        var icons = {
+            'Einbruch': L.AwesomeMarkers.icon({
+                icon: 'home',
+                prefix: 'icon',
+                extraClasses: 'icon',
+                markerColor: 'darkblue'
+            }),
+            'Autoaufbruch': L.AwesomeMarkers.icon({
+                icon: 'cab',
+                prefix: 'icon',
+                extraClasses: 'icon',
+                markerColor: 'blue'
+            })
+        };
+
+        cm.data.forEach(function (crime) {
+            if (crime.lat) {
+                var address = crime.city;
+                if (crime.district) {
+                    address += ', ' + crime.district;
+                }
+                if (crime.street) {
+                    address += ', ' + crime.street;
+                }
+                var marker = new L.Marker([crime.lat, crime.lon], {icon: icons[crime.type]});
+                marker.bindPopup('<p><strong>' + crime.type + ' am ' + crime.date + '</strong></p><p>' + address + '</p><p style="font-size:12px"><em>Polizeimeldung:</em> ' + crime.description + '</p>');
+
+                markerCluster.addLayer(marker);
+                markers.push({
+                    'crime': crime,
+                    'marker': marker
+                });
+            }
+        });
+        markerCluster.bringToFront();
+
+        leafletMap.addLayer(markerCluster);
     };
 
     var createInfoControl = function () {
@@ -113,40 +158,43 @@
         var request = new XMLHttpRequest();
         request.open('GET', 'data/gemeinden.geojson', true);
 
-        request.onload = function () {
-            if (request.status >= 200 && request.status < 400) {
-                var geojson = JSON.parse(this.responseText);
-                L.geoJson(geojson.features, {
-                    style: {
-                        'opacity': 0.5,
-                        'weight': 1,
-                        'color': '#666',
-                        'fillOpacity': 0.6
-                    },
-                    onEachFeature: function (feature, layer) {
-                        areas.push({
-                            'feature': feature,
-                            'layer': layer
-                        });
+        request.onreadystatechange = function () {
+            if (this.readyState === 4) {
+                if (this.status >= 200 && this.status < 400) {
+                    var geojson = JSON.parse(this.responseText);
+                    L.geoJson(geojson.features, {
+                        style: {
+                            'opacity': 0.5,
+                            'weight': 1,
+                            'color': '#666',
+                            'fillOpacity': 0.6
+                        },
+                        onEachFeature: function (feature, layer) {
+                            areas.push({
+                                'feature': feature,
+                                'layer': layer
+                            });
 
-                        layer.on("mouseover", function () {
-                            info.update(feature);
-                        });
-                        layer.on("click", function () {
-                            info.update(feature);
-                        });
+                            layer.on("mouseover", function () {
+                                info.update(feature);
+                            });
+                            layer.on("click", function () {
+                                info.update(feature);
+                            });
 
-                        layer.on("mouseout", function () {
-                            info.update();
-                        });
-                    }
-                }).addTo(leafletMap);
+                            layer.on("mouseout", function () {
+                                info.update();
+                            });
+                        }
+                    }).addTo(leafletMap);
 
-                setAreaStyles();
+                    setAreaStyles();
+                }
             }
         };
 
         request.send();
+        request = null;
     };
 
     var setAreaStyles = function () {
