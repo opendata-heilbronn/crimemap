@@ -11,7 +11,8 @@ body {
 	bottom: 0;
 }
 
-.info {
+.info,
+.legend {
 	padding: 6px 8px;
 	font: 14px/16px Arial, Helvetica, sans-serif;
 	background: white;
@@ -20,9 +21,25 @@ body {
 	border-radius: 5px;
 	min-width: 300px;
 }
-.info h4 {
+
+.info h4,
+.legend h4 {
 	margin: 0 0 5px;
 	color: #777;
+}
+
+.legend {
+	color: #808080;
+}
+
+.legend label,
+.legend span {
+	display: block;
+	float: left;
+	height: 15px;
+	width: 20%;
+	text-align: center;
+	font-size: 9px;
 }
 
 i.icon-cab {

@@ -2,7 +2,7 @@
     'use strict';
 
     var leafletMap = null;
-    var colorScheme = ["#fff5f0", "#fee0d2", "#fcbba1", "#fc9272", "#fb6a4a", "#ef3b2c", "#cb181d", "#a50f15", "#67000d"];
+    var colorScheme = ["#fee5d9", "#fcae91", "#fb6a4a", "#de2d26", "#a50f15"];
     var info = [];
     var metaData = {
         timerangeId: null,
@@ -17,6 +17,12 @@
             }
             return w;
         });
+    };
+
+    var formatComparisonValue = function (n) {
+        var cValue = '' + (Math.round(n * 100000) / 100);
+        cValue = cValue.replace(/\./, ',');
+        return cValue;
     };
 
     var init = function () {
@@ -38,10 +44,13 @@
         cm.data.addListener(function () {
             updateAreaLayers(cm.data.areas);
         });
+        var legend = createLegendControl();
+        cm.data.addListener(function () {
+            legend.update();
+        });
         createInfoControl();
-        createLegendControl();
 
-        cm.data.update(metaData.timerangeId, null, 8);
+        cm.data.update(metaData.timerangeId, null, colorScheme.length);
     };
 
     var addTileLayer = function () {
@@ -79,13 +88,10 @@
                     crimeTypes[crime.type].count++;
                 });
 
-                var cValue = '' + (Math.round(feature.properties.comparisonValue * 100000) / 100);
-                cValue = cValue.replace(/\./, ',');
-
                 html += '<h4>' + feature.properties.GEN + '</h4>';
                 html += '<strong>Einwohner:</strong> ' + formatNumber(feature.properties.citizens);
                 html += '<br /><strong>Einbrüche:</strong> ' + feature.properties.numberOfCrimes;
-                html += '<br /><strong>je 1.000 Einwohner:</strong> ' + cValue + '<br /><span class="hidden-xs">';
+                html += '<br /><strong>je 1.000 Einwohner:</strong> ' + formatComparisonValue(feature.properties.comparisonValue) + '<br /><span class="hidden-xs">';
                 html += '</span>';
             } else {
                 if (!this._div.innerHTML) {
@@ -118,7 +124,9 @@
     };
 
     var createLegendControl = function () {
-        var legend = L.control();
+        var legend = L.control({
+            position: 'bottomright'
+        });
 
         legend.onAdd = function () {
             this._div = L.DomUtil.create('div', 'legend');
@@ -129,7 +137,22 @@
         legend.update = function () {
             var html = '';
 
-            html += '<h4>Polizeiberichte ' + metaData.label + '</h4>';
+            html += '<h4>' + metaData.label + '</h4>';
+            if (cm.data.areas !== null) {
+                var labelsHtml = '';
+                var colorsHtml = '';
+                for (var graduation = 1; graduation < colorScheme.length; graduation++) {
+                    console.log(colorScheme.length);
+                    var start = graduation === 1 ? 0 : ((graduation - 1) * cm.data.areas.max / colorScheme.length) + 0.00001;
+                    var end = graduation * cm.data.areas.max / colorScheme.length;
+                    colorsHtml += '<span style="background:' + colorScheme[graduation - 1] + ';"></span>';
+                    labelsHtml += '<label>' + formatComparisonValue(start) + ' - ' + formatComparisonValue(end) + '</label>';
+                }
+                colorsHtml += '<span style="background:' + colorScheme[colorScheme.length - 1] + ';"></span>';
+                labelsHtml += '<label>&gt; ' + formatComparisonValue(((colorScheme.length - 1) * cm.data.areas.max / colorScheme.length) + 0.00001) + '</label>';
+
+                html += '<small>je 1.000 Einwohner</small><br>' + colorsHtml + labelsHtml;
+            }
 
             this._div.innerHTML = html;
         };
@@ -146,7 +169,7 @@
                 'weight': 1,
                 'color': '#666',
                 'fillOpacity': 0.6,
-                'fillColor': colorScheme[area.properties.graduation]
+                'fillColor': colorScheme[area.properties.graduation - 1]
             });
 
             layer.on("mouseover", function () {

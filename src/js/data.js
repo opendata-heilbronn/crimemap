@@ -70,7 +70,7 @@
             areas.getLayers().forEach(function (layer) {
                 var area = layer.feature;
                 var percent = area.properties.comparisonValue > 0 ? area.properties.comparisonValue / areas.max : 0;
-                area.properties.graduation = Math.round(percent * numberOfGraduations);
+                area.properties.graduation = percent ? Math.ceil(percent * numberOfGraduations) : 1;
             });
 
             return areas;
