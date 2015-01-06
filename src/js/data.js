@@ -51,8 +51,7 @@
             });
         },
         addCrimeData: function (areas, crimes, numberOfGraduations) {
-            var min = 1000;
-            var max = 0;
+            areas.max = 0;
             areas.getLayers().forEach(function (layer) {
                 var area = layer.feature;
                 var citizens = area.properties['EWZ_M'] + area.properties['EWZ_W'];
@@ -65,13 +64,12 @@
                 area.properties.crimes = areaCrimes;
                 area.properties.comparisonValue = areaCrimes.length ? areaCrimes.length / citizens : 0;
 
-                min = Math.min(area.properties.comparisonValue, min);
-                max = Math.max(area.properties.comparisonValue, max);
+                areas.max = Math.max(area.properties.comparisonValue, areas.max);
             });
 
             areas.getLayers().forEach(function (layer) {
                 var area = layer.feature;
-                var percent = area.properties.comparisonValue > 0 ? area.properties.comparisonValue / max : 0;
+                var percent = area.properties.comparisonValue > 0 ? area.properties.comparisonValue / areas.max : 0;
                 area.properties.graduation = Math.round(percent * numberOfGraduations);
             });
 
