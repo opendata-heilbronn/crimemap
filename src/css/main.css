@@ -20,6 +20,7 @@ body {
 	box-shadow: 0 0 15px rgba(0,0,0,0.2);
 	border-radius: 5px;
 	min-width: 300px;
+	margin-left: 10px;
 }
 
 .info h4,
@@ -55,4 +56,12 @@ i.icon-cab {
 i.icon-home {
 	font-size: 16px;
 	margin-top: 6px;
+}
+
+@media (max-width: 768px) {
+	.leaflet-container a.leaflet-popup-close-button {
+		font-size: 24px;
+		right: 4px;
+		top: 4px;
+	}
 }

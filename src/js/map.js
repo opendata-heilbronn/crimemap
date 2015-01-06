@@ -34,10 +34,11 @@
 
     var init = function () {
         leafletMap = L.map('map', {
-            center: [49.15, 9.2],
+            center: [49.221185044221336, 9.33700561523437549],
             zoom: 10,
             minZoom: 5,
-            maxZoom: 16
+            maxZoom: 16,
+            zoomControl: !L.Browser.mobile
         });
 
         addTileLayer();
@@ -59,11 +60,14 @@
     };
 
     var addTileLayer = function () {
-        var attribution = '<a href="http://www.openstreetmap.org/copyright">&copy; OpenStreetMap contributors</a> | <a href="http://www.stimme.de/meta/ueberuns/impressum/Impressum;art5015,1284151">Impressum</a> | Angaben ohne Gewähr!';
+        var attribution = '<a href="http://www.openstreetmap.org/copyright">&copy; OpenStreetMap contributors</a> | <a href="http://www.stimme.de/meta/ueberuns/impressum/Impressum;art5015,1284151">Impressum</a> | ' + ((L.Browser.mobile) ? '' : 'Alle Angaben ') + 'ohne Gewähr!';
         L.tileLayer('https://{s}.tiles.mapbox.com/v3/codeforheilbronn.i4f96icg/{z}/{x}/{y}.png', {
             'maxZoom': 18,
             'attribution': attribution
         }).addTo(leafletMap);
+        if (L.Browser.mobile) {
+            leafletMap.attributionControl.setPrefix('');
+        }
     };
 
     var createInfoControl = function () {
