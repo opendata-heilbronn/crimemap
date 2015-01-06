@@ -28,6 +28,10 @@ body {
 	color: #777;
 }
 
+.legend h4 select {
+	float: right;
+}
+
 .legend {
 	color: #808080;
 }

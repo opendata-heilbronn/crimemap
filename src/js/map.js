@@ -4,6 +4,13 @@
     var leafletMap = null;
     var colorScheme = ["#fee5d9", "#fcae91", "#fb6a4a", "#de2d26", "#a50f15"];
     var info = [];
+    var availableData = [{
+        timerangeId: '14-10_14-12',
+        label: 'Okt. - Dez. 2014'
+    }, {
+        timerangeId: '13-11_14-04',
+        label: 'Nov. 2013 - April. 2014'
+    }];
     var metaData = {
         timerangeId: null,
         label: ''
@@ -33,9 +40,6 @@
             maxZoom: 16
         });
 
-        metaData.timerangeId = '14-10_14-12';
-        metaData.label = 'Polizeiberichte Okt. - Dez. 2014';
-
         addTileLayer();
         var markersInstance = new cm.map.markers(leafletMap);
         cm.data.addListener(function () {
@@ -50,6 +54,7 @@
         });
         createInfoControl();
 
+        metaData = availableData[0];
         cm.data.update(metaData.timerangeId, null, colorScheme.length);
     };
 
@@ -137,12 +142,17 @@
         legend.update = function () {
             var html = '';
 
-            html += '<h4>' + metaData.label + '</h4>';
+            var optionsHtml = '';
+            availableData.forEach(function (dataMeta) {
+                var optionAttrs = dataMeta.timerangeId === metaData.timerangeId ? ' selected="selected"' : '';
+                optionsHtml += '<option value="' + dataMeta.timerangeId + '"' + optionAttrs + '>' + dataMeta.label + '</option>';
+            });
+
+            html += '<h4>Polizeiberichte <select id="dataSelect">' + optionsHtml + '</select></h4>';
             if (cm.data.areas !== null) {
                 var labelsHtml = '';
                 var colorsHtml = '';
                 for (var graduation = 1; graduation < colorScheme.length; graduation++) {
-                    console.log(colorScheme.length);
                     var start = graduation === 1 ? 0 : ((graduation - 1) * cm.data.areas.max / colorScheme.length) + 0.00001;
                     var end = graduation * cm.data.areas.max / colorScheme.length;
                     colorsHtml += '<span style="background:' + colorScheme[graduation - 1] + ';"></span>';
@@ -155,6 +165,19 @@
             }
 
             this._div.innerHTML = html;
+
+            if (cm.data.areas !== null) {
+                var dataSelect = document.getElementById('dataSelect');
+                dataSelect.addEventListener('change', function () {
+                    var selectedValue = this.value;
+                    var selectedData = availableData.filter(function (dataset) {
+                        return dataset.timerangeId === selectedValue;
+                    })[0];
+                    metaData = selectedData;
+                    leafletMap.removeLayer(cm.data.areas);
+                    cm.data.update(metaData.timerangeId, null, colorScheme.length);
+                });
+            }
         };
 
         legend.addTo(leafletMap);
