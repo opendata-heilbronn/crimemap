@@ -6,7 +6,7 @@
     var info = [];
     var availableData = [{
         timerangeId: '14-10_14-12',
-        label: 'Okt. - Dez. 2014'
+        label: 'Okt. 2014 - 15.03.2015'
     }, {
         timerangeId: '13-11_14-04',
         label: 'Nov. 2013 - April. 2014'
