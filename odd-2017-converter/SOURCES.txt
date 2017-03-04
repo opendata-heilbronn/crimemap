@@ -1,0 +1,6 @@
+Pressemeldungen_PP_HN_2015/6.csv
+	David Hilzendegen, https://github.com/dahilzen/Datensaetze-OpenDataDay17
+
+gemarkungsliste_lika-db_2011-07-08.csv, strassenschluessel_lika-db_2011-07-182.csv
+	Datenquelle: LGL, www.lgl-bw.de, https://www.lgl-bw.de/lgl-internet/opencms/de/07_Produkte_und_Dienstleistungen/Open_Data_Initiative/index.html
+	
